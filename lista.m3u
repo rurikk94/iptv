@@ -1573,17 +1573,17 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/209750
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/209612
 #EXTINF:-1 tvg-id="" tvg-name="Ñublevision | CL" tvg-logo="http://tv.streamid.tv:8080/images/281fbf9621779b33d67e0a99d4d86814.png" group-title="CHILE REGIONALES", Ñublevision | CL
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/209781
-#EXTINF:-1 tvg-id="" tvg-name="CINE | A&E Mundo HD - MX" tvg-logo="http://tv.streamid.ga:8080/images/c53ed4ad0bfb9d57af491932f2f7c433.png" group-title="CINE", CINE | A&E Mundo HD - MX
+#EXTINF:-1 tvg-id="AandE.cl" tvg-name="CINE | A&E Mundo HD - MX" tvg-logo="http://tv.streamid.ga:8080/images/c53ed4ad0bfb9d57af491932f2f7c433.png" group-title="CINE", CINE | A&E Mundo HD - MX
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/67213
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AE MUNDO HD (lt)" tvg-logo="http://tv.streamid.tv:8080/images/9461d43a67612aa8d1c3b415af494412.png" group-title="CINE", CINE | AE MUNDO HD (lt)
+#EXTINF:-1 tvg-id="AandE.cl" tvg-name="CINE | AE MUNDO HD (lt)" tvg-logo="http://tv.streamid.tv:8080/images/9461d43a67612aa8d1c3b415af494412.png" group-title="CINE", CINE | AE MUNDO HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4874
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC FHD (mv)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/AMC_2013.png" group-title="CINE", CINE | AMC FHD (mv)
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="CINE | AMC FHD (mv)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/AMC_2013.png" group-title="CINE", CINE | AMC FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58741
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC FHD (P)" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="CINE", CINE | AMC FHD (P)
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="CINE | AMC FHD (P)" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="CINE", CINE | AMC FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1897
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC HD (lt)" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="CINE", CINE | AMC HD (lt)
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="CINE | AMC HD (lt)" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="CINE", CINE | AMC HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4875
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="CINE", CINE | AMC HD (mv)
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="CINE | AMC HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="CINE", CINE | AMC HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58742
 #EXTINF:-1 tvg-id="AXN HD.cl" tvg-name="CINE | AXN FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/9df9dc140d139200eaefb695973cbb91.png" group-title="CINE", CINE | AXN FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58743
@@ -1597,15 +1597,15 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58744
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1899
 #EXTINF:-1 tvg-id="" tvg-name="CINE | Cine Dinamita SD (P)" tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="CINE", CINE | Cine Dinamita SD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1900
-#EXTINF:-1 tvg-id="" tvg-name="CINE | Cinecanal FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE", CINE | Cinecanal FHD (P)
+#EXTINF:-1 tvg-id="CINECANAL HD.cl" tvg-name="CINE | Cinecanal FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE", CINE | Cinecanal FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1901
 #EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL HD (lt)" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="CINE", CINE | CINECANAL HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4877
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="CINE", CINE | CINECANAL HD (mv)
+#EXTINF:-1 tvg-id="CINECANAL.mx" tvg-name="CINE | CINECANAL HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="CINE", CINE | CINECANAL HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58747
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL LATINO FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="CINE", CINE | CINECANAL LATINO FHD (mv)
+#EXTINF:-1 tvg-id="CINECANAL.mx" tvg-name="CINE | CINECANAL LATINO FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="CINE", CINE | CINECANAL LATINO FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58748
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL MEXICO FHD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/109c55db234153a62dc8d51463ae1afe.png" group-title="CINE", CINE | CINECANAL MEXICO FHD (mv)
+#EXTINF:-1 tvg-id="CINECANAL.mx" tvg-name="CINE | CINECANAL MEXICO FHD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/109c55db234153a62dc8d51463ae1afe.png" group-title="CINE", CINE | CINECANAL MEXICO FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58749
 #EXTINF:-1 tvg-id="" tvg-name="CINE | Cinelatino SD (P)" tvg-logo="https://i1.wp.com/www.foromedios.com/uploads/monthly_2017_12/large.DePeliculaPlus-1.png.5ffaf7150f40e959b88e31a35fff89e8.png?resize=331%2C135&ssl=1" group-title="CINE", CINE | Cinelatino SD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1903
@@ -1637,13 +1637,13 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1906
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58756
 #EXTINF:-1 tvg-id="" tvg-name="CINE | DE PELICULAS PLUS* (mv)" tvg-logo="http://tv.streamid.tv:8080/images/da70a8061beae45841b15f7ea17e3662.png" group-title="CINE", CINE | DE PELICULAS PLUS* (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58757
-#EXTINF:-1 tvg-id="" tvg-name="CINE | DHE FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/447ef96542382d5a195c45fbbfa552e2.png" group-title="CINE", CINE | DHE FHD (mv)
+#EXTINF:-1 tvg-id="DHE HD.cl" tvg-name="CINE | DHE FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/447ef96542382d5a195c45fbbfa552e2.png" group-title="CINE", CINE | DHE FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58758
-#EXTINF:-1 tvg-id="" tvg-name="CINE | DHE FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="CINE", CINE | DHE FHD (P)
+#EXTINF:-1 tvg-id="DHE HD.cl" tvg-name="CINE | DHE FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="CINE", CINE | DHE FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1907
-#EXTINF:-1 tvg-id="" tvg-name="CINE | DHE HD (lt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Canal_DHE.jpg" group-title="CINE", CINE | DHE HD (lt)
+#EXTINF:-1 tvg-id="DHE HD.cl" tvg-name="CINE | DHE HD (lt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Canal_DHE.jpg" group-title="CINE", CINE | DHE HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4881
-#EXTINF:-1 tvg-id="" tvg-name="CINE | DHE HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/447ef96542382d5a195c45fbbfa552e2.png" group-title="CINE", CINE | DHE HD (mv)
+#EXTINF:-1 tvg-id="DHE HD.cl" tvg-name="CINE | DHE HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/447ef96542382d5a195c45fbbfa552e2.png" group-title="CINE", CINE | DHE HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58759
 #EXTINF:-1 tvg-id="" tvg-name="CINE | FILM & ARTS FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/146482b30f24e39213d5fce7c84fb1c7.png" group-title="CINE", CINE | FILM & ARTS FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58761
@@ -1687,7 +1687,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1935
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1936
 #EXTINF:-1 tvg-id="" tvg-name="CINE | Golden SD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="CINE", CINE | Golden SD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1937
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO (lt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="CINE", CINE | HBO (lt)
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="CINE | HBO (lt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="CINE", CINE | HBO (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4893
 #EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2 EN ESPANOL HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="CINE", CINE | HBO 2 EN ESPANOL HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58794
@@ -1699,15 +1699,15 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4894
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58795
 #EXTINF:-1 tvg-id="" tvg-name="CINE | HBO EN ESPANOL USA HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/f0577f3af942bfa8f365e0fa7972dfb7.png" group-title="CINE", CINE | HBO EN ESPANOL USA HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58801
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO FAMILY FHD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE", CINE | HBO FAMILY FHD (mv)
+#EXTINF:-1 tvg-id="HBO Family HD.cl" tvg-name="CINE | HBO FAMILY FHD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE", CINE | HBO FAMILY FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58797
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO Family FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", CINE | HBO Family FHD (P)
+#EXTINF:-1 tvg-id="HBO Family HD.cl" tvg-name="CINE | HBO Family FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", CINE | HBO Family FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1940
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO FAMILY HD (lt)" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/283.png" group-title="CINE", CINE | HBO FAMILY HD (lt)
+#EXTINF:-1 tvg-id="HBO Family HD.cl" tvg-name="CINE | HBO FAMILY HD (lt)" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/283.png" group-title="CINE", CINE | HBO FAMILY HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4895
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO FAMILY HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE", CINE | HBO FAMILY HD (mv)
+#EXTINF:-1 tvg-id="HBO Family HD.cl" tvg-name="CINE | HBO FAMILY HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE", CINE | HBO FAMILY HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58796
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO FAMILY HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE", CINE | HBO FAMILY HD (mv)
+#EXTINF:-1 tvg-id="HBO Family HD.cl" tvg-name="CINE | HBO FAMILY HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE", CINE | HBO FAMILY HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58798
 #EXTINF:-1 tvg-id="" tvg-name="CINE | HBO FHD (CLARO)" tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1512060072195-PSYXQ3PNQ4SGXGIFDS81/ke17ZwdGBToddI8pDm48kFSbwZiPgCXQ2TtynzWb_sQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNHBAs6gMow1jhelX4yFnQ8bczjh7yTA-i0J3ZOALjyCjLISwBs8eEdxAxTptZAUg/hbo-01.png" group-title="CINE", CINE | HBO FHD (CLARO)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58799
@@ -1731,15 +1731,15 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58806
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58807
 #EXTINF:-1 tvg-id="" tvg-name="CINE | HBO POP* HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/97e21068a9bab4e4cce283960b479925.png" group-title="CINE", CINE | HBO POP* HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58808
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO Signature (P)" tvg-logo="http://tv.streamid.tv:8080/images/b896401e01992ee8b45cd80714ebc8cd.png" group-title="CINE", CINE | HBO Signature (P)
+#EXTINF:-1 tvg-id="HBO Signature.cl" tvg-name="CINE | HBO Signature (P)" tvg-logo="http://tv.streamid.tv:8080/images/b896401e01992ee8b45cd80714ebc8cd.png" group-title="CINE", CINE | HBO Signature (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1943
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO SIGNATURE EN ESPANOL FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/d120fdf3444442524d11bb15a8a6e361.png" group-title="CINE", CINE | HBO SIGNATURE EN ESPANOL FHD (mv)
+#EXTINF:-1 tvg-id="HBO Signature.cl" tvg-name="CINE | HBO SIGNATURE EN ESPANOL FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/d120fdf3444442524d11bb15a8a6e361.png" group-title="CINE", CINE | HBO SIGNATURE EN ESPANOL FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58809
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO Signature FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CINE", CINE | HBO Signature FHD (P)
+#EXTINF:-1 tvg-id="HBO Signature.cl" tvg-name="CINE | HBO Signature FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CINE", CINE | HBO Signature FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1942
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO SIGNATURE HD (lt)" tvg-logo="https://www.altice.com.do/sites/default/files/assets/grilla_canales/img/logos/HBOSignatureHD.png" group-title="CINE", CINE | HBO SIGNATURE HD (lt)
+#EXTINF:-1 tvg-id="HBO Signature.cl" tvg-name="CINE | HBO SIGNATURE HD (lt)" tvg-logo="https://www.altice.com.do/sites/default/files/assets/grilla_canales/img/logos/HBOSignatureHD.png" group-title="CINE", CINE | HBO SIGNATURE HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4897
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO SIGNATURE HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/f6638cfac653804bed6cf09f0bc76022.png" group-title="CINE", CINE | HBO SIGNATURE HD (mv)
+#EXTINF:-1 tvg-id="HBO Signature.cl" tvg-name="CINE | HBO SIGNATURE HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/f6638cfac653804bed6cf09f0bc76022.png" group-title="CINE", CINE | HBO SIGNATURE HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58810
 #EXTINF:-1 tvg-id="" tvg-name="CINE | HBO SUBTITULADO FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/009add9e17a20277ee78bdc91283b44a.png" group-title="CINE", CINE | HBO SUBTITULADO FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58811
@@ -1765,25 +1765,25 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/2806
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1945
 #EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT CHANNEL FHD (CLARO)" tvg-logo="http://tv.streamid.tv:8080/images/0e7aff368f4bf856b14630d4e13545d9.png" group-title="CINE", CINE | PARAMOUNT CHANNEL FHD (CLARO)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58817
-#EXTINF:-1 tvg-id="" tvg-name="CINE | Paramount Channel FHD (P)" tvg-logo="http://tv.streamid.tv:8080/images/0e7aff368f4bf856b14630d4e13545d9.png" group-title="CINE", CINE | Paramount Channel FHD (P)
+#EXTINF:-1 tvg-id="Paramount HD.cl" tvg-name="CINE | Paramount Channel FHD (P)" tvg-logo="http://tv.streamid.tv:8080/images/0e7aff368f4bf856b14630d4e13545d9.png" group-title="CINE", CINE | Paramount Channel FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1946
-#EXTINF:-1 tvg-id="" tvg-name="CINE | Sony Channel FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png" group-title="CINE", CINE | Sony Channel FHD (P)
+#EXTINF:-1 tvg-id="SONY HD.cl" tvg-name="CINE | Sony Channel FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png" group-title="CINE", CINE | Sony Channel FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1947
-#EXTINF:-1 tvg-id="" tvg-name="CINE | Sony Channel SD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png" group-title="CINE", CINE | Sony Channel SD (P)
+#EXTINF:-1 tvg-id="SONY HD.cl" tvg-name="CINE | Sony Channel SD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png" group-title="CINE", CINE | Sony Channel SD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1948
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SONY FHD  (CLARO)" tvg-logo="http://tv.streamid.tv:8080/images/3a09d1427a58ffd09192b85a563d91c9.png" group-title="CINE", CINE | SONY FHD  (CLARO)
+#EXTINF:-1 tvg-id="SONY HD.cl" tvg-name="CINE | SONY FHD  (CLARO)" tvg-logo="http://tv.streamid.tv:8080/images/3a09d1427a58ffd09192b85a563d91c9.png" group-title="CINE", CINE | SONY FHD  (CLARO)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58819
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SONY FHD MEXICO (mv)" tvg-logo="http://tv.streamid.ga:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CINE", CINE | SONY FHD MEXICO (mv)
+#EXTINF:-1 tvg-id="SONY.mx" tvg-name="CINE | SONY FHD MEXICO (mv)" tvg-logo="http://tv.streamid.ga:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CINE", CINE | SONY FHD MEXICO (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58820
 #EXTINF:-1 tvg-id="" tvg-name="CINE | SONY HD (lt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png" group-title="CINE", CINE | SONY HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4900
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SPACE (LT)" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2011/10/canal-space-890x501.jpg" group-title="CINE", CINE | SPACE (LT)
+#EXTINF:-1 tvg-id="SPACE.mx" tvg-name="CINE | SPACE (LT)" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2011/10/canal-space-890x501.jpg" group-title="CINE", CINE | SPACE (LT)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4871
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SPACE FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/b0c3521287053a4d90f1e1f9ea6756ca.png" group-title="CINE", CINE | SPACE FHD (mv)
+#EXTINF:-1 tvg-id="SPACE.mx" tvg-name="CINE | SPACE FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/b0c3521287053a4d90f1e1f9ea6756ca.png" group-title="CINE", CINE | SPACE FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58823
-#EXTINF:-1 tvg-id="" tvg-name="CINE | Space FHD (P)" tvg-logo="https://banner2.cleanpng.com/20180812/gt/kisspng-space-logo-television-channel-esporte-interativo-space-boost-cafe-5b70e60fdb8835.2475459715341255838992.jpg" group-title="CINE", CINE | Space FHD (P)
+#EXTINF:-1 tvg-id="SPACE.co" tvg-name="CINE | Space FHD (P)" tvg-logo="https://banner2.cleanpng.com/20180812/gt/kisspng-space-logo-television-channel-esporte-interativo-space-boost-cafe-5b70e60fdb8835.2475459715341255838992.jpg" group-title="CINE", CINE | Space FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1949
-#EXTINF:-1 tvg-id="" tvg-name="CINE | Space SD (P)" tvg-logo="http://tv.streamid.tv:8080/images/1f35bb27b4e438b9b75ba4182fb6042c.jpg" group-title="CINE", CINE | Space SD (P)
+#EXTINF:-1 tvg-id="SPACE.mx" tvg-name="CINE | Space SD (P)" tvg-logo="http://tv.streamid.tv:8080/images/1f35bb27b4e438b9b75ba4182fb6042c.jpg" group-title="CINE", CINE | Space SD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1950
 #EXTINF:-1 tvg-id="" tvg-name="Cine | Star Channel" tvg-logo="http://tv.streamid.tv:8080/images/9671f8dd757ce697df626432e5f86d9d.png" group-title="CINE", Cine | Star Channel
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/111019
@@ -1791,11 +1791,11 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/111019
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58760
 #EXTINF:-1 tvg-id="" tvg-name="CINE | Studio Universal (CLARO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Studio_Universal.svg/418px-Studio_Universal.svg.png" group-title="CINE", CINE | Studio Universal (CLARO)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1951
-#EXTINF:-1 tvg-id="" tvg-name="CINE | STUDIO UNIVERSAL (lt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="CINE", CINE | STUDIO UNIVERSAL (lt)
+#EXTINF:-1 tvg-id="Studio Universal HD.cl" tvg-name="CINE | STUDIO UNIVERSAL (lt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="CINE", CINE | STUDIO UNIVERSAL (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4901
-#EXTINF:-1 tvg-id="" tvg-name="CINE | Studio Universal FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Studio_Universal.svg/418px-Studio_Universal.svg.png" group-title="CINE", CINE | Studio Universal FHD (P)
+#EXTINF:-1 tvg-id="Studio Universal HD.cl" tvg-name="CINE | Studio Universal FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Studio_Universal.svg/418px-Studio_Universal.svg.png" group-title="CINE", CINE | Studio Universal FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1952
-#EXTINF:-1 tvg-id="" tvg-name="CINE | STUDIO UNIVERSAL HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/0ebb697a60717af3c135a8ebb1cf8730.png" group-title="CINE", CINE | STUDIO UNIVERSAL HD (mv)
+#EXTINF:-1 tvg-id="Studio Universal HD.cl" tvg-name="CINE | STUDIO UNIVERSAL HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/0ebb697a60717af3c135a8ebb1cf8730.png" group-title="CINE", CINE | STUDIO UNIVERSAL HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58825
 #EXTINF:-1 tvg-id="" tvg-name="CINE | SUNDANCE HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/a38f59bb1acc759d46deb532f34ccd1c.png" group-title="CINE", CINE | SUNDANCE HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58826
@@ -1809,15 +1809,15 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58828
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1954
 #EXTINF:-1 tvg-id="" tvg-name="CINE | TBS HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/1baabb2d7586fb25feb0a8378df0e12a.png" group-title="CINE", CINE | TBS HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58829
-#EXTINF:-1 tvg-id="" tvg-name="CINE | TCM HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/481ee88402266fde60880abc1b4f7a48.png" group-title="CINE", CINE | TCM HD (mv)
+#EXTINF:-1 tvg-id="TCM.cl" tvg-name="CINE | TCM HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/481ee88402266fde60880abc1b4f7a48.png" group-title="CINE", CINE | TCM HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58830
-#EXTINF:-1 tvg-id="" tvg-name="CINE | TCM SD (P)" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="CINE", CINE | TCM SD (P)
+#EXTINF:-1 tvg-id="TCM.cl" tvg-name="CINE | TCM SD (P)" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="CINE", CINE | TCM SD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1955
 #EXTINF:-1 tvg-id="" tvg-name="CINE | THE FILM ZONE HD (lt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Film_Zone_HD.png" group-title="CINE", CINE | THE FILM ZONE HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4902
-#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT  FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="CINE", CINE | TNT  FHD (mv)
+#EXTINF:-1 tvg-id="TNT HD.cl" tvg-name="CINE | TNT  FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="CINE", CINE | TNT  FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58831
-#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT Chile FHD (P)" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU3MjM4MTk0MDkyMzg1NjA2/tnt_resized_bc.jpg" group-title="CINE", CINE | TNT Chile FHD (P)
+#EXTINF:-1 tvg-id="TNT HD.cl" tvg-name="CINE | TNT Chile FHD (P)" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU3MjM4MTk0MDkyMzg1NjA2/tnt_resized_bc.jpg" group-title="CINE", CINE | TNT Chile FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1956
 #EXTINF:-1 tvg-id="" tvg-name="CINE | TNT HD (CLARO)" tvg-logo="http://tv.streamid.tv:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="CINE", CINE | TNT HD (CLARO)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58832
@@ -1835,7 +1835,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4904
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58834
 #EXTINF:-1 tvg-id="" tvg-name="CINE | TNT Series SD (P)" tvg-logo="http://tv.streamid.tv:8080/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="CINE", CINE | TNT Series SD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1959
-#EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL CHANNEL (lt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="CINE", CINE | UNIVERSAL CHANNEL (lt)
+#EXTINF:-1 tvg-id="Universal HD.cl" tvg-name="CINE | UNIVERSAL CHANNEL (lt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="CINE", CINE | UNIVERSAL CHANNEL (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4905
 #EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL CHANNEL FHD (CLARO)" tvg-logo="http://tv.streamid.tv:8080/images/c72dc58420bf5bb9bfd5792b75564396.png" group-title="CINE", CINE | UNIVERSAL CHANNEL FHD (CLARO)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58835
@@ -1857,13 +1857,13 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/95799
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/95795
 #EXTINF:-1 tvg-id="" tvg-name="CINE | Warner Channel FHD (P)" tvg-logo="http://tv.streamid.tv:8080/images/f9fceea872879d5f31696da4d6f3bef6.png" group-title="CINE", CINE | Warner Channel FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1961
-#EXTINF:-1 tvg-id="" tvg-name="CINE | Warner Channel SD (P)" tvg-logo="http://tv.streamid.tv:8080/images/6daf26481b14f22e47397332e6ba57d4.jpg" group-title="CINE", CINE | Warner Channel SD (P)
+#EXTINF:-1 tvg-id="Warner HD.cl" tvg-name="CINE | Warner Channel SD (P)" tvg-logo="http://tv.streamid.tv:8080/images/6daf26481b14f22e47397332e6ba57d4.jpg" group-title="CINE", CINE | Warner Channel SD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1962
 #EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER FHD LATINO (mv)" tvg-logo="http://tv.streamid.ga:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png" group-title="CINE", CINE | WARNER FHD LATINO (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58836
-#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER HD (lt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE", CINE | WARNER HD (lt)
+#EXTINF:-1 tvg-id="Warner HD.cl" tvg-name="CINE | WARNER HD (lt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE", CINE | WARNER HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4906
-#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png" group-title="CINE", CINE | WARNER HD (mv)
+#EXTINF:-1 tvg-id="Warner HD.cl" tvg-name="CINE | WARNER HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png" group-title="CINE", CINE | WARNER HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58838
 #EXTINF:-1 tvg-id="" tvg-name="Starz Cinema FHD" tvg-logo="" group-title="CINEMA STARZ", Starz Cinema FHD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/23081
@@ -2837,7 +2837,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/117888
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/117871
 #EXTINF:-1 tvg-id="" tvg-name="YoHoo and Friends" tvg-logo="http://tv.streamid.tv:8080/images/a1eeb5a984a58ce21ed9626746daebfc.png" group-title="CANALES 24 HRS", YoHoo and Friends
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/117872
-#EXTINF:-1 tvg-id="" tvg-name="Latino  2mb - A&E" tvg-logo="" group-title="LATINOS 2MB", Latino  2mb - A&E
+#EXTINF:-1 tvg-id="AandE HD.cl" tvg-name="Latino  2mb - A&E" tvg-logo="" group-title="LATINOS 2MB", Latino  2mb - A&E
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/39022
 #EXTINF:-1 tvg-id="" tvg-name="Latino  2mb - Antena 3" tvg-logo="" group-title="LATINOS 2MB", Latino  2mb - Antena 3
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/39023
