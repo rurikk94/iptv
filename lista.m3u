@@ -1,127 +1,8 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/rurikk94/iptv/refs/heads/main/epg.xml"
-#EXTINF:-1 tvg-id="" tvg-name="SABADO 21 DE DICIEMBRE GTM-5" tvg-logo="" group-title="EVENTOS DEL DIA", SABADO 21 DE DICIEMBRE GTM-5
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/215159
-#EXTINF:-1 tvg-id="" tvg-name="07:30 | EPL | Aston Villa vs. Manchester City | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/premierleague.png" group-title="EVENTOS DEL DIA", 07:30 | EPL | Aston Villa vs. Manchester City | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229021
-#EXTINF:-1 tvg-id="" tvg-name="10:00 | EPL | West Ham United vs. Brighton & Hove Albion | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/premierleague.png" group-title="EVENTOS DEL DIA", 10:00 | EPL | West Ham United vs. Brighton & Hove Albion | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229022
-#EXTINF:-1 tvg-id="" tvg-name="10:00 | EPL | Ipswich Town vs. Newcastle United | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/premierleague.png" group-title="EVENTOS DEL DIA", 10:00 | EPL | Ipswich Town vs. Newcastle United | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229023
-#EXTINF:-1 tvg-id="" tvg-name="10:00 | EPL | Brentford vs. Nottingham Forest | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/premierleague.png" group-title="EVENTOS DEL DIA", 10:00 | EPL | Brentford vs. Nottingham Forest | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229024
-#EXTINF:-1 tvg-id="" tvg-name="12:30 | EPL | Crystal Palace vs. Arsenal | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/premierleague.png" group-title="EVENTOS DEL DIA", 12:30 | EPL | Crystal Palace vs. Arsenal | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229025
-#EXTINF:-1 tvg-id="" tvg-name="08:00 | LALIGA | Getafe vs. Mallorca | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/laliga.png" group-title="EVENTOS DEL DIA", 08:00 | LALIGA | Getafe vs. Mallorca | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229026
-#EXTINF:-1 tvg-id="" tvg-name="10:15 | LALIGA | Celta de Vigo vs. Real Sociedad | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/laliga.png" group-title="EVENTOS DEL DIA", 10:15 | LALIGA | Celta de Vigo vs. Real Sociedad | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229027
-#EXTINF:-1 tvg-id="" tvg-name="12:30 | LALIGA | Osasuna vs. Athletic Club | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/laliga.png" group-title="EVENTOS DEL DIA", 12:30 | LALIGA | Osasuna vs. Athletic Club | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229028
-#EXTINF:-1 tvg-id="" tvg-name="15:00 | LALIGA | Barcelona vs. Atlico Madrid | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/laliga.png" group-title="EVENTOS DEL DIA", 15:00 | LALIGA | Barcelona vs. Atlico Madrid | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229029
-#EXTINF:-1 tvg-id="" tvg-name="15:00 | LALIGA | Barcelona vs. Atlico Madrid | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/laliga.png" group-title="EVENTOS DEL DIA", 15:00 | LALIGA | Barcelona vs. Atlico Madrid | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229030
-#EXTINF:-1 tvg-id="" tvg-name="09:00 | SERIE A | Torino vs. Bologna | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/seriea.png" group-title="EVENTOS DEL DIA", 09:00 | SERIE A | Torino vs. Bologna | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229031
-#EXTINF:-1 tvg-id="" tvg-name="12:00 | SERIE A | Genoa vs. Napoli | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/seriea.png" group-title="EVENTOS DEL DIA", 12:00 | SERIE A | Genoa vs. Napoli | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229032
-#EXTINF:-1 tvg-id="" tvg-name="14:45 | SERIE A | Lecce vs. Lazio | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/seriea.png" group-title="EVENTOS DEL DIA", 14:45 | SERIE A | Lecce vs. Lazio | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229033
-#EXTINF:-1 tvg-id="" tvg-name="09:30 | BUNDESLIGA | Werder Bremen vs. Union Berlin | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/bundesliga.png" group-title="EVENTOS DEL DIA", 09:30 | BUNDESLIGA | Werder Bremen vs. Union Berlin | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229034
-#EXTINF:-1 tvg-id="" tvg-name="09:30 | BUNDESLIGA | Holstein Kiel vs. Augsburg | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/bundesliga.png" group-title="EVENTOS DEL DIA", 09:30 | BUNDESLIGA | Holstein Kiel vs. Augsburg | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229035
-#EXTINF:-1 tvg-id="" tvg-name="09:30 | BUNDESLIGA | Hoffenheim vs. Borussia M'gladbach | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/bundesliga.png" group-title="EVENTOS DEL DIA", 09:30 | BUNDESLIGA | Hoffenheim vs. Borussia M'gladbach | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229036
-#EXTINF:-1 tvg-id="" tvg-name="09:30 | BUNDESLIGA | Eintracht Frankfurt vs. Mainz 05 | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/bundesliga.png" group-title="EVENTOS DEL DIA", 09:30 | BUNDESLIGA | Eintracht Frankfurt vs. Mainz 05 | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229037
-#EXTINF:-1 tvg-id="" tvg-name="09:30 | BUNDESLIGA | Stuttgart vs. St. Pauli | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/bundesliga.png" group-title="EVENTOS DEL DIA", 09:30 | BUNDESLIGA | Stuttgart vs. St. Pauli | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229038
-#EXTINF:-1 tvg-id="" tvg-name="12:30 | BUNDESLIGA | Bayer Leverkusen vs. Freiburg | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/bundesliga.png" group-title="EVENTOS DEL DIA", 12:30 | BUNDESLIGA | Bayer Leverkusen vs. Freiburg | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229039
-#EXTINF:-1 tvg-id="" tvg-name="15:30 | PRIMERIRA LIGA | Moreirense vs. Porto | PORT |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/primeiraliga.png" group-title="EVENTOS DEL DIA", 15:30 | PRIMERIRA LIGA | Moreirense vs. Porto | PORT |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229040
-#EXTINF:-1 tvg-id="" tvg-name="19:00 | SUPERLIGA | Vez Sarsfield vs. Estudiantes | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/superliga.png" group-title="EVENTOS DEL DIA", 19:00 | SUPERLIGA | Vez Sarsfield vs. Estudiantes | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229041
-#EXTINF:-1 tvg-id="" tvg-name="19:30 | SALVADOR | FAS vs. Once Deportivo | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/1rasalvador.png" group-title="EVENTOS DEL DIA", 19:30 | SALVADOR | FAS vs. Once Deportivo | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229042
-#EXTINF:-1 tvg-id="" tvg-name="12:00 | COPA DE FRANCIA | Feignies vs. Olympique Lyonnais | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/copafrancia.png" group-title="EVENTOS DEL DIA", 12:00 | COPA DE FRANCIA | Feignies vs. Olympique Lyonnais | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229043
-#EXTINF:-1 tvg-id="" tvg-name="08:00 | HYPERMOTION | Eibar vs. Granada | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/ligahypermotion.png" group-title="EVENTOS DEL DIA", 08:00 | HYPERMOTION | Eibar vs. Granada | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229044
-#EXTINF:-1 tvg-id="" tvg-name="10:15 | HYPERMOTION | Real Oviedo vs. Cordoba | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/ligahypermotion.png" group-title="EVENTOS DEL DIA", 10:15 | HYPERMOTION | Real Oviedo vs. Cordoba | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229045
-#EXTINF:-1 tvg-id="" tvg-name="12:30 | HYPERMOTION | Sporting Gij vs. Maga | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/ligahypermotion.png" group-title="EVENTOS DEL DIA", 12:30 | HYPERMOTION | Sporting Gij vs. Maga | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229046
-#EXTINF:-1 tvg-id="" tvg-name="12:30 | HYPERMOTION | Real Zaragoza vs. Racing Ferrol | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/ligahypermotion.png" group-title="EVENTOS DEL DIA", 12:30 | HYPERMOTION | Real Zaragoza vs. Racing Ferrol | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229047
-#EXTINF:-1 tvg-id="" tvg-name="11:00 | SUPERLIG | Besiktas vs. Alanyaspor | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/superlig.png" group-title="EVENTOS DEL DIA", 11:00 | SUPERLIG | Besiktas vs. Alanyaspor | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229048
-#EXTINF:-1 tvg-id="" tvg-name="18:00 | NBA | Sacramento Kings vs. Los Angeles Lakers | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nba.png" group-title="EVENTOS DEL DIA", 18:00 | NBA | Sacramento Kings vs. Los Angeles Lakers | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229049
-#EXTINF:-1 tvg-id="" tvg-name="19:00 | NBA | Orlando Magic vs. Miami Heat | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nba.png" group-title="EVENTOS DEL DIA", 19:00 | NBA | Orlando Magic vs. Miami Heat | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229050
-#EXTINF:-1 tvg-id="" tvg-name="19:30 | NBA | Atlanta Hawks vs. Memphis Grizzlies | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nba.png" group-title="EVENTOS DEL DIA", 19:30 | NBA | Atlanta Hawks vs. Memphis Grizzlies | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229051
-#EXTINF:-1 tvg-id="" tvg-name="20:00 | NBA | Cleveland Cavaliers vs. Philadelphia 76ers | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nba.png" group-title="EVENTOS DEL DIA", 20:00 | NBA | Cleveland Cavaliers vs. Philadelphia 76ers | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229052
-#EXTINF:-1 tvg-id="" tvg-name="20:00 | NBA | New Orleans Pelicans vs. New York Knicks | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nba.png" group-title="EVENTOS DEL DIA", 20:00 | NBA | New Orleans Pelicans vs. New York Knicks | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229053
-#EXTINF:-1 tvg-id="" tvg-name="20:00 | NBA | Milwaukee Bucks vs. Washington Wizards | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nba.png" group-title="EVENTOS DEL DIA", 20:00 | NBA | Milwaukee Bucks vs. Washington Wizards | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229054
-#EXTINF:-1 tvg-id="" tvg-name="20:00 | NBA | Minnesota Timberwolves vs. Golden State Warriors | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nba.png" group-title="EVENTOS DEL DIA", 20:00 | NBA | Minnesota Timberwolves vs. Golden State Warriors | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229055
-#EXTINF:-1 tvg-id="" tvg-name="20:00 | NBA | Chicago Bulls vs. Boston Celtics | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nba.png" group-title="EVENTOS DEL DIA", 20:00 | NBA | Chicago Bulls vs. Boston Celtics | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229056
-#EXTINF:-1 tvg-id="" tvg-name="20:30 | NBA | Dallas Mavericks vs. Los Angeles Clippers | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nba.png" group-title="EVENTOS DEL DIA", 20:30 | NBA | Dallas Mavericks vs. Los Angeles Clippers | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229057
-#EXTINF:-1 tvg-id="" tvg-name="20:30 | NBA | San Antonio Spurs vs. Portland Trail Blazers | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nba.png" group-title="EVENTOS DEL DIA", 20:30 | NBA | San Antonio Spurs vs. Portland Trail Blazers | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229058
-#EXTINF:-1 tvg-id="" tvg-name="21:00 | NBA | Phoenix Suns vs. Detroit Pistons | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nba.png" group-title="EVENTOS DEL DIA", 21:00 | NBA | Phoenix Suns vs. Detroit Pistons | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229059
-#EXTINF:-1 tvg-id="" tvg-name="19:00 | LMP | Tomateros De Culiacan vs. Monterrey | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/lmp.png" group-title="EVENTOS DEL DIA", 19:00 | LMP | Tomateros De Culiacan vs. Monterrey | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229060
-#EXTINF:-1 tvg-id="" tvg-name="20:10 | LMP | Yaquis De Ciudad Obregon vs. Charros De Jalisco | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/lmp.png" group-title="EVENTOS DEL DIA", 20:10 | LMP | Yaquis De Ciudad Obregon vs. Charros De Jalisco | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229061
-#EXTINF:-1 tvg-id="" tvg-name="20:00 | LMP | Naranjeros De Hermosillo vs. Algodoneros De Guasave | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/lmp.png" group-title="EVENTOS DEL DIA", 20:00 | LMP | Naranjeros De Hermosillo vs. Algodoneros De Guasave | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229062
-#EXTINF:-1 tvg-id="" tvg-name="20:00 | LMP | Mayos De Navojoa vs. Caneros de los Mochis | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/lmp.png" group-title="EVENTOS DEL DIA", 20:00 | LMP | Mayos De Navojoa vs. Caneros de los Mochis | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229063
-#EXTINF:-1 tvg-id="" tvg-name="21:00 | LMP | Aguilas De Mexicali vs. Venados De Mazatlan | ESP |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/lmp.png" group-title="EVENTOS DEL DIA", 21:00 | LMP | Aguilas De Mexicali vs. Venados De Mazatlan | ESP |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229064
-#EXTINF:-1 tvg-id="" tvg-name="13:00 | NHL | Nashville Predators vs. Los Angeles Kings | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nhl.png" group-title="EVENTOS DEL DIA", 13:00 | NHL | Nashville Predators vs. Los Angeles Kings | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229065
-#EXTINF:-1 tvg-id="" tvg-name="16:00 | NHL | Calgary Flames vs. Chicago Blackhawks | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nhl.png" group-title="EVENTOS DEL DIA", 16:00 | NHL | Calgary Flames vs. Chicago Blackhawks | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229066
-#EXTINF:-1 tvg-id="" tvg-name="16:00 | NHL | Edmonton Oilers vs. San Jose Sharks | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nhl.png" group-title="EVENTOS DEL DIA", 16:00 | NHL | Edmonton Oilers vs. San Jose Sharks | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229067
-#EXTINF:-1 tvg-id="" tvg-name="19:00 | NHL | Montreal Canadiens vs. Detroit Red Wings | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nhl.png" group-title="EVENTOS DEL DIA", 19:00 | NHL | Montreal Canadiens vs. Detroit Red Wings | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229068
-#EXTINF:-1 tvg-id="" tvg-name="19:00 | NHL | Winnipeg Jets vs. Minnesota Wild | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nhl.png" group-title="EVENTOS DEL DIA", 19:00 | NHL | Winnipeg Jets vs. Minnesota Wild | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229069
-#EXTINF:-1 tvg-id="" tvg-name="19:00 | NHL | New Jersey Devils vs. Pittsburgh Penguins | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nhl.png" group-title="EVENTOS DEL DIA", 19:00 | NHL | New Jersey Devils vs. Pittsburgh Penguins | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229070
-#EXTINF:-1 tvg-id="" tvg-name="19:00 | NHL | Philadelphia Flyers vs. Columbus Blue Jackets | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nhl.png" group-title="EVENTOS DEL DIA", 19:00 | NHL | Philadelphia Flyers vs. Columbus Blue Jackets | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229071
-#EXTINF:-1 tvg-id="" tvg-name="19:00 | NHL | Boston Bruins vs. Buffalo Sabres | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nhl.png" group-title="EVENTOS DEL DIA", 19:00 | NHL | Boston Bruins vs. Buffalo Sabres | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229072
-#EXTINF:-1 tvg-id="" tvg-name="19:00 | NHL | Toronto Maple Leafs vs. New York Islanders | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nhl.png" group-title="EVENTOS DEL DIA", 19:00 | NHL | Toronto Maple Leafs vs. New York Islanders | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229073
-#EXTINF:-1 tvg-id="" tvg-name="22:00 | NHL | Vegas Golden Knights vs. Seattle Kraken | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nhl.png" group-title="EVENTOS DEL DIA", 22:00 | NHL | Vegas Golden Knights vs. Seattle Kraken | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229074
-#EXTINF:-1 tvg-id="" tvg-name="22:00 | NHL | Vancouver Canucks vs. Ottawa Senators | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nhl.png" group-title="EVENTOS DEL DIA", 22:00 | NHL | Vancouver Canucks vs. Ottawa Senators | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229075
-#EXTINF:-1 tvg-id="" tvg-name="13:00 | NFL | Kansas City Chiefs vs. Houston Texans | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nfl.png" group-title="EVENTOS DEL DIA", 13:00 | NFL | Kansas City Chiefs vs. Houston Texans | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229076
-#EXTINF:-1 tvg-id="" tvg-name="16:30 | NFL | Baltimore Ravens vs. Pittsburgh Steelers | ENG |" tvg-logo="http://23.152.40.9/Logos/3v3ntos/nfl.png" group-title="EVENTOS DEL DIA", 16:30 | NFL | Baltimore Ravens vs. Pittsburgh Steelers | ENG |
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229077
-#EXTINF:-1 tvg-id="" tvg-name="10:30 | BOX | Tyson Fury vs. leksandr Usyk | ENG | Prelims" tvg-logo="http://23.152.40.9/Logos/3v3ntos/boxing.png" group-title="EVENTOS DEL DIA", 10:30 | BOX | Tyson Fury vs. leksandr Usyk | ENG | Prelims
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229078
-#EXTINF:-1 tvg-id="" tvg-name="14:00 | BOX | Tyson Fury vs. leksandr Usyk | ENG | Main Card" tvg-logo="http://23.152.40.9/Logos/3v3ntos/boxing.png" group-title="EVENTOS DEL DIA", 14:00 | BOX | Tyson Fury vs. leksandr Usyk | ENG | Main Card
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229079
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="TEST CANALES", A&E HD
+#EXTINF:-1 tvg-id="AandE HD.cl" tvg-name="A&E HD" tvg-logo="" group-title="TEST CANALES", A&E HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228213
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="TEST CANALES", A&E HD
+#EXTINF:-1 tvg-id="AandE HD.cl" tvg-name="A&E HD" tvg-logo="" group-title="TEST CANALES", A&E HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228214
 #EXTINF:-1 tvg-id="[CL] AMC.cl" tvg-name="AMC HD" tvg-logo="" group-title="TEST CANALES", AMC HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228215
@@ -141,7 +22,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228221
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228222
 #EXTINF:-1 tvg-id="" tvg-name="CNN Chile HD" tvg-logo="" group-title="TEST CANALES", CNN Chile HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228223
-#EXTINF:-1 tvg-id="[CL] Canal 13.cl" tvg-name="Canal 13 HD" tvg-logo="" group-title="TEST CANALES", Canal 13 HD
+#EXTINF:-1 tvg-id="Canal 13.cl" tvg-name="Canal 13 HD" tvg-logo="" group-title="TEST CANALES", Canal 13 HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228224
 #EXTINF:-1 tvg-id="" tvg-name="Canal 24 Horas HD" tvg-logo="" group-title="TEST CANALES", Canal 24 Horas HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228225
@@ -329,6 +210,50 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/203606
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199959
 #EXTINF:-1 tvg-id="" tvg-name="PPV | TV-TICKET" tvg-logo="" group-title="PPV EVENTOS ( Pay Per View )", PPV | TV-TICKET
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/180927
+#EXTINF:-1 tvg-id="" tvg-name="NAVIDAD ROCK " tvg-logo="http://tv.streamid.tv:8080/images/5fc8ce8f42733798b1498affd255701a.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", NAVIDAD ROCK
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/183357
+#EXTINF:-1 tvg-id="" tvg-name="PISTA ULTRA BAILABLE 1 ( 31 dic)" tvg-logo="https://img.pikbest.com/png-images/20240909/2025-golden-happy-new-year-logo_10824072.png!sw800" group-title="❇︎RELOAD 2025 FIESTA❇︎", PISTA ULTRA BAILABLE 1 ( 31 dic)
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229101
+#EXTINF:-1 tvg-id="" tvg-name="PISTA ULTRA BAILABLE 2 ( 31 dic)" tvg-logo="https://img.freepik.com/fotos-premium/feliz-ano-nuevo-2025-feliz-ano-nuevo-2025-png-feliz-ano-nuevo-2025-foto-feliz-ano-nueva-2025-papel-tapiz_1102153-1997.jpg" group-title="❇︎RELOAD 2025 FIESTA❇︎", PISTA ULTRA BAILABLE 2 ( 31 dic)
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229102
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | SE VIENE AÑO NUEVO" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | SE VIENE AÑO NUEVO
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/183311
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | STREAMID BAILABLE" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | STREAMID BAILABLE
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/115967
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | BAILATON CUMBIERA" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | BAILATON CUMBIERA
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/172240
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | CUMBIALO HITS" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | CUMBIALO HITS
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/55808
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC  | SOUND 90´ ULTRAHITS LIVE" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC  | SOUND 90´ ULTRAHITS LIVE
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/212150
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | MAMBO DISCOTEQUE" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | MAMBO DISCOTEQUE
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/55803
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC  | FIESTA DISCOTEQUE" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC  | FIESTA DISCOTEQUE
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/55806
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | FESTIVALES EN VIVO" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | FESTIVALES EN VIVO
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/55811
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | CUMBIASRANCHERAS MIX" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | CUMBIASRANCHERAS MIX
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/55805
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | RANCHEANDO ANDO" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | RANCHEANDO ANDO
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/172239
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | RANCHEANDO EN VIVO" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | RANCHEANDO EN VIVO
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/212148
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | DJ VICMAN RANCHEROS" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | DJ VICMAN RANCHEROS
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/212149
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | CUMBIAS COLOMBIANA MIX" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | CUMBIAS COLOMBIANA MIX
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/64268
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | CUMBIAS PERU MIX" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | CUMBIAS PERU MIX
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/64270
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | URBANO CHILE FIESTAMIX" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | URBANO CHILE FIESTAMIX
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/115373
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | DJ PINKY PACHANGA" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | DJ PINKY PACHANGA
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/115835
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC |  DJS EN VIVO SEASON" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC |  DJS EN VIVO SEASON
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/172241
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | RETROHITS" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | RETROHITS
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/64269
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC | DEPRESIVOS DEL BLOQUE 4AM" tvg-logo="https://i.ibb.co/6sMVJks/Pngtree-happy-new-year-2025-text-19827696.png" group-title="❇︎RELOAD 2025 FIESTA❇︎", MUSIC | DEPRESIVOS DEL BLOQUE 4AM
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/212151
 #EXTINF:-1 tvg-id="" tvg-name="ViX Deportes 21" tvg-logo="http://209.126.82.213/vixpremium.png" group-title="EVENTOS VIX", ViX Deportes 21
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/191133
 #EXTINF:-1 tvg-id="" tvg-name="ViX Deportes 22" tvg-logo="http://209.126.82.213/vixpremium.png" group-title="EVENTOS VIX", ViX Deportes 22
@@ -1651,27 +1576,27 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58761
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58762
 #EXTINF:-1 tvg-id="" tvg-name="CINE | FILM ZONE HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/8c5b5666027686c0ef19b8d1440d1047.PNG" group-title="CINE", CINE | FILM ZONE HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58763
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FOX HD (lt)" tvg-logo="https://i.pinimg.com/originals/bd/07/a7/bd07a76ad18ff619b4b2f269f3c72e86.png/png;base64,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" group-title="CINE", CINE | FOX HD (lt)
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.cl" tvg-name="CINE | FOX HD (lt)" tvg-logo="https://i.pinimg.com/originals/bd/07/a7/bd07a76ad18ff619b4b2f269f3c72e86.png/png;base64,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" group-title="CINE", CINE | FOX HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4888
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FX FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/FX_2008_logo.svg/1280px-FX_2008_logo.svg.png" group-title="CINE", CINE | FX FHD (P)
+#EXTINF:-1 tvg-id="FX HD.cl" tvg-name="CINE | FX FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/FX_2008_logo.svg/1280px-FX_2008_logo.svg.png" group-title="CINE", CINE | FX FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1928
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FX HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/6d75915617c6c677ad0ef5e0ff7353ed.png" group-title="CINE", CINE | FX HD (mv)
+#EXTINF:-1 tvg-id="FX HD.cl" tvg-name="CINE | FX HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/6d75915617c6c677ad0ef5e0ff7353ed.png" group-title="CINE", CINE | FX HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58785
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FX SD (lt)" tvg-logo="http://tv.streamid.tv:8080/images/e55e0436f12e8918bc9b79c18502e164.png" group-title="CINE", CINE | FX SD (lt)
+#EXTINF:-1 tvg-id="FX HD.cl" tvg-name="CINE | FX SD (lt)" tvg-logo="http://tv.streamid.tv:8080/images/e55e0436f12e8918bc9b79c18502e164.png" group-title="CINE", CINE | FX SD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4891
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FXM HD HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/5125535289275193804de4334d7ebac8.png" group-title="CINE", CINE | FXM HD HD (mv)
+#EXTINF:-1 tvg-id="FX HD.cl" tvg-name="CINE | FXM HD HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/5125535289275193804de4334d7ebac8.png" group-title="CINE", CINE | FXM HD HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58787
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN EDGE HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/2484e9f1f313c78abff51f7a6371a6eb.png" group-title="CINE", CINE | GOLDEN EDGE HD (mv)
+#EXTINF:-1 tvg-id="GOLDEN EDGE.mx" tvg-name="CINE | GOLDEN EDGE HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/2484e9f1f313c78abff51f7a6371a6eb.png" group-title="CINE", CINE | GOLDEN EDGE HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58788
-#EXTINF:-1 tvg-id="" tvg-name="CINE | Golden Edge SD (P)" tvg-logo="https://logostvargentina.files.wordpress.com/2010/07/d2f36-goldenedge.png" group-title="CINE", CINE | Golden Edge SD (P)
+#EXTINF:-1 tvg-id="GOLDEN EDGE.mx" tvg-name="CINE | Golden Edge SD (P)" tvg-logo="https://logostvargentina.files.wordpress.com/2010/07/d2f36-goldenedge.png" group-title="CINE", CINE | Golden Edge SD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1932
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="CINE", CINE | GOLDEN HD (mv)
+#EXTINF:-1 tvg-id="GOLDEN HD.co" tvg-name="CINE | GOLDEN HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="CINE", CINE | GOLDEN HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58789
 #EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PLUS FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/cfb6c6930418d4e47810cb3c82cf8ffa.png" group-title="CINE", CINE | GOLDEN PLUS FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58790
-#EXTINF:-1 tvg-id="" tvg-name="CINE | Golden Plus FHD (P)" tvg-logo="http://budtv.ottmex.com/posters/1529003615268.jpg" group-title="CINE", CINE | Golden Plus FHD (P)
+#EXTINF:-1 tvg-id="GOLDEN EDGE.mx" tvg-name="CINE | Golden Plus FHD (P)" tvg-logo="http://budtv.ottmex.com/posters/1529003615268.jpg" group-title="CINE", CINE | Golden Plus FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1933
-#EXTINF:-1 tvg-id="" tvg-name="CINE | Golden Plus FHD (P)" tvg-logo="http://budtv.ottmex.com/posters/1529003615268.jpg" group-title="CINE", CINE | Golden Plus FHD (P)
+#EXTINF:-1 tvg-id="GOLDEN EDGE.mx" tvg-name="CINE | Golden Plus FHD (P)" tvg-logo="http://budtv.ottmex.com/posters/1529003615268.jpg" group-title="CINE", CINE | Golden Plus FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1934
 #EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PLUS HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/cfb6c6930418d4e47810cb3c82cf8ffa.png" group-title="CINE", CINE | GOLDEN PLUS HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58791
@@ -1719,17 +1644,17 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1941
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58800
 #EXTINF:-1 tvg-id="" tvg-name="CINE | HBO HD (mv)" tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1512060072195-PSYXQ3PNQ4SGXGIFDS81/ke17ZwdGBToddI8pDm48kFSbwZiPgCXQ2TtynzWb_sQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNHBAs6gMow1jhelX4yFnQ8bczjh7yTA-i0J3ZOALjyCjLISwBs8eEdxAxTptZAUg/hbo-01.png" group-title="CINE", CINE | HBO HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58802
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO MUNDI HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/ab81cb3e1f5f55ad886bde01dcde7724.png" group-title="CINE", CINE | HBO MUNDI HD (mv)
+#EXTINF:-1 tvg-id="HBO MUNDI.cl" tvg-name="CINE | HBO MUNDI HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/ab81cb3e1f5f55ad886bde01dcde7724.png" group-title="CINE", CINE | HBO MUNDI HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58804
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO PLUS FHD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CINE", CINE | HBO PLUS FHD (mv)
+#EXTINF:-1 tvg-id="HBO PLUS ESTE.cl" tvg-name="CINE | HBO PLUS FHD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CINE", CINE | HBO PLUS FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58805
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO PLUS HD (lt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE", CINE | HBO PLUS HD (lt)
+#EXTINF:-1 tvg-id="HBO PLUS ESTE.cl" tvg-name="CINE | HBO PLUS HD (lt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE", CINE | HBO PLUS HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4896
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO PLUS HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CINE", CINE | HBO PLUS HD (mv)
+#EXTINF:-1 tvg-id="HBO PLUS ESTE.cl" tvg-name="CINE | HBO PLUS HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CINE", CINE | HBO PLUS HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58806
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO POP HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/d59693b0315c2130b34fe6aea38f89fe.png" group-title="CINE", CINE | HBO POP HD (mv)
+#EXTINF:-1 tvg-id="HBO POP.cl" tvg-name="CINE | HBO POP HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/d59693b0315c2130b34fe6aea38f89fe.png" group-title="CINE", CINE | HBO POP HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58807
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO POP* HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/97e21068a9bab4e4cce283960b479925.png" group-title="CINE", CINE | HBO POP* HD (mv)
+#EXTINF:-1 tvg-id="HBO POP.cl" tvg-name="CINE | HBO POP* HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/97e21068a9bab4e4cce283960b479925.png" group-title="CINE", CINE | HBO POP* HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58808
 #EXTINF:-1 tvg-id="HBO Signature.cl" tvg-name="CINE | HBO Signature (P)" tvg-logo="http://tv.streamid.tv:8080/images/b896401e01992ee8b45cd80714ebc8cd.png" group-title="CINE", CINE | HBO Signature (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1943
@@ -1743,17 +1668,17 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4897
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58810
 #EXTINF:-1 tvg-id="" tvg-name="CINE | HBO SUBTITULADO FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/009add9e17a20277ee78bdc91283b44a.png" group-title="CINE", CINE | HBO SUBTITULADO FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58811
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO WEST FHD (mv)" tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1512060072195-PSYXQ3PNQ4SGXGIFDS81/ke17ZwdGBToddI8pDm48kFSbwZiPgCXQ2TtynzWb_sQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNHBAs6gMow1jhelX4yFnQ8bczjh7yTA-i0J3ZOALjyCjLISwBs8eEdxAxTptZAUg/hbo-01.png" group-title="CINE", CINE | HBO WEST FHD (mv)
+#EXTINF:-1 tvg-id="HBO 2 HD.cl" tvg-name="CINE | HBO WEST FHD (mv)" tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1512060072195-PSYXQ3PNQ4SGXGIFDS81/ke17ZwdGBToddI8pDm48kFSbwZiPgCXQ2TtynzWb_sQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNHBAs6gMow1jhelX4yFnQ8bczjh7yTA-i0J3ZOALjyCjLISwBs8eEdxAxTptZAUg/hbo-01.png" group-title="CINE", CINE | HBO WEST FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58812
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO XTREME HD (CLARO)" tvg-logo="http://tv.streamid.tv:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" group-title="CINE", CINE | HBO XTREME HD (CLARO)
+#EXTINF:-1 tvg-id="HBO XTREME HD.cl" tvg-name="CINE | HBO XTREME HD (CLARO)" tvg-logo="http://tv.streamid.tv:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" group-title="CINE", CINE | HBO XTREME HD (CLARO)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58813
 #EXTINF:-1 tvg-id="" tvg-name="CINE | I SAT CHANNEL HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/49f1f5c584a7aaab04bf5d5cdb546a8b.png" group-title="CINE", CINE | I SAT CHANNEL HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58814
 #EXTINF:-1 tvg-id="" tvg-name="CINE | ISat SD (P)" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/04/I.Sat_.png" group-title="CINE", CINE | ISat SD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1944
-#EXTINF:-1 tvg-id="" tvg-name="CINE | LIFETIME FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/98a2245eb8327ea202772dee3062f094.png" group-title="CINE", CINE | LIFETIME FHD (mv)
+#EXTINF:-1 tvg-id="LIFETIME.mx" tvg-name="CINE | LIFETIME FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/98a2245eb8327ea202772dee3062f094.png" group-title="CINE", CINE | LIFETIME FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58746
-#EXTINF:-1 tvg-id="" tvg-name="CINE | LIFETIME LATINO HD (CLARO)" tvg-logo="http://tv.streamid.tv:8080/images/98a2245eb8327ea202772dee3062f094.png" group-title="CINE", CINE | LIFETIME LATINO HD (CLARO)
+#EXTINF:-1 tvg-id="LIFETIME.mx" tvg-name="CINE | LIFETIME LATINO HD (CLARO)" tvg-logo="http://tv.streamid.tv:8080/images/98a2245eb8327ea202772dee3062f094.png" group-title="CINE", CINE | LIFETIME LATINO HD (CLARO)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58745
 #EXTINF:-1 tvg-id="" tvg-name="CINE | MAX PRIME FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/d7f7ca1be3e946feb833b28aead08617.png" group-title="CINE", CINE | MAX PRIME FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58815
@@ -1781,7 +1706,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4900
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4871
 #EXTINF:-1 tvg-id="SPACE.mx" tvg-name="CINE | SPACE FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/b0c3521287053a4d90f1e1f9ea6756ca.png" group-title="CINE", CINE | SPACE FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58823
-#EXTINF:-1 tvg-id="SPACE.co" tvg-name="CINE | Space FHD (P)" tvg-logo="https://banner2.cleanpng.com/20180812/gt/kisspng-space-logo-television-channel-esporte-interativo-space-boost-cafe-5b70e60fdb8835.2475459715341255838992.jpg" group-title="CINE", CINE | Space FHD (P)
+#EXTINF:-1 tvg-id="SPACE.cl" tvg-name="CINE | Space FHD (P)" tvg-logo="https://banner2.cleanpng.com/20180812/gt/kisspng-space-logo-television-channel-esporte-interativo-space-boost-cafe-5b70e60fdb8835.2475459715341255838992.jpg" group-title="CINE", CINE | Space FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1949
 #EXTINF:-1 tvg-id="SPACE.mx" tvg-name="CINE | Space SD (P)" tvg-logo="http://tv.streamid.tv:8080/images/1f35bb27b4e438b9b75ba4182fb6042c.jpg" group-title="CINE", CINE | Space SD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1950
@@ -1891,181 +1816,181 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/23088
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/23080
 #EXTINF:-1 tvg-id="" tvg-name="Starz West FHD" tvg-logo="" group-title="CINEMA STARZ", Starz West FHD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/23091
-#EXTINF:-1 tvg-id="" tvg-name="08 | DISCOVERY WORLD" tvg-logo="http://tv.streamid.tv:8080/images/2fb1268fbeebc4793bef70333abd57e3.png" group-title="CULTURA", 08 | DISCOVERY WORLD
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.cl" tvg-name="08 | DISCOVERY WORLD" tvg-logo="http://tv.streamid.tv:8080/images/2fb1268fbeebc4793bef70333abd57e3.png" group-title="CULTURA", 08 | DISCOVERY WORLD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198354
-#EXTINF:-1 tvg-id="" tvg-name="09 | DISCOVERY WORLD | FHD" tvg-logo="http://tv.streamid.tv:8080/images/2fb1268fbeebc4793bef70333abd57e3.png" group-title="CULTURA", 09 | DISCOVERY WORLD | FHD
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.cl" tvg-name="09 | DISCOVERY WORLD | FHD" tvg-logo="http://tv.streamid.tv:8080/images/2fb1268fbeebc4793bef70333abd57e3.png" group-title="CULTURA", 09 | DISCOVERY WORLD | FHD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198355
-#EXTINF:-1 tvg-id="" tvg-name="10 | DISCOVERY WORLD ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/2fb1268fbeebc4793bef70333abd57e3.png" group-title="CULTURA", 10 | DISCOVERY WORLD ᴴᴰ
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.cl" tvg-name="10 | DISCOVERY WORLD ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/2fb1268fbeebc4793bef70333abd57e3.png" group-title="CULTURA", 10 | DISCOVERY WORLD ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198356
-#EXTINF:-1 tvg-id="" tvg-name="11 | DISCOVERY SCIENCE" tvg-logo="http://tv.streamid.tv:8080/images/6a2aad6e1c06146cd62023f003037dc7.png" group-title="CULTURA", 11 | DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE.ar" tvg-name="11 | DISCOVERY SCIENCE" tvg-logo="http://tv.streamid.tv:8080/images/6a2aad6e1c06146cd62023f003037dc7.png" group-title="CULTURA", 11 | DISCOVERY SCIENCE
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198357
-#EXTINF:-1 tvg-id="" tvg-name="12 | DISCOVERY SCIENCE ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/6a2aad6e1c06146cd62023f003037dc7.png" group-title="CULTURA", 12 | DISCOVERY SCIENCE ᴴᴰ
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE.ar" tvg-name="12 | DISCOVERY SCIENCE ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/6a2aad6e1c06146cd62023f003037dc7.png" group-title="CULTURA", 12 | DISCOVERY SCIENCE ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198358
 #EXTINF:-1 tvg-id="" tvg-name="13 | DISCOVERY SCIENCE USA ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/6a2aad6e1c06146cd62023f003037dc7.png" group-title="CULTURA", 13 | DISCOVERY SCIENCE USA ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198359
-#EXTINF:-1 tvg-id="" tvg-name="14 | DISCOVERY TURBO" tvg-logo="http://tv.streamid.tv:8080/images/ae594d4178eb6d2c08bce23e70b13005.png" group-title="CULTURA", 14 | DISCOVERY TURBO
+#EXTINF:-1 tvg-id="DISCOVERY TURBO.cl" tvg-name="14 | DISCOVERY TURBO" tvg-logo="http://tv.streamid.tv:8080/images/ae594d4178eb6d2c08bce23e70b13005.png" group-title="CULTURA", 14 | DISCOVERY TURBO
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198360
-#EXTINF:-1 tvg-id="" tvg-name="15 | DISCOVERY TURBO ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/ae594d4178eb6d2c08bce23e70b13005.png" group-title="CULTURA", 15 | DISCOVERY TURBO ᴴᴰ
+#EXTINF:-1 tvg-id="DISCOVERY TURBO.cl" tvg-name="15 | DISCOVERY TURBO ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/ae594d4178eb6d2c08bce23e70b13005.png" group-title="CULTURA", 15 | DISCOVERY TURBO ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198361
-#EXTINF:-1 tvg-id="" tvg-name="16 | DISCOVERY TURBO ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/ae594d4178eb6d2c08bce23e70b13005.png" group-title="CULTURA", 16 | DISCOVERY TURBO ᴴᴰ
+#EXTINF:-1 tvg-id="DISCOVERY TURBO.cl" tvg-name="16 | DISCOVERY TURBO ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/ae594d4178eb6d2c08bce23e70b13005.png" group-title="CULTURA", 16 | DISCOVERY TURBO ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198362
 #EXTINF:-1 tvg-id="" tvg-name="17 | DISCOVERY EN ESPAÑOL ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/c00dfea970c3a6960bf4a96dcc82d55c.png" group-title="CULTURA", 17 | DISCOVERY EN ESPAÑOL ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198363
-#EXTINF:-1 tvg-id="" tvg-name="18 | HGTV ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/81dc9bdb52d04dc20036dbd8313ed055.png" group-title="CULTURA", 18 | HGTV ᴴᴰ
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="18 | HGTV ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/81dc9bdb52d04dc20036dbd8313ed055.png" group-title="CULTURA", 18 | HGTV ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198364
-#EXTINF:-1 tvg-id="" tvg-name="19 | HGTV USA ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/81dc9bdb52d04dc20036dbd8313ed055.png" group-title="CULTURA", 19 | HGTV USA ᴴᴰ
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="19 | HGTV USA ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/81dc9bdb52d04dc20036dbd8313ed055.png" group-title="CULTURA", 19 | HGTV USA ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198365
 #EXTINF:-1 tvg-id="" tvg-name="20 | DISCOVERY THEATER ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/cc4143b15150526319943c70b508fcfa.png" group-title="CULTURA", 20 | DISCOVERY THEATER ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198366
-#EXTINF:-1 tvg-id="" tvg-name="21 | DISCOVERY H&H" tvg-logo="http://tv.streamid.tv:8080/images/fc2f1c8f943ffd64962d61a56d10f677.png" group-title="CULTURA", 21 | DISCOVERY H&H
+#EXTINF:-1 tvg-id="HOME and HEALTH HD.cl" tvg-name="21 | DISCOVERY H&H" tvg-logo="http://tv.streamid.tv:8080/images/fc2f1c8f943ffd64962d61a56d10f677.png" group-title="CULTURA", 21 | DISCOVERY H&H
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198367
-#EXTINF:-1 tvg-id="" tvg-name="23 | DISCOVERY H&H ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/fc2f1c8f943ffd64962d61a56d10f677.png" group-title="CULTURA", 23 | DISCOVERY H&H ᴴᴰ
+#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH.mx" tvg-name="23 | DISCOVERY H&H ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/fc2f1c8f943ffd64962d61a56d10f677.png" group-title="CULTURA", 23 | DISCOVERY H&H ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198368
-#EXTINF:-1 tvg-id="" tvg-name="24 | DISCOVERY H&H ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/fc2f1c8f943ffd64962d61a56d10f677.png" group-title="CULTURA", 24 | DISCOVERY H&H ᴴᴰ
+#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH.mx" tvg-name="24 | DISCOVERY H&H ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/fc2f1c8f943ffd64962d61a56d10f677.png" group-title="CULTURA", 24 | DISCOVERY H&H ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198369
-#EXTINF:-1 tvg-id="[CL] Animal Planet HD.cl" tvg-name="25 | ANIMAL PLANET" tvg-logo="http://tv.streamid.tv:8080/images/1e078814f9622e4296fecde50a687c8f.png" group-title="CULTURA", 25 | ANIMAL PLANET
+#EXTINF:-1 tvg-id="Animal Planet HD.cl" tvg-name="25 | ANIMAL PLANET" tvg-logo="http://tv.streamid.tv:8080/images/1e078814f9622e4296fecde50a687c8f.png" group-title="CULTURA", 25 | ANIMAL PLANET
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198370
-#EXTINF:-1 tvg-id="[CL] Animal Planet HD.cl" tvg-name="26 | ANIMAL PLANET ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/1e078814f9622e4296fecde50a687c8f.png" group-title="CULTURA", 26 | ANIMAL PLANET ᴴᴰ
+#EXTINF:-1 tvg-id="Animal Planet HD.cl" tvg-name="26 | ANIMAL PLANET ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/1e078814f9622e4296fecde50a687c8f.png" group-title="CULTURA", 26 | ANIMAL PLANET ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198371
-#EXTINF:-1 tvg-id="[CL] Animal Planet HD.cl" tvg-name="27 | ANIMAL PLANET ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/1e078814f9622e4296fecde50a687c8f.png" group-title="CULTURA", 27 | ANIMAL PLANET ᴴᴰ
+#EXTINF:-1 tvg-id="Animal Planet HD.cl" tvg-name="27 | ANIMAL PLANET ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/1e078814f9622e4296fecde50a687c8f.png" group-title="CULTURA", 27 | ANIMAL PLANET ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198372
-#EXTINF:-1 tvg-id="" tvg-name="28 | HISTORY" tvg-logo="http://tv.streamid.tv:8080/images/13c0121628f2fb4acb2b98045e8ce157.png" group-title="CULTURA", 28 | HISTORY
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="28 | HISTORY" tvg-logo="http://tv.streamid.tv:8080/images/13c0121628f2fb4acb2b98045e8ce157.png" group-title="CULTURA", 28 | HISTORY
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198373
-#EXTINF:-1 tvg-id="" tvg-name="29 | HISTORY ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/e94550c93cd70fe748e6982b3439ad3b.png" group-title="CULTURA", 29 | HISTORY ᴴᴰ
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="29 | HISTORY ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/e94550c93cd70fe748e6982b3439ad3b.png" group-title="CULTURA", 29 | HISTORY ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198374
-#EXTINF:-1 tvg-id="" tvg-name="30 | HISTORY" tvg-logo="http://tv.streamid.tv:8080/images/e94550c93cd70fe748e6982b3439ad3b.png" group-title="CULTURA", 30 | HISTORY
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="30 | HISTORY" tvg-logo="http://tv.streamid.tv:8080/images/e94550c93cd70fe748e6982b3439ad3b.png" group-title="CULTURA", 30 | HISTORY
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198375
 #EXTINF:-1 tvg-id="" tvg-name="31 | HISTORY USA ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/e94550c93cd70fe748e6982b3439ad3b.png" group-title="CULTURA", 31 | HISTORY USA ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198376
-#EXTINF:-1 tvg-id="" tvg-name="32 | HISTORY 2" tvg-logo="http://tv.streamid.tv:8080/images/e6140389c8639e9aff8ba9cb58a89433.png" group-title="CULTURA", 32 | HISTORY 2
+#EXTINF:-1 tvg-id="HISTORY 2 HD.cl" tvg-name="32 | HISTORY 2" tvg-logo="http://tv.streamid.tv:8080/images/e6140389c8639e9aff8ba9cb58a89433.png" group-title="CULTURA", 32 | HISTORY 2
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198377
-#EXTINF:-1 tvg-id="" tvg-name="33 | HISTORY 2 ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/e6140389c8639e9aff8ba9cb58a89433.png" group-title="CULTURA", 33 | HISTORY 2 ᴴᴰ
+#EXTINF:-1 tvg-id="HISTORY 2 HD.cl" tvg-name="33 | HISTORY 2 ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/e6140389c8639e9aff8ba9cb58a89433.png" group-title="CULTURA", 33 | HISTORY 2 ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198378
 #EXTINF:-1 tvg-id="" tvg-name="34 | NATGEO USA ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/45390326bba4779880379231ecf464e2.png" group-title="CULTURA", 34 | NATGEO USA ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198379
-#EXTINF:-1 tvg-id="" tvg-name="35 | NATGEO ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/45390326bba4779880379231ecf464e2.png" group-title="CULTURA", 35 | NATGEO ᴴᴰ
+#EXTINF:-1 tvg-id="NAT GEO HD.cl" tvg-name="35 | NATGEO ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/45390326bba4779880379231ecf464e2.png" group-title="CULTURA", 35 | NATGEO ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198380
 #EXTINF:-1 tvg-id="" tvg-name="36 | NATGEO ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/45390326bba4779880379231ecf464e2.png" group-title="CULTURA", 36 | NATGEO ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198381
 #EXTINF:-1 tvg-id="" tvg-name="37 | NATGEO MUNDO ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/701c3218afa6895fe333b5d7dc73b553.png" group-title="CULTURA", 37 | NATGEO MUNDO ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198382
-#EXTINF:-1 tvg-id="" tvg-name="38 | THE GOURMET" tvg-logo="http://tv.streamid.tv:8080/images/be83ab3ecd0db773eb2dc1b0a17836a1.png" group-title="CULTURA", 38 | THE GOURMET
+#EXTINF:-1 tvg-id="EL GOURMET.ar" tvg-name="38 | THE GOURMET" tvg-logo="http://tv.streamid.tv:8080/images/be83ab3ecd0db773eb2dc1b0a17836a1.png" group-title="CULTURA", 38 | THE GOURMET
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198383
-#EXTINF:-1 tvg-id="" tvg-name="39 | THE GOURMET ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/be83ab3ecd0db773eb2dc1b0a17836a1.png" group-title="CULTURA", 39 | THE GOURMET ᴴᴰ
+#EXTINF:-1 tvg-id="EL GOURMET.ar" tvg-name="39 | THE GOURMET ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/be83ab3ecd0db773eb2dc1b0a17836a1.png" group-title="CULTURA", 39 | THE GOURMET ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198384
-#EXTINF:-1 tvg-id="" tvg-name="CUL• ANIMAL PLANET (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/5233a3dcc96fb162e2ae78a918ec4147.png" group-title="CULTURA", CUL• ANIMAL PLANET (HD) »1«
+#EXTINF:-1 tvg-id="ANIMAL PLANET.mx" tvg-name="CUL• ANIMAL PLANET (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/5233a3dcc96fb162e2ae78a918ec4147.png" group-title="CULTURA", CUL• ANIMAL PLANET (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199768
-#EXTINF:-1 tvg-id="" tvg-name="CUL• ANIMAL PLANET (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/5233a3dcc96fb162e2ae78a918ec4147.png" group-title="CULTURA", CUL• ANIMAL PLANET (HD) »2«
+#EXTINF:-1 tvg-id="ANIMAL PLANET.mx" tvg-name="CUL• ANIMAL PLANET (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/5233a3dcc96fb162e2ae78a918ec4147.png" group-title="CULTURA", CUL• ANIMAL PLANET (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199769
-#EXTINF:-1 tvg-id="" tvg-name="CUL• ANIMAL PLANET (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/5233a3dcc96fb162e2ae78a918ec4147.png" group-title="CULTURA", CUL• ANIMAL PLANET (HD) »3«
+#EXTINF:-1 tvg-id="ANIMAL PLANET.mx" tvg-name="CUL• ANIMAL PLANET (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/5233a3dcc96fb162e2ae78a918ec4147.png" group-title="CULTURA", CUL• ANIMAL PLANET (HD) »3«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199770
-#EXTINF:-1 tvg-id="" tvg-name="CUL• ANIMAL PLANET (HD) »4«" tvg-logo="http://tv.streamid.tv:8080/images/5233a3dcc96fb162e2ae78a918ec4147.png" group-title="CULTURA", CUL• ANIMAL PLANET (HD) »4«
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD.cl" tvg-name="CUL• ANIMAL PLANET (HD) »4«" tvg-logo="http://tv.streamid.tv:8080/images/5233a3dcc96fb162e2ae78a918ec4147.png" group-title="CULTURA", CUL• ANIMAL PLANET (HD) »4«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199771
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY CHANNEL (H)" tvg-logo="http://tv.streamid.tv:8080/images/b0944b48d477f11a1b2427a431137ecb.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL (H)
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD.mx" tvg-name="CUL• DISCOVERY CHANNEL (H)" tvg-logo="http://tv.streamid.tv:8080/images/b0944b48d477f11a1b2427a431137ecb.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL (H)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198348
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY CHANNEL (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/c4458ea2745d9567050efb601b5dcba0.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL (HD) »1«
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD.mx" tvg-name="CUL• DISCOVERY CHANNEL (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/c4458ea2745d9567050efb601b5dcba0.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199789
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY CHANNEL (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/c4458ea2745d9567050efb601b5dcba0.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL (HD) »2«
+#EXTINF:-1 tvg-id="[CL] Discovery Channel.cl" tvg-name="CUL• DISCOVERY CHANNEL (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/c4458ea2745d9567050efb601b5dcba0.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199790
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY CHANNEL (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/c4458ea2745d9567050efb601b5dcba0.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL (HD) »3«
+#EXTINF:-1 tvg-id="[CL] Discovery Channel.cl" tvg-name="CUL• DISCOVERY CHANNEL (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/c4458ea2745d9567050efb601b5dcba0.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL (HD) »3«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199791
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY CHANNEL ᴴᴰ (UP)" tvg-logo="http://tv.streamid.tv:8080/images/b0944b48d477f11a1b2427a431137ecb.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL ᴴᴰ (UP)
+#EXTINF:-1 tvg-id="[CL] Discovery Channel.cl" tvg-name="CUL• DISCOVERY CHANNEL ᴴᴰ (UP)" tvg-logo="http://tv.streamid.tv:8080/images/b0944b48d477f11a1b2427a431137ecb.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL ᴴᴰ (UP)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198349
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY CIVILIZATION (HD)" tvg-logo="http://tv.streamid.tv:8080/images/e76b2d4b1a7471a4382aac6ef4ed7a81.png" group-title="CULTURA", CUL• DISCOVERY CIVILIZATION (HD)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199786
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY FAMILIA ᴴᴰ (P)" tvg-logo="http://tv.streamid.tv:8080/images/a55eb777d64279e5168060fc0c8bd383.png" group-title="CULTURA", CUL• DISCOVERY FAMILIA ᴴᴰ (P)
+#EXTINF:-1 tvg-id="Discovery Familia (U.S. feed).us" tvg-name="CUL• DISCOVERY FAMILIA ᴴᴰ (P)" tvg-logo="http://tv.streamid.tv:8080/images/a55eb777d64279e5168060fc0c8bd383.png" group-title="CULTURA", CUL• DISCOVERY FAMILIA ᴴᴰ (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198350
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY H&H (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="CULTURA", CUL• DISCOVERY H&H (HD) »1«
+#EXTINF:-1 tvg-id="HOME and HEALTH HD.cl" tvg-name="CUL• DISCOVERY H&H (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="CULTURA", CUL• DISCOVERY H&H (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199801
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY H&H (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="CULTURA", CUL• DISCOVERY H&H (HD) »2«
+#EXTINF:-1 tvg-id="HOME and HEALTH HD.cl" tvg-name="CUL• DISCOVERY H&H (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="CULTURA", CUL• DISCOVERY H&H (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199802
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY H&H (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="CULTURA", CUL• DISCOVERY H&H (HD) »3«
+#EXTINF:-1 tvg-id="HOME and HEALTH HD.cl" tvg-name="CUL• DISCOVERY H&H (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="CULTURA", CUL• DISCOVERY H&H (HD) »3«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199803
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY H&H (HD) »4«" tvg-logo="http://tv.streamid.tv:8080/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="CULTURA", CUL• DISCOVERY H&H (HD) »4«
+#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH.mx" tvg-name="CUL• DISCOVERY H&H (HD) »4«" tvg-logo="http://tv.streamid.tv:8080/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="CULTURA", CUL• DISCOVERY H&H (HD) »4«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199804
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY ID (H)" tvg-logo="http://tv.streamid.tv:8080/images/f64006aeabc0f2eb11504eba99292a37.png" group-title="CULTURA", CUL• DISCOVERY ID (H)
+#EXTINF:-1 tvg-id="DISCOVERY ID.mx" tvg-name="CUL• DISCOVERY ID (H)" tvg-logo="http://tv.streamid.tv:8080/images/f64006aeabc0f2eb11504eba99292a37.png" group-title="CULTURA", CUL• DISCOVERY ID (H)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198351
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY ID ᴴᴰ (P)" tvg-logo="http://tv.streamid.tv:8080/images/f64006aeabc0f2eb11504eba99292a37.png" group-title="CULTURA", CUL• DISCOVERY ID ᴴᴰ (P)
+#EXTINF:-1 tvg-id="DISCOVERY ID HD.ar" tvg-name="CUL• DISCOVERY ID ᴴᴰ (P)" tvg-logo="http://tv.streamid.tv:8080/images/f64006aeabc0f2eb11504eba99292a37.png" group-title="CULTURA", CUL• DISCOVERY ID ᴴᴰ (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198353
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY ID ᴴᴰ (S)" tvg-logo="http://tv.streamid.tv:8080/images/f64006aeabc0f2eb11504eba99292a37.png" group-title="CULTURA", CUL• DISCOVERY ID ᴴᴰ (S)
+#EXTINF:-1 tvg-id="DISCOVERY ID HD.ar" tvg-name="CUL• DISCOVERY ID ᴴᴰ (S)" tvg-logo="http://tv.streamid.tv:8080/images/f64006aeabc0f2eb11504eba99292a37.png" group-title="CULTURA", CUL• DISCOVERY ID ᴴᴰ (S)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198352
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY INVESTIGATION (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/cec13a863c46c60e44355d2e51ab609c.png" group-title="CULTURA", CUL• DISCOVERY INVESTIGATION (HD) »1«
+#EXTINF:-1 tvg-id="DISCOVERY ID HD.ar" tvg-name="CUL• DISCOVERY INVESTIGATION (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/cec13a863c46c60e44355d2e51ab609c.png" group-title="CULTURA", CUL• DISCOVERY INVESTIGATION (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199798
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY INVESTIGATION (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/cec13a863c46c60e44355d2e51ab609c.png" group-title="CULTURA", CUL• DISCOVERY INVESTIGATION (HD) »2«
+#EXTINF:-1 tvg-id="DISCOVERY ID.mx" tvg-name="CUL• DISCOVERY INVESTIGATION (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/cec13a863c46c60e44355d2e51ab609c.png" group-title="CULTURA", CUL• DISCOVERY INVESTIGATION (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199799
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY INVESTIGATION (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/cec13a863c46c60e44355d2e51ab609c.png" group-title="CULTURA", CUL• DISCOVERY INVESTIGATION (HD) »3«
+#EXTINF:-1 tvg-id="DISCOVERY ID.mx" tvg-name="CUL• DISCOVERY INVESTIGATION (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/cec13a863c46c60e44355d2e51ab609c.png" group-title="CULTURA", CUL• DISCOVERY INVESTIGATION (HD) »3«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199800
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY SCIENCE (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/6f8aec527f2c16d4c0e55a951a9559f4.png" group-title="CULTURA", CUL• DISCOVERY SCIENCE (HD) »1«
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE.ar" tvg-name="CUL• DISCOVERY SCIENCE (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/6f8aec527f2c16d4c0e55a951a9559f4.png" group-title="CULTURA", CUL• DISCOVERY SCIENCE (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199805
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY SCIENCE (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/6f8aec527f2c16d4c0e55a951a9559f4.png" group-title="CULTURA", CUL• DISCOVERY SCIENCE (HD) »2«
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE.ar" tvg-name="CUL• DISCOVERY SCIENCE (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/6f8aec527f2c16d4c0e55a951a9559f4.png" group-title="CULTURA", CUL• DISCOVERY SCIENCE (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199806
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY SCIENCE (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/6f8aec527f2c16d4c0e55a951a9559f4.png" group-title="CULTURA", CUL• DISCOVERY SCIENCE (HD) »3«
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE.ar" tvg-name="CUL• DISCOVERY SCIENCE (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/6f8aec527f2c16d4c0e55a951a9559f4.png" group-title="CULTURA", CUL• DISCOVERY SCIENCE (HD) »3«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199807
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY SCIENCE (HD) »4«" tvg-logo="http://tv.streamid.tv:8080/images/6f8aec527f2c16d4c0e55a951a9559f4.png" group-title="CULTURA", CUL• DISCOVERY SCIENCE (HD) »4«
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE.ar" tvg-name="CUL• DISCOVERY SCIENCE (HD) »4«" tvg-logo="http://tv.streamid.tv:8080/images/6f8aec527f2c16d4c0e55a951a9559f4.png" group-title="CULTURA", CUL• DISCOVERY SCIENCE (HD) »4«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199808
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY THEATER (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/c9792312c79d86e472089df952b79cab.png" group-title="CULTURA", CUL• DISCOVERY THEATER (HD) »1«
+#EXTINF:-1 tvg-id="[CL] Discovery Theater.cl" tvg-name="CUL• DISCOVERY THEATER (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/c9792312c79d86e472089df952b79cab.png" group-title="CULTURA", CUL• DISCOVERY THEATER (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199787
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY THEATER (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/c9792312c79d86e472089df952b79cab.png" group-title="CULTURA", CUL• DISCOVERY THEATER (HD) »2«
+#EXTINF:-1 tvg-id="[CL] Discovery Theater.cl" tvg-name="CUL• DISCOVERY THEATER (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/c9792312c79d86e472089df952b79cab.png" group-title="CULTURA", CUL• DISCOVERY THEATER (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199788
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY TURBO (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/30936f1f19310f547c8311ef00c7a9b6.png" group-title="CULTURA", CUL• DISCOVERY TURBO (HD) »1«
+#EXTINF:-1 tvg-id="DISCOVERY TURBO.cl" tvg-name="CUL• DISCOVERY TURBO (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/30936f1f19310f547c8311ef00c7a9b6.png" group-title="CULTURA", CUL• DISCOVERY TURBO (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199792
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY TURBO (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/30936f1f19310f547c8311ef00c7a9b6.png" group-title="CULTURA", CUL• DISCOVERY TURBO (HD) »2«
+#EXTINF:-1 tvg-id="DISCOVERY TURBO.cl" tvg-name="CUL• DISCOVERY TURBO (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/30936f1f19310f547c8311ef00c7a9b6.png" group-title="CULTURA", CUL• DISCOVERY TURBO (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199793
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY TURBO (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/30936f1f19310f547c8311ef00c7a9b6.png" group-title="CULTURA", CUL• DISCOVERY TURBO (HD) »3«
+#EXTINF:-1 tvg-id="DISCOVERY TURBO.cl" tvg-name="CUL• DISCOVERY TURBO (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/30936f1f19310f547c8311ef00c7a9b6.png" group-title="CULTURA", CUL• DISCOVERY TURBO (HD) »3«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199794
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY WORLD (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/686aec8dcbb4f83becb6d430047a155c.png" group-title="CULTURA", CUL• DISCOVERY WORLD (HD) »1«
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.cl" tvg-name="CUL• DISCOVERY WORLD (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/686aec8dcbb4f83becb6d430047a155c.png" group-title="CULTURA", CUL• DISCOVERY WORLD (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199795
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY WORLD (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/686aec8dcbb4f83becb6d430047a155c.png" group-title="CULTURA", CUL• DISCOVERY WORLD (HD) »2«
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.cl" tvg-name="CUL• DISCOVERY WORLD (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/686aec8dcbb4f83becb6d430047a155c.png" group-title="CULTURA", CUL• DISCOVERY WORLD (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199796
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY WORLD (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/686aec8dcbb4f83becb6d430047a155c.png" group-title="CULTURA", CUL• DISCOVERY WORLD (HD) »3«
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.cl" tvg-name="CUL• DISCOVERY WORLD (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/686aec8dcbb4f83becb6d430047a155c.png" group-title="CULTURA", CUL• DISCOVERY WORLD (HD) »3«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199797
 #EXTINF:-1 tvg-id="" tvg-name="CUL• EL GOURMET (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/41e023a82af19adc2145f0f1e1734bfa.png" group-title="CULTURA", CUL• EL GOURMET (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199763
 #EXTINF:-1 tvg-id="" tvg-name="CUL• EL GOURMET (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/41e023a82af19adc2145f0f1e1734bfa.png" group-title="CULTURA", CUL• EL GOURMET (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199764
-#EXTINF:-1 tvg-id="" tvg-name="CUL• H2 (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/7d46a437a40c7a625be12f4ba144d8af.png" group-title="CULTURA", CUL• H2 (HD) »1«
+#EXTINF:-1 tvg-id="HISTORY 2 HD.cl" tvg-name="CUL• H2 (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/7d46a437a40c7a625be12f4ba144d8af.png" group-title="CULTURA", CUL• H2 (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199778
-#EXTINF:-1 tvg-id="" tvg-name="CUL• H2 (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/7d46a437a40c7a625be12f4ba144d8af.png" group-title="CULTURA", CUL• H2 (HD) »2«
+#EXTINF:-1 tvg-id="HISTORY 2 HD.cl" tvg-name="CUL• H2 (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/7d46a437a40c7a625be12f4ba144d8af.png" group-title="CULTURA", CUL• H2 (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199779
-#EXTINF:-1 tvg-id="" tvg-name="CUL• HISTORY CHANNEL (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/7b771a273226ca8d789f918fae16dc9e.png" group-title="CULTURA", CUL• HISTORY CHANNEL (HD) »1«
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="CUL• HISTORY CHANNEL (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/7b771a273226ca8d789f918fae16dc9e.png" group-title="CULTURA", CUL• HISTORY CHANNEL (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199772
-#EXTINF:-1 tvg-id="" tvg-name="CUL• HISTORY CHANNEL (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/7b771a273226ca8d789f918fae16dc9e.png" group-title="CULTURA", CUL• HISTORY CHANNEL (HD) »2«
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="CUL• HISTORY CHANNEL (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/7b771a273226ca8d789f918fae16dc9e.png" group-title="CULTURA", CUL• HISTORY CHANNEL (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199773
-#EXTINF:-1 tvg-id="" tvg-name="CUL• HISTORY CHANNEL (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/7b771a273226ca8d789f918fae16dc9e.png" group-title="CULTURA", CUL• HISTORY CHANNEL (HD) »3«
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="CUL• HISTORY CHANNEL (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/7b771a273226ca8d789f918fae16dc9e.png" group-title="CULTURA", CUL• HISTORY CHANNEL (HD) »3«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199774
-#EXTINF:-1 tvg-id="" tvg-name="CUL• HISTORY CHANNEL (HD) »4«" tvg-logo="http://tv.streamid.tv:8080/images/7b771a273226ca8d789f918fae16dc9e.png" group-title="CULTURA", CUL• HISTORY CHANNEL (HD) »4«
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="CUL• HISTORY CHANNEL (HD) »4«" tvg-logo="http://tv.streamid.tv:8080/images/7b771a273226ca8d789f918fae16dc9e.png" group-title="CULTURA", CUL• HISTORY CHANNEL (HD) »4«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199775
-#EXTINF:-1 tvg-id="" tvg-name="CUL• HISTORY CHANNEL (HD) »5«" tvg-logo="http://tv.streamid.tv:8080/images/7b771a273226ca8d789f918fae16dc9e.png" group-title="CULTURA", CUL• HISTORY CHANNEL (HD) »5«
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="CUL• HISTORY CHANNEL (HD) »5«" tvg-logo="http://tv.streamid.tv:8080/images/7b771a273226ca8d789f918fae16dc9e.png" group-title="CULTURA", CUL• HISTORY CHANNEL (HD) »5«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199776
-#EXTINF:-1 tvg-id="" tvg-name="CUL• HISTORY CHANNEL (HD) »6«" tvg-logo="http://tv.streamid.tv:8080/images/7b771a273226ca8d789f918fae16dc9e.png" group-title="CULTURA", CUL• HISTORY CHANNEL (HD) »6«
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="CUL• HISTORY CHANNEL (HD) »6«" tvg-logo="http://tv.streamid.tv:8080/images/7b771a273226ca8d789f918fae16dc9e.png" group-title="CULTURA", CUL• HISTORY CHANNEL (HD) »6«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199777
-#EXTINF:-1 tvg-id="" tvg-name="CUL• LOVE NATURE (HD)" tvg-logo="http://tv.streamid.tv:8080/images/e0408025286dc0623659265156e8b255.png" group-title="CULTURA", CUL• LOVE NATURE (HD)
+#EXTINF:-1 tvg-id="LOVE NATURE HD.cl" tvg-name="CUL• LOVE NATURE (HD)" tvg-logo="http://tv.streamid.tv:8080/images/e0408025286dc0623659265156e8b255.png" group-title="CULTURA", CUL• LOVE NATURE (HD)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199761
-#EXTINF:-1 tvg-id="" tvg-name="CUL• NAT GEO (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/f2789d78b2c883d70867c0234e39c5dd.png" group-title="CULTURA", CUL• NAT GEO (HD) »1«
+#EXTINF:-1 tvg-id="NAT GEO HD.cl" tvg-name="CUL• NAT GEO (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/f2789d78b2c883d70867c0234e39c5dd.png" group-title="CULTURA", CUL• NAT GEO (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199782
-#EXTINF:-1 tvg-id="" tvg-name="CUL• NAT GEO (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/f2789d78b2c883d70867c0234e39c5dd.png" group-title="CULTURA", CUL• NAT GEO (HD) »2«
+#EXTINF:-1 tvg-id="NAT GEO HD.cl" tvg-name="CUL• NAT GEO (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/f2789d78b2c883d70867c0234e39c5dd.png" group-title="CULTURA", CUL• NAT GEO (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199783
 #EXTINF:-1 tvg-id="" tvg-name="CUL• NAT GEO (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/f2789d78b2c883d70867c0234e39c5dd.png" group-title="CULTURA", CUL• NAT GEO (HD) »3«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199784
-#EXTINF:-1 tvg-id="" tvg-name="CUL• NAT GEO (HD) »4«" tvg-logo="http://tv.streamid.tv:8080/images/f2789d78b2c883d70867c0234e39c5dd.png" group-title="CULTURA", CUL• NAT GEO (HD) »4«
+#EXTINF:-1 tvg-id="NAT GEO HD.cl" tvg-name="CUL• NAT GEO (HD) »4«" tvg-logo="http://tv.streamid.tv:8080/images/f2789d78b2c883d70867c0234e39c5dd.png" group-title="CULTURA", CUL• NAT GEO (HD) »4«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199785
-#EXTINF:-1 tvg-id="" tvg-name="CUL• NAT GEO WILD (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/6afbee7dbb0a389991dc90e711ca0003.png" group-title="CULTURA", CUL• NAT GEO WILD (HD) »1«
+#EXTINF:-1 tvg-id="NAT GEO HD.ar" tvg-name="CUL• NAT GEO WILD (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/6afbee7dbb0a389991dc90e711ca0003.png" group-title="CULTURA", CUL• NAT GEO WILD (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199780
-#EXTINF:-1 tvg-id="" tvg-name="CUL• NAT GEO WILD (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/6afbee7dbb0a389991dc90e711ca0003.png" group-title="CULTURA", CUL• NAT GEO WILD (HD) »2«
+#EXTINF:-1 tvg-id="Nat Geo Wild.es" tvg-name="CUL• NAT GEO WILD (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/6afbee7dbb0a389991dc90e711ca0003.png" group-title="CULTURA", CUL• NAT GEO WILD (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199781
-#EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/406b125e4d0dac356230eb8bac4226e3.png" group-title="CULTURA", CUL• TLC (HD) »1«
+#EXTINF:-1 tvg-id="TLC HD.cl" tvg-name="CUL• TLC (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/406b125e4d0dac356230eb8bac4226e3.png" group-title="CULTURA", CUL• TLC (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199765
-#EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/406b125e4d0dac356230eb8bac4226e3.png" group-title="CULTURA", CUL• TLC (HD) »2«
+#EXTINF:-1 tvg-id="TLC HD.cl" tvg-name="CUL• TLC (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/406b125e4d0dac356230eb8bac4226e3.png" group-title="CULTURA", CUL• TLC (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199766
-#EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/406b125e4d0dac356230eb8bac4226e3.png" group-title="CULTURA", CUL• TLC (HD) »3«
+#EXTINF:-1 tvg-id="TLC HD.cl" tvg-name="CUL• TLC (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/406b125e4d0dac356230eb8bac4226e3.png" group-title="CULTURA", CUL• TLC (HD) »3«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199767
 #EXTINF:-1 tvg-id="" tvg-name="CUL• TRU TV (HD)" tvg-logo="http://tv.streamid.tv:8080/images/3b2eebd47141e9e72fa971760a73088d.png" group-title="CULTURA", CUL• TRU TV (HD)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199762
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery TLC (L)(1080)" tvg-logo="http://tv.streamid.tv:8080/images/e2ef524fbf3d9fe611d5a8e90fefdc9c.png" group-title="CULTURA", DOC-Discovery TLC (L)(1080)
+#EXTINF:-1 tvg-id="TLC HD.cl" tvg-name="DOC-Discovery TLC (L)(1080)" tvg-logo="http://tv.streamid.tv:8080/images/e2ef524fbf3d9fe611d5a8e90fefdc9c.png" group-title="CULTURA", DOC-Discovery TLC (L)(1080)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199715
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery TLC (M)(1080)" tvg-logo="http://tv.streamid.tv:8080/images/70efdf2ec9b086079795c442636b55fb.png" group-title="CULTURA", DOC-Discovery TLC (M)(1080)
+#EXTINF:-1 tvg-id="TLC HD.cl" tvg-name="DOC-Discovery TLC (M)(1080)" tvg-logo="http://tv.streamid.tv:8080/images/70efdf2ec9b086079795c442636b55fb.png" group-title="CULTURA", DOC-Discovery TLC (M)(1080)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199716
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery TLC (M)(SD)" tvg-logo="http://tv.streamid.tv:8080/images/70efdf2ec9b086079795c442636b55fb.png" group-title="CULTURA", DOC-Discovery TLC (M)(SD)
+#EXTINF:-1 tvg-id="TLC HD.cl" tvg-name="DOC-Discovery TLC (M)(SD)" tvg-logo="http://tv.streamid.tv:8080/images/70efdf2ec9b086079795c442636b55fb.png" group-title="CULTURA", DOC-Discovery TLC (M)(SD)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199717
 #EXTINF:-1 tvg-id="" tvg-name="DW EN ESPAÑOL" tvg-logo="" group-title="CULTURA", DW EN ESPAÑOL
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199845
