@@ -80,7 +80,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228250
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228251
 #EXTINF:-1 tvg-id="ESPN HD.cl" tvg-name="ESPN HD" tvg-logo="" group-title="TEST CANALES", ESPN HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228252
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet HD" tvg-logo="" group-title="TEST CANALES", El Gourmet HD
+#EXTINF:-1 tvg-id="EL GOURMET.ar" tvg-name="El Gourmet HD" tvg-logo="" group-title="TEST CANALES", El Gourmet HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228253
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD" tvg-logo="" group-title="TEST CANALES", FOX Sports 2 HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228254
@@ -180,7 +180,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228301
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228302
 #EXTINF:-1 tvg-id="" tvg-name="TV+ HD" tvg-logo="" group-title="TEST CANALES", TV+ HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228303
-#EXTINF:-1 tvg-id="" tvg-name="TVN HD" tvg-logo="" group-title="TEST CANALES", TVN HD
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN HD" tvg-logo="" group-title="TEST CANALES", TVN HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228304
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-logo="" group-title="TEST CANALES", TyC Sports HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228305
@@ -1060,21 +1060,21 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175396
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175414
 #EXTINF:-1 tvg-id="" tvg-name="Camara de Diputados | CL" tvg-logo="http://tv.streamid.tv:8080/images/7b2fbbfe7f0d9ab95609da473a79bfea.png" group-title="CHILE", Camara de Diputados | CL
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/164524
-#EXTINF:-1 tvg-id="[CL] Canal 13.cl" tvg-name="CHI | CANAL 13 |  FHD" tvg-logo="http://tv.streamid.tv:8080/images/37a749d808e46495a8da1e5352d03cae.png" group-title="CHILE", CHI | CANAL 13 |  FHD
+#EXTINF:-1 tvg-id="Canal 13 HD.cl" tvg-name="CHI | CANAL 13 |  FHD" tvg-logo="http://tv.streamid.tv:8080/images/37a749d808e46495a8da1e5352d03cae.png" group-title="CHILE", CHI | CANAL 13 |  FHD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/27295
-#EXTINF:-1 tvg-id="[CL] Canal 13.cl" tvg-name="CHI | CANAL 13 |  HQ" tvg-logo="http://tv.streamid.tv:8080/images/37a749d808e46495a8da1e5352d03cae.png" group-title="CHILE", CHI | CANAL 13 |  HQ
+#EXTINF:-1 tvg-id="Canal 13 HD.cl" tvg-name="CHI | CANAL 13 |  HQ" tvg-logo="http://tv.streamid.tv:8080/images/37a749d808e46495a8da1e5352d03cae.png" group-title="CHILE", CHI | CANAL 13 |  HQ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/105178
-#EXTINF:-1 tvg-id="[CL] Canal 13.cl" tvg-name="CHI | CANAL 13 | 2mb" tvg-logo="http://tv.streamid.tv:8080/images/37a749d808e46495a8da1e5352d03cae.png" group-title="CHILE", CHI | CANAL 13 | 2mb
+#EXTINF:-1 tvg-id="Canal 13 HD.cl" tvg-name="CHI | CANAL 13 | 2mb" tvg-logo="http://tv.streamid.tv:8080/images/37a749d808e46495a8da1e5352d03cae.png" group-title="CHILE", CHI | CANAL 13 | 2mb
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/60109
 #EXTINF:-1 tvg-id="" tvg-name="CHI | 13 CABLE (P)" tvg-logo="http://tv.streamid.tv:8080/images/302b7e8fcf5da184af206b8220495d65.png" group-title="CHILE", CHI | 13 CABLE (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/81994
-#EXTINF:-1 tvg-id="[CL] Canal 13.cl" tvg-name="CHI | CANAL 13 | FHD op2" tvg-logo="http://streami.cc:25500/resize.php?max=42&url=http://tv.streamid.tv:8080/images/37a749d808e46495a8da1e5352d03cae.png" group-title="CHILE", CHI | CANAL 13 | FHD op2
+#EXTINF:-1 tvg-id="Canal 13 HD.cl" tvg-name="CHI | CANAL 13 | FHD op2" tvg-logo="http://streami.cc:25500/resize.php?max=42&url=http://tv.streamid.tv:8080/images/37a749d808e46495a8da1e5352d03cae.png" group-title="CHILE", CHI | CANAL 13 | FHD op2
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/212313
 #EXTINF:-1 tvg-id="" tvg-name="CHI | 13 CABLE | FHD ENC" tvg-logo="http://tv.streamid.tv:8080/images/302b7e8fcf5da184af206b8220495d65.png" group-title="CHILE", CHI | 13 CABLE | FHD ENC
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/735
 #EXTINF:-1 tvg-id="" tvg-name="CHI | 13 CABLE | 2mb" tvg-logo="http://tv.streamid.tv:8080/images/302b7e8fcf5da184af206b8220495d65.png" group-title="CHILE", CHI | 13 CABLE | 2mb
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/60110
-#EXTINF:-1 tvg-id="[CL] Canal 13.cl" tvg-name="CHI | CANAL 13 |(U)" tvg-logo="http://tv.streamid.tv:8080/images/37a749d808e46495a8da1e5352d03cae.png" group-title="CHILE", CHI | CANAL 13 |(U)
+#EXTINF:-1 tvg-id="Canal 13 HD.cl" tvg-name="CHI | CANAL 13 |(U)" tvg-logo="http://tv.streamid.tv:8080/images/37a749d808e46495a8da1e5352d03cae.png" group-title="CHILE", CHI | CANAL 13 |(U)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/732
 #EXTINF:-1 tvg-id="" tvg-name="CHI | 13 Cultura" tvg-logo="http://tv.streamid.tv:8080/images/9bb1ef68774ceff08019a8993400e8b0.png" group-title="CHILE", CHI | 13 Cultura
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/157989
@@ -1086,15 +1086,15 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/157990
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/157991
 #EXTINF:-1 tvg-id="" tvg-name="CHI | 13 Teleseries" tvg-logo="http://tv.streamid.tv:8080/images/f3f62849c5594a570d3e53b056151a96.png" group-title="CHILE", CHI | 13 Teleseries
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/157992
-#EXTINF:-1 tvg-id="[CL] Chilevision.cl" tvg-name="CHI | CHILEVISION |   FHD (E)" tvg-logo="http://tv.streamid.tv:8080/images/a8f15eda80c50adb0e71943adc8015cf.png" group-title="CHILE", CHI | CHILEVISION |   FHD (E)
+#EXTINF:-1 tvg-id="CHV.cl" tvg-name="CHI | CHILEVISION |   FHD (E)" tvg-logo="http://tv.streamid.tv:8080/images/a8f15eda80c50adb0e71943adc8015cf.png" group-title="CHILE", CHI | CHILEVISION |   FHD (E)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/34027
-#EXTINF:-1 tvg-id="[CL] Chilevision.cl" tvg-name="CHI | CHILEVISION |   HQ (E)" tvg-logo="http://tv.streamid.tv:8080/images/a8f15eda80c50adb0e71943adc8015cf.png" group-title="CHILE", CHI | CHILEVISION |   HQ (E)
+#EXTINF:-1 tvg-id="CHV.cl" tvg-name="CHI | CHILEVISION |   HQ (E)" tvg-logo="http://tv.streamid.tv:8080/images/a8f15eda80c50adb0e71943adc8015cf.png" group-title="CHILE", CHI | CHILEVISION |   HQ (E)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/15263
-#EXTINF:-1 tvg-id="[CL] Chilevision.cl" tvg-name="CHI | CHILEVISION |  2mb" tvg-logo="http://tv.streamid.tv:8080/images/a8f15eda80c50adb0e71943adc8015cf.png" group-title="CHILE", CHI | CHILEVISION |  2mb
+#EXTINF:-1 tvg-id="CHV.cl" tvg-name="CHI | CHILEVISION |  2mb" tvg-logo="http://tv.streamid.tv:8080/images/a8f15eda80c50adb0e71943adc8015cf.png" group-title="CHILE", CHI | CHILEVISION |  2mb
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/60111
-#EXTINF:-1 tvg-id="[CL] Chilevision.cl" tvg-name="CHI | CHILEVISION | (LT)" tvg-logo="http://tv.streamid.tv:8080/images/a8f15eda80c50adb0e71943adc8015cf.png" group-title="CHILE", CHI | CHILEVISION | (LT)
+#EXTINF:-1 tvg-id="CHV.cl" tvg-name="CHI | CHILEVISION | (LT)" tvg-logo="http://tv.streamid.tv:8080/images/a8f15eda80c50adb0e71943adc8015cf.png" group-title="CHILE", CHI | CHILEVISION | (LT)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/307
-#EXTINF:-1 tvg-id="[CL] Chilevision.cl" tvg-name="CHI | CHILEVISION | (MV)" tvg-logo="http://tv.streamid.tv:8080/images/a8f15eda80c50adb0e71943adc8015cf.png" group-title="CHILE", CHI | CHILEVISION | (MV)
+#EXTINF:-1 tvg-id="CHV.cl" tvg-name="CHI | CHILEVISION | (MV)" tvg-logo="http://tv.streamid.tv:8080/images/a8f15eda80c50adb0e71943adc8015cf.png" group-title="CHILE", CHI | CHILEVISION | (MV)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1443
 #EXTINF:-1 tvg-id="" tvg-name="CHI | HAGALO USTED MISMO" tvg-logo="http://tv.streamid.tv:8080/images/ca969528c923b7c79b792a146039a3d1.jpg" group-title="CHILE", CHI | HAGALO USTED MISMO
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/35842
@@ -1120,13 +1120,13 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198155
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/33841
 #EXTINF:-1 tvg-id="" tvg-name="CHI | MEGA FICCION | ENC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mega_Ficci%C3%B3n_logo.png" group-title="CHILE", CHI | MEGA FICCION | ENC
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/224671
-#EXTINF:-1 tvg-id="[CL] TVN.cl" tvg-name="CHI | TVN |   FHD (E)" tvg-logo="http://tv.streamid.tv:8080/images/9853b1db0a21d9bd7c27cbcf20e47c52.png" group-title="CHILE", CHI | TVN |   FHD (E)
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="CHI | TVN |   FHD (E)" tvg-logo="http://tv.streamid.tv:8080/images/9853b1db0a21d9bd7c27cbcf20e47c52.png" group-title="CHILE", CHI | TVN |   FHD (E)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/35555
-#EXTINF:-1 tvg-id="[CL] TVN.cl" tvg-name="CHI | TVN |   HQ (E)" tvg-logo="http://tv.streamid.tv:8080/images/9853b1db0a21d9bd7c27cbcf20e47c52.png" group-title="CHILE", CHI | TVN |   HQ (E)
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="CHI | TVN |   HQ (E)" tvg-logo="http://tv.streamid.tv:8080/images/9853b1db0a21d9bd7c27cbcf20e47c52.png" group-title="CHILE", CHI | TVN |   HQ (E)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/105177
-#EXTINF:-1 tvg-id="[CL] TVN.cl" tvg-name="CHI | TVN |  2mb (E)" tvg-logo="http://tv.streamid.tv:8080/images/9853b1db0a21d9bd7c27cbcf20e47c52.png" group-title="CHILE", CHI | TVN |  2mb (E)
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="CHI | TVN |  2mb (E)" tvg-logo="http://tv.streamid.tv:8080/images/9853b1db0a21d9bd7c27cbcf20e47c52.png" group-title="CHILE", CHI | TVN |  2mb (E)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/60115
-#EXTINF:-1 tvg-id="[CL] TVN.cl" tvg-name="CHI | TVN | (P)" tvg-logo="http://tv.streamid.tv:8080/images/9853b1db0a21d9bd7c27cbcf20e47c52.png" group-title="CHILE", CHI | TVN | (P)
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="CHI | TVN | (P)" tvg-logo="http://tv.streamid.tv:8080/images/9853b1db0a21d9bd7c27cbcf20e47c52.png" group-title="CHILE", CHI | TVN | (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/752
 #EXTINF:-1 tvg-id="" tvg-name="CHI | TV CHILE | FHD ENC" tvg-logo="http://tv.streamid.tv:8080/images/e5f924098571b7d3bda89596322e39c8.png" group-title="CHILE", CHI | TV CHILE | FHD ENC
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/731
@@ -1944,9 +1944,9 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199795
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199796
 #EXTINF:-1 tvg-id="DISCOVERY WORLD HD.cl" tvg-name="CUL• DISCOVERY WORLD (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/686aec8dcbb4f83becb6d430047a155c.png" group-title="CULTURA", CUL• DISCOVERY WORLD (HD) »3«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199797
-#EXTINF:-1 tvg-id="" tvg-name="CUL• EL GOURMET (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/41e023a82af19adc2145f0f1e1734bfa.png" group-title="CULTURA", CUL• EL GOURMET (HD) »1«
+#EXTINF:-1 tvg-id="EL GOURMET.ar" tvg-name="CUL• EL GOURMET (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/41e023a82af19adc2145f0f1e1734bfa.png" group-title="CULTURA", CUL• EL GOURMET (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199763
-#EXTINF:-1 tvg-id="" tvg-name="CUL• EL GOURMET (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/41e023a82af19adc2145f0f1e1734bfa.png" group-title="CULTURA", CUL• EL GOURMET (HD) »2«
+#EXTINF:-1 tvg-id="EL GOURMET.ar" tvg-name="CUL• EL GOURMET (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/41e023a82af19adc2145f0f1e1734bfa.png" group-title="CULTURA", CUL• EL GOURMET (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199764
 #EXTINF:-1 tvg-id="HISTORY 2 HD.cl" tvg-name="CUL• H2 (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/7d46a437a40c7a625be12f4ba144d8af.png" group-title="CULTURA", CUL• H2 (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199778
@@ -2138,11 +2138,11 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/78901
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/19133
 #EXTINF:-1 tvg-id="" tvg-name="ENT | FOOD NETWORK" tvg-logo="http://tv.streamid.tv:8080/images/9b93a38ceff9871139da54f64039f57b.png" group-title="ENTRETENIMIENTO", ENT | FOOD NETWORK
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/196613
-#EXTINF:-1 tvg-id="" tvg-name="ENT | GOURMET " tvg-logo="" group-title="ENTRETENIMIENTO", ENT | GOURMET
+#EXTINF:-1 tvg-id="EL GOURMET.ar" tvg-name="ENT | GOURMET " tvg-logo="" group-title="ENTRETENIMIENTO", ENT | GOURMET
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/8738
 #EXTINF:-1 tvg-id="" tvg-name="ENT | HOLA TV" tvg-logo="" group-title="ENTRETENIMIENTO", ENT | HOLA TV
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/24137
-#EXTINF:-1 tvg-id="" tvg-name="ENT | LIFETIME HD" tvg-logo="" group-title="ENTRETENIMIENTO", ENT | LIFETIME HD
+#EXTINF:-1 tvg-id="LIFETIME.mx" tvg-name="ENT | LIFETIME HD" tvg-logo="" group-title="ENTRETENIMIENTO", ENT | LIFETIME HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/9748
 #EXTINF:-1 tvg-id="" tvg-name="ENT | TELENOVELAS" tvg-logo="http://tv.streamid.tv:8080/images/0a7b6d2b110715ecff0526d4bf81411a.jpg" group-title="ENTRETENIMIENTO", ENT | TELENOVELAS
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/29177
@@ -2150,13 +2150,13 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/29177
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/23464
 #EXTINF:-1 tvg-id="" tvg-name="ENT | TELENOVELAS (P) " tvg-logo="http://tv.streamid.tv:8080/images/4e5f212c4df628ac02e9f33d7bcd3ad5.jpg" group-title="ENTRETENIMIENTO", ENT | TELENOVELAS (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/78890
-#EXTINF:-1 tvg-id="" tvg-name="ENT | TNT NOVELAS" tvg-logo="http://tv.streamid.tv:8080/images/e924412cb4d73b1787c0ac63f865c6e6.png" group-title="ENTRETENIMIENTO", ENT | TNT NOVELAS
+#EXTINF:-1 tvg-id="TNT Novelas HD.cl" tvg-name="ENT | TNT NOVELAS" tvg-logo="http://tv.streamid.tv:8080/images/e924412cb4d73b1787c0ac63f865c6e6.png" group-title="ENTRETENIMIENTO", ENT | TNT NOVELAS
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198156
 #EXTINF:-1 tvg-id="" tvg-name="ENT | UNIVISION" tvg-logo="" group-title="ENTRETENIMIENTO", ENT | UNIVISION
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/29186
 #EXTINF:-1 tvg-id="" tvg-name="ENTR | COMEDY CENTRAL LA" tvg-logo="http://tv.streamid.tv:8080/images/8c50deb4a912fd5e5cc63d0e9a90a3bd.png" group-title="ENTRETENIMIENTO", ENTR | COMEDY CENTRAL LA
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/106216
-#EXTINF:-1 tvg-id="" tvg-name="ENT| EL GOURMET (ec)" tvg-logo="http://tv.streamid.tv:8080/images/503b6c92c900bf81b8079256b805397e.png" group-title="ENTRETENIMIENTO", ENT| EL GOURMET (ec)
+#EXTINF:-1 tvg-id="EL GOURMET.ar" tvg-name="ENT| EL GOURMET (ec)" tvg-logo="http://tv.streamid.tv:8080/images/503b6c92c900bf81b8079256b805397e.png" group-title="ENTRETENIMIENTO", ENT| EL GOURMET (ec)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/45714
 #EXTINF:-1 tvg-id="" tvg-name="Univision --" tvg-logo="" group-title="ENTRETENIMIENTO", Univision --
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/52626
