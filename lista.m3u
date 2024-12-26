@@ -1502,13 +1502,13 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/209781
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/67213
 #EXTINF:-1 tvg-id="AandE.cl" tvg-name="CINE | AE MUNDO HD (lt)" tvg-logo="http://tv.streamid.tv:8080/images/9461d43a67612aa8d1c3b415af494412.png" group-title="CINE", CINE | AE MUNDO HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4874
-#EXTINF:-1 tvg-id="AMC.ar" tvg-name="CINE | AMC FHD (mv)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/AMC_2013.png" group-title="CINE", CINE | AMC FHD (mv)
+#EXTINF:-1 tvg-id="AMC.co" tvg-name="CINE | AMC FHD (mv)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/AMC_2013.png" group-title="CINE", CINE | AMC FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58741
-#EXTINF:-1 tvg-id="AMC.ar" tvg-name="CINE | AMC FHD (P)" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="CINE", CINE | AMC FHD (P)
+#EXTINF:-1 tvg-id="AMC.co" tvg-name="CINE | AMC FHD (P)" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="CINE", CINE | AMC FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1897
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="CINE | AMC HD (lt)" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="CINE", CINE | AMC HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4875
-#EXTINF:-1 tvg-id="AMC.ar" tvg-name="CINE | AMC HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="CINE", CINE | AMC HD (mv)
+#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="CINE", CINE | AMC HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58742
 #EXTINF:-1 tvg-id="AXN HD.cl" tvg-name="CINE | AXN FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/9df9dc140d139200eaefb695973cbb91.png" group-title="CINE", CINE | AXN FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58743
