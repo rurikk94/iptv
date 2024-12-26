@@ -342,7 +342,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/57043
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/52642
 #EXTINF:-1 tvg-id="" tvg-name="DEP| CLARO SPORTS FHD" tvg-logo="http://tv.streamid.tv:8080/images/6488a1a1769d7d554d9a5dbf52609922.png" group-title="DEPORTES", DEP| CLARO SPORTS FHD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/57287
-#EXTINF:-1 tvg-id="ESPN HD.cl" tvg-name="DEP| ESPN 1 MEXICO | FHD" tvg-logo="http://tv.streamid.tv:8080/images/1e7ac020066a9fdb96023c8ab61bec9b.png" group-title="DEPORTES", DEP| ESPN 1 MEXICO | FHD
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="DEP| ESPN 1 MEXICO | FHD" tvg-logo="http://tv.streamid.tv:8080/images/1e7ac020066a9fdb96023c8ab61bec9b.png" group-title="DEPORTES", DEP| ESPN 1 MEXICO | FHD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/561
 #EXTINF:-1 tvg-id="ESPN HD.cl" tvg-name="DEP| ESPN 1 SUR (CLARO)" tvg-logo="http://tv.streamid.tv:8080/images/fa74b8ac9b6e1d65670ce20acde555a9.png" group-title="DEPORTES", DEP| ESPN 1 SUR (CLARO)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/66288
@@ -368,9 +368,9 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/60683
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58426
 #EXTINF:-1 tvg-id="ESPN 2.cl" tvg-name="DEP| ESPN 2 SUR CHILE | FHD (UP)" tvg-logo="http://tv.streamid.tv:8080/images/e3f75a11547d66fd1f1c6bd1d1bf5faa.png" group-title="DEPORTES", DEP| ESPN 2 SUR CHILE | FHD (UP)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/679
-#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-name="DEP| ESPN 2 SUR COL (A)" tvg-logo="http://tv.streamid.tv:8080/images/e3f75a11547d66fd1f1c6bd1d1bf5faa.png" group-title="DEPORTES", DEP| ESPN 2 SUR COL (A)
+#EXTINF:-1 tvg-id="ESPN 2.cl" tvg-name="DEP| ESPN 2 SUR COL (A)" tvg-logo="http://tv.streamid.tv:8080/images/e3f75a11547d66fd1f1c6bd1d1bf5faa.png" group-title="DEPORTES", DEP| ESPN 2 SUR COL (A)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/3119
-#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-name="DEP| ESPN 2 SUR | HD (EC)" tvg-logo="http://tv.streamid.tv:8080/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="DEPORTES", DEP| ESPN 2 SUR | HD (EC)
+#EXTINF:-1 tvg-id="ESPN 2.cl" tvg-name="DEP| ESPN 2 SUR | HD (EC)" tvg-logo="http://tv.streamid.tv:8080/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="DEPORTES", DEP| ESPN 2 SUR | HD (EC)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/66289
 #EXTINF:-1 tvg-id="ESPN 3.cl" tvg-name="DEP| ESPN 3 SUR ARG (CLARO)" tvg-logo="http://tv.streamid.tv:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="DEPORTES", DEP| ESPN 3 SUR ARG (CLARO)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/66290
@@ -396,9 +396,9 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/66272
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/79472
 #EXTINF:-1 tvg-id="ESPN 7.cl" tvg-name="DEP| ESPN 7 | FHD" tvg-logo="http://tv.streamid.tv:8080/images/6b6910de19a3af87f94f0820492a02e0.png" group-title="DEPORTES", DEP| ESPN 7 | FHD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/66273
-#EXTINF:-1 tvg-id="[CL] ESPN Extra.cl" tvg-name="DEP| ESPN EXTRA (NX)" tvg-logo="http://tv.streamid.tv:8080/images/7167e0b83f1d0f4ab1282db2f480320b.png" group-title="DEPORTES", DEP| ESPN EXTRA (NX)
+#EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN EXTRA (NX)" tvg-logo="http://tv.streamid.tv:8080/images/7167e0b83f1d0f4ab1282db2f480320b.png" group-title="DEPORTES", DEP| ESPN EXTRA (NX)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/47732
-#EXTINF:-1 tvg-id="[CL] ESPN Extra.cl" tvg-name="DEP| ESPN EXTRA SUR (P)" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="DEPORTES", DEP| ESPN EXTRA SUR (P)
+#EXTINF:-1 tvg-id="ESPN 4.mx" tvg-name="DEP| ESPN EXTRA SUR (P)" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="DEPORTES", DEP| ESPN EXTRA SUR (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/101210
 #EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN PREMIUM | FHD (LT)" tvg-logo="http://tv.streamid.tv:8080/images/2c0da48d13ac24148b43c496143fb4ab.png" group-title="DEPORTES", DEP| ESPN PREMIUM | FHD (LT)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58428
@@ -476,7 +476,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/66293
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/66292
 #EXTINF:-1 tvg-id="" tvg-name="DEP| TUDN | FHD" tvg-logo="http://tv.streamid.tv:8080/images/e6df90ef112b672b846db7b5e708ee7a.png" group-title="DEPORTES", DEP| TUDN | FHD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/66291
-#EXTINF:-1 tvg-id="" tvg-name="DEP| TYC SPORTS INTERNACIONAL" tvg-logo="" group-title="DEPORTES", DEP| TYC SPORTS INTERNACIONAL
+#EXTINF:-1 tvg-id="[CL] TyC Sports.cl" tvg-name="DEP| TYC SPORTS INTERNACIONAL" tvg-logo="" group-title="DEPORTES", DEP| TYC SPORTS INTERNACIONAL
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/177692
 #EXTINF:-1 tvg-id="" tvg-name="DEP| UFC LIVE HD" tvg-logo="http://tv.streamid.tv:8080/images/f4ee9be72dac14cae8d8d2b5e5807430.jpg" group-title="DEPORTES", DEP| UFC LIVE HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/595
