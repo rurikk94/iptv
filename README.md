@@ -1,3 +1,3 @@
 # iptv
 
-https://www.bevy.be/pdownload.php?file=jmQcr6fwJB.xml
+https://www.open-epg.com/generate/jmQcr6fwJB.xml
