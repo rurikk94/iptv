@@ -712,13 +712,13 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198659
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198660
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | CLARO SPORTS" tvg-logo="" group-title="DEPORTES ESPAÑA", DEP ES | CLARO SPORTS
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/204415
-#EXTINF:-1 tvg-id="" tvg-name="DEP ES | DAZN 1" tvg-logo="http://tv.streamid.tv:8080/images/6054d7deb6aa862bc61b2de35c665cc3.png" group-title="DEPORTES ESPAÑA", DEP ES | DAZN 1
+#EXTINF:-1 tvg-id="DAZN 1.es" tvg-name="DEP ES | DAZN 1" tvg-logo="http://tv.streamid.tv:8080/images/6054d7deb6aa862bc61b2de35c665cc3.png" group-title="DEPORTES ESPAÑA", DEP ES | DAZN 1
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/200896
-#EXTINF:-1 tvg-id="" tvg-name="DEP ES | DAZN 2" tvg-logo="http://tv.streamid.tv:8080/images/e0049fc48b29a4f60d333c049df78e97.png" group-title="DEPORTES ESPAÑA", DEP ES | DAZN 2
+#EXTINF:-1 tvg-id="DAZN 2.es" tvg-name="DEP ES | DAZN 2" tvg-logo="http://tv.streamid.tv:8080/images/e0049fc48b29a4f60d333c049df78e97.png" group-title="DEPORTES ESPAÑA", DEP ES | DAZN 2
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/200897
-#EXTINF:-1 tvg-id="" tvg-name="DEP ES | DAZN 3" tvg-logo="http://tv.streamid.tv:8080/images/7e246c5112bdd122553c54f8445cb66c.png" group-title="DEPORTES ESPAÑA", DEP ES | DAZN 3
+#EXTINF:-1 tvg-id="DAZN 3.es" tvg-name="DEP ES | DAZN 3" tvg-logo="http://tv.streamid.tv:8080/images/7e246c5112bdd122553c54f8445cb66c.png" group-title="DEPORTES ESPAÑA", DEP ES | DAZN 3
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/200898
-#EXTINF:-1 tvg-id="" tvg-name="DEP ES | DAZN 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest?cb=20220119162341" group-title="DEPORTES ESPAÑA", DEP ES | DAZN 4
+#EXTINF:-1 tvg-id="DAZN 4.es" tvg-name="DEP ES | DAZN 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest?cb=20220119162341" group-title="DEPORTES ESPAÑA", DEP ES | DAZN 4
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/200899
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | DAZN FHD SPAIN " tvg-logo="http://tv.streamid.tv:8080/images/5ca99dc9178fd3c0ccd86551fb4b0432.png" group-title="DEPORTES ESPAÑA", DEP ES | DAZN FHD SPAIN
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/23134
@@ -1978,11 +1978,11 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199785
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199780
 #EXTINF:-1 tvg-id="Nat Geo Wild.es" tvg-name="CUL• NAT GEO WILD (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/6afbee7dbb0a389991dc90e711ca0003.png" group-title="CULTURA", CUL• NAT GEO WILD (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199781
-#EXTINF:-1 tvg-id="TLC HD.cl" tvg-name="CUL• TLC (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/406b125e4d0dac356230eb8bac4226e3.png" group-title="CULTURA", CUL• TLC (HD) »1«
+#EXTINF:-1 tvg-id="Canal.TLC.(México).mx" tvg-name="CUL• TLC (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/406b125e4d0dac356230eb8bac4226e3.png" group-title="CULTURA", CUL• TLC (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199765
-#EXTINF:-1 tvg-id="TLC HD.cl" tvg-name="CUL• TLC (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/406b125e4d0dac356230eb8bac4226e3.png" group-title="CULTURA", CUL• TLC (HD) »2«
+#EXTINF:-1 tvg-id="Canal.TLC.(México).mx" tvg-name="CUL• TLC (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/406b125e4d0dac356230eb8bac4226e3.png" group-title="CULTURA", CUL• TLC (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199766
-#EXTINF:-1 tvg-id="TLC HD.cl" tvg-name="CUL• TLC (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/406b125e4d0dac356230eb8bac4226e3.png" group-title="CULTURA", CUL• TLC (HD) »3«
+#EXTINF:-1 tvg-id="Canal.TLC.(México).mx" tvg-name="CUL• TLC (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/406b125e4d0dac356230eb8bac4226e3.png" group-title="CULTURA", CUL• TLC (HD) »3«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199767
 #EXTINF:-1 tvg-id="" tvg-name="CUL• TRU TV (HD)" tvg-logo="http://tv.streamid.tv:8080/images/3b2eebd47141e9e72fa971760a73088d.png" group-title="CULTURA", CUL• TRU TV (HD)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199762
