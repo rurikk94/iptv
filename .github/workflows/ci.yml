@@ -3,8 +3,8 @@ name: GET_EPG
 on:
   schedule:
     - cron: '0 */6 * * *'
-  # push:
-  #   branches: [ 'main']
+  push:
+    branches: [ 'qa']
 
 jobs:
 
