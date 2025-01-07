@@ -24,6 +24,7 @@ incluir = [
     "CARTOONITO.cl",
     "CHV.cl",
     "Canal.Cinecanal.(México).mx",
+    "Cinemax.co",
     "DAZN 1.es",
     "DAZN 2.es",
     "DAZN 3.es",

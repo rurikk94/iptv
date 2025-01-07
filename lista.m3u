@@ -1538,19 +1538,19 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1903
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4878
 #EXTINF:-1 tvg-id="" tvg-name="CINE | CINEMA DINAMITA HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/0236a3d6012e55b40b92bf41d10bbf64.png" group-title="CINE", CINE | CINEMA DINAMITA HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58750
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINEMAX (lt)" tvg-logo="http://tv.streamid.tv:8080/images/bd3ff76ddbc17b43091ca4d5a80a458d.png" group-title="CINE", CINE | CINEMAX (lt)
+#EXTINF:-1 tvg-id="Cinemax.co" tvg-name="CINE | CINEMAX (lt)" tvg-logo="http://tv.streamid.tv:8080/images/bd3ff76ddbc17b43091ca4d5a80a458d.png" group-title="CINE", CINE | CINEMAX (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4879
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINEMAX ACTION FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/9f9c63332b19dfa33deeaf6d4a7464c2.png" group-title="CINE", CINE | CINEMAX ACTION FHD (mv)
+#EXTINF:-1 tvg-id="Cinemax.co" tvg-name="CINE | CINEMAX ACTION FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/9f9c63332b19dfa33deeaf6d4a7464c2.png" group-title="CINE", CINE | CINEMAX ACTION FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58752
 #EXTINF:-1 tvg-id="" tvg-name="CINE | CINEMAX EAST FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/9f9c63332b19dfa33deeaf6d4a7464c2.png" group-title="CINE", CINE | CINEMAX EAST FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58753
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINEMAX ESPANOL USA HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="CINE", CINE | CINEMAX ESPANOL USA HD (mv)
+#EXTINF:-1 tvg-id="Canal.Cinemax.(México).mx" tvg-name="CINE | CINEMAX ESPANOL USA HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="CINE", CINE | CINEMAX ESPANOL USA HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58751
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINEMAX FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="CINE", CINE | CINEMAX FHD (mv)
+#EXTINF:-1 tvg-id="Cinemax.co" tvg-name="CINE | CINEMAX FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="CINE", CINE | CINEMAX FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58754
-#EXTINF:-1 tvg-id="" tvg-name="CINE | Cinemax FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CINE", CINE | Cinemax FHD (P)
+#EXTINF:-1 tvg-id="Cinemax.co" tvg-name="CINE | Cinemax FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CINE", CINE | Cinemax FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1904
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINEMAX HD (CLARO)" tvg-logo="http://tv.streamid.tv:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="CINE", CINE | CINEMAX HD (CLARO)
+#EXTINF:-1 tvg-id="Canal.Cinemax.(México).mx" tvg-name="CINE | CINEMAX HD (CLARO)" tvg-logo="http://tv.streamid.tv:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="CINE", CINE | CINEMAX HD (CLARO)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58755
 #EXTINF:-1 tvg-id="" tvg-name="CINE | DE PELICULA (lt)" tvg-logo="http://tv.streamid.ga:8080/images/da70a8061beae45841b15f7ea17e3662.png" group-title="CINE", CINE | DE PELICULA (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4880

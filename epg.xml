@@ -30,6 +30,18 @@
 		<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png"></icon>
 		<url>http://www.gatotv.com</url>
 	</channel>
+	<channel id="AMC.co">
+		<display-name lang="es">AMC</display-name>
+		<icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png"></icon>
+		<icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png"></icon>
+		<url>http://www.movistar.co</url>
+	</channel>
+	<channel id="Cinemax.co">
+		<display-name lang="es">Cinemax</display-name>
+		<icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512485_54EA3938DE90CEEE.png"></icon>
+		<icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512485_54EA3938DE90CEEE.png"></icon>
+		<url>http://www.movistar.co</url>
+	</channel>
 	<channel id="[CL] AMC.cl">
 		<display-name>[CL] AMC.cl</display-name>
 	</channel>
@@ -3427,6 +3439,937 @@
 		<star-rating system="MX">
 			<value>8.0</value>
 		</star-rating>
+	</programme>
+	<programme start="20250106174000 +0000" stop="20250106193000 +0000" channel="AMC.co">
+		<title lang="es">Mi vida en Grecia</title>
+		<desc lang="es">Georgia trabaja como guía en una agencia de viajes griega donde lidia con estrafalarios turistas más interesados en comprar souvenirs que visitar Grecia. Mientras acompaña a un grupo, ella misma empieza a ver la vida de otra manera.</desc>
+		<date>2009</date>
+		<country lang="es">US</country>
+		<country lang="es">ES</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250106193000 +0000" stop="20250106212000 +0000" channel="AMC.co">
+		<title lang="es">Chicas pesadas 2</title>
+		<desc lang="es">Jo es una adolescente de 17 años que vive con su padre. En su primer día en una escuela secundaria nueva conoce a Abby, una chica marginada de la que se hace amiga. Pronto, Jo y Abby se alían para destronar a las chicas malas.</desc>
+		<date>2011</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250106212000 +0000" stop="20250106230500 +0000" channel="AMC.co">
+		<title lang="es">Amenaza roja</title>
+		<desc lang="es">Después de que las tropas norcoreanas se adueñan de su ciudad, un grupo de jóvenes americanos de Spokane, entre los que hay un veterano de la guerra de Irak, se refugian en los bosques y forman una guerrilla para atacar al enemigo.</desc>
+		<date>2012</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250106230500 +0000" stop="20250107005500 +0000" channel="AMC.co">
+		<title lang="es">Venganza letal</title>
+		<desc lang="es">Un expresidiario quiere vengar la muerte de su hermano, ocurrida años antes, cuando ambos daban un golpe. Un veterano policía, al mismo tiempo que lo persigue, intenta averiguar quiénes fueron los culpables del asesinato.</desc>
+		<date>2010</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250107005500 +0000" stop="20250107030000 +0000" channel="AMC.co">
+		<title lang="es">La llegada</title>
+		<desc lang="es">El gobierno contrata a una lingüista para que se comunique con unos alienígenas que han llegado a la Tierra. Conforme ella aprende su idioma, va experimentando regresiones que desvelan la verdadera misión que les ha llevado hasta nuestro planeta.</desc>
+		<date>2016</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250107030000 +0000" stop="20250107051000 +0000" channel="AMC.co">
+		<title lang="es">John Wick 2: Un nuevo día para matar</title>
+		<desc lang="es">El legendario sicario John Wick abandona su retiro cuando, debido a un pacto de sangre, se ve obligado a viajar a Roma para enfrentarse a los asesinos más peligrosos del mundo y aniquilar a una organización secreta.</desc>
+		<date>2017</date>
+		<country lang="es">US</country>
+		<country lang="es">IT</country>
+		<country lang="es">HK</country>
+		<country lang="es">CA</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250107051000 +0000" stop="20250107072500 +0000" channel="AMC.co">
+		<title lang="es">John Wick 3: Parabellum</title>
+		<desc lang="es">El legendario John Wick debe abrirse camino por las calles de Nueva York mientras los asesinos más despiadados del mundo intentan cobrar la recompensa de 14 millones de dólares por su cabeza.</desc>
+		<date>2019</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250107072500 +0000" stop="20250107094000 +0000" channel="AMC.co">
+		<title lang="es">La villana</title>
+		<desc lang="es">Educada para ser una asesina implacable, Sook-hee es reclutada por el servicio de inteligencia coreano para fingir ser una actriz y actuar como agente durmiente. Cuando dos hombres entran en su vida, la aparente calma de su nueva rutina estalla.</desc>
+		<date>2017</date>
+		<country lang="es">KR</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250107094000 +0000" stop="20250107113000 +0000" channel="AMC.co">
+		<title lang="es">La venganza perfecta</title>
+		<desc lang="es">Dos asesinos aceptan el encargo de una cliente misteriosa, pero una mujer se inmiscuye en su misión y cambia por completo el plan que habían trazado.</desc>
+		<date>2018</date>
+		<country lang="es">IE</country>
+		<country lang="es">GB</country>
+		<country lang="es">HK</country>
+		<country lang="es">HU</country>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>AGE228</value>
+		</rating>
+	</programme>
+	<programme start="20250107113000 +0000" stop="20250107120000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>AGE228</value>
+		</rating>
+	</programme>
+	<programme start="20250107120000 +0000" stop="20250107123000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250107123000 +0000" stop="20250107130000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250107130000 +0000" stop="20250107133000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250107133000 +0000" stop="20250107140000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250107140000 +0000" stop="20250107143000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>AGE228</value>
+		</rating>
+	</programme>
+	<programme start="20250107143000 +0000" stop="20250107150000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250107150000 +0000" stop="20250107153000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250107153000 +0000" stop="20250107160000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250107160000 +0000" stop="20250107172000 +0000" channel="AMC.co">
+		<title lang="es">Lo inevitable</title>
+		<desc lang="es">Una familia se refugia en una casa de campo horas antes de que se anuncie el fin del mundo. Pero la aparición de un intruso, quien dice ser un salvador, pone a la familia en riesgo.</desc>
+		<date>2021</date>
+		<country lang="es">AR</country>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250107172000 +0000" stop="20250107190500 +0000" channel="AMC.co">
+		<title lang="es">Mi madre y yo</title>
+		<desc lang="es">Una fotógrafa embarazada captura su maternidad en un film mientras examina la relación que tiene con su madre.</desc>
+		<date>2016</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250107190500 +0000" stop="20250107211000 +0000" channel="AMC.co">
+		<title lang="es">Max</title>
+		<desc lang="es">Max es un perro militar traumatizado tras perder a su mejor amigo en Afganistán, el marine estadounidense Kyle Wincott. Incapaz de continuar en servicio, el perro es adoptado por la familia de Kyle.</desc>
+		<date>2015</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250107211000 +0000" stop="20250107225500 +0000" channel="AMC.co">
+		<title lang="es">La persecución</title>
+		<desc lang="es">Un tiburón de las finanzas y su joven guía participan en un peligroso juego durante un viaje de caza al desierto del Mojave.</desc>
+		<date>2014</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250107225500 +0000" stop="20250108012000 +0000" channel="AMC.co">
+		<title lang="es">La saga Crepúsculo: Luna nueva</title>
+		<desc lang="es">Edward Cullen abandona a Bella Swan para mantenerla alejada de los peligros del mundo de los vampiros. Bella busca consuelo en Jacob Black, su amigo de la infancia, mientras se relaciona con los hombres lobo, enemigos de los vampiros.</desc>
+		<date>2009</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250108012000 +0000" stop="20250108030000 +0000" channel="AMC.co">
+		<title lang="es">Pig</title>
+		<desc lang="es">Un cazador de trufas viaja a Portland desde el desierto de Oregon para encontrar a la persona que robó a su amado cerdo.</desc>
+		<date>2021</date>
+		<country lang="es">GB</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250108030000 +0000" stop="20250108050500 +0000" channel="AMC.co">
+		<title lang="es">Cuenta regresiva</title>
+		<desc lang="es">Después de leer unas predicciones terribles en una cápsula del tiempo, un profesor de astronomía cree que su familia jugará un papel importante en unos eventos que están por suceder.</desc>
+		<date>2009</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250108050500 +0000" stop="20250108071500 +0000" channel="AMC.co">
+		<title lang="es">John Wick 2: Un nuevo día para matar</title>
+		<desc lang="es">El legendario sicario John Wick abandona su retiro cuando, debido a un pacto de sangre, se ve obligado a viajar a Roma para enfrentarse a los asesinos más peligrosos del mundo y aniquilar a una organización secreta.</desc>
+		<date>2017</date>
+		<country lang="es">US</country>
+		<country lang="es">IT</country>
+		<country lang="es">HK</country>
+		<country lang="es">CA</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250108071500 +0000" stop="20250108093000 +0000" channel="AMC.co">
+		<title lang="es">John Wick 3: Parabellum</title>
+		<desc lang="es">El legendario John Wick debe abrirse camino por las calles de Nueva York mientras los asesinos más despiadados del mundo intentan cobrar la recompensa de 14 millones de dólares por su cabeza.</desc>
+		<date>2019</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250108093000 +0000" stop="20250108111000 +0000" channel="AMC.co">
+		<title lang="es">Los curados</title>
+		<desc lang="es">Una enfermedad que convierte a los infectados en zombis caníbales arrasa Europa. Años más tarde, habiendo encontrado una cura, los antiguos enfermos se reintegran en la sociedad pero recuerdan perfectamente las atrocidades que cometieron.</desc>
+		<date>2017</date>
+		<country lang="es">IE</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250108111000 +0000" stop="20250108113500 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250108113500 +0000" stop="20250108120000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250108120000 +0000" stop="20250108123000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250108123000 +0000" stop="20250108130000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250108130000 +0000" stop="20250108133000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250108133000 +0000" stop="20250108140000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250108140000 +0000" stop="20250108143000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250108143000 +0000" stop="20250108150000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250108150000 +0000" stop="20250108153000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250108153000 +0000" stop="20250108160000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250108160000 +0000" stop="20250108180500 +0000" channel="AMC.co">
+		<title lang="es">Stargate, la puerta del tiempo</title>
+		<desc lang="es">Un equipo de militares y un científico parten hacia un planeta desconocido a través de una puerta estelar descubierta en una excavación en Egipto.</desc>
+		<date>1994</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250108180500 +0000" stop="20250108195000 +0000" channel="AMC.co">
+		<title lang="es">Fluke</title>
+		<desc lang="es">Un hombre se reencarna en un perro después de un fatal accidente y trata de encontrar a su antigua familia.</desc>
+		<date>1995</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250108195000 +0000" stop="20250108213000 +0000" channel="AMC.co">
+		<title lang="es">Jumper</title>
+		<desc lang="es">La habilidad de un joven para teletransportarse a cualquier parte del mundo lo convierte en blanco de personas que desean matarlo y de otros parecidos a él.</desc>
+		<date>2008</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250108213000 +0000" stop="20250108231000 +0000" channel="AMC.co">
+		<title lang="es">El campamento de papá</title>
+		<desc lang="es">Charlie Hinton y Phil Ryerson asumen la dirección de un campamento de verano. Su desconocimiento de los grandes espacios abiertos, unas instalaciones destrozadas y un grupo de campistas hacen que la situación se les vaya de las manos.</desc>
+		<date>2007</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250108231000 +0000" stop="20250109005500 +0000" channel="AMC.co">
+		<title lang="es">Chicas pesadas 2</title>
+		<desc lang="es">Jo es una adolescente de 17 años que vive con su padre. En su primer día en una escuela secundaria nueva conoce a Abby, una chica marginada de la que se hace amiga. Pronto, Jo y Abby se alían para destronar a las chicas malas.</desc>
+		<date>2011</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250109005500 +0000" stop="20250109030000 +0000" channel="AMC.co">
+		<title lang="es">Golpe bajo: El juego final</title>
+		<desc lang="es">En una cárcel de Texas, veteranos de la NFL entrenan a sus compañeros para un juego contra los guardias del penal.</desc>
+		<date>2005</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250109030000 +0000" stop="20250109050000 +0000" channel="AMC.co">
+		<title lang="es">Cartas a Julieta</title>
+		<desc lang="es">En Italia, una joven encuentra una carta de amor para Julieta Capuleto y decide investigar para encontrar al autor.</desc>
+		<date>2010</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250109050000 +0000" stop="20250109064000 +0000" channel="AMC.co">
+		<title lang="es">Negocios fuera de control</title>
+		<desc lang="es">Dan Turkman decide crear su propia empresa, formada por dos socios: un joven sin experiencia y un hombre demasiado viejo. El trío vuela a Europa para acometer un viaje de negocios que deriva en situaciones estrambóticas inimaginables.</desc>
+		<date>2015</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250109064000 +0000" stop="20250109082000 +0000" channel="AMC.co">
+		<title lang="es">Jaque al asesino</title>
+		<desc lang="es">Un hombre se despierta en la cama de un hospital sin recordar quién es y descubre que la policía lo busca por cometer una serie de asesinatos.</desc>
+		<date>2019</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250109082000 +0000" stop="20250109100000 +0000" channel="AMC.co">
+		<title lang="es">El juego del miedo VII 3D</title>
+		<desc lang="es">Mientras estalla una mortal batalla a causa del legado de Jigsaw, un grupo de supervivientes busca el apoyo de Bobby Dagen, gurú de la autoayuda, un hombre con oscuros secretos que desatará una nueva oleada de terror.</desc>
+		<date>2010</date>
+		<country lang="es">US</country>
+		<country lang="es">CA</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250109100000 +0000" stop="20250109103000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250109103000 +0000" stop="20250109110000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250109110000 +0000" stop="20250109113000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250109113000 +0000" stop="20250109120000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250109120000 +0000" stop="20250109123000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250109123000 +0000" stop="20250109130000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250109130000 +0000" stop="20250109133000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250109133000 +0000" stop="20250109140000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250109140000 +0000" stop="20250109143000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>AGE228</value>
+		</rating>
+	</programme>
+	<programme start="20250109143000 +0000" stop="20250109150000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>AGE228</value>
+		</rating>
+	</programme>
+	<programme start="20250109150000 +0000" stop="20250109153000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>AGE228</value>
+		</rating>
+	</programme>
+	<programme start="20250109153000 +0000" stop="20250109160000 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250109160000 +0000" stop="20250109162500 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250109162500 +0000" stop="20250109181000 +0000" channel="AMC.co">
+		<title lang="es">La persecución</title>
+		<desc lang="es">Un tiburón de las finanzas y su joven guía participan en un peligroso juego durante un viaje de caza al desierto del Mojave.</desc>
+		<date>2014</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250109181000 +0000" stop="20250109183500 +0000" channel="AMC.co">
+		<title lang="es">Planet Action</title>
+		<desc lang="es">El detrás de las escenas de las películas de acción más importantes de Hollywood para ver los lugares de rodaje famosos y aprender cómo se crea la magia de las películas de acción.</desc>
+		<date>2024</date>
+		<rating system="MJColombia">
+			<value>TE</value>
+		</rating>
+	</programme>
+	<programme start="20250109183500 +0000" stop="20250109204500 +0000" channel="AMC.co">
+		<title lang="es">Cómo saber si es amor</title>
+		<desc lang="es">Una mujer reflexiona sobre el significado del amor, cuando queda atrapada en un triángulo romántico con un jugador de béisbol profesional y un hombre acusado de fraude.</desc>
+		<date>2010</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250109204500 +0000" stop="20250109224500 +0000" channel="AMC.co">
+		<title lang="es">Cartas a Julieta</title>
+		<desc lang="es">En Italia, una joven encuentra una carta de amor para Julieta Capuleto y decide investigar para encontrar al autor.</desc>
+		<date>2010</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250109224500 +0000" stop="20250110005000 +0000" channel="AMC.co">
+		<title lang="es">Golpe bajo: El juego final</title>
+		<desc lang="es">En una cárcel de Texas, veteranos de la NFL entrenan a sus compañeros para un juego contra los guardias del penal.</desc>
+		<date>2005</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250106172700 +0000" stop="20250106191800 +0000" channel="Cinemax.co">
+		<title lang="es">La herencia del Sr. Deeds</title>
+		<desc lang="es">Una reportera intenta crear un escándalo que involucra al bondadoso heredero de la fortuna de un magnate de los medios.</desc>
+		<date>2002</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250106191800 +0000" stop="20250106211700 +0000" channel="Cinemax.co">
+		<title lang="es">Te amaré por siempre</title>
+		<desc lang="es">Clare ha estado enamorada de Henry toda su vida. El problema es que Henry tiene una anomalía genética que lo condena a vivir su vida en una escala de tiempo cambiante y viajar al pasado y futuro, por lo que Clare nunca sabe cuándo podrán verse.</desc>
+		<date>2009</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250106211700 +0000" stop="20250106231800 +0000" channel="Cinemax.co">
+		<title lang="es">Solicitud de admisión</title>
+		<desc lang="es">Una oficial de admisiones de la Universidad de Princeton piensa que un solicitante precoz de una escuela secundaria experimental podría ser el hijo que dio en adopción.</desc>
+		<date>2013</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250106231800 +0000" stop="20250107011300 +0000" channel="Cinemax.co">
+		<title lang="es">17 otra vez</title>
+		<desc lang="es">Mike, un hombre de 37 años, recibe una segunda oportunidad para cambiar su vida cuando, una mañana, se despierta teniendo diecisiete años otra vez.</desc>
+		<date>2009</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250107011300 +0000" stop="20250107030000 +0000" channel="Cinemax.co">
+		<title lang="es">El paseo</title>
+		<desc lang="es">Las aventuras de la familia Peinado que realiza un viaje en carro desde Bogotá a Cartagena, Colombia.</desc>
+		<date>2010</date>
+		<rating system="MJColombia">
+			<value>AGE228</value>
+		</rating>
+	</programme>
+	<programme start="20250107030000 +0000" stop="20250107035500 +0000" channel="Cinemax.co">
+		<title lang="es">El inmortal</title>
+		<sub-title lang="es">El traidor</sub-title>
+		<desc lang="es">La vuelta de un rehabilitado Sebas se convierte en un respiro para José Antonio, que no atraviesa su mejor momento, pero una nueva traición pondrá patas arriba los intereses del núcleo de la banda.</desc>
+		<date>2022</date>
+		<episode-num system="onscreen">E7</episode-num>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250107035500 +0000" stop="20250107053900 +0000" channel="Cinemax.co">
+		<title lang="es">El paseo 2</title>
+		<date>2012</date>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250107053900 +0000" stop="20250107075200 +0000" channel="Cinemax.co">
+		<title lang="es">El contador</title>
+		<desc lang="es">Un agente del tesoro persigue a un contador que trabaja para varias organizaciones criminales. Mientras más cerca de su nuca siente a la justicia, el contador va tomando medidas más drásticas para mantener a salvo su doble vida y su libertad.</desc>
+		<date>2016</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250107075200 +0000" stop="20250107092900 +0000" channel="Cinemax.co">
+		<title lang="es">Confesiones</title>
+		<desc lang="es">Una persona rica es secuestrada en Ciudad de México. Horas después, un hombre se presenta en el domicilio de la familia para exigir, a cambio de la liberación, no dinero, sino la confesión de un acto atroz cometido por uno de ellos.</desc>
+		<date>2023</date>
+		<country lang="es">MX</country>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250107092900 +0000" stop="20250107110000 +0000" channel="Cinemax.co">
+		<title lang="es">Posesión infernal</title>
+		<desc lang="es">En una remota cabaña en el bosque, cinco amigos descubren un Libro de la Muerte y sin querer convocan a un demonio antiguo. Las entidades malévolas poseen a cada una de las personas, hasta que sólo uno queda intacto para sobrevivir.</desc>
+		<date>2013</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250107110000 +0000" stop="20250107123600 +0000" channel="Cinemax.co">
+		<title lang="es">Firewall</title>
+		<desc lang="es">Jack Stanfield ha diseñado los mejores sistemas informáticos antirrobo de la industria. Pero el sistema ideal de Jack tiene un punto débil en el que no había reparado: él mismo. Un ladrón está dispuesto a sacar partido de esa debilidad.</desc>
+		<date>2006</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250107123600 +0000" stop="20250107150100 +0000" channel="Cinemax.co">
+		<title lang="es">El peleador</title>
+		<desc lang="es">Después de haber ganado una oportunidad por un campeonato del mundo, el boxeador Micky Ward se reúne con su hermano distanciado para entrenar para el combate y convertirse en el nuevo orgullo de Lowell.</desc>
+		<date>2010</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250107150100 +0000" stop="20250107172300 +0000" channel="Cinemax.co">
+		<title lang="es">Protegiendo al enemigo</title>
+		<desc lang="es">Después de apenas escapar del ataque de unos mercenarios, un agente novato y un policía renegado deben unir fuerzas y descubrir quién los quiere muertos.</desc>
+		<date>2012</date>
+		<country lang="es">US</country>
+		<country lang="es">ZA</country>
+		<country lang="es">JP</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250107172300 +0000" stop="20250107200700 +0000" channel="Cinemax.co">
+		<title lang="es">Ángeles y demonios</title>
+		<desc lang="es">Robert Langdon, un profesor experto en temas religiosos de la Universidad de Harvard, descubre evidencias del resurgimiento de la hermandad secreta y clandestina más poderosa de la historia: Los Iluminados.</desc>
+		<date>2009</date>
+		<country lang="es">US</country>
+		<country lang="es">IT</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250107200700 +0000" stop="20250107221700 +0000" channel="Cinemax.co">
+		<title lang="es">Firewall</title>
+		<desc lang="es">Jack Stanfield ha diseñado los mejores sistemas informáticos antirrobo de la industria. Pero el sistema ideal de Jack tiene un punto débil en el que no había reparado: él mismo. Un ladrón está dispuesto a sacar partido de esa debilidad.</desc>
+		<date>2006</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250107221700 +0000" stop="20250108003500 +0000" channel="Cinemax.co">
+		<title lang="es">El peleador</title>
+		<desc lang="es">Después de haber ganado una oportunidad por un campeonato del mundo, el boxeador Micky Ward se reúne con su hermano distanciado para entrenar para el combate y convertirse en el nuevo orgullo de Lowell.</desc>
+		<date>2010</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250108003500 +0000" stop="20250108030000 +0000" channel="Cinemax.co">
+		<title lang="es">Protegiendo al enemigo</title>
+		<desc lang="es">Después de apenas escapar del ataque de unos mercenarios, un agente novato y un policía renegado deben unir fuerzas y descubrir quién los quiere muertos.</desc>
+		<date>2012</date>
+		<country lang="es">US</country>
+		<country lang="es">ZA</country>
+		<country lang="es">JP</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250108030000 +0000" stop="20250108050300 +0000" channel="Cinemax.co">
+		<title lang="es">John Wick: Sin control</title>
+		<desc lang="es">La ciudad de Nueva York se llena de balas cuando John Wick, un exasesino a sueldo, enfrenta a los mafiosos rusos que destruyeron todo aquello que él amaba y pusieron precio a su cabeza.</desc>
+		<date>2014</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250108050300 +0000" stop="20250108072800 +0000" channel="Cinemax.co">
+		<title lang="es">Pequeños secretos</title>
+		<desc lang="es">Un sheriff y un detective de homicidios colaboran para dar caza a un astuto asesino en Los Ángeles. Mientras rastrean al culpable, el pasado de uno de ellos comienza a salir a la luz y puede poner en peligro la investigación.</desc>
+		<date>2021</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250108072800 +0000" stop="20250108091000 +0000" channel="Cinemax.co">
+		<title lang="es">John Wick: Sin control</title>
+		<desc lang="es">La ciudad de Nueva York se llena de balas cuando John Wick, un exasesino a sueldo, enfrenta a los mafiosos rusos que destruyeron todo aquello que él amaba y pusieron precio a su cabeza.</desc>
+		<date>2014</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250108091000 +0000" stop="20250108110000 +0000" channel="Cinemax.co">
+		<title lang="es">Pequeños secretos</title>
+		<desc lang="es">Un sheriff y un detective de homicidios colaboran para dar caza a un astuto asesino en Los Ángeles. Mientras rastrean al culpable, el pasado de uno de ellos comienza a salir a la luz y puede poner en peligro la investigación.</desc>
+		<date>2021</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250108110000 +0000" stop="20250108132300 +0000" channel="Cinemax.co">
+		<title lang="es">Zathura: Una aventura fuera de este mundo</title>
+		<desc lang="es">Dos hermanos encuentran un juego de mesa llamado Zathura. Danny empieza a jugar solo y, desde la primera jugada, se da cuenta de que no es un juego de mesa normal: la ficha de la nave espacial se mueve sola y lanza mensajes que se cumplen.</desc>
+		<date>2005</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250108132300 +0000" stop="20250108155200 +0000" channel="Cinemax.co">
+		<title lang="es">Blancanieves y el cazador</title>
+		<desc lang="es">Un cazador es enviado por una reina malvada a que capture a una princesa fugitiva, pero el hombre se convierte en su protector y la ayuda en su búsqueda para recuperar el control del reino.</desc>
+		<date>2012</date>
+		<country lang="es">US</country>
+		<country lang="es">GB</country>
+		<country lang="es">JP</country>
+		<rating system="MJColombia">
+			<value>AGE228</value>
+		</rating>
+	</programme>
+	<programme start="20250108155200 +0000" stop="20250108174900 +0000" channel="Cinemax.co">
+		<title lang="es">La gran muralla</title>
+		<desc lang="es">Encarcelado en la estructura de la Gran Muralla, en la China del siglo XV, un guerrero mercenario sella una alianza con un ejército secreto para enfrentar una horda de criaturas monstruosas.</desc>
+		<date>2016</date>
+		<country lang="es">CN</country>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250108174900 +0000" stop="20250108202800 +0000" channel="Cinemax.co">
+		<title lang="es">Misión: Imposible - Protocolo fantasma</title>
+		<desc lang="es">Cuando la FMI es implicada en un plan terrorista internacional y es cerrada, Ethan Hunt y su equipo deben trabajar de forma encubierta y esconderse para limpiar el nombre de la organización.</desc>
+		<date>2011</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250108202800 +0000" stop="20250108223100 +0000" channel="Cinemax.co">
+		<title lang="es">Zathura: Una aventura fuera de este mundo</title>
+		<desc lang="es">Dos hermanos encuentran un juego de mesa llamado Zathura. Danny empieza a jugar solo y, desde la primera jugada, se da cuenta de que no es un juego de mesa normal: la ficha de la nave espacial se mueve sola y lanza mensajes que se cumplen.</desc>
+		<date>2005</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250108223100 +0000" stop="20250109010000 +0000" channel="Cinemax.co">
+		<title lang="es">Blancanieves y el cazador</title>
+		<desc lang="es">Un cazador es enviado por una reina malvada a que capture a una princesa fugitiva, pero el hombre se convierte en su protector y la ayuda en su búsqueda para recuperar el control del reino.</desc>
+		<date>2012</date>
+		<country lang="es">US</country>
+		<country lang="es">GB</country>
+		<country lang="es">JP</country>
+		<rating system="MJColombia">
+			<value>AGE228</value>
+		</rating>
+	</programme>
+	<programme start="20250109010000 +0000" stop="20250109030000 +0000" channel="Cinemax.co">
+		<title lang="es">La gran muralla</title>
+		<desc lang="es">Encarcelado en la estructura de la Gran Muralla, en la China del siglo XV, un guerrero mercenario sella una alianza con un ejército secreto para enfrentar una horda de criaturas monstruosas.</desc>
+		<date>2016</date>
+		<country lang="es">CN</country>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250109030000 +0000" stop="20250109053800 +0000" channel="Cinemax.co">
+		<title lang="es">Misión: Imposible - Protocolo fantasma</title>
+		<desc lang="es">Cuando la FMI es implicada en un plan terrorista internacional y es cerrada, Ethan Hunt y su equipo deben trabajar de forma encubierta y esconderse para limpiar el nombre de la organización.</desc>
+		<date>2011</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250109053800 +0000" stop="20250109075000 +0000" channel="Cinemax.co">
+		<title lang="es">El sobreviviente</title>
+		<desc lang="es">Durante la guerra en Afganistán, un equipo de élite de las fuerzas especiales SEAL, liderado por Marcus Luttrell, tiene la misión de capturar al líder talibán Ahmad Shah, mientras cada uno trata de pelear por su vida.</desc>
+		<date>2013</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250109075000 +0000" stop="20250109093900 +0000" channel="Cinemax.co">
+		<title lang="es">El sabotaje</title>
+		<desc lang="es">Miembros de una fuerza de tarea de élite de la DEA son eliminados uno a uno luego de su exitoso robo en la casa de seguridad de un poderoso cartel del narcotráfico.</desc>
+		<date>2014</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250109093900 +0000" stop="20250109110000 +0000" channel="Cinemax.co">
+		<title lang="es">Cóctel explosivo</title>
+		<desc lang="es">Eva era lo más importante en la vida de su madre, Scarlet; pero sus enemigos obligaron a Scarlet a huir y abandonarlo todo, incluida a su hija. Años más tarde, Eva se convierte en una asesina a sangre fría sedienta de venganza.</desc>
+		<date>2021</date>
+		<country lang="es">FR</country>
+		<country lang="es">DE</country>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250109110000 +0000" stop="20250109135100 +0000" channel="Cinemax.co">
+		<title lang="es">Los indestructibles 2</title>
+		<desc lang="es">La venganza por la muerte de uno de sus mercenarios lleva a Barney Ross, junto con su equipo, a un enfrentamiento lleno de destrucción, en el que se encuentran con una amenaza inesperada: cerca de tres kilos de plutonio para armas.</desc>
+		<date>2012</date>
+		<country lang="es">US</country>
+		<country lang="es">DE</country>
+		<country lang="es">CN</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250109135100 +0000" stop="20250109163400 +0000" channel="Cinemax.co">
+		<title lang="es">El último gran héroe</title>
+		<desc lang="es">Un joven aficionado al cine es lanzado al interior de la pantalla con su héroe favorito tras recibir un boleto mágico.</desc>
+		<date>1993</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250109163400 +0000" stop="20250109183200 +0000" channel="Cinemax.co">
+		<title lang="es">Agente Salt</title>
+		<desc lang="es">Después de que un desertor la acusa de espiar para los rusos, una agente de la CIA decide huir e intenta encontrar la forma de probar su inocencia.</desc>
+		<date>2010</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250109183200 +0000" stop="20250109201900 +0000" channel="Cinemax.co">
+		<title lang="es">El único</title>
+		<desc lang="es">Gabriel Yulaw, un peligroso criminal, emprende un viaje a un universo paralelo para intentar eliminar a sus otros "yo", pero acaba enredado en una fatídica batalla.</desc>
+		<date>2001</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
+	</programme>
+	<programme start="20250109201900 +0000" stop="20250109221300 +0000" channel="Cinemax.co">
+		<title lang="es">Los indestructibles 2</title>
+		<desc lang="es">La venganza por la muerte de uno de sus mercenarios lleva a Barney Ross, junto con su equipo, a un enfrentamiento lleno de destrucción, en el que se encuentran con una amenaza inesperada: cerca de tres kilos de plutonio para armas.</desc>
+		<date>2012</date>
+		<country lang="es">US</country>
+		<country lang="es">DE</country>
+		<country lang="es">CN</country>
+		<rating system="MJColombia">
+			<value>+18</value>
+		</rating>
+	</programme>
+	<programme start="20250109221300 +0000" stop="20250110005900 +0000" channel="Cinemax.co">
+		<title lang="es">El último gran héroe</title>
+		<desc lang="es">Un joven aficionado al cine es lanzado al interior de la pantalla con su héroe favorito tras recibir un boleto mágico.</desc>
+		<date>1993</date>
+		<country lang="es">US</country>
+		<rating system="MJColombia">
+			<value>+14</value>
+		</rating>
 	</programme>
 	<programme start="20250105015500 +0000" stop="20250105040000 +0000" channel="[CL] AMC.cl">
 		<title>Sr. y Sra. Smith</title>
