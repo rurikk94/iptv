@@ -23,7 +23,7 @@ incluir = [
     "CARTOON NETWORK.mx",
     "CARTOONITO.cl",
     "CHV.cl",
-    "CINECANAL.mx",
+    "Canal.Cinecanal.(México).mx",
     "DAZN 1.es",
     "DAZN 2.es",
     "DAZN 3.es",
