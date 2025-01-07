@@ -3,8 +3,8 @@ name: GET_EPG
 on:
   schedule:
     - cron: '0 */6 * * *'
-  push:
-    branches: [ 'main']
+  # push:
+  #   branches: [ 'main']
 
 jobs:
 
@@ -39,8 +39,8 @@ jobs:
 
       - name: Add and commit changes
         run: |
-          git config --global user.name 'Sergio Mora'
-          git config --global user.email 'rurikk94@users.noreply.github.com'
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "EPG Updated on $(date -u)"
           git push
