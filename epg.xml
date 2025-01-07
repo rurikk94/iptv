@@ -30,6 +30,12 @@
 		<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png"></icon>
 		<url>http://www.gatotv.com</url>
 	</channel>
+	<channel id="Canal.Cinemax.(México).mx">
+		<display-name lang="es">Canal Cinemax (México)</display-name>
+		<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png"></icon>
+		<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png"></icon>
+		<url>http://www.gatotv.com</url>
+	</channel>
 	<channel id="AMC.co">
 		<display-name lang="es">AMC</display-name>
 		<icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png"></icon>
@@ -3439,6 +3445,340 @@
 		<star-rating system="MX">
 			<value>8.0</value>
 		</star-rating>
+	</programme>
+	<programme start="20250106001600 -0600" stop="20250106015200 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Shrek Tercero</title>
+		<desc lang="es">El puesto de Rey no es para cualquiera – especialmente si eres un ogro mal oliente. Cuando Shrek (Mike Myers) toma a Fiona como esposa, lo último que él ha querido es mandar el reino de Muy Muy Lejos, pero cuando su suegro el Rey Harold (John Cleese) muere repentinamente, Shrek es inmediatamente llamado a tomar el trono. Ahora a menos que encuentre un reemplazo para el difunto Rey Harold, Shrek deberá reinar por el resto de sus días.Como si no fueran suficientes problemas para Shrek, la Princesa Fiona tiene otra pequeña sorpresa. Aturdido por los deberes del reinado, Shrek tiene la tarea de encontrar el otro posible gobernante del reino de Muy Muy Lejos, el primo perdido de Fiona, Artie (Justin Timberlake), adolescente medieval. Mientras el ogro se encuentra fuera, su viejo némesis, el Príncipe Encantador (Rupert Everett) regresa al reino con su mente puesta en tomar el reinado. Incluso con el Burro (Eddie Murphy) y el Gato con Botas (Antonio Banderas) de su lado, será necesario hacer un esfuerzo del tamaño de ogros que incluye la ayuda de Fiona y su banda de princesas para ayudar a Shrek y Artie a salvar el día y encontrar su propio “Final Feliz”.</desc>
+		<credits>
+			<director>Chris Miller</director>
+			<director>Raman Hui</director>
+			<actor>Mike Myers</actor>
+			<actor>Cameron Diaz</actor>
+			<actor>Eddie Murphy</actor>
+			<actor>Antonio Banderas</actor>
+			<actor>Julie Andrews</actor>
+			<actor>John Cleese</actor>
+			<actor>Rupert Everett</actor>
+			<actor>Eric Idle</actor>
+			<producer>Aron Warner</producer>
+			<producer>Denise Nolan Cascino</producer>
+			<composer>Harry Gregson-Williams</composer>
+		</credits>
+		<date>2007</date>
+		<category lang="es">Animación</category>
+		<category lang="es">Aventura</category>
+		<category lang="es">Comedia</category>
+		<category lang="es">Fantasía</category>
+		<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_tercero.jpg"></icon>
+		<rating system="MX">
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20250106015200 -0600" stop="20250106033500 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Kick ass 2</title>
+	</programme>
+	<programme start="20250106033500 -0600" stop="20250106051900 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">American Pie 2</title>
+	</programme>
+	<programme start="20250106051900 -0600" stop="20250106061100 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Hollywood one on one</title>
+	</programme>
+	<programme start="20250106061100 -0600" stop="20250106084200 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Siempre hay tiempo para reir</title>
+	</programme>
+	<programme start="20250106084200 -0600" stop="20250106104200 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Karate Kid 2</title>
+	</programme>
+	<programme start="20250106104200 -0600" stop="20250106131000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Karate kid</title>
+	</programme>
+	<programme start="20250106131000 -0600" stop="20250106144700 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Turbo</title>
+		<desc lang="es">Theo “Turbo” (Ryan Reynolds) es un caracol de jardín que sueña con convertirse en el más grande corredor de carreras del mundo, tal como su héroe, el 5 veces ganador del Indianapolis 500, Guy Gagne. Un día luego de un gran accidente en de carreras de autos Theo adquiere poderes especiales que harán que su sueño esté más cerca que nunca de ser una realidad.</desc>
+		<credits>
+			<director>David Soren</director>
+			<actor>Ryan Reynolds</actor>
+			<actor>Michael Peña</actor>
+			<actor>Maya Rudolph</actor>
+			<actor>Paul Giamatti</actor>
+			<actor>Luis Guzman</actor>
+			<actor>Bill Hader</actor>
+			<producer>Lisa Stewart</producer>
+			<composer>Henry Jackman</composer>
+		</credits>
+		<date>2013</date>
+		<category lang="es">Animación</category>
+		<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/turbo.jpg"></icon>
+	</programme>
+	<programme start="20250106144700 -0600" stop="20250106162800 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Los Croods</title>
+		<desc lang="es">Los croods son la primera familia del mundo que viven protegidos en una cueva hasta que un día un terrible terremoto la destruye y ellos se ven forzados a abandonarla y se aventuran a un nuevo lugar con criaturas fabulosas y paisajes espectaculares donde deberán encontrar una nueva cueva para vivir.</desc>
+		<credits>
+			<director>Kirk DeMicco</director>
+			<director>Chris Sanders</director>
+			<actor>Nicolas Cage</actor>
+			<actor>Ryan Reynolds</actor>
+			<actor>Emma Stone</actor>
+			<actor>Catherine Keener</actor>
+			<actor>Clark Duke</actor>
+			<actor>Cloris Leachman</actor>
+			<producer>Kristine Belson</producer>
+			<producer>Jane Hartwell</producer>
+		</credits>
+		<date>2013</date>
+		<category lang="es">Animación</category>
+		<category lang="es">Aventura</category>
+		<category lang="es">Comedia</category>
+		<category lang="es">Infantil</category>
+		<category lang="es">Película</category>
+		<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_croods.jpg"></icon>
+		<rating system="MX">
+			<value>PG</value>
+		</rating>
+		<star-rating system="MX">
+			<value>7.0</value>
+		</star-rating>
+	</programme>
+	<programme start="20250106162800 -0600" stop="20250106175600 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Shaun, el cordero la película</title>
+	</programme>
+	<programme start="20250106175600 -0600" stop="20250106192800 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">El espanta tiburones</title>
+	</programme>
+	<programme start="20250106192800 -0600" stop="20250106210000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Los Pingüinos de Madagascar</title>
+		<desc lang="es">Los equipos de súper espías no nacen, se encuban. Descubre los secretos de los más grandes y divertidos pájaros encubiertos del espionaje mundial. En esta nueva aventura de nuestros conocidos agentes: Skipper, Kowalski, Rico y Cabo deberán salvar al mundo del villano Dr. Octavius Brine, quien planea destruir la tierra tal y como la conocemos.</desc>
+		<credits>
+			<director>Simon J. Smith</director>
+			<director>Eric Darnell</director>
+			<producer>Lara Breay</producer>
+			<producer>Tripp Hudson</producer>
+		</credits>
+		<date>2014</date>
+		<category lang="es">Animación</category>
+		<category lang="es">Aventura</category>
+		<category lang="es">Comedia</category>
+		<category lang="es">Familia</category>
+		<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_pinguinos_de_madagascar.jpg"></icon>
+		<rating system="MX">
+			<value>PG</value>
+		</rating>
+		<star-rating system="MX">
+			<value>8.0</value>
+		</star-rating>
+	</programme>
+	<programme start="20250106210000 -0600" stop="20250106233300 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Karate kid</title>
+	</programme>
+	<programme start="20250106233300 -0600" stop="20250107013600 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Karate Kid 2</title>
+	</programme>
+	<programme start="20250107013600 -0600" stop="20250107030300 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Los Pingüinos de Madagascar</title>
+		<desc lang="es">Los equipos de súper espías no nacen, se encuban. Descubre los secretos de los más grandes y divertidos pájaros encubiertos del espionaje mundial. En esta nueva aventura de nuestros conocidos agentes: Skipper, Kowalski, Rico y Cabo deberán salvar al mundo del villano Dr. Octavius Brine, quien planea destruir la tierra tal y como la conocemos.</desc>
+		<credits>
+			<director>Simon J. Smith</director>
+			<director>Eric Darnell</director>
+			<producer>Lara Breay</producer>
+			<producer>Tripp Hudson</producer>
+		</credits>
+		<date>2014</date>
+		<category lang="es">Animación</category>
+		<category lang="es">Aventura</category>
+		<category lang="es">Comedia</category>
+		<category lang="es">Familia</category>
+		<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_pinguinos_de_madagascar.jpg"></icon>
+		<rating system="MX">
+			<value>PG</value>
+		</rating>
+		<star-rating system="MX">
+			<value>8.0</value>
+		</star-rating>
+	</programme>
+	<programme start="20250107030300 -0600" stop="20250107042100 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">El inmortal</title>
+		<episode-num system="onscreen">S1 E6</episode-num>
+	</programme>
+	<programme start="20250107042100 -0600" stop="20250107060000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Ouija</title>
+		<desc lang="es">Un grupo de amigos deben enfrentar sus temores más aterradores cuando despierten los poderes oscuros de un tablero espiritual antiguo.</desc>
+		<credits>
+			<director>Stiles White</director>
+			<actor>Olivia Cooke</actor>
+			<actor>Daren Kagasoff</actor>
+			<actor>Douglas Smith</actor>
+			<actor>Bianca Santos</actor>
+			<actor>Shelley Hennig</actor>
+			<actor>Ana Coto</actor>
+			<actor>Lin Shaye</actor>
+			<producer>Jason Blum</producer>
+			<producer>Michael Bay</producer>
+			<composer>Anton Sanko</composer>
+		</credits>
+		<date>2014</date>
+		<category lang="es">Terror</category>
+		<category lang="es">Suspenso</category>
+		<category lang="es">Película</category>
+		<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/ouija.jpg"></icon>
+		<rating system="MX">
+			<value>PG-13</value>
+		</rating>
+		<star-rating system="MX">
+			<value>5.0</value>
+		</star-rating>
+	</programme>
+	<programme start="20250107060000 -0600" stop="20250107070000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Hollywood one on one</title>
+	</programme>
+	<programme start="20250107070000 -0600" stop="20250107090000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Navidad en 8 Bits</title>
+		<desc lang="es">Navidad en 8 Bits, una mirada divertida y sincera a las aventuras de la infancia. Ambientada en los suburbios de Chicago a fines de la década de 1980, la historia se centra en la titánica búsqueda de Jake Doyle (Winslow Fegley), de diez años, para obtener el último y mejor sistema de videojuegos para Navidad.</desc>
+		<credits>
+			<director>Michael Dowse</director>
+			<actor>Neil Patrick Harris</actor>
+			<actor>Winslow Fegley</actor>
+			<actor>June Diane Raphael</actor>
+			<actor>David Cross</actor>
+			<actor>Steve Zahn</actor>
+			<producer>Tim White</producer>
+			<producer>Trevor White</producer>
+			<composer>Joseph Trapanese</composer>
+		</credits>
+		<date>2021</date>
+		<category lang="es">Comedia</category>
+		<category lang="es">Familia</category>
+		<category lang="es">Fantasía</category>
+		<category lang="es">Película</category>
+		<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/navidad_en_8_bits.jpg"></icon>
+		<rating system="MX">
+			<value>PG</value>
+		</rating>
+		<star-rating system="MX">
+			<value>6.0</value>
+		</star-rating>
+	</programme>
+	<programme start="20250107090000 -0600" stop="20250107110000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Héroe de centro comercial</title>
+	</programme>
+	<programme start="20250107110000 -0600" stop="20250107130000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Policias de repuesto</title>
+	</programme>
+	<programme start="20250107130000 -0600" stop="20250107150000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Detective por error</title>
+	</programme>
+	<programme start="20250107150000 -0600" stop="20250107170000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Las locuras de Dick y Jane</title>
+	</programme>
+	<programme start="20250107170000 -0600" stop="20250107190000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Dos inútiles en patrulla</title>
+	</programme>
+	<programme start="20250107190000 -0600" stop="20250107210000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Héroe de centro comercial</title>
+	</programme>
+	<programme start="20250107210000 -0600" stop="20250107230000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Policias de repuesto</title>
+	</programme>
+	<programme start="20250107230000 -0600" stop="20250108010000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">John Wick Sin control</title>
+	</programme>
+	<programme start="20250108010000 -0600" stop="20250108030000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">12 Horas para Sobrevivir</title>
+	</programme>
+	<programme start="20250108030000 -0600" stop="20250108050000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">John Wick Sin control</title>
+	</programme>
+	<programme start="20250108050000 -0600" stop="20250108060000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Hollywood one on one</title>
+	</programme>
+	<programme start="20250108060000 -0600" stop="20250108062500 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Hollywood one on one</title>
+	</programme>
+	<programme start="20250108062500 -0600" stop="20250108082300 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">El cazador y la reina del</title>
+	</programme>
+	<programme start="20250108082300 -0600" stop="20250108102600 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">La Momia</title>
+	</programme>
+	<programme start="20250108102600 -0600" stop="20250108125000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Misión Imposible 4</title>
+	</programme>
+	<programme start="20250108125000 -0600" stop="20250108151800 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Ángeles y demonios</title>
+	</programme>
+	<programme start="20250108151800 -0600" stop="20250108165500 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Drácula: La historia Jamás Contada</title>
+		<desc lang="es">Toda historia tiene un comienzo y con esto la historia del príncipe Vlad III, un hombre que para salvar a su familia y su gente vende su alma para convertirse en el vampiro más temerario de todos los tiempos, Drácula.</desc>
+		<credits>
+			<director>Gary Shore</director>
+			<actor>Luke Evans</actor>
+			<actor>Sarah Gadon</actor>
+			<actor>William Houston</actor>
+			<actor>Dominic Cooper</actor>
+			<actor>Samantha Barks</actor>
+			<producer>Michael De Luca</producer>
+		</credits>
+		<date>2014</date>
+		<category lang="es">Acción</category>
+		<category lang="es">Drama</category>
+		<category lang="es">Fantasía</category>
+		<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/dracula_la_historia_jamas_contada.jpg"></icon>
+		<rating system="MX">
+			<value>PG-13</value>
+		</rating>
+		<star-rating system="MX">
+			<value>6.0</value>
+		</star-rating>
+	</programme>
+	<programme start="20250108165500 -0600" stop="20250108190100 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">La Momia</title>
+	</programme>
+	<programme start="20250108190100 -0600" stop="20250108210000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">La momia 3</title>
+	</programme>
+	<programme start="20250108210000 -0600" stop="20250108232800 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Misión Imposible 4</title>
+	</programme>
+	<programme start="20250108232800 -0600" stop="20250109013600 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Parker</title>
+	</programme>
+	<programme start="20250109013600 -0600" stop="20250109035600 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Pequeños Secretos</title>
+	</programme>
+	<programme start="20250109035600 -0600" stop="20250109052500 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">La huida</title>
+	</programme>
+	<programme start="20250109052500 -0600" stop="20250109060000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Hollywood one on one</title>
+	</programme>
+	<programme start="20250109060000 -0600" stop="20250109061900 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Hollywood one on one</title>
+	</programme>
+	<programme start="20250109061900 -0600" stop="20250109080600 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">La muerte le sienta bien</title>
+	</programme>
+	<programme start="20250109080600 -0600" stop="20250109095500 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Pesadilla en la calle Elm</title>
+	</programme>
+	<programme start="20250109095500 -0600" stop="20250109122700 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Eso</title>
+	</programme>
+	<programme start="20250109122700 -0600" stop="20250109142000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Hechizada</title>
+	</programme>
+	<programme start="20250109142000 -0600" stop="20250109160900 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Jóvenes brujas</title>
+	</programme>
+	<programme start="20250109160900 -0600" stop="20250109182400 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">El exorcismo de Emily Rose</title>
+	</programme>
+	<programme start="20250109182400 -0600" stop="20250109210000 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Eso</title>
+	</programme>
+	<programme start="20250109210000 -0600" stop="20250109225300 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">Pesadilla en la calle Elm</title>
+	</programme>
+	<programme start="20250109225300 -0600" stop="20250110004100 -0600" channel="Canal.Cinemax.(México).mx">
+		<title lang="es">El amanecer de los muertos</title>
 	</programme>
 	<programme start="20250106174000 +0000" stop="20250106193000 +0000" channel="AMC.co">
 		<title lang="es">Mi vida en Grecia</title>

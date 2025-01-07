@@ -4,6 +4,7 @@ import gzip
 import shutil
 
 import requests
+import xmltodict
 
 from epgs import urls
 from canales import incluir
@@ -53,8 +54,6 @@ for filename in xmls:
 
     with open(filename, 'r', encoding='utf-8') as file:
         data = file.read()
-
-        import xmltodict
 
         xml_dict = xmltodict.parse(data)
 
