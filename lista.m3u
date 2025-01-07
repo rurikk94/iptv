@@ -28,7 +28,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228224
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228225
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="TEST CANALES", Cartoon Network HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228226
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="TEST CANALES", Cinecanal HD
+#EXTINF:-1 tvg-id="CINECANAL HD.cl" tvg-name="Cinecanal HD" tvg-logo="" group-title="TEST CANALES", Cinecanal HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228227
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="" group-title="TEST CANALES", Cinemax HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228228
@@ -1522,15 +1522,15 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58744
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1899
 #EXTINF:-1 tvg-id="" tvg-name="CINE | Cine Dinamita SD (P)" tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="CINE", CINE | Cine Dinamita SD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1900
-#EXTINF:-1 tvg-id="CINECANAL.mx" tvg-name="CINE | Cinecanal FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE", CINE | Cinecanal FHD (P)
+#EXTINF:-1 tvg-id="Canal.Cinecanal.(México).mx" tvg-name="CINE | Cinecanal FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE", CINE | Cinecanal FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1901
 #EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL HD (lt)" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="CINE", CINE | CINECANAL HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4877
-#EXTINF:-1 tvg-id="CINECANAL.mx" tvg-name="CINE | CINECANAL HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="CINE", CINE | CINECANAL HD (mv)
+#EXTINF:-1 tvg-id="Canal.Cinecanal.(México).mx" tvg-name="CINE | CINECANAL HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="CINE", CINE | CINECANAL HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58747
-#EXTINF:-1 tvg-id="CINECANAL.mx" tvg-name="CINE | CINECANAL LATINO FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="CINE", CINE | CINECANAL LATINO FHD (mv)
+#EXTINF:-1 tvg-id="Canal.Cinecanal.(México).mx" tvg-name="CINE | CINECANAL LATINO FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="CINE", CINE | CINECANAL LATINO FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58748
-#EXTINF:-1 tvg-id="CINECANAL.mx" tvg-name="CINE | CINECANAL MEXICO FHD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/109c55db234153a62dc8d51463ae1afe.png" group-title="CINE", CINE | CINECANAL MEXICO FHD (mv)
+#EXTINF:-1 tvg-id="Canal.Cinecanal.(México).mx" tvg-name="CINE | CINECANAL MEXICO FHD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/109c55db234153a62dc8d51463ae1afe.png" group-title="CINE", CINE | CINECANAL MEXICO FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58749
 #EXTINF:-1 tvg-id="" tvg-name="CINE | Cinelatino SD (P)" tvg-logo="https://i1.wp.com/www.foromedios.com/uploads/monthly_2017_12/large.DePeliculaPlus-1.png.5ffaf7150f40e959b88e31a35fff89e8.png?resize=331%2C135&ssl=1" group-title="CINE", CINE | Cinelatino SD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1903
