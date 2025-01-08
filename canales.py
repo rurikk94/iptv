@@ -1,5 +1,17 @@
 
 incluir = [
+    "Love.Nature.co",
+    "HOLA.TV.HD.uy",
+    "Food.Network.co",
+    "Canal.E!.Entertainment.Television.(Chile).cl",
+    "Canal.HTV.cl",
+    "Canal.MTV.00s.cl",
+    "Canal.MTV.(Chile).cl",
+    "Canal.MTV.Live.HD.cl",
+    "Canal.MTV.Hits.mx",
+    "Canal.Telehit.mx",
+    "Canal.Telehit.Música.Plus.mx",
+    "Canal.VH1.HD.(Latinoamérica).mx",
     "Canal.24.Horas.(Chile).cl",
     "Canal.CNN.Chile.cl",
     "Canal.Tooncast.cl",

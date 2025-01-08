@@ -124,7 +124,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228272
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228273
 #EXTINF:-1 tvg-id="" tvg-name="Las Estrellas HD" tvg-logo="" group-title="TEST CANALES", Las Estrellas HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228274
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature HD" tvg-logo="" group-title="TEST CANALES", Love Nature HD
+#EXTINF:-1 tvg-id="Love.Nature.co" tvg-name="Love Nature HD" tvg-logo="" group-title="TEST CANALES", Love Nature HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228275
 #EXTINF:-1 tvg-id="" tvg-name="MEGA HD" tvg-logo="" group-title="TEST CANALES", MEGA HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228276
@@ -825,120 +825,6 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/207341
 #EXTINF:-1 tvg-id="" tvg-name="F1 | Camara On Board 23" tvg-logo="http://tv.streamid.tv:8080/images/bd19836ddb62c11c55ab251ccaca5645.png" group-title="FORMULA 1 ", F1 | Camara On Board 23
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/207342
 #EXTINF:-1 tvg-id="" tvg-name="F1 | Camara On Board 24" tvg-logo="http://tv.streamid.tv:8080/images/bd19836ddb62c11c55ab251ccaca5645.png" group-title="FORMULA 1 ", F1 | Camara On Board 24
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/207343
-#EXTINF:-1 tvg-id="" tvg-name="NBA | NBA TV" tvg-logo="http://51.15.10.148/logos-fussion-nuevos/nba-tv.png" group-title="NBA (Solo Eventos)", NBA | NBA TV
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/215470
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 00 ESPN" tvg-logo="https://i.ibb.co/6cSHp3y/nba-on-espn-us.png" group-title="NBA (Solo Eventos)", NBA | 00 ESPN
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/215471
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 00 NBA TV" tvg-logo="https://i.ibb.co/9TB9Q0D/nba-tv-us.png" group-title="NBA (Solo Eventos)", NBA | 00 NBA TV
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/215472
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 00 TNT" tvg-logo="https://i.ibb.co/pQP0QQk/nba-on-tnt.png" group-title="NBA (Solo Eventos)", NBA | 00 TNT
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/215473
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 1" tvg-logo="http://startv.solutions:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="NBA (Solo Eventos)", NBA PASS 1
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226056
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 2" tvg-logo="http://startv.solutions:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="NBA (Solo Eventos)", NBA PASS 2
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226057
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 3" tvg-logo="http://startv.solutions:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="NBA (Solo Eventos)", NBA PASS 3
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226058
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 4" tvg-logo="http://startv.solutions:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="NBA (Solo Eventos)", NBA PASS 4
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226059
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 5" tvg-logo="http://startv.solutions:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="NBA (Solo Eventos)", NBA PASS 5
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226060
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 6" tvg-logo="http://startv.solutions:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="NBA (Solo Eventos)", NBA PASS 6
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226061
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 7" tvg-logo="http://startv.solutions:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="NBA (Solo Eventos)", NBA PASS 7
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226062
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 8" tvg-logo="http://startv.solutions:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="NBA (Solo Eventos)", NBA PASS 8
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226063
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 9" tvg-logo="http://startv.solutions:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="NBA (Solo Eventos)", NBA PASS 9
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226064
-#EXTINF:-1 tvg-id="" tvg-name="NBA PASS 10" tvg-logo="http://startv.solutions:80/images/yJgtMZWslHIkXGjbS6hbw1EZtQIjmEnwurzQ-lQ9mzsb0NhMPxqepYuUfzoU7gY_9e2p7WatrZk6OZ6yRkgyP_EkyYc2lhVTMvQ4usEHdQY.jpg" group-title="NBA (Solo Eventos)", NBA PASS 10
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226065
-#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN-NBA- FHD" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE18qDnuWP5DEZm1a3x_tlPTtsj4wsao0whdrFQ4I9Tfyo.png" group-title="NBA (Solo Eventos)", USA | ESPN-NBA- FHD
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226066
-#EXTINF:-1 tvg-id="" tvg-name="LIDOM" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE1_hxRtWu5e_x5YnK-xHUiPB4VLenEWZA4qDkXzSdNae5.png" group-title="NBA (Solo Eventos)", LIDOM
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226067
-#EXTINF:-1 tvg-id="" tvg-name="NBA Pass 01 FHD" tvg-logo="http://startv.solutions:80/images/XXrn0rhTQwAiw8luJltIEqUdX1Izk9zVLd1cLG-a0Hw3kzsBZGSqDdRukQMDaQAS.jpeg" group-title="NBA (Solo Eventos)", NBA Pass 01 FHD
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226068
-#EXTINF:-1 tvg-id="" tvg-name="NBA Pass 02 FHD" tvg-logo="http://startv.solutions:80/images/XXrn0rhTQwAiw8luJltIEqUdX1Izk9zVLd1cLG-a0Hw3kzsBZGSqDdRukQMDaQAS.jpeg" group-title="NBA (Solo Eventos)", NBA Pass 02 FHD
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226069
-#EXTINF:-1 tvg-id="" tvg-name="NBA Pass 03 FHD" tvg-logo="http://startv.solutions:80/images/XXrn0rhTQwAiw8luJltIEqUdX1Izk9zVLd1cLG-a0Hw3kzsBZGSqDdRukQMDaQAS.jpeg" group-title="NBA (Solo Eventos)", NBA Pass 03 FHD
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226070
-#EXTINF:-1 tvg-id="" tvg-name="NBA Pass 04 FHD" tvg-logo="http://startv.solutions:80/images/XXrn0rhTQwAiw8luJltIEqUdX1Izk9zVLd1cLG-a0Hw3kzsBZGSqDdRukQMDaQAS.jpeg" group-title="NBA (Solo Eventos)", NBA Pass 04 FHD
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226071
-#EXTINF:-1 tvg-id="" tvg-name="NBA Pass 05 FHD" tvg-logo="http://startv.solutions:80/images/XXrn0rhTQwAiw8luJltIEqUdX1Izk9zVLd1cLG-a0Hw3kzsBZGSqDdRukQMDaQAS.jpeg" group-title="NBA (Solo Eventos)", NBA Pass 05 FHD
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226072
-#EXTINF:-1 tvg-id="" tvg-name="NBA Pass 06 FHD" tvg-logo="http://startv.solutions:80/images/XXrn0rhTQwAiw8luJltIEqUdX1Izk9zVLd1cLG-a0Hw3kzsBZGSqDdRukQMDaQAS.jpeg" group-title="NBA (Solo Eventos)", NBA Pass 06 FHD
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226073
-#EXTINF:-1 tvg-id="" tvg-name="NBA Pass 07 FHD" tvg-logo="http://startv.solutions:80/images/XXrn0rhTQwAiw8luJltIEqUdX1Izk9zVLd1cLG-a0Hw3kzsBZGSqDdRukQMDaQAS.jpeg" group-title="NBA (Solo Eventos)", NBA Pass 07 FHD
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226074
-#EXTINF:-1 tvg-id="" tvg-name="NBA Pass 08 FHD" tvg-logo="http://startv.solutions:80/images/XXrn0rhTQwAiw8luJltIEqUdX1Izk9zVLd1cLG-a0Hw3kzsBZGSqDdRukQMDaQAS.jpeg" group-title="NBA (Solo Eventos)", NBA Pass 08 FHD
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226075
-#EXTINF:-1 tvg-id="" tvg-name="NBA Pass 09 FHD" tvg-logo="http://startv.solutions:80/images/XXrn0rhTQwAiw8luJltIEqUdX1Izk9zVLd1cLG-a0Hw3kzsBZGSqDdRukQMDaQAS.jpeg" group-title="NBA (Solo Eventos)", NBA Pass 09 FHD
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226076
-#EXTINF:-1 tvg-id="" tvg-name="NBA Pass 10 FHD" tvg-logo="http://startv.solutions:80/images/XXrn0rhTQwAiw8luJltIEqUdX1Izk9zVLd1cLG-a0Hw3kzsBZGSqDdRukQMDaQAS.jpeg" group-title="NBA (Solo Eventos)", NBA Pass 10 FHD
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226077
-#EXTINF:-1 tvg-id="" tvg-name="NBA: ABC (GAMES ONLY)" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE1-8xGwyL78JZTdDjzI_nXtBjVyNeX_Ff3eq9Q087hkh8.png" group-title="NBA (Solo Eventos)", NBA: ABC (GAMES ONLY)
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226078
-#EXTINF:-1 tvg-id="" tvg-name="NBA: NBATV (GAMES ONLY)" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE18qDnuWP5DEZm1a3x_tlPTtsj4wsao0whdrFQ4I9Tfyo.png" group-title="NBA (Solo Eventos)", NBA: NBATV (GAMES ONLY)
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226079
-#EXTINF:-1 tvg-id="" tvg-name="NBA: TNT (GAMES ONLY)" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE10OVrJ_HGgU8i4iIo6IcZyL5KkoKrxVNiRV2dZVsdqQP.png" group-title="NBA (Solo Eventos)", NBA: TNT (GAMES ONLY)
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226080
-#EXTINF:-1 tvg-id="" tvg-name="NBA: ATLANTA HAWKS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE16h32TI0VOQ8YDjZugSSXIdToNFQdXAoqYurEGmtdcVG.png" group-title="NBA (Solo Eventos)", NBA: ATLANTA HAWKS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226081
-#EXTINF:-1 tvg-id="" tvg-name="NBA: BOSTON CELTICS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE19ipBcWLWs4534defqqgdYXebggPLeJCq417FoPmxHC2.png" group-title="NBA (Solo Eventos)", NBA: BOSTON CELTICS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226082
-#EXTINF:-1 tvg-id="" tvg-name="NBA: BROOKLYN NETS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE19lT9J9uU5e5YCJIFmKf4q0bE_MUWZzwDZuy3UqrI9eZ.png" group-title="NBA (Solo Eventos)", NBA: BROOKLYN NETS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226083
-#EXTINF:-1 tvg-id="" tvg-name="NBA: CHARLOTTE HORNETS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE174vNAaf-ilHmGYxvsEkb0_kXq_uVfOPWTMdeYlw8NVH.png" group-title="NBA (Solo Eventos)", NBA: CHARLOTTE HORNETS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226084
-#EXTINF:-1 tvg-id="" tvg-name="NBA: CHICAGO BULLS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE1x4qNIOCnb-h-8lC9HV6CbNto3NNk73VKZ1jgQ3d76bj.png" group-title="NBA (Solo Eventos)", NBA: CHICAGO BULLS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226085
-#EXTINF:-1 tvg-id="" tvg-name="NBA: CLEVELAND CAVALIERS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE18JPuHRU1fViZGN4Kac5N9DIBTZvEhvuSe_1H-dETSEh.png" group-title="NBA (Solo Eventos)", NBA: CLEVELAND CAVALIERS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226086
-#EXTINF:-1 tvg-id="" tvg-name="NBA: DETROIT PISTONS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE1-A6H_bgJfW_W79AIqeQTxvRSf_BeiC6fxFQ9j-hq3Op.png" group-title="NBA (Solo Eventos)", NBA: DETROIT PISTONS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226087
-#EXTINF:-1 tvg-id="" tvg-name="NBA: GOLDEN STATE WARRIORS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE17xGme9MlXtcPTH_lWCFgEtk3tMC7fXM3cdTr8Lx8GQm.png" group-title="NBA (Solo Eventos)", NBA: GOLDEN STATE WARRIORS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226088
-#EXTINF:-1 tvg-id="" tvg-name="NBA: HOUSTON ROCKETS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE175K0XPW0R2OFCWgYdKN862JLHEHEvpU8bUmMxvAhLqI.png" group-title="NBA (Solo Eventos)", NBA: HOUSTON ROCKETS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226089
-#EXTINF:-1 tvg-id="" tvg-name="NBA: INDIANA PACERS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE13pP-cxnrpD9SxBrwBq_9w4jIuzJe2hVJXYfgDjfqa0f.png" group-title="NBA (Solo Eventos)", NBA: INDIANA PACERS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226090
-#EXTINF:-1 tvg-id="" tvg-name="NBA: LOS ANGELES CLIPPERS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE1_LvtqACH7TvRKyCkOTKTwjReXIisLYZSSfbHzR7DJNM.png" group-title="NBA (Solo Eventos)", NBA: LOS ANGELES CLIPPERS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226091
-#EXTINF:-1 tvg-id="" tvg-name="NBA: LOS ANGELES LAKERS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE11umvhfigmAuhpWjhcHTKIy4b6OpCfB6Pd9i6ZFnYhMbHtYmgTiMbobZWTLElZu60A.png" group-title="NBA (Solo Eventos)", NBA: LOS ANGELES LAKERS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226092
-#EXTINF:-1 tvg-id="" tvg-name="NBA: MEMPHIS GRIZZLIES" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE14fOv2w2XnccP8HQRYnvSB723KBmt9I8_o7GmRk0PDPJ.png" group-title="NBA (Solo Eventos)", NBA: MEMPHIS GRIZZLIES
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226093
-#EXTINF:-1 tvg-id="" tvg-name="NBA: MINNESOTA TIMBERWOLVES" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE14tYw93S-3lnVZHaY8ZDxpvBFReRyu9pbpAvMBnJ6FO5.png" group-title="NBA (Solo Eventos)", NBA: MINNESOTA TIMBERWOLVES
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226094
-#EXTINF:-1 tvg-id="" tvg-name="NBA: NEW ORLEANS PELICANS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE10H9uEv64JHgVA_cbmiW-n819wm5f8udWYw6VptwdXR7.png" group-title="NBA (Solo Eventos)", NBA: NEW ORLEANS PELICANS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226095
-#EXTINF:-1 tvg-id="" tvg-name="NBA: NEW YORK KNICKS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE1-OwwcgM6Sk9iBjXq-5TfQ23dmy1tx2-TkywJ0rM7YVW.png" group-title="NBA (Solo Eventos)", NBA: NEW YORK KNICKS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226096
-#EXTINF:-1 tvg-id="" tvg-name="NBA: OKLAHOMA CITY THUNDER" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE10fpHXJbfD3OJTeuDEZxkdQlUpq4NQ1ChYGuaqOUdIEN.png" group-title="NBA (Solo Eventos)", NBA: OKLAHOMA CITY THUNDER
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226097
-#EXTINF:-1 tvg-id="" tvg-name="NBA: ORLANDO MAGIC" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE18P2LpmBJeuAHjrGXTnRJJ9z54gLiHGu69fNin33s77o.png" group-title="NBA (Solo Eventos)", NBA: ORLANDO MAGIC
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226098
-#EXTINF:-1 tvg-id="" tvg-name="NBA: PORTLAND TRAIL BLAZERS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE1wY_Rp2-Hv-49xNXbLiq3O6l1YA-XuNwuauUp2GXMRpa.png" group-title="NBA (Solo Eventos)", NBA: PORTLAND TRAIL BLAZERS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226099
-#EXTINF:-1 tvg-id="" tvg-name="NBA: SACRAMENTO KINGS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE13PY8Q23N1XJz-3zi8xozBCCsj1jM-97-YrEdDkMpp61.png" group-title="NBA (Solo Eventos)", NBA: SACRAMENTO KINGS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226100
-#EXTINF:-1 tvg-id="" tvg-name="NBA: SAN ANTONIO SPURS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE12OLmEv0TAVzI4IZfCp2PZ-oV0HwqEN6Z6hBBM7kSqgT.png" group-title="NBA (Solo Eventos)", NBA: SAN ANTONIO SPURS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226101
-#EXTINF:-1 tvg-id="" tvg-name="NBA: TORONTO RAPTORS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE19PuH0sxDrsOOBMSzEyq4FIGQx3zF1abg6da_shEbxzW.png" group-title="NBA (Solo Eventos)", NBA: TORONTO RAPTORS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226102
-#EXTINF:-1 tvg-id="" tvg-name="NBA: UTAH JAZZ" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE15frrL9HAiG2mKK7LwVUToTcwoe-LN4xIFshHQBU4gKg.png" group-title="NBA (Solo Eventos)", NBA: UTAH JAZZ
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226103
-#EXTINF:-1 tvg-id="" tvg-name="NBA: WASHINGTON WIZARDS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE1xuPdT83BGTEybdtGtYPWjjZwgfjA6QRfPtXtc2v9096.png" group-title="NBA (Solo Eventos)", NBA: WASHINGTON WIZARDS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226104
-#EXTINF:-1 tvg-id="" tvg-name="NBA: DALLAS MAVERICKS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE1_TQO5XOHJSSfIzRo-7K0qQ19T9uf6RIggCf6R97glv0.png" group-title="NBA (Solo Eventos)", NBA: DALLAS MAVERICKS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226105
-#EXTINF:-1 tvg-id="" tvg-name="NBA: MIAMI HEAT" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE1_-snNj-P5ngrUZZgLpTYaBulXX0q3QqGJ_iryT28bZy.png" group-title="NBA (Solo Eventos)", NBA: MIAMI HEAT
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226106
-#EXTINF:-1 tvg-id="" tvg-name="NBA: PHILADELPHIA 76ERS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE1wCPyHSUcmyA5HjSLlHLsyN06dfh9jzitGJwLmSea2PA.png" group-title="NBA (Solo Eventos)", NBA: PHILADELPHIA 76ERS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226107
-#EXTINF:-1 tvg-id="" tvg-name="NBA: PHOENIX SUNS" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE1-kqfCNxrFoOxOrauB1vi1hIIme89QAX0rMFCwY91DNl.png" group-title="NBA (Solo Eventos)", NBA: PHOENIX SUNS
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226108
 #EXTINF:-1 tvg-id="" tvg-name="MLS | Atlanta United FC" tvg-logo="https://od.lk/s/MzlfNDM4NzE3OTdf/mls.png" group-title="MLS LEAGUE PASS (Solo Eventos)", MLS | Atlanta United FC
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/213464
@@ -997,66 +883,6 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/213490
 #EXTINF:-1 tvg-id="" tvg-name="MLS | Toronto FC" tvg-logo="https://od.lk/s/MzlfNDM4NzE3OTdf/mls.png" group-title="MLS LEAGUE PASS (Solo Eventos)", MLS | Toronto FC
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/213491
 #EXTINF:-1 tvg-id="" tvg-name="MLS | Vancouver Whitecaps FC" tvg-logo="https://od.lk/s/MzlfNDM4NzE3OTdf/mls.png" group-title="MLS LEAGUE PASS (Solo Eventos)", MLS | Vancouver Whitecaps FC
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/213492
-#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks" tvg-logo="http://tv.streamid.tv:8080/images/15fc84ec56dfb833ac71ddf43760a49e.png" group-title="MLB (Solo Eventos)", Arizona Diamondbacks
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175400
-#EXTINF:-1 tvg-id="" tvg-name="Atlanta Braves" tvg-logo="http://tv.streamid.tv:8080/images/5d44bfa8b3f1f9d1d7f8f373c8228e02.png" group-title="MLB (Solo Eventos)", Atlanta Braves
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175401
-#EXTINF:-1 tvg-id="" tvg-name="Baltimore Orioles" tvg-logo="http://tv.streamid.tv:8080/images/901b75cfa10f2c6e02883326e126d05b.png" group-title="MLB (Solo Eventos)", Baltimore Orioles
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175390
-#EXTINF:-1 tvg-id="" tvg-name="Boston Red Sox" tvg-logo="http://tv.streamid.tv:8080/images/649d22692a6a0fe6688ac041bd36ab7b.png" group-title="MLB (Solo Eventos)", Boston Red Sox
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175391
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Cubs" tvg-logo="http://tv.streamid.tv:8080/images/0559e5a4aa50f29b8122be19e612e33a.png" group-title="MLB (Solo Eventos)", Chicago Cubs
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175402
-#EXTINF:-1 tvg-id="" tvg-name="Chicago White Sox" tvg-logo="http://tv.streamid.tv:8080/images/891f75c1a7b23f019d96e80a3336221a.png" group-title="MLB (Solo Eventos)", Chicago White Sox
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175385
-#EXTINF:-1 tvg-id="" tvg-name="Cincinnati Reds" tvg-logo="http://tv.streamid.tv:8080/images/fbe1c004df381a7cdcb2c1eec1347205.png" group-title="MLB (Solo Eventos)", Cincinnati Reds
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175403
-#EXTINF:-1 tvg-id="" tvg-name="Cleveland Guardians" tvg-logo="http://tv.streamid.tv:8080/images/ed946271fb4ead0301a15efa2fa3ce16.png" group-title="MLB (Solo Eventos)", Cleveland Guardians
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175386
-#EXTINF:-1 tvg-id="" tvg-name="Colorado Rockies" tvg-logo="http://tv.streamid.tv:8080/images/857e98b87c68a40aafeb6ff2c702a2a3.png" group-title="MLB (Solo Eventos)", Colorado Rockies
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175404
-#EXTINF:-1 tvg-id="" tvg-name="Detroit Tigers" tvg-logo="http://tv.streamid.tv:8080/images/312592d774907a0f0a9db05a35f61989.png" group-title="MLB (Solo Eventos)", Detroit Tigers
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175387
-#EXTINF:-1 tvg-id="" tvg-name="Houston Astros" tvg-logo="http://tv.streamid.tv:8080/images/7cf0af1a79bd9b27068f0fa00041f906.png" group-title="MLB (Solo Eventos)", Houston Astros
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175397
-#EXTINF:-1 tvg-id="" tvg-name="Kansas City Royals" tvg-logo="http://tv.streamid.tv:8080/images/1e716d8d22ce7657773675a1708fc5d8.png" group-title="MLB (Solo Eventos)", Kansas City Royals
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175388
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Angels" tvg-logo="http://tv.streamid.tv:8080/images/50cfbb16b3541ef452acbbc39fbd66df.png" group-title="MLB (Solo Eventos)", Los Angeles Angels
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175398
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Dodgers" tvg-logo="http://tv.streamid.tv:8080/images/69dd4220c6b06e528ba8e9e97b9c05c7.png" group-title="MLB (Solo Eventos)", Los Angeles Dodgers
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175405
-#EXTINF:-1 tvg-id="" tvg-name="Miami Marlins" tvg-logo="http://tv.streamid.tv:8080/images/975096a5a9ca31773a0266ca30128247.png" group-title="MLB (Solo Eventos)", Miami Marlins
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175406
-#EXTINF:-1 tvg-id="" tvg-name="Milwaukee Brewers" tvg-logo="http://tv.streamid.tv:8080/images/860cfaee06bafdcac86a6b8036b69fa1.png" group-title="MLB (Solo Eventos)", Milwaukee Brewers
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175407
-#EXTINF:-1 tvg-id="" tvg-name="Minesota Twins" tvg-logo="http://tv.streamid.tv:8080/images/daa6607a3498af2e96b487b0cea4adad.png" group-title="MLB (Solo Eventos)", Minesota Twins
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175389
-#EXTINF:-1 tvg-id="" tvg-name="New York Mets" tvg-logo="http://tv.streamid.tv:8080/images/c5e37c6474945b2dae030013dd5a7ea8.png" group-title="MLB (Solo Eventos)", New York Mets
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175408
-#EXTINF:-1 tvg-id="" tvg-name="New York Yankees" tvg-logo="http://tv.streamid.tv:8080/images/72f66484982d6c4c85bb00b67d5f6a54.png" group-title="MLB (Solo Eventos)", New York Yankees
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175392
-#EXTINF:-1 tvg-id="" tvg-name="Oakland Athletics" tvg-logo="http://tv.streamid.tv:8080/images/1d4a318da5f1639d0371b705961d1c24.png" group-title="MLB (Solo Eventos)", Oakland Athletics
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175393
-#EXTINF:-1 tvg-id="" tvg-name="Philadelphia Phillies" tvg-logo="http://tv.streamid.tv:8080/images/821733cbdc4d96633904e4523b554807.png" group-title="MLB (Solo Eventos)", Philadelphia Phillies
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175409
-#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates" tvg-logo="http://tv.streamid.tv:8080/images/857f1126d99ec85f05b5e4dec5f4a5f4.png" group-title="MLB (Solo Eventos)", Pittsburgh Pirates
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175410
-#EXTINF:-1 tvg-id="" tvg-name="San Diego Padres" tvg-logo="http://tv.streamid.tv:8080/images/ce7836d0a6cdd957428f9fe780ea0427.png" group-title="MLB (Solo Eventos)", San Diego Padres
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175411
-#EXTINF:-1 tvg-id="" tvg-name="San Francisco Giants" tvg-logo="http://tv.streamid.tv:8080/images/8c721b3138b46a57e7af751710eb8a0a.png" group-title="MLB (Solo Eventos)", San Francisco Giants
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175412
-#EXTINF:-1 tvg-id="" tvg-name="Seattle Mariners" tvg-logo="http://tv.streamid.tv:8080/images/02dec988c59d0d847861eb8a7ef750b5.png" group-title="MLB (Solo Eventos)", Seattle Mariners
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175399
-#EXTINF:-1 tvg-id="" tvg-name="St. Louis Cardinals" tvg-logo="http://tv.streamid.tv:8080/images/370c938d84eac869eb878b83dac651d4.png" group-title="MLB (Solo Eventos)", St. Louis Cardinals
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175413
-#EXTINF:-1 tvg-id="" tvg-name="Tampa Bays Rays" tvg-logo="http://tv.streamid.tv:8080/images/27b1d0660b2e1f8e70373e93ced59c1d.png" group-title="MLB (Solo Eventos)", Tampa Bays Rays
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175394
-#EXTINF:-1 tvg-id="" tvg-name="Texas Rangers" tvg-logo="http://tv.streamid.tv:8080/images/ddf6e1ec863dc501357f728c31e56944.png" group-title="MLB (Solo Eventos)", Texas Rangers
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175395
-#EXTINF:-1 tvg-id="" tvg-name="Toronto Blue Jays" tvg-logo="http://tv.streamid.tv:8080/images/d1a3243de43891a9b147193213fccfdb.png" group-title="MLB (Solo Eventos)", Toronto Blue Jays
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175396
-#EXTINF:-1 tvg-id="" tvg-name="Washington Nationals" tvg-logo="http://tv.streamid.tv:8080/images/e62b224af7353080b521157ce71919c5.png" group-title="MLB (Solo Eventos)", Washington Nationals
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/175414
 #EXTINF:-1 tvg-id="" tvg-name="Camara de Diputados | CL" tvg-logo="http://tv.streamid.tv:8080/images/7b2fbbfe7f0d9ab95609da473a79bfea.png" group-title="CHILE", Camara de Diputados | CL
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/164524
@@ -1964,7 +1790,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199775
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199776
 #EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="CUL• HISTORY CHANNEL (HD) »6«" tvg-logo="http://tv.streamid.tv:8080/images/7b771a273226ca8d789f918fae16dc9e.png" group-title="CULTURA", CUL• HISTORY CHANNEL (HD) »6«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199777
-#EXTINF:-1 tvg-id="LOVE NATURE HD.cl" tvg-name="CUL• LOVE NATURE (HD)" tvg-logo="http://tv.streamid.tv:8080/images/e0408025286dc0623659265156e8b255.png" group-title="CULTURA", CUL• LOVE NATURE (HD)
+#EXTINF:-1 tvg-id="Love.Nature.co" tvg-name="CUL• LOVE NATURE (HD)" tvg-logo="http://tv.streamid.tv:8080/images/e0408025286dc0623659265156e8b255.png" group-title="CULTURA", CUL• LOVE NATURE (HD)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199761
 #EXTINF:-1 tvg-id="NAT GEO HD.cl" tvg-name="CUL• NAT GEO (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/f2789d78b2c883d70867c0234e39c5dd.png" group-title="CULTURA", CUL• NAT GEO (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199782
@@ -2132,15 +1958,15 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/59638
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/72952
 #EXTINF:-1 tvg-id="" tvg-name="ENT |  Kanal D Drama" tvg-logo="http://tv.streamid.tv:8080/images/ebf7e62abaa2db8e332e3e4662658308.png" group-title="ENTRETENIMIENTO", ENT |  Kanal D Drama
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/209201
-#EXTINF:-1 tvg-id="" tvg-name="ENT | E! Entertainment (EC)" tvg-logo="http://tv.streamid.tv:8080/images/cc0de3574a571d53f1db458a78b403b6.png" group-title="ENTRETENIMIENTO", ENT | E! Entertainment (EC)
+#EXTINF:-1 tvg-id="Canal.E!.Entertainment.Television.(Chile).cl" tvg-name="ENT | E! Entertainment (EC)" tvg-logo="http://tv.streamid.tv:8080/images/cc0de3574a571d53f1db458a78b403b6.png" group-title="ENTRETENIMIENTO", ENT | E! Entertainment (EC)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/78901
 #EXTINF:-1 tvg-id="" tvg-name="ENT | EUROPA EUROPA (ur)" tvg-logo="http://tv.streamid.tv:8080/images/89fa24c421df0db2bf91f13d7e7cc4ad.png" group-title="ENTRETENIMIENTO", ENT | EUROPA EUROPA (ur)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/19133
-#EXTINF:-1 tvg-id="" tvg-name="ENT | FOOD NETWORK" tvg-logo="http://tv.streamid.tv:8080/images/9b93a38ceff9871139da54f64039f57b.png" group-title="ENTRETENIMIENTO", ENT | FOOD NETWORK
+#EXTINF:-1 tvg-id="Food.Network.co" tvg-name="ENT | FOOD NETWORK" tvg-logo="http://tv.streamid.tv:8080/images/9b93a38ceff9871139da54f64039f57b.png" group-title="ENTRETENIMIENTO", ENT | FOOD NETWORK
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/196613
 #EXTINF:-1 tvg-id="EL GOURMET.ar" tvg-name="ENT | GOURMET " tvg-logo="" group-title="ENTRETENIMIENTO", ENT | GOURMET
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/8738
-#EXTINF:-1 tvg-id="" tvg-name="ENT | HOLA TV" tvg-logo="" group-title="ENTRETENIMIENTO", ENT | HOLA TV
+#EXTINF:-1 tvg-id="HOLA.TV.HD.uy" tvg-name="ENT | HOLA TV" tvg-logo="" group-title="ENTRETENIMIENTO", ENT | HOLA TV
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/24137
 #EXTINF:-1 tvg-id="LIFETIME.mx" tvg-name="ENT | LIFETIME HD" tvg-logo="" group-title="ENTRETENIMIENTO", ENT | LIFETIME HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/9748
@@ -2174,31 +2000,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/52631
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/52633
 #EXTINF:-1 tvg-id="" tvg-name="Univision NY. ©" tvg-logo="" group-title="ENTRETENIMIENTO", Univision NY. ©
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/52632
-#EXTINF:-1 tvg-id="" tvg-name="Univision Telenovelas ⁽T⁾--" tvg-logo="" group-title="ENTRETENIMIENTO", Univision Telenovelas ⁽T⁾--
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/52634
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE LOS FAMOSOS ACCESO TOTAL 24/7" tvg-logo="http://tv.streamid.tv:8080/images/0f392a1a8432853d0d9ce79a9fbea798.jpg" group-title="REALITY SHOW ", LA CASA DE LOS FAMOSOS ACCESO TOTAL 24/7
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/206685
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE LOS FAMOSOS MX  24/7" tvg-logo="http://tv.streamid.tv:8080/images/0f392a1a8432853d0d9ce79a9fbea798.jpg" group-title="REALITY SHOW ", LA CASA DE LOS FAMOSOS MX  24/7
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/206683
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE LOS FAMOSOS MX (MOSAICO)" tvg-logo="http://tv.streamid.tv:8080/images/0f392a1a8432853d0d9ce79a9fbea798.jpg" group-title="REALITY SHOW ", LA CASA DE LOS FAMOSOS MX (MOSAICO)
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/206684
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE LOS FAMOSOS MX  COCINA" tvg-logo="http://tv.streamid.tv:8080/images/0f392a1a8432853d0d9ce79a9fbea798.jpg" group-title="REALITY SHOW ", LA CASA DE LOS FAMOSOS MX  COCINA
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/206686
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE LOS FAMOSOS MX SALA" tvg-logo="http://tv.streamid.tv:8080/images/0f392a1a8432853d0d9ce79a9fbea798.jpg" group-title="REALITY SHOW ", LA CASA DE LOS FAMOSOS MX SALA
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/206687
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE LOS FAMOSOS MX BAÑO" tvg-logo="http://tv.streamid.tv:8080/images/0f392a1a8432853d0d9ce79a9fbea798.jpg" group-title="REALITY SHOW ", LA CASA DE LOS FAMOSOS MX BAÑO
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/206688
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE LOS FAMOSOS MX HABITACION" tvg-logo="http://tv.streamid.tv:8080/images/0f392a1a8432853d0d9ce79a9fbea798.jpg" group-title="REALITY SHOW ", LA CASA DE LOS FAMOSOS MX HABITACION
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/206689
-#EXTINF:-1 tvg-id="" tvg-name="PPV | GANAR O SERVIR" tvg-logo="http://tv.streamid.tv:8080/images/33bdb0c7743178ac86537d8ae9ab1b52.png" group-title="REALITY SHOW ", PPV | GANAR O SERVIR
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198386
-#EXTINF:-1 tvg-id="" tvg-name="PPV | GH CHILE  CAM 3" tvg-logo="http://tv.streamid.tv:8080/images/ef3e5c405b38484b75d66621bb6b9ab1.jpg" group-title="REALITY SHOW ", PPV | GH CHILE  CAM 3
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/182437
-#EXTINF:-1 tvg-id="" tvg-name="PPV | GH CHILE CAM 1" tvg-logo="http://tv.streamid.tv:8080/images/ef3e5c405b38484b75d66621bb6b9ab1.jpg" group-title="REALITY SHOW ", PPV | GH CHILE CAM 1
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/182146
-#EXTINF:-1 tvg-id="" tvg-name="PPV | GH CHILE 24 HRS " tvg-logo="http://tv.streamid.tv:8080/images/ef3e5c405b38484b75d66621bb6b9ab1.jpg" group-title="REALITY SHOW ", PPV | GH CHILE 24 HRS
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/205234
-#EXTINF:-1 tvg-id="" tvg-name="PPV | GH CHILE  CAM 2  " tvg-logo="http://tv.streamid.tv:8080/images/ef3e5c405b38484b75d66621bb6b9ab1.jpg" group-title="REALITY SHOW ", PPV | GH CHILE  CAM 2
+#EXTINF:-1 tvg-id="Univision.Telenovelas.us" tvg-name="Univision Telenovelas ⁽T⁾--" tvg-logo="" group-title="ENTRETENIMIENTO", Univision Telenovelas ⁽T⁾--
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/182436
 #EXTINF:-1 tvg-id="" tvg-name="CANAL  | PS  ACCIÓN" tvg-logo="http://tv.streamid.tv:8080/images/60ae2bd8874eeb10aad6432120956e05.png" group-title="CANALES EXCLUSIVOS PS", CANAL  | PS  ACCIÓN
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/3748
@@ -2828,17 +2630,17 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/202622
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/211866
 #EXTINF:-1 tvg-id="" tvg-name="MU | CONCERT FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest?cb=20210423194157&path-prefix=es" group-title="MUSICA", MU | CONCERT FHD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/202637
-#EXTINF:-1 tvg-id="" tvg-name="MU | HTV" tvg-logo="http://tv.streamid.tv:8080/images/55e730d0262e3f8f7f45f6bfc922b8f6.png" group-title="MUSICA", MU | HTV
+#EXTINF:-1 tvg-id="Canal.HTV.cl" tvg-name="MU | HTV" tvg-logo="http://tv.streamid.tv:8080/images/55e730d0262e3f8f7f45f6bfc922b8f6.png" group-title="MUSICA", MU | HTV
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/8804
-#EXTINF:-1 tvg-id="" tvg-name="MU | MTV (nx)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/MTV-2021.svg" group-title="MUSICA", MU | MTV (nx)
+#EXTINF:-1 tvg-id="Canal.MTV.(Chile).cl" tvg-name="MU | MTV (nx)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/MTV-2021.svg" group-title="MUSICA", MU | MTV (nx)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/47733
-#EXTINF:-1 tvg-id="" tvg-name="MU | MTV 00´S " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA", MU | MTV 00´S
+#EXTINF:-1 tvg-id="Canal.MTV.00s.cl" tvg-name="MU | MTV 00´S " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA", MU | MTV 00´S
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/211870
 #EXTINF:-1 tvg-id="" tvg-name="MU | MTV CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/MTV_Classic_2011.png" group-title="MUSICA", MU | MTV CLASSIC
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/211865
-#EXTINF:-1 tvg-id="" tvg-name="MU | MTV HITS HD" tvg-logo="http://tv.streamid.tv:8080/images/61617672b07acf6249cb67d54e34d0d1.png" group-title="MUSICA", MU | MTV HITS HD
+#EXTINF:-1 tvg-id="Canal.MTV.Hits.mx" tvg-name="MU | MTV HITS HD" tvg-logo="http://tv.streamid.tv:8080/images/61617672b07acf6249cb67d54e34d0d1.png" group-title="MUSICA", MU | MTV HITS HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/202617
-#EXTINF:-1 tvg-id="" tvg-name="MU | MTV Live HD" tvg-logo="http://tv.streamid.tv:8080/images/0de2ec803fc3459380222fcd29bfbad8.png" group-title="MUSICA", MU | MTV Live HD
+#EXTINF:-1 tvg-id="Canal.MTV.Live.HD.cl" tvg-name="MU | MTV Live HD" tvg-logo="http://tv.streamid.tv:8080/images/0de2ec803fc3459380222fcd29bfbad8.png" group-title="MUSICA", MU | MTV Live HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/8807
 #EXTINF:-1 tvg-id="" tvg-name="MU | Music Choice MEXICAN" tvg-logo="https://w7.pngwing.com/pngs/909/479/png-transparent-music-choice-television-directv-music-video-others-television-text-logo.png" group-title="MUSICA", MU | Music Choice MEXICAN
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/211868
@@ -2846,13 +2648,13 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/211868
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/211869
 #EXTINF:-1 tvg-id="" tvg-name="MU | RMS MUSICA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Vu-O985d536LxrbNIe3lHIGICWhx6KqdLg&s" group-title="MUSICA", MU | RMS MUSICA HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/202616
-#EXTINF:-1 tvg-id="" tvg-name="MU | Telehit (M)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-sMvfp6TSJ_7KpVlCgWe9_1HtWma3OV6otQ&s" group-title="MUSICA", MU | Telehit (M)(1080)
+#EXTINF:-1 tvg-id="Canal.Telehit.mx" tvg-name="MU | Telehit (M)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-sMvfp6TSJ_7KpVlCgWe9_1HtWma3OV6otQ&s" group-title="MUSICA", MU | Telehit (M)(1080)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/202627
-#EXTINF:-1 tvg-id="" tvg-name="MU | TELEHIT PLUS HD" tvg-logo="http://tv.streamid.tv:8080/images/63e54e7dac954dd9386e03495c6dbb5c.png" group-title="MUSICA", MU | TELEHIT PLUS HD
+#EXTINF:-1 tvg-id="Canal.Telehit.Música.Plus.mx" tvg-name="MU | TELEHIT PLUS HD" tvg-logo="http://tv.streamid.tv:8080/images/63e54e7dac954dd9386e03495c6dbb5c.png" group-title="MUSICA", MU | TELEHIT PLUS HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/202618
 #EXTINF:-1 tvg-id="" tvg-name="MU | Teleritmo" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_11/large.240290097_4854171147929884_5105968485464299234_n.jpg.0e5094cea415b571df070f985512b6e2.jpg" group-title="MUSICA", MU | Teleritmo
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/211864
-#EXTINF:-1 tvg-id="" tvg-name="MU | VH1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/VH1_logo_2003.svg/revision/latest?cb=20231231114215&path-prefix=es" group-title="MUSICA", MU | VH1
+#EXTINF:-1 tvg-id="Canal.VH1.HD.(Latinoamérica).mx" tvg-name="MU | VH1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/VH1_logo_2003.svg/revision/latest?cb=20231231114215&path-prefix=es" group-title="MUSICA", MU | VH1
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/8809
 #EXTINF:-1 tvg-id="" tvg-name="MU | VH1 CLASICC" tvg-logo="http://tv.streamid.tv:8080/images/c5774c34ee26909aca0bb52a976a7014.png" group-title="MUSICA", MU | VH1 CLASICC
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/8810
