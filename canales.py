@@ -1,5 +1,17 @@
 
 incluir = [
+    "Canal.Sundance.TV.(España).sv",
+    "SYFY.uy",
+    "Canal.TNT.(México).mx"
+    "Canal.TNT.Series.(México).mx",
+    "UNIVERSAL.COMEDY.uy",
+    "UNIVERSAL.CINEMA.uy",
+    "UNIVERSAL.PREMIERE.uy",
+    "UNIVERSAL.REALITY.uy",
+    "Canal.Paramount.Channel.(Chile).cl",
+    "Canal.Multipremier.cl",
+    "Canal.HBO.Signature.Latinoamérica.ar",
+    "Canal.Film.&amp;.Arts.mx",
     "Love.Nature.co",
     "HOLA.TV.HD.uy",
     "Food.Network.co",
@@ -85,7 +97,6 @@ incluir = [
     "HBO MUNDI.cl",
     "HBO PLUS ESTE.cl",
     "HBO POP.cl",
-    "HBO Signature.cl",
     "HBO XTREME HD.cl",
     "HBO.mx",
     "HGTV.us",
