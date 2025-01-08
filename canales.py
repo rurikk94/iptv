@@ -1,5 +1,10 @@
 
 incluir = [
+    "Canal.24.Horas.(Chile).cl",
+    "Canal.CNN.Chile.cl",
+    "Canal.Tooncast.cl",
+    "Canal.CNN.en.Español.cl",
+    "Canal.CNN.Internacional.cl",
     "Canal.Cartoonito.(México).mx",
     "Canal.Golden.(México).mx",
     "Canal.Golden.Edge.mx",
