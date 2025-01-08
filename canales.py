@@ -2,7 +2,7 @@
 incluir = [
     "Canal.Sundance.TV.(España).sv",
     "SYFY.uy",
-    "Canal.TNT.(México).mx"
+    "Canal.TNT.(México).mx",
     "Canal.TNT.Series.(México).mx",
     "UNIVERSAL.COMEDY.uy",
     "UNIVERSAL.CINEMA.uy",
@@ -128,4 +128,5 @@ incluir = [
     "TVN.cl",
     "Universal HD.cl",
     "Warner HD.cl",
+    "asd"
 ]
