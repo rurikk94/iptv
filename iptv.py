@@ -1,6 +1,7 @@
 from datetime import datetime
 import os
 import gzip
+from pprint import pprint
 import shutil
 
 import requests
@@ -51,15 +52,28 @@ programas = []
 
 for filename in xmls:
 
+    print("Revisando archivo", filename)
+
 
     with open(filename, 'r', encoding='utf-8') as file:
         data = file.read()
 
         xml_dict = xmltodict.parse(data)
+        xml_canales = xml_dict["tv"]["channel"]
+        xml_programas = xml_dict["tv"]["programme"]
 
-        for i in incluir:
-            canales += [p for p in xml_dict["tv"]["channel"] if p["@id"] == i]
-            programas += [p for p in xml_dict["tv"]["programme"] if p["@channel"] == i]
+        xml_canales_filtrados = [canal for canal in xml_canales if canal["@id"] in incluir]
+
+        if len(xml_canales_filtrados) == 0:
+            continue
+
+        canales += xml_canales_filtrados
+        programas += [p for p in xml_programas if p["@channel"] in incluir]
+
+        ids_en_xml_canales = {canal["@id"] for canal in xml_canales}
+        incluir = [id_str for id_str in incluir if id_str not in ids_en_xml_canales]
+
+
 
         programacion = {
             'tv': {
@@ -80,3 +94,6 @@ with open(output_name, 'rb') as f_in:
 
 print(f'Archivo {output_name} comprimido como {archivo_comprimido}')
 
+
+print("No se han encontrado los canales:")
+pprint(incluir)
