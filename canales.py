@@ -1,5 +1,6 @@
 
 incluir = [
+    "Canal.HBO.(Chile).cl",
     "Canal.Sundance.TV.(España).sv",
     "SYFY.uy",
     "Canal.TNT.(México).mx",
