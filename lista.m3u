@@ -1340,11 +1340,11 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1937
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4893
 #EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2 EN ESPANOL HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="CINE", CINE | HBO 2 EN ESPANOL HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58794
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2 FHD (P)" tvg-logo="http://tv.streamid.tv:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="CINE", CINE | HBO 2 FHD (P)
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE | HBO 2 FHD (P)" tvg-logo="http://tv.streamid.tv:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="CINE", CINE | HBO 2 FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1939
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2 HD (lt)" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-2-hd_m.png" group-title="CINE", CINE | HBO 2 HD (lt)
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE | HBO 2 HD (lt)" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-2-hd_m.png" group-title="CINE", CINE | HBO 2 HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4894
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2 HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="CINE", CINE | HBO 2 HD (mv)
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE | HBO 2 HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="CINE", CINE | HBO 2 HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58795
 #EXTINF:-1 tvg-id="" tvg-name="CINE | HBO EN ESPANOL USA HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/f0577f3af942bfa8f365e0fa7972dfb7.png" group-title="CINE", CINE | HBO EN ESPANOL USA HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58801

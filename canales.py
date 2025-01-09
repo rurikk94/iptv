@@ -1,5 +1,6 @@
 
 incluir = [
+    "Canal.HBO.2.Latinoamérica.mx",
     "Canal.HBO.(México).mx",
     "HBO.co",
     "Canal.HBO.(Chile).cl",
