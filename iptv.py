@@ -9,6 +9,7 @@ import xmltodict
 
 from epgs import urls
 from canales import incluir
+from utils import extract_tvg_ids
 
 folder_path = 'downloads'
 output_name = "epg.xml"
@@ -20,6 +21,20 @@ def obtener_extension(filename):
 
 
 fechahoraactual = datetime.now().strftime("%Y%m%d%H%M%S")
+
+tvg_ids_lista = extract_tvg_ids('lista.m3u')
+canales_no_se_usan = [tvg_id for tvg_id in incluir if tvg_id not in tvg_ids_lista]
+tvg_ids_no_existen = [tvg_id for tvg_id in tvg_ids_lista if tvg_id not in incluir]
+incluir = [tvg_id for tvg_id in tvg_ids_lista if tvg_id in incluir]
+
+if len(canales_no_se_usan) > 0:
+    print("Los siguientes canales no se usan en la lista:")
+    pprint(canales_no_se_usan)
+
+if len(tvg_ids_no_existen) > 0:
+    print("Los siguientes tvg-ids de la lista no existen en la epg:")
+    pprint(tvg_ids_no_existen)
+
 
 if not os.path.exists(folder_path):
     os.makedirs(folder_path)
@@ -73,6 +88,15 @@ for filename in xmls:
             print("No se han encontrado programas para los canales encontrados")
             print(canales_encontrados)
             continue
+
+        for c in xml_canales_filtrados:
+            flag = False
+            for p in xml_programas_filtrados:
+                if p["@channel"] == c["@id"]:
+                    flag = True
+                    break
+            if not flag:
+                print(f"No se han encontrado programas para el canal {c['@id']}")
 
         canales += xml_canales_filtrados
         programas += xml_programas_filtrados

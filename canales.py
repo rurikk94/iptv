@@ -1,5 +1,8 @@
 
 incluir = [
+    "Univision.Telenovelas.us",
+    "CINECANAL HD.cl",
+    "Canal.Animal.Planet.(Chile).cl",
     "Canal.HBO.2.Latinoamérica.mx",
     "Canal.HBO.(México).mx",
     "HBO.co",

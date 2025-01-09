@@ -1294,9 +1294,9 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1907
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4881
 #EXTINF:-1 tvg-id="DHE HD.cl" tvg-name="CINE | DHE HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/447ef96542382d5a195c45fbbfa552e2.png" group-title="CINE", CINE | DHE HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58759
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FILM & ARTS FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/146482b30f24e39213d5fce7c84fb1c7.png" group-title="CINE", CINE | FILM & ARTS FHD (mv)
+#EXTINF:-1 tvg-id="Canal.Film.&amp;.Arts.mx" tvg-name="CINE | FILM & ARTS FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/146482b30f24e39213d5fce7c84fb1c7.png" group-title="CINE", CINE | FILM & ARTS FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58761
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FILM & ARTS HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/146482b30f24e39213d5fce7c84fb1c7.png" group-title="CINE", CINE | FILM & ARTS HD (mv)
+#EXTINF:-1 tvg-id="Canal.Film.&amp;.Arts.mx" tvg-name="CINE | FILM & ARTS HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/146482b30f24e39213d5fce7c84fb1c7.png" group-title="CINE", CINE | FILM & ARTS HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58762
 #EXTINF:-1 tvg-id="" tvg-name="CINE | FILM ZONE HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/8c5b5666027686c0ef19b8d1440d1047.PNG" group-title="CINE", CINE | FILM ZONE HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58763
@@ -1572,11 +1572,11 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198367
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198368
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH.mx" tvg-name="24 | DISCOVERY H&H ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/fc2f1c8f943ffd64962d61a56d10f677.png" group-title="CULTURA", 24 | DISCOVERY H&H ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198369
-#EXTINF:-1 tvg-id="Animal Planet HD.cl" tvg-name="25 | ANIMAL PLANET" tvg-logo="http://tv.streamid.tv:8080/images/1e078814f9622e4296fecde50a687c8f.png" group-title="CULTURA", 25 | ANIMAL PLANET
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(Chile).cl" tvg-name="25 | ANIMAL PLANET" tvg-logo="http://tv.streamid.tv:8080/images/1e078814f9622e4296fecde50a687c8f.png" group-title="CULTURA", 25 | ANIMAL PLANET
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198370
-#EXTINF:-1 tvg-id="Animal Planet HD.cl" tvg-name="26 | ANIMAL PLANET ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/1e078814f9622e4296fecde50a687c8f.png" group-title="CULTURA", 26 | ANIMAL PLANET ᴴᴰ
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(Chile).cl" tvg-name="26 | ANIMAL PLANET ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/1e078814f9622e4296fecde50a687c8f.png" group-title="CULTURA", 26 | ANIMAL PLANET ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198371
-#EXTINF:-1 tvg-id="Animal Planet HD.cl" tvg-name="27 | ANIMAL PLANET ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/1e078814f9622e4296fecde50a687c8f.png" group-title="CULTURA", 27 | ANIMAL PLANET ᴴᴰ
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(Chile).cl" tvg-name="27 | ANIMAL PLANET ᴴᴰ" tvg-logo="http://tv.streamid.tv:8080/images/1e078814f9622e4296fecde50a687c8f.png" group-title="CULTURA", 27 | ANIMAL PLANET ᴴᴰ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198372
 #EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="28 | HISTORY" tvg-logo="http://tv.streamid.tv:8080/images/13c0121628f2fb4acb2b98045e8ce157.png" group-title="CULTURA", 28 | HISTORY
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198373
@@ -1608,7 +1608,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199768
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199769
 #EXTINF:-1 tvg-id="ANIMAL PLANET.mx" tvg-name="CUL• ANIMAL PLANET (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/5233a3dcc96fb162e2ae78a918ec4147.png" group-title="CULTURA", CUL• ANIMAL PLANET (HD) »3«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199770
-#EXTINF:-1 tvg-id="ANIMAL PLANET HD.cl" tvg-name="CUL• ANIMAL PLANET (HD) »4«" tvg-logo="http://tv.streamid.tv:8080/images/5233a3dcc96fb162e2ae78a918ec4147.png" group-title="CULTURA", CUL• ANIMAL PLANET (HD) »4«
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(Chile).cl" tvg-name="CUL• ANIMAL PLANET (HD) »4«" tvg-logo="http://tv.streamid.tv:8080/images/5233a3dcc96fb162e2ae78a918ec4147.png" group-title="CULTURA", CUL• ANIMAL PLANET (HD) »4«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199771
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD.mx" tvg-name="CUL• DISCOVERY CHANNEL (H)" tvg-logo="http://tv.streamid.tv:8080/images/b0944b48d477f11a1b2427a431137ecb.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL (H)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198348
@@ -2490,7 +2490,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/39035
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/39036
 #EXTINF:-1 tvg-id="" tvg-name="Latino  2mb - ESPN 3" tvg-logo="" group-title="LATINOS 2MB", Latino  2mb - ESPN 3
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/39037
-#EXTINF:-1 tvg-id="" tvg-name="Latino  2mb - Film & Arts" tvg-logo="" group-title="LATINOS 2MB", Latino  2mb - Film & Arts
+#EXTINF:-1 tvg-id="Canal.Film.&amp;.Arts.mx" tvg-name="Latino  2mb - Film & Arts" tvg-logo="" group-title="LATINOS 2MB", Latino  2mb - Film & Arts
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/39024
 #EXTINF:-1 tvg-id="" tvg-name="Latino  2mb - FX" tvg-logo="" group-title="LATINOS 2MB", Latino  2mb - FX
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/39045
