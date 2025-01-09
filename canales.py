@@ -1,7 +1,7 @@
 
 incluir = [
+    "Universal Cinema.uy",
     "UNIVERSAL CHANNEL.mx",
-    "UNIVERSAL CINEMA.mx",
     "UNIVERSAL COMEDY.mx",
     "UNIVERSAL CRIME.mx",
     "UNIVERSAL PREMIERE.mx",

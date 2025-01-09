@@ -267,9 +267,6 @@
 	<channel id="UNIVERSAL CHANNEL.mx">
 		<display-name>UNIVERSAL CHANNEL.mx</display-name>
 	</channel>
-	<channel id="UNIVERSAL CINEMA.mx">
-		<display-name>UNIVERSAL CINEMA.mx</display-name>
-	</channel>
 	<channel id="UNIVERSAL COMEDY.mx">
 		<display-name>UNIVERSAL COMEDY.mx</display-name>
 	</channel>
@@ -479,6 +476,9 @@
 	</channel>
 	<channel id="Discovery Familia (U.S. feed).us">
 		<display-name>Discovery Familia (U.S. feed).us</display-name>
+	</channel>
+	<channel id="Universal Cinema.uy">
+		<display-name>Universal Cinema.uy</display-name>
 	</channel>
 	<programme start="20250108063900 +0000" stop="20250108072600 +0000" channel="Canal.TNT.Series.(México).mx">
 		<title lang="es">Law &amp; Order: SVU</title>
@@ -28389,126 +28389,6 @@ En Vivo</title>
 		<title>MaratÃ³n Chicago PD</title>
 		<sub-title>Episodio: Resistencia de Ãºltimo momento</sub-title>
 	</programme>
-	<programme start="20250108073000 +0000" stop="20250108090000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Drones, teme a lo que vuela</title>
-	</programme>
-	<programme start="20250108090000 +0000" stop="20250108104500 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>El profesor chiflado II: Los Klumps</title>
-	</programme>
-	<programme start="20250108104500 +0000" stop="20250108123500 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Jumanji - En la selva</title>
-	</programme>
-	<programme start="20250108123500 +0000" stop="20250108152000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>El Hobbit: Un viaje inesperado</title>
-	</programme>
-	<programme start="20250108152000 +0000" stop="20250108175500 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>El Hobbit: La desolaciÃ³n de Smaug</title>
-	</programme>
-	<programme start="20250108175500 +0000" stop="20250108201000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>El Hobbit: La batalla de los cinco ejÃ©rcitos</title>
-	</programme>
-	<programme start="20250108201000 +0000" stop="20250108215000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Dawn Raid</title>
-	</programme>
-	<programme start="20250108215000 +0000" stop="20250108233000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Las travesuras de Peter Rabbit</title>
-	</programme>
-	<programme start="20250108233000 +0000" stop="20250109010000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>SÃºper agente canino</title>
-	</programme>
-	<programme start="20250109010000 +0000" stop="20250109023000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Johnny English 3.0</title>
-	</programme>
-	<programme start="20250109023000 +0000" stop="20250109040500 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Las Ãºltimas horas</title>
-	</programme>
-	<programme start="20250109040500 +0000" stop="20250109064000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>El Hobbit: La desolaciÃ³n de Smaug</title>
-	</programme>
-	<programme start="20250109064000 +0000" stop="20250109083000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>El escándalo</title>
-	</programme>
-	<programme start="20250109083000 +0000" stop="20250109090000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Hollywood on Set - Episodio: Vengadores:...</title>
-	</programme>
-	<programme start="20250109090000 +0000" stop="20250109093000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Hollywood on Set</title>
-		<sub-title>Episodio: Toy Story 4 / Historias de miedo para contar en la oscuridad / Emanuel</sub-title>
-	</programme>
-	<programme start="20250109093000 +0000" stop="20250109100000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Hollywood on Set</title>
-		<sub-title>Episodio: La familia que tÃº eliges / Downton Abbey / Carnival Row</sub-title>
-	</programme>
-	<programme start="20250109100000 +0000" stop="20250109114500 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Nivel 16</title>
-	</programme>
-	<programme start="20250109114500 +0000" stop="20250109134000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>La iglesia de la salvaciÃ³n</title>
-	</programme>
-	<programme start="20250109134000 +0000" stop="20250109152500 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>La casa con un reloj en sus paredes</title>
-	</programme>
-	<programme start="20250109152500 +0000" stop="20250109172500 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Hombres de negro: Internacional</title>
-	</programme>
-	<programme start="20250109172500 +0000" stop="20250109192000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Scream</title>
-	</programme>
-	<programme start="20250109192000 +0000" stop="20250109210000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Sonic: la pelÃ­cula</title>
-	</programme>
-	<programme start="20250109210000 +0000" stop="20250109232500 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>El Hombre AraÃ±a 3</title>
-	</programme>
-	<programme start="20250109232500 +0000" stop="20250110010000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>12 horas para sobrevivir: El inicio</title>
-	</programme>
-	<programme start="20250110010000 +0000" stop="20250110024500 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>La carrera de la muerte</title>
-	</programme>
-	<programme start="20250110024500 +0000" stop="20250110043500 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>La carrera de la muerte: AnarquÃ­a</title>
-	</programme>
-	<programme start="20250110043500 +0000" stop="20250110065000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>El Hobbit: La batalla de los cinco ejÃ©rcitos</title>
-	</programme>
-	<programme start="20250110065000 +0000" stop="20250110090000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>El hombre del norte</title>
-	</programme>
-	<programme start="20250110090000 +0000" stop="20250110093000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Hollywood on Set - Episodio: Star Wars: ...</title>
-	</programme>
-	<programme start="20250110093000 +0000" stop="20250110100000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Hollywood on Set</title>
-		<sub-title>Episodio: La gran muralla / LEGO Batman: la pelÃ­cula / Â¡Huye!</sub-title>
-	</programme>
-	<programme start="20250110100000 +0000" stop="20250110114000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>La oscuridad</title>
-	</programme>
-	<programme start="20250110114000 +0000" stop="20250110131500 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Alucinaciones</title>
-	</programme>
-	<programme start="20250110131500 +0000" stop="20250110153500 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>El arte de ser adulto</title>
-	</programme>
-	<programme start="20250110153500 +0000" stop="20250110172500 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>El escÃ¡ndalo</title>
-	</programme>
-	<programme start="20250110172500 +0000" stop="20250110194000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>El hombre del norte</title>
-	</programme>
-	<programme start="20250110194000 +0000" stop="20250110213000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>El archivo</title>
-	</programme>
-	<programme start="20250110213000 +0000" stop="20250110231000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Hombres de negro</title>
-	</programme>
-	<programme start="20250110231000 +0000" stop="20250111010000 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Hombres de negro 3</title>
-	</programme>
-	<programme start="20250111010000 +0000" stop="20250111025500 +0000" channel="UNIVERSAL CINEMA.mx">
-		<title>Proyecto GÃ©minis</title>
-	</programme>
 	<programme start="20250108062000 +0000" stop="20250108065500 +0000" channel="UNIVERSAL COMEDY.mx">
 		<title>Upright - Episodio: Ya basta</title>
 	</programme>
@@ -47315,5 +47195,193 @@ En Vivo</title>
 		<title>Hanni and the Wild Woods</title>
 		<sub-title>Viviendo en una burbuja</sub-title>
 		<desc>Si hay algo que Rec y Tángulo detestan más que nada en el mundo, es la suciedad.</desc>
+	</programme>
+	<programme start="20250107224000 +0000" stop="20250108010000 +0000" channel="Universal Cinema.uy">
+		<title>Los siete magníficos</title>
+		<desc>Siete forajidos son contratados por los habitantes de Rose Creek para defenderse de la constante amenaza del industrial Bartholomew Bogue. Sin embargo, pronto descubrirán que estos hombres luchan por algo más que el dinero.</desc>
+	</programme>
+	<programme start="20250108010000 +0000" stop="20250108023000 +0000" channel="Universal Cinema.uy">
+		<title>Hermanos de sangre</title>
+		<desc>Una historia de familias, amistades y traicion en el violento mundo de la mafia de Filadelfia.</desc>
+	</programme>
+	<programme start="20250108023000 +0000" stop="20250108040000 +0000" channel="Universal Cinema.uy">
+		<title>El cuarto blanco</title>
+		<desc>Cuando una guerra civil asola el Reino Unido, una científica despierta en una celda futurista, donde su captor la tortura para extraer informacion que ella dice no tener.</desc>
+	</programme>
+	<programme start="20250108040000 +0000" stop="20250108061500 +0000" channel="Universal Cinema.uy">
+		<title>Capitán Phillips</title>
+		<desc>En el año 2009, en aguas internacionales a 145 millas de la costa de Somalia, el buque carguero Maersk Alabama capitaneado por el Capitán Richard Phillips es abordado y retenido por piratas somalíes, siendo el primer barco norteamericano secuestrado en los últimos doscientos años. Basada en una historia real.</desc>
+	</programme>
+	<programme start="20250108061500 +0000" stop="20250108080000 +0000" channel="Universal Cinema.uy">
+		<title>Jumanji</title>
+		<desc>La historia gira en torno a una fuerza de la naturaleza, un pasatiempo antiguo del que nadie puede escapar. Alan descubrio este juego en 1969 y quedo atrapado en el. En 1995, dos niños deben acabar la partida que Alan comenzo para poder liberarlo.</desc>
+	</programme>
+	<programme start="20250108080000 +0000" stop="20250108083000 +0000" channel="Universal Cinema.uy">
+		<title>Hollywood on Set - Temp. 1 - Episodio 13</title>
+		<desc>Conocemos los detalles detrás de las bambalinas de las películas: Máquinas mortales, el príncipe feliz y ¿Puedes perdonarme?</desc>
+		<episode-num system="xmltv_ns">0.12.0/1</episode-num>
+	</programme>
+	<programme start="20250108083000 +0000" stop="20250108090000 +0000" channel="Universal Cinema.uy">
+		<title>Hollywood on Set - Temp. 1 - Episodio 14</title>
+		<desc>Te mostramos el detrás de escena de las películas: El regreso de Mary Poppins, la voz de la igualdad y Si la colonia hablara.</desc>
+		<episode-num system="xmltv_ns">0.13.0/1</episode-num>
+	</programme>
+	<programme start="20250108090000 +0000" stop="20250108092500 +0000" channel="Universal Cinema.uy">
+		<title>Hollywood on Set - Temp. 1 - Episodio 15</title>
+		<desc>Te mostramos el set y el backstage de las películas: Como entrenar a tu dragon 3, Maligno y Todos lo saben.</desc>
+		<episode-num system="xmltv_ns">0.14.0/1</episode-num>
+	</programme>
+	<programme start="20250108092500 +0000" stop="20250108095000 +0000" channel="Universal Cinema.uy">
+		<title>Hollywood on Set - Temp. 1 - Episodio 16</title>
+		<desc>Nos inmiscuimos en el set, detrás de las bambalinas de las películas: Capitana Marvel, Un loco funeral y A dos metros de ti.</desc>
+		<episode-num system="xmltv_ns">0.15.0/1</episode-num>
+	</programme>
+	<programme start="20250108095000 +0000" stop="20250108102000 +0000" channel="Universal Cinema.uy">
+		<title>Hollywood on Set - Temp. 1 - Episodio 17</title>
+		<desc>Te mostramos el detrás de escena de las películas: Tolkien, After: aquí empieza todo y Escupire sobre tu tumba 4: Dejà vu.</desc>
+		<episode-num system="xmltv_ns">0.16.0/1</episode-num>
+	</programme>
+	<programme start="20250108102000 +0000" stop="20250108122000 +0000" channel="Universal Cinema.uy">
+		<title>Hombres de negro: Internacional</title>
+		<desc>Los Hombres de Negro siempre han protegido a la Tierra de la escoria del universo. En esta nueva aventura, abordan su mayor amenaza hasta la fecha: un topo en la organizacion Men in Black.</desc>
+	</programme>
+	<programme start="20250108122000 +0000" stop="20250108135000 +0000" channel="Universal Cinema.uy">
+		<title>Irrupcion</title>
+		<desc>Una mujer lucha por proteger a sus hijos cuando, sorpresivamente, un grupo de criminales asalta su casa y los toma como rehenes.</desc>
+	</programme>
+	<programme start="20250108135000 +0000" stop="20250108154500 +0000" channel="Universal Cinema.uy">
+		<title>Anna</title>
+		<desc>Debajo de la sorprendente belleza de la modelo Anna Poliatova hay un secreto que desatará su fuerza y habilidad indelebles, para convertirse en una de las asesinas al servicio del gobierno más temidas del mundo.</desc>
+	</programme>
+	<programme start="20250108154500 +0000" stop="20250108180000 +0000" channel="Universal Cinema.uy">
+		<title>Capitán Phillips</title>
+		<desc>En el año 2009, en aguas internacionales a 145 millas de la costa de Somalia, el buque carguero Maersk Alabama capitaneado por el Capitán Richard Phillips es abordado y retenido por piratas somalíes, siendo el primer barco norteamericano secuestrado en los últimos doscientos años. Basada en una historia real.</desc>
+	</programme>
+	<programme start="20250108180000 +0000" stop="20250108194500 +0000" channel="Universal Cinema.uy">
+		<title>Nacion asesina</title>
+		<desc>Salem ya no el pueblo de antes. De hecho, el Salem de los smartphones es mucho peor. El hackeo y la publicacion de intimidades de los ciudadanos hará que la gente pierda los estribos, desencadenando una ola de violencia que arrastra a cuatro chicas, acusadas de estar detrás de este hurto cibernetico.</desc>
+	</programme>
+	<programme start="20250108194500 +0000" stop="20250108212000 +0000" channel="Universal Cinema.uy">
+		<title>Siempre a tu lado</title>
+		<desc>Un profesor de universidad adopta a un perro vagabundo en una estacion del tren. Tras recabar informacion sobre el animal, el docente descubre que el can iba a los andenes a diario durante semanas para esperar el regreso de su amo. Al pasar el tiempo, su patron muere en un accidente en la ciudad. Hachiko cambiará la vida de su nuevo dueño cuando este descubra los lazos que se pueden crear entre un canino y una persona.</desc>
+	</programme>
+	<programme start="20250108212000 +0000" stop="20250108231000 +0000" channel="Universal Cinema.uy">
+		<title>Mamma mía</title>
+		<desc>Una futura novia joven busca encontrar a su verdadero padre. La historias es contada a traves de los grandes exitos del popular grupo de los años 70, ABBA.</desc>
+	</programme>
+	<programme start="20250108231000 +0000" stop="20250109010000 +0000" channel="Universal Cinema.uy">
+		<title>Mamma Mia! Vamos otra vez</title>
+		<desc>Diez años despues, todos regresan a la isla griega de Kalokari. Mientras Sophie se prepara para la reapertura del Hotel Bella Donna, viajaremos al pasado, al verano mágico de finales de la decada del 70, donde descubriremos a una joven y apasionada Donna, acompañada de sus dos mejores amigas.</desc>
+	</programme>
+	<programme start="20250109010000 +0000" stop="20250109031000 +0000" channel="Universal Cinema.uy">
+		<title>The Prestige</title>
+		<desc>Todo comienza en Londres a fines del siglo XIX. Dos jovenes ilusionistas se proponen labrar su propio camino a la fama. Al principio son dos amigos que se admiran mutuamante. Sin embargo por rivalidad se convierten en enemigos irreconciliables e intentan por todos los medios superarse, decubrir sus secretos y acabar con el otro, con consecuencias peligrosas, engañosas y mortales. Truco a truco, espectáculo a espectáculo, se va fraguando su feroz competicion que ya no conoce límites.</desc>
+	</programme>
+	<programme start="20250109031000 +0000" stop="20250109044500 +0000" channel="Universal Cinema.uy">
+		<title>Tres identicos desconocidos</title>
+		<desc>En la Nueva York de 1980, tres jovenes que fueron adoptados se conocen y descubren que son trillizos que se separaron al nacer. Pero su búsqueda para descubrir el por que se convierte en un extraño y siniestro misterio.</desc>
+	</programme>
+	<programme start="20250109044500 +0000" stop="20250109073000 +0000" channel="Universal Cinema.uy">
+		<title>El Hobbit: un viaje inesperado</title>
+		<desc>La aventura sigue el viaje de Bilbo Bolson, que se embarca en la recuperacion del tesoro y del reino enano de Erebor arrebatados por el terrible dragon Smaug. Alcanzado de repente por el mago Gandalf el Gris, Bilbo se encuentra acompañado de trece enanos dirigidos por el legendario guerrero Thorin Escudo de roble. Su viaje les hace adentrarse en el bosque cruzando tierras peligrosas, donde se encontrarán con trasgos, orcos, wargos salvajes y hechiceros.</desc>
+	</programme>
+	<programme start="20250109073000 +0000" stop="20250109090000 +0000" channel="Universal Cinema.uy">
+		<title>Drones, teme a lo que vuela</title>
+		<desc>En un futuro cercano, el estres medioambiental ha provocado escasez de alimento alrededor del mundo. Por ello, la tecnología ha dado un paso adelante, con los drones agrícolas de VastGrow maximizando el campo para las tierras de cultivo que aún quedan.</desc>
+	</programme>
+	<programme start="20250109090000 +0000" stop="20250109104500 +0000" channel="Universal Cinema.uy">
+		<title>El profesor chiflado 2</title>
+		<desc>En esta nueva aventura, el científico Sherman Klump, el profesor chiflado, descubre una suero para recuperar la juventud teniendo que enfrentarse a antiguos enemigos que intentan arrebatárselo. ¿Será capaz de derrotar de una vez por todas a su malvado alter ego, el extravagante Buddy Love?</desc>
+	</programme>
+	<programme start="20250109104500 +0000" stop="20250109123500 +0000" channel="Universal Cinema.uy">
+		<title>Jumanji</title>
+		<desc>La historia gira en torno a una fuerza de la naturaleza, un pasatiempo antiguo del que nadie puede escapar. Alan descubrio este juego en 1969 y quedo atrapado en el. En 1995, dos niños deben acabar la partida que Alan comenzo para poder liberarlo.</desc>
+	</programme>
+	<programme start="20250109123500 +0000" stop="20250109152000 +0000" channel="Universal Cinema.uy">
+		<title>El Hobbit: un viaje inesperado</title>
+		<desc>La aventura sigue el viaje de Bilbo Bolson, que se embarca en la recuperacion del tesoro y del reino enano de Erebor arrebatados por el terrible dragon Smaug. Alcanzado de repente por el mago Gandalf el Gris, Bilbo se encuentra acompañado de trece enanos dirigidos por el legendario guerrero Thorin Escudo de roble. Su viaje les hace adentrarse en el bosque cruzando tierras peligrosas, donde se encontrarán con trasgos, orcos, wargos salvajes y hechiceros.</desc>
+	</programme>
+	<programme start="20250109152000 +0000" stop="20250109175500 +0000" channel="Universal Cinema.uy">
+		<title>The Hobbit: The Desolation of Smaug</title>
+		<desc>Bilbo, los enanos y Gandalf continúan el viaje hacia Erebor, el reino usurpado por el dragon Smaug</desc>
+	</programme>
+	<programme start="20250109175500 +0000" stop="20250109201000 +0000" channel="Universal Cinema.uy">
+		<title>El Hobbit: la batalla de los cinco ejercitos</title>
+		<desc>Cuando reclamaron su patria al dragon Smaug, la Compañía desato, sin intencion, una fuerza malvada en el mundo. Furioso, Smaug vuela hacia la Ciudad del Lago para acabar con cualquier tipo de vida. Por su parte, Sauron ha enviado legiones de orcos a la Montaña Solitaria sembrando el caos. Ahora, las razas de los enanos, elfos y hombres deberán decidir si se unen para no ser destruidos.</desc>
+	</programme>
+	<programme start="20250109201000 +0000" stop="20250109215000 +0000" channel="Universal Cinema.uy">
+		<title>Dawn Raid</title>
+		<desc>Cuenta la historia del iconico sello musical neozelandes Dawn Raid Entertainment, fundamental en el desarrollo de exitosos artistas de la talla de Savage y Aaradhna. Sus fundadores, Andy Murnane y Brotha D, conocieron el exito y la desgracia, así como un renacer espiritual.</desc>
+	</programme>
+	<programme start="20250109215000 +0000" stop="20250109233000 +0000" channel="Universal Cinema.uy">
+		<title>Las travesuras de Peter Rabbit</title>
+		<desc>Adaptacion del cuento clásico de Beatrix Potter de un conejo rebelde y de lo más revoltoso que intenta hacerse con el control de la huerta de un granjero.</desc>
+	</programme>
+	<programme start="20250109233000 +0000" stop="20250110010000 +0000" channel="Universal Cinema.uy">
+		<title>Súper agente canino</title>
+		<desc>Max, un macho y solitario perro Rottweiler de la policía de recibe la orden de ir encubierto como un perro de exhibicion en una prestigiosa exposicion canina, junto con su compañero humano, para evitar que ocurra un desastre.</desc>
+	</programme>
+	<programme start="20250110010000 +0000" stop="20250110023000 +0000" channel="Universal Cinema.uy">
+		<title>Johnny English 3.0</title>
+		<desc>Cuando un ciberataque revela la identidad de los agentes secretos en actividad del Reino Unido, Johnny English se convierte en la única esperanza del servicio secreto. Sin embargo Johnny deberá esforzarse mucho para superar los desafíos tecnologicos de la era moderna y dar con el hacker.</desc>
+	</programme>
+	<programme start="20250110023000 +0000" stop="20250110040500 +0000" channel="Universal Cinema.uy">
+		<title>Las últimas horas</title>
+		<desc>Diez años despues de la muerte de su hijo, una pareja divorciada se reúne repentinamente por eventos sobrenaturales que les ofrecen la oportunidad de perdonar.</desc>
+	</programme>
+	<programme start="20250110040500 +0000" stop="20250110064000 +0000" channel="Universal Cinema.uy">
+		<title>The Hobbit: The Desolation of Smaug</title>
+		<desc>Bilbo, los enanos y Gandalf continúan el viaje hacia Erebor, el reino usurpado por el dragon Smaug</desc>
+	</programme>
+	<programme start="20250110064000 +0000" stop="20250110083000 +0000" channel="Universal Cinema.uy">
+		<title>El escándalo</title>
+		<desc>Cuando Gretchen Carlson golpea al fundador de Fox News, Roger Ailes, con una demanda judicial alegando acoso sexual, ni un alma podía predecir lo que sucedería despues. Su decision lleva a la corresponsal de Fox News, Megyn Kelly, a presentar su propia historia, así como a muchas otras mujeres, incitando a un movimiento que se refleja en todo el mundo.</desc>
+	</programme>
+	<programme start="20250110083000 +0000" stop="20250110090000 +0000" channel="Universal Cinema.uy">
+		<title>Hollywood on Set - Temp. 1 - Episodio 18</title>
+		<desc>Conoce el detrás de escena y todos los detalles del set de las películas: Vengadores: Endgame, Color rápido y Chicos buenos.</desc>
+		<episode-num system="xmltv_ns">0.17.0/1</episode-num>
+	</programme>
+	<programme start="20250110090000 +0000" stop="20250110093000 +0000" channel="Universal Cinema.uy">
+		<title>Hollywood on Set - Temp. 1 - Episodio 19</title>
+		<desc>Conoce el set de filmacion y todo el backstage de las películas: Toy Story 4, Historias de miedo para contar en la oscuridad y Emanuel.</desc>
+		<episode-num system="xmltv_ns">0.18.0/1</episode-num>
+	</programme>
+	<programme start="20250110093000 +0000" stop="20250110100000 +0000" channel="Universal Cinema.uy">
+		<title>Hollywood on Set - Temp. 1 - Episodio 20</title>
+		<desc>Nos sumergimos en la creme de Hollywood, para conocer el set de filmacion y su detrás de cámara, de las películas: La familia que tú eliges, Downton Abbey y Carnival Row.</desc>
+		<episode-num system="xmltv_ns">0.19.0/1</episode-num>
+	</programme>
+	<programme start="20250110100000 +0000" stop="20250110114500 +0000" channel="Universal Cinema.uy">
+		<title>Nivel 16</title>
+		<desc>Vivien es una adolescente de 16 años que está atrapada en la Academia Vestalis, un internado que se asemeja a una prision, y en la que es preferible no tener amigos y mantener un perfil bajo. Su vida cambia repentinamente cuando se reencuentra con Sophia, una antigua amiga que la traiciono en su día. Juntas se embarcan en una búsqueda para descubrir la terrorífica verdad que se esconde tras su encarcelamiento. Antes de darse cuenta, ambas tratarán de luchar por sobrevivir y salvar su propia vida.</desc>
+	</programme>
+	<programme start="20250110114500 +0000" stop="20250110134000 +0000" channel="Universal Cinema.uy">
+		<title>La iglesia de la salvacion</title>
+		<desc>El encuentro con un activista medioambiental y su esposa embarazada radicaliza poco a poco la ideología de un pastor evangelico, un antiguo capellán del ejercito, todavía marcado por la muerte de su hijo en Irak, que dirige una pequeña iglesia en el norte del estado de Nueva York.</desc>
+	</programme>
+	<programme start="20250110134000 +0000" stop="20250110152500 +0000" channel="Universal Cinema.uy">
+		<title>La casa del reloj en la pared</title>
+		<desc>Lewis Barnavelt es un niño de 10 años huerfano, que se muda a la vieja casa de su tío Jonathan, la cual tiene un misterioso reloj. Su apacible y monotona vida se verá interrumpida cuando accidentalmente despierte a magos y brujas de un mundo secreto.</desc>
+	</programme>
+	<programme start="20250110152500 +0000" stop="20250110172500 +0000" channel="Universal Cinema.uy">
+		<title>Hombres de negro: Internacional</title>
+		<desc>Los Hombres de Negro siempre han protegido a la Tierra de la escoria del universo. En esta nueva aventura, abordan su mayor amenaza hasta la fecha: un topo en la organizacion Men in Black.</desc>
+	</programme>
+	<programme start="20250110172500 +0000" stop="20250110192000 +0000" channel="Universal Cinema.uy">
+		<title>Grita</title>
+		<desc>Veinticinco años despues de que una serie de asesinatos brutales conmocionara a la tranquila ciudad de Woodsboro, un nuevo criminal se ha puesto la máscara de Ghostface para resucitar el horror vivido en el pasado.</desc>
+	</programme>
+	<programme start="20250110192000 +0000" stop="20250110210000 +0000" channel="Universal Cinema.uy">
+		<title>Sonic: La película</title>
+		<desc>Sonic deberá unirse a Tom, su nuevo amigo humano, para detener los maleficos planes del villano Dr. Robotnik</desc>
+	</programme>
+	<programme start="20250110210000 +0000" stop="20250110232500 +0000" channel="Universal Cinema.uy">
+		<title>El Hombre Araña 3</title>
+		<desc>Peter Parker ha conseguido un equilibrio en su vida. Pero ahora deberá elegir entre el poder que le da su nuevo traje negro y el heroe que solía ser. Deberá vencer a sus propios demonios, mientras lucha contra sus enemigos, Venom y el Hombre de Arena.</desc>
+	</programme>
+	<programme start="20250110232500 +0000" stop="20250111010000 +0000" channel="Universal Cinema.uy">
+		<title>La primera purga: La noche de las bestias</title>
+		<desc>El tercer partido político de Estados Unidos, los Nuevos Padres Fundadores de America, llega al poder y realiza un experimento: no hay leyes durante 12 horas en Staten Island, dando la libertad a las personas de cometer cualquier tipo de crimen sin ninguna consecuencia. Nadie tiene que quedarse en la isla, pero se dan $ 5,000 a cualquiera que lo haga.</desc>
 	</programme>
 </tv>

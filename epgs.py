@@ -15,4 +15,5 @@ urls = [
     ("spain1.xml", "https://www.open-epg.com/files/spain1.xml"),
     ("uk1.xml", "https://www.open-epg.com/files/unitedkingdom1.xml"),
     ("usa4.xml", "https://www.open-epg.com/files/unitedstates4.xml"),
+    ("uruguay2.xml", "https://www.open-epg.com/files/uruguaypremium2.xml"),
 ]
