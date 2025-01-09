@@ -1,5 +1,7 @@
 
 incluir = [
+    "DAZN.1.es",
+    "ESPN Deportes.us",
     "Universal Cinema.uy",
     "UNIVERSAL CHANNEL.mx",
     "UNIVERSAL COMEDY.mx",

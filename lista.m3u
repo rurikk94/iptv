@@ -478,7 +478,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/7759
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/192212
 #EXTINF:-1 tvg-id="" tvg-name="EU | España - La Liga (Op.1)" tvg-logo="http://tv.streamid.tv:8080/images/da9c81c849c384a4dba6b0cb6723dfe4.png" group-title="FUTBOL EUROPEO", EU | España - La Liga (Op.1)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/210210
-#EXTINF:-1 tvg-id="" tvg-name="EU | España - La Liga (Op.2)" tvg-logo="http://tv.streamid.tv:8080/images/da9c81c849c384a4dba6b0cb6723dfe4.png" group-title="FUTBOL EUROPEO", EU | España - La Liga (Op.2)
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-name="EU | España - La Liga (Op.2)" tvg-logo="http://tv.streamid.tv:8080/images/da9c81c849c384a4dba6b0cb6723dfe4.png" group-title="FUTBOL EUROPEO", EU | España - La Liga (Op.2)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/210211
 #EXTINF:-1 tvg-id="" tvg-name="EU | España - La Liga (Op.3)" tvg-logo="http://tv.streamid.tv:8080/images/da9c81c849c384a4dba6b0cb6723dfe4.png" group-title="FUTBOL EUROPEO", EU | España - La Liga (Op.3)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/210212
@@ -490,7 +490,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/210220
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/210221
 #EXTINF:-1 tvg-id="" tvg-name="EU | Inglaterra - Premier League (Op.1)" tvg-logo="http://tv.streamid.tv:8080/images/efaead44cbdd9b60dbee04494e32d7fc.png" group-title="FUTBOL EUROPEO", EU | Inglaterra - Premier League (Op.1)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/210213
-#EXTINF:-1 tvg-id="" tvg-name="EU | Inglaterra - Premier League (Op.2)" tvg-logo="http://tv.streamid.tv:8080/images/efaead44cbdd9b60dbee04494e32d7fc.png" group-title="FUTBOL EUROPEO", EU | Inglaterra - Premier League (Op.2)
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="EU | Inglaterra - Premier League (Op.2)" tvg-logo="http://tv.streamid.tv:8080/images/efaead44cbdd9b60dbee04494e32d7fc.png" group-title="FUTBOL EUROPEO", EU | Inglaterra - Premier League (Op.2)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/210214
 #EXTINF:-1 tvg-id="" tvg-name="EU | Inglaterra - Premier League (Op.3)" tvg-logo="http://tv.streamid.tv:8080/images/efaead44cbdd9b60dbee04494e32d7fc.png" group-title="FUTBOL EUROPEO", EU | Inglaterra - Premier League (Op.3)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/210215
@@ -668,7 +668,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198659
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198660
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | CLARO SPORTS" tvg-logo="" group-title="DEPORTES ESPAÑA", DEP ES | CLARO SPORTS
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/204415
-#EXTINF:-1 tvg-id="DAZN 1.es" tvg-name="DEP ES | DAZN 1" tvg-logo="http://tv.streamid.tv:8080/images/6054d7deb6aa862bc61b2de35c665cc3.png" group-title="DEPORTES ESPAÑA", DEP ES | DAZN 1
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="DEP ES | DAZN 1" tvg-logo="http://tv.streamid.tv:8080/images/6054d7deb6aa862bc61b2de35c665cc3.png" group-title="DEPORTES ESPAÑA", DEP ES | DAZN 1
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/200896
 #EXTINF:-1 tvg-id="DAZN 2.es" tvg-name="DEP ES | DAZN 2" tvg-logo="http://tv.streamid.tv:8080/images/e0049fc48b29a4f60d333c049df78e97.png" group-title="DEPORTES ESPAÑA", DEP ES | DAZN 2
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/200897

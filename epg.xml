@@ -471,6 +471,9 @@
 	<channel id="Discovery Familia (U.S. feed).us">
 		<display-name>Discovery Familia (U.S. feed).us</display-name>
 	</channel>
+	<channel id="ESPN Deportes.us">
+		<display-name>ESPN Deportes.us</display-name>
+	</channel>
 	<channel id="Universal Cinema.uy">
 		<display-name>Universal Cinema.uy</display-name>
 	</channel>
@@ -46688,6 +46691,215 @@ En Vivo</title>
 		<title>Hanni and the Wild Woods</title>
 		<sub-title>Viviendo en una burbuja</sub-title>
 		<desc>Si hay algo que Rec y Tángulo detestan más que nada en el mundo, es la suciedad.</desc>
+	</programme>
+	<programme start="20250109050000 +0000" stop="20250109060000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250109060000 +0000" stop="20250109070000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250109070000 +0000" stop="20250109080000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250109080000 +0000" stop="20250109090000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250109090000 +0000" stop="20250109100000 +0000" channel="ESPN Deportes.us">
+		<title>Top Rank Classic Fights</title>
+		<sub-title>Terence Crawford vs. Viktor Postol</sub-title>
+		<desc>Terence Crawford (28-0 con 20 KOs) vs. Viktor Postol (28-0 con 12 KOs), pelea a 12 rounds que se llevo a cabo desde Las Vegas Nevadas, Estados Unidos.</desc>
+	</programme>
+	<programme start="20250109100000 +0000" stop="20250109110000 +0000" channel="ESPN Deportes.us">
+		<title>Top Rank Classic Fights</title>
+		<sub-title>Vasiliy Lomachenko vs. Roman Martinez</sub-title>
+		<desc>Lomachenko (5-1, 3 KOs), 2 veces medallista de oro olímpico y actual campeon peso pluma de la OMB, subirá de division para retar a Martínez (29-2-3, 17 KOs) por el título junior ligero de la OMB desde el Teatro del Madison Square Gaden, Nueva York, Estados Unidos.</desc>
+	</programme>
+	<programme start="20250109110000 +0000" stop="20250109120000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250109120000 +0000" stop="20250109130000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250109130000 +0000" stop="20250109140000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250109140000 +0000" stop="20250109150000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250109150000 +0000" stop="20250109160000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250109160000 +0000" stop="20250109170000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250109170000 +0000" stop="20250109180000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250109180000 +0000" stop="20250109183000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250109183000 +0000" stop="20250109210000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol: Supercopa de España</title>
+		<sub-title>Real Madrid vs. RCD Mallorca</sub-title>
+		<desc>Semifinal Real Madrid vs. RCD Mallorca.</desc>
+	</programme>
+	<programme start="20250109210000 +0000" stop="20250109230000 +0000" channel="ESPN Deportes.us">
+		<title>Ahora o nunca</title>
+		<desc>Ahora o nunca.</desc>
+	</programme>
+	<programme start="20250109230000 +0000" stop="20250110000000 +0000" channel="ESPN Deportes.us">
+		<title>Cronometro</title>
+		<desc>Si deseas estar enterado de las informaciones más importantes del deporte colombiano este es tu espacio, donde te traemos la actualidad de los acontecimientos más resaltantes en el mundo de las competencias.</desc>
+	</programme>
+	<programme start="20250110000000 +0000" stop="20250110003000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250110003000 +0000" stop="20250110040000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol americano universitario NCAA</title>
+		<sub-title>Penn State vs. Notre Dame</sub-title>
+		<desc>Penn State vs. Notre Dame en Orange Bowl desde Hard Rock Stadium, Miami, Florida, Estados Unidos.</desc>
+	</programme>
+	<programme start="20250110040000 +0000" stop="20250110050000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250110050000 +0000" stop="20250110060000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250110060000 +0000" stop="20250110070000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250110070000 +0000" stop="20250110080000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250110080000 +0000" stop="20250110090000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250110090000 +0000" stop="20250110100000 +0000" channel="ESPN Deportes.us">
+		<title>UFC Unleashed</title>
+		<sub-title>1602: Wish You Were Here</sub-title>
+		<desc>Se presentan las mejores luchas de artes marciales mixtas tomadas de los archivos de la U.F. C.</desc>
+	</programme>
+	<programme start="20250110100000 +0000" stop="20250110110000 +0000" channel="ESPN Deportes.us">
+		<title>UFC Unleashed</title>
+		<sub-title>1603: Vegas Golden Fights</sub-title>
+		<desc>Se presentan las mejores luchas de artes marciales mixtas tomadas de los archivos de la U.F. C.</desc>
+	</programme>
+	<programme start="20250110110000 +0000" stop="20250110120000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250110120000 +0000" stop="20250110130000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250110130000 +0000" stop="20250110140000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250110140000 +0000" stop="20250110150000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250110150000 +0000" stop="20250110160000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250110160000 +0000" stop="20250110170000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250110170000 +0000" stop="20250110180000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250110180000 +0000" stop="20250110190000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250110190000 +0000" stop="20250110192500 +0000" channel="ESPN Deportes.us">
+		<title>Ahora o nunca</title>
+		<desc>Ahora o nunca.</desc>
+	</programme>
+	<programme start="20250110192500 +0000" stop="20250110213000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol: Bundesliga</title>
+		<sub-title>Borussia Dortmund vs. Bayer Leverkusen</sub-title>
+		<desc>Borussia Dortmund vs. Bayer Leverkusen. Desde Signal Iduna Park.</desc>
+	</programme>
+	<programme start="20250110213000 +0000" stop="20250110230000 +0000" channel="ESPN Deportes.us">
+		<title>Ahora o nunca</title>
+		<desc>Ahora o nunca.</desc>
+	</programme>
+	<programme start="20250110230000 +0000" stop="20250111000000 +0000" channel="ESPN Deportes.us">
+		<title>Cronometro</title>
+		<desc>Si deseas estar enterado de las informaciones más importantes del deporte colombiano este es tu espacio, donde te traemos la actualidad de los acontecimientos más resaltantes en el mundo de las competencias.</desc>
+	</programme>
+	<programme start="20250111000000 +0000" stop="20250111003000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250111003000 +0000" stop="20250111040000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol americano universitario NCAA</title>
+		<sub-title>Texas vs. Ohio State</sub-title>
+		<desc>Texas vs. Ohio State en Cotton Bowl Classic desde ATandT Stadium, Arlington, Texas, Estados Unidos.</desc>
+	</programme>
+	<programme start="20250111040000 +0000" stop="20250111050000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250111050000 +0000" stop="20250111060000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250111060000 +0000" stop="20250111070000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250111070000 +0000" stop="20250111080000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250111080000 +0000" stop="20250111090000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250111090000 +0000" stop="20250111100000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250111100000 +0000" stop="20250111110000 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250111110000 +0000" stop="20250111120000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol Picante</title>
+		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	</programme>
+	<programme start="20250111120000 +0000" stop="20250111125500 +0000" channel="ESPN Deportes.us">
+		<title>SportsCenter</title>
+		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	</programme>
+	<programme start="20250111125500 +0000" stop="20250111150000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol: La Liga</title>
+		<sub-title>Alaves vs. Girona</sub-title>
+		<desc>Alaves vs. Girona. Desde Mendizorrotza.</desc>
 	</programme>
 	<programme start="20250107224000 +0000" stop="20250108010000 +0000" channel="Universal Cinema.uy">
 		<title>Los siete magníficos</title>

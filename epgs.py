@@ -6,6 +6,7 @@ urls = [
     ("epg_ripper_US1.xml.gz", "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"),
     ("epg_ripper_SV1.xml.gz", "https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz"),
     ("epg_ripper_AR1.xml.gz", "https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"),
+    ("epg_ripper_ES1.xml.gz", "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"),
     # ("jmQcr6fwJB.xml", "https://www.open-epg.com/generate/jmQcr6fwJB.xml"),
     ("mexico2.xml", "https://www.open-epg.com/files/mexico2.xml"),
     ("argentina2.xml", "https://www.open-epg.com/files/mexico2.xml"),
