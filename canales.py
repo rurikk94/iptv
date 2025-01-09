@@ -1,5 +1,6 @@
 
 incluir = [
+    "HBO.-.Eastern.Feed.us",
     "Canal.Golden.Edge.mx",
     "Canal.Golden.Edge.cl",
     "Canal.Golden.Premier.cl",
