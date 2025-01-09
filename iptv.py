@@ -63,12 +63,19 @@ for filename in xmls:
         xml_programas = xml_dict["tv"]["programme"]
 
         xml_canales_filtrados = [canal for canal in xml_canales if canal["@id"] in incluir]
+        canales_encontrados = [canal["@id"] for canal in xml_canales_filtrados]
+        xml_programas_filtrados = [p for p in xml_programas if p["@channel"] in canales_encontrados]
 
         if len(xml_canales_filtrados) == 0:
             continue
 
+        if len(xml_programas_filtrados) == 0:
+            print("No se han encontrado programas para los canales encontrados")
+            print(canales_encontrados)
+            continue
+
         canales += xml_canales_filtrados
-        programas += [p for p in xml_programas if p["@channel"] in incluir]
+        programas += xml_programas_filtrados
 
         ids_en_xml_canales = {canal["@id"] for canal in xml_canales}
         incluir = [id_str for id_str in incluir if id_str not in ids_en_xml_canales]

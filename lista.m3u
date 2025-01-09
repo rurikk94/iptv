@@ -1360,13 +1360,13 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58796
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58798
 #EXTINF:-1 tvg-id="HBO.co" tvg-name="CINE | HBO FHD (CLARO)" tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1512060072195-PSYXQ3PNQ4SGXGIFDS81/ke17ZwdGBToddI8pDm48kFSbwZiPgCXQ2TtynzWb_sQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNHBAs6gMow1jhelX4yFnQ8bczjh7yTA-i0J3ZOALjyCjLISwBs8eEdxAxTptZAUg/hbo-01.png" group-title="CINE", CINE | HBO FHD (CLARO)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58799
-#EXTINF:-1 tvg-id="Canal.HBO.(Chile).cl" tvg-name="CINE | HBO FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CINE", CINE | HBO FHD (P)
+#EXTINF:-1 tvg-id="HBO.co" tvg-name="CINE | HBO FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CINE", CINE | HBO FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1938
-#EXTINF:-1 tvg-id="Canal.HBO.(Chile).cl" tvg-name="CINE | HBO FHD (P)" tvg-logo="https://tylerclementi.org/wp-content/uploads/2019/06/71-717908_hbo-logo-png-download-hbo-logo-high-res.jpg" group-title="CINE", CINE | HBO FHD (P)
+#EXTINF:-1 tvg-id="HBO.co" tvg-name="CINE | HBO FHD (P)" tvg-logo="https://tylerclementi.org/wp-content/uploads/2019/06/71-717908_hbo-logo-png-download-hbo-logo-high-res.jpg" group-title="CINE", CINE | HBO FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1941
-#EXTINF:-1 tvg-id="Canal.HBO.(Chile).cl" tvg-name="CINE | HBO FHD EN ESPANOL (mv)" tvg-logo="http://tv.streamid.tv:8080/images/caa67992b56f94f2c25b1a0413ecba54.png" group-title="CINE", CINE | HBO FHD EN ESPANOL (mv)
+#EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-name="CINE | HBO FHD EN ESPANOL (mv)" tvg-logo="http://tv.streamid.tv:8080/images/caa67992b56f94f2c25b1a0413ecba54.png" group-title="CINE", CINE | HBO FHD EN ESPANOL (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58800
-#EXTINF:-1 tvg-id="Canal.HBO.(Chile).cl" tvg-name="CINE | HBO HD (mv)" tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1512060072195-PSYXQ3PNQ4SGXGIFDS81/ke17ZwdGBToddI8pDm48kFSbwZiPgCXQ2TtynzWb_sQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNHBAs6gMow1jhelX4yFnQ8bczjh7yTA-i0J3ZOALjyCjLISwBs8eEdxAxTptZAUg/hbo-01.png" group-title="CINE", CINE | HBO HD (mv)
+#EXTINF:-1 tvg-id="HBO.co" tvg-name="CINE | HBO HD (mv)" tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1512060072195-PSYXQ3PNQ4SGXGIFDS81/ke17ZwdGBToddI8pDm48kFSbwZiPgCXQ2TtynzWb_sQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNHBAs6gMow1jhelX4yFnQ8bczjh7yTA-i0J3ZOALjyCjLISwBs8eEdxAxTptZAUg/hbo-01.png" group-title="CINE", CINE | HBO HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58802
 #EXTINF:-1 tvg-id="HBO MUNDI.cl" tvg-name="CINE | HBO MUNDI HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/ab81cb3e1f5f55ad886bde01dcde7724.png" group-title="CINE", CINE | HBO MUNDI HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58804
