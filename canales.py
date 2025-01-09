@@ -1,5 +1,6 @@
 
 incluir = [
+    "Starz.Cinema.HD.-.Eastern.us",
     "Univision.Telenovelas.us",
     "CINECANAL HD.cl",
     "Canal.Animal.Planet.(Chile).cl",
@@ -49,7 +50,6 @@ incluir = [
     "AandE.cl",
     "AMC.ar",
     "AMC.co",
-    "Animal Planet HD.cl",
     "ANIMAL PLANET.mx",
     "AXN HD.cl",
     "Canal 13 HD.cl",
@@ -111,7 +111,6 @@ incluir = [
     "HISTORY CHANNEL HD.cl",
     "HOME and HEALTH HD.cl",
     "LIFETIME.mx",
-    "LOVE NATURE HD.cl",
     "M+ Deportes.es",
     "M+ LALIGA TV.es",
     "M+ Liga de Campeones.es",
@@ -135,5 +134,4 @@ incluir = [
     "TVN.cl",
     "Universal HD.cl",
     "Warner HD.cl",
-    "asd"
 ]
