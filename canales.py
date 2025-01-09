@@ -19,7 +19,7 @@ incluir = [
     "Canal.Paramount.Channel.(Chile).cl",
     "Canal.Multipremier.cl",
     "Canal.HBO.Signature.Latinoamérica.ar",
-    "Canal.Film.&amp;.Arts.mx",
+    "Canal.Film.&.Arts.mx",
     "Love.Nature.co",
     "HOLA.TV.HD.uy",
     "Food.Network.co",

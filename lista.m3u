@@ -1232,7 +1232,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58741
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1897
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="CINE | AMC HD (lt)" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="CINE", CINE | AMC HD (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4875
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="CINE", CINE | AMC HD (mv)
+#EXTINF:-1 tvg-id="AMC.co" tvg-name="CINE | AMC HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="CINE", CINE | AMC HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58742
 #EXTINF:-1 tvg-id="AXN HD.cl" tvg-name="CINE | AXN FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/9df9dc140d139200eaefb695973cbb91.png" group-title="CINE", CINE | AXN FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58743
@@ -1294,9 +1294,9 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1907
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4881
 #EXTINF:-1 tvg-id="DHE HD.cl" tvg-name="CINE | DHE HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/447ef96542382d5a195c45fbbfa552e2.png" group-title="CINE", CINE | DHE HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58759
-#EXTINF:-1 tvg-id="Canal.Film.&amp;.Arts.mx" tvg-name="CINE | FILM & ARTS FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/146482b30f24e39213d5fce7c84fb1c7.png" group-title="CINE", CINE | FILM & ARTS FHD (mv)
+#EXTINF:-1 tvg-id="Canal.Film.&.Arts.mx" tvg-name="CINE | FILM & ARTS FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/146482b30f24e39213d5fce7c84fb1c7.png" group-title="CINE", CINE | FILM & ARTS FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58761
-#EXTINF:-1 tvg-id="Canal.Film.&amp;.Arts.mx" tvg-name="CINE | FILM & ARTS HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/146482b30f24e39213d5fce7c84fb1c7.png" group-title="CINE", CINE | FILM & ARTS HD (mv)
+#EXTINF:-1 tvg-id="Canal.Film.&.Arts.mx" tvg-name="CINE | FILM & ARTS HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/146482b30f24e39213d5fce7c84fb1c7.png" group-title="CINE", CINE | FILM & ARTS HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58762
 #EXTINF:-1 tvg-id="" tvg-name="CINE | FILM ZONE HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/8c5b5666027686c0ef19b8d1440d1047.PNG" group-title="CINE", CINE | FILM ZONE HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58763
@@ -2490,7 +2490,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/39035
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/39036
 #EXTINF:-1 tvg-id="" tvg-name="Latino  2mb - ESPN 3" tvg-logo="" group-title="LATINOS 2MB", Latino  2mb - ESPN 3
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/39037
-#EXTINF:-1 tvg-id="Canal.Film.&amp;.Arts.mx" tvg-name="Latino  2mb - Film & Arts" tvg-logo="" group-title="LATINOS 2MB", Latino  2mb - Film & Arts
+#EXTINF:-1 tvg-id="Canal.Film.&.Arts.mx" tvg-name="Latino  2mb - Film & Arts" tvg-logo="" group-title="LATINOS 2MB", Latino  2mb - Film & Arts
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/39024
 #EXTINF:-1 tvg-id="" tvg-name="Latino  2mb - FX" tvg-logo="" group-title="LATINOS 2MB", Latino  2mb - FX
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/39045
