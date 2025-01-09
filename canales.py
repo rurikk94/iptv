@@ -5,7 +5,7 @@ incluir = [
     "UNIVERSAL COMEDY.mx",
     "UNIVERSAL CRIME.mx",
     "UNIVERSAL PREMIERE.mx",
-    "UNIVERSAL REALITY.mx",
+    "Universal Reality.uy",
     "HBO.-.Eastern.Feed.us",
     "Canal.Golden.Edge.mx",
     "Canal.Golden.Edge.cl",

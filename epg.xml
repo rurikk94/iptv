@@ -267,17 +267,11 @@
 	<channel id="UNIVERSAL CHANNEL.mx">
 		<display-name>UNIVERSAL CHANNEL.mx</display-name>
 	</channel>
-	<channel id="UNIVERSAL COMEDY.mx">
-		<display-name>UNIVERSAL COMEDY.mx</display-name>
-	</channel>
 	<channel id="UNIVERSAL CRIME.mx">
 		<display-name>UNIVERSAL CRIME.mx</display-name>
 	</channel>
 	<channel id="UNIVERSAL PREMIERE.mx">
 		<display-name>UNIVERSAL PREMIERE.mx</display-name>
-	</channel>
-	<channel id="UNIVERSAL REALITY.mx">
-		<display-name>UNIVERSAL REALITY.mx</display-name>
 	</channel>
 	<channel id="[CL] AMC.cl">
 		<display-name>[CL] AMC.cl</display-name>
@@ -479,6 +473,9 @@
 	</channel>
 	<channel id="Universal Cinema.uy">
 		<display-name>Universal Cinema.uy</display-name>
+	</channel>
+	<channel id="Universal Reality.uy">
+		<display-name>Universal Reality.uy</display-name>
 	</channel>
 	<programme start="20250108063900 +0000" stop="20250108072600 +0000" channel="Canal.TNT.Series.(México).mx">
 		<title lang="es">Law &amp; Order: SVU</title>
@@ -28389,510 +28386,6 @@ En Vivo</title>
 		<title>MaratÃ³n Chicago PD</title>
 		<sub-title>Episodio: Resistencia de Ãºltimo momento</sub-title>
 	</programme>
-	<programme start="20250108062000 +0000" stop="20250108065500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Upright - Episodio: Ya basta</title>
-	</programme>
-	<programme start="20250108065500 +0000" stop="20250108072000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken - Episodio: La chica de Dave</title>
-	</programme>
-	<programme start="20250108072000 +0000" stop="20250108074500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: La niÃ±era</sub-title>
-	</programme>
-	<programme start="20250108074500 +0000" stop="20250108081500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: El novio de Molly</sub-title>
-	</programme>
-	<programme start="20250108081500 +0000" stop="20250108090000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Psych</title>
-		<sub-title>Episodio: De boda</sub-title>
-	</programme>
-	<programme start="20250108090000 +0000" stop="20250108092500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: Ken en el concierto</sub-title>
-	</programme>
-	<programme start="20250108092500 +0000" stop="20250108095000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: El Ãºltimo espectÃ¡culo de Dicky Wexler</sub-title>
-	</programme>
-	<programme start="20250108095000 +0000" stop="20250108102000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: Ken es testigo pericial</sub-title>
-	</programme>
-	<programme start="20250108102000 +0000" stop="20250108110500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Monk</title>
-		<sub-title>Episodio: El Sr. Monk se enamora</sub-title>
-	</programme>
-	<programme start="20250108110500 +0000" stop="20250108115000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Psych</title>
-		<sub-title>Episodio: El circo del alma</sub-title>
-	</programme>
-	<programme start="20250108115000 +0000" stop="20250108122000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Superstore</title>
-		<sub-title>Episodio: DÃ­a del comerciante local</sub-title>
-	</programme>
-	<programme start="20250108122000 +0000" stop="20250108124500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Superstore</title>
-		<sub-title>Episodio: LoterÃ­a</sub-title>
-	</programme>
-	<programme start="20250108124500 +0000" stop="20250108131500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Noche de juegos - Parte 1</sub-title>
-	</programme>
-	<programme start="20250108131500 +0000" stop="20250108134000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: El favor - Parte 2</sub-title>
-	</programme>
-	<programme start="20250108134000 +0000" stop="20250108140500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: El piso franco</sub-title>
-	</programme>
-	<programme start="20250108140500 +0000" stop="20250108143500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: La negociaciÃ³n</sub-title>
-	</programme>
-	<programme start="20250108143500 +0000" stop="20250108150000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: El interrogatorio</sub-title>
-	</programme>
-	<programme start="20250108150000 +0000" stop="20250108155000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Girlfriends Guide to Divorce</title>
-		<sub-title>Episodio: Regla 23: Nunca les mientas a los niÃ±os</sub-title>
-	</programme>
-	<programme start="20250108155000 +0000" stop="20250108163500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Girlfriends Guide to Divorce</title>
-		<sub-title>Episodio: Regla 174: No confÃ­es en nadie que cobre por hora</sub-title>
-	</programme>
-	<programme start="20250108163500 +0000" stop="20250108170000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Un hombre. Un plan</title>
-		<sub-title>Episodio: Feliz aniversario</sub-title>
-	</programme>
-	<programme start="20250108170000 +0000" stop="20250108173000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Un hombre. Un plan</title>
-		<sub-title>Episodio: La alternativa drÃ¡stica</sub-title>
-	</programme>
-	<programme start="20250108173000 +0000" stop="20250108175500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Un hombre. Un plan</title>
-		<sub-title>Episodio: La pequeÃ±a gran mentira de Adam</sub-title>
-	</programme>
-	<programme start="20250108175500 +0000" stop="20250108182000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Un hombre. Un plan</title>
-		<sub-title>Episodio: Los expedientes secretos ex</sub-title>
-	</programme>
-	<programme start="20250108182000 +0000" stop="20250108185000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Un hombre. Un plan</title>
-		<sub-title>Episodio: Ir hasta el final</sub-title>
-	</programme>
-	<programme start="20250108185000 +0000" stop="20250108191500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: Ken en el concierto</sub-title>
-	</programme>
-	<programme start="20250108191500 +0000" stop="20250108194500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: El Ãºltimo espectÃ¡culo de Dicky Wexler</sub-title>
-	</programme>
-	<programme start="20250108194500 +0000" stop="20250108203000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Monk</title>
-		<sub-title>Episodio: El caso no. 100 del Sr. Monk</sub-title>
-	</programme>
-	<programme start="20250108203000 +0000" stop="20250108211500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Psych</title>
-		<sub-title>Episodio: De boda</sub-title>
-	</programme>
-	<programme start="20250108211500 +0000" stop="20250108214000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>The Good Place</title>
-		<sub-title>Episodio: La tribu de los cerebritos</sub-title>
-	</programme>
-	<programme start="20250108214000 +0000" stop="20250108220500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>The Good Place</title>
-		<sub-title>Episodio: El quitanieves</sub-title>
-	</programme>
-	<programme start="20250108220500 +0000" stop="20250108223000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Superstore</title>
-		<sub-title>Episodio: El sexo del bebÃ©</sub-title>
-	</programme>
-	<programme start="20250108223000 +0000" stop="20250108225500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Superstore</title>
-		<sub-title>Episodio: Consecuencias</sub-title>
-	</programme>
-	<programme start="20250108225500 +0000" stop="20250108232000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: El maestro de los crucigramas</sub-title>
-	</programme>
-	<programme start="20250108232000 +0000" stop="20250108234500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: NutriBoom</sub-title>
-	</programme>
-	<programme start="20250108234500 +0000" stop="20250109001000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Aeropuerto internacional de Dallas</sub-title>
-	</programme>
-	<programme start="20250109001000 +0000" stop="20250109003500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Gray Star Mutual</sub-title>
-	</programme>
-	<programme start="20250109003500 +0000" stop="20250109010000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Despedida de soltero/a</sub-title>
-	</programme>
-	<programme start="20250109010000 +0000" stop="20250109021000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Saturday Night Live</title>
-		<sub-title>Episodio: John Mulaney / Chappell Roan</sub-title>
-	</programme>
-	<programme start="20250109021000 +0000" stop="20250109030000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Girlfriends Guide to Divorce</title>
-		<sub-title>Episodio: Regla 23: Nunca les mientas a los niÃ±os</sub-title>
-	</programme>
-	<programme start="20250109030000 +0000" stop="20250109034500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Girlfriends Guide to Divorce</title>
-		<sub-title>Episodio: Regla 174: No confÃ­es en nadie que cobre por hora</sub-title>
-	</programme>
-	<programme start="20250109034500 +0000" stop="20250109041000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>The Good Place</title>
-		<sub-title>Episodio: La tribu de los cerebritos</sub-title>
-	</programme>
-	<programme start="20250109041000 +0000" stop="20250109044000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>The Good Place</title>
-		<sub-title>Episodio: El quitanieves</sub-title>
-	</programme>
-	<programme start="20250109044000 +0000" stop="20250109052500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Monk</title>
-		<sub-title>Episodio: El caso no. 100 del Sr. Monk</sub-title>
-	</programme>
-	<programme start="20250109052500 +0000" stop="20250109055000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Un hombre. Un plan</title>
-		<sub-title>Episodio: Feliz aniversario</sub-title>
-	</programme>
-	<programme start="20250109055000 +0000" stop="20250109062000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Un hombre. Un plan</title>
-		<sub-title>Episodio: La alternativa drÃ¡stica</sub-title>
-	</programme>
-	<programme start="20250109062000 +0000" stop="20250109064500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Un hombre. Un plan - Episodio: La peque?...</title>
-	</programme>
-	<programme start="20250109064500 +0000" stop="20250109071000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Un hombre. Un plan - Episodio: Los exped...</title>
-	</programme>
-	<programme start="20250109071000 +0000" stop="20250109074000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Un hombre. Un plan</title>
-		<sub-title>Episodio: Ir hasta el final</sub-title>
-	</programme>
-	<programme start="20250109074000 +0000" stop="20250109080500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: Ken en el concierto</sub-title>
-	</programme>
-	<programme start="20250109080500 +0000" stop="20250109083000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: El Ãºltimo espectÃ¡culo de Dicky Wexler</sub-title>
-	</programme>
-	<programme start="20250109083000 +0000" stop="20250109090000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: Ken es testigo pericial</sub-title>
-	</programme>
-	<programme start="20250109090000 +0000" stop="20250109092500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: La charla sobre sexo con Dave</sub-title>
-	</programme>
-	<programme start="20250109092500 +0000" stop="20250109095000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: Club de hombres coreanos</sub-title>
-	</programme>
-	<programme start="20250109095000 +0000" stop="20250109102000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: Ken prueba ser comediante</sub-title>
-	</programme>
-	<programme start="20250109102000 +0000" stop="20250109110500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Monk</title>
-		<sub-title>Episodio: El caso no. 100 del Sr. Monk</sub-title>
-	</programme>
-	<programme start="20250109110500 +0000" stop="20250109115000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Psych</title>
-		<sub-title>Episodio: De boda</sub-title>
-	</programme>
-	<programme start="20250109115000 +0000" stop="20250109122000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Superstore</title>
-		<sub-title>Episodio: El sexo del bebÃ©</sub-title>
-	</programme>
-	<programme start="20250109122000 +0000" stop="20250109124500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Superstore</title>
-		<sub-title>Episodio: Consecuencias</sub-title>
-	</programme>
-	<programme start="20250109124500 +0000" stop="20250109131500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: El maestro de los crucigramas</sub-title>
-	</programme>
-	<programme start="20250109131500 +0000" stop="20250109134000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: NutriBoom</sub-title>
-	</programme>
-	<programme start="20250109134000 +0000" stop="20250109140500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Aeropuerto internacional de Dallas</sub-title>
-	</programme>
-	<programme start="20250109140500 +0000" stop="20250109143500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Gray Star Mutual</sub-title>
-	</programme>
-	<programme start="20250109143500 +0000" stop="20250109150000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Despedida de soltero/a</sub-title>
-	</programme>
-	<programme start="20250109150000 +0000" stop="20250109155000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Girlfriends Guide to Divorce</title>
-		<sub-title>Episodio: Regla 47: Siempre aprovecha el tiempo para ti</sub-title>
-	</programme>
-	<programme start="20250109155000 +0000" stop="20250109163500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Girlfriends Guide to Divorce</title>
-		<sub-title>Episodio: Regla 426: Fantasilandia: un gran lugar para visitar</sub-title>
-	</programme>
-	<programme start="20250109163500 +0000" stop="20250109170000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Ghosts</title>
-		<sub-title>Episodio: Los amigos de Jay</sub-title>
-	</programme>
-	<programme start="20250109170000 +0000" stop="20250109173000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Ghosts</title>
-		<sub-title>Episodio: El Ã¡rbol</sub-title>
-	</programme>
-	<programme start="20250109173000 +0000" stop="20250109175500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Ghosts</title>
-		<sub-title>Episodio: Noche de Brujas 2: El fantasma del pasado de Hetty</sub-title>
-	</programme>
-	<programme start="20250109175500 +0000" stop="20250109182000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Ghosts</title>
-		<sub-title>Episodio: El bebÃ© Bjorn</sub-title>
-	</programme>
-	<programme start="20250109182000 +0000" stop="20250109185000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Ghosts</title>
-		<sub-title>Episodio: Muertes tontas</sub-title>
-	</programme>
-	<programme start="20250109185000 +0000" stop="20250109191500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: La charla sobre sexo con Dave</sub-title>
-	</programme>
-	<programme start="20250109191500 +0000" stop="20250109194500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: Club de hombres coreanos</sub-title>
-	</programme>
-	<programme start="20250109194500 +0000" stop="20250109203000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Monk</title>
-		<sub-title>Episodio: El Sr. Monk es hipnotizado</sub-title>
-	</programme>
-	<programme start="20250109203000 +0000" stop="20250109211500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Psych</title>
-		<sub-title>Episodio: A la derecha y a la izquierda para la muerte</sub-title>
-	</programme>
-	<programme start="20250109211500 +0000" stop="20250109214000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>The Good Place</title>
-		<sub-title>Episodio: Jeremy Bearimy</sub-title>
-	</programme>
-	<programme start="20250109214000 +0000" stop="20250109220500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>The Good Place</title>
-		<sub-title>Episodio: La balada de Donkey Doug</sub-title>
-	</programme>
-	<programme start="20250109220500 +0000" stop="20250109223000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Superstore</title>
-		<sub-title>Episodio: Ayuntamiento</sub-title>
-	</programme>
-	<programme start="20250109223000 +0000" stop="20250109225500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Superstore</title>
-		<sub-title>Episodio: Regreso a clases</sub-title>
-	</programme>
-	<programme start="20250109225500 +0000" stop="20250109232000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Me movilizo sola</sub-title>
-	</programme>
-	<programme start="20250109232000 +0000" stop="20250109234500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: La ballena blanca</sub-title>
-	</programme>
-	<programme start="20250109234500 +0000" stop="20250110001000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Jake y Amy</sub-title>
-	</programme>
-	<programme start="20250110001000 +0000" stop="20250110003500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Luna de miel</sub-title>
-	</programme>
-	<programme start="20250110003500 +0000" stop="20250110010000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Hitchcock y Scully</sub-title>
-	</programme>
-	<programme start="20250110010000 +0000" stop="20250110013000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Colin from Accounts</title>
-		<sub-title>Episodio: Fin de semana</sub-title>
-	</programme>
-	<programme start="20250110013000 +0000" stop="20250110015500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Ghosts</title>
-		<sub-title>Episodio: El bÃºho</sub-title>
-	</programme>
-	<programme start="20250110015500 +0000" stop="20250110024500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Girlfriends Guide to Divorce</title>
-		<sub-title>Episodio: Regla 47: Siempre aprovecha el tiempo para ti</sub-title>
-	</programme>
-	<programme start="20250110024500 +0000" stop="20250110033000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Girlfriends Guide to Divorce</title>
-		<sub-title>Episodio: Regla 426: Fantasilandia: un gran lugar para visitar</sub-title>
-	</programme>
-	<programme start="20250110033000 +0000" stop="20250110035500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>The Good Place</title>
-		<sub-title>Episodio: Jeremy Bearimy</sub-title>
-	</programme>
-	<programme start="20250110035500 +0000" stop="20250110042000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>The Good Place</title>
-		<sub-title>Episodio: La balada de Donkey Doug</sub-title>
-	</programme>
-	<programme start="20250110042000 +0000" stop="20250110050500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Monk</title>
-		<sub-title>Episodio: El Sr. Monk es hipnotizado</sub-title>
-	</programme>
-	<programme start="20250110050500 +0000" stop="20250110053000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Ghosts</title>
-		<sub-title>Episodio: Los amigos de Jay</sub-title>
-	</programme>
-	<programme start="20250110053000 +0000" stop="20250110060000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Ghosts</title>
-		<sub-title>Episodio: El Ã¡rbol</sub-title>
-	</programme>
-	<programme start="20250110060000 +0000" stop="20250110062500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Ghosts - Episodio: Noche de Brujas 2: El...</title>
-	</programme>
-	<programme start="20250110062500 +0000" stop="20250110065000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Ghosts - Episodio: El bebe Bjorn</title>
-	</programme>
-	<programme start="20250110065000 +0000" stop="20250110072000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Ghosts</title>
-		<sub-title>Episodio: Muertes tontas</sub-title>
-	</programme>
-	<programme start="20250110072000 +0000" stop="20250110074500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: La charla sobre sexo con Dave</sub-title>
-	</programme>
-	<programme start="20250110074500 +0000" stop="20250110081500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Dr. Ken</title>
-		<sub-title>Episodio: Club de hombres coreanos</sub-title>
-	</programme>
-	<programme start="20250110081500 +0000" stop="20250110090000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Psych</title>
-		<sub-title>Episodio: A la derecha y a la izquierda para la muerte</sub-title>
-	</programme>
-	<programme start="20250110090000 +0000" stop="20250110095000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Girlfriends Guide to Divorce</title>
-		<sub-title>Episodio: Regla 73: Paso y repite</sub-title>
-	</programme>
-	<programme start="20250110095000 +0000" stop="20250110103500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Girlfriends Guide to Divorce</title>
-		<sub-title>Episodio: Regla 149: No comas la nieve amarilla</sub-title>
-	</programme>
-	<programme start="20250110103500 +0000" stop="20250110112000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Girlfriends Guide to Divorce</title>
-		<sub-title>Episodio: Regla 97: Hacen falta dos para apuÃ±alarte el trasero</sub-title>
-	</programme>
-	<programme start="20250110112000 +0000" stop="20250110114500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Kevin puede esperar</title>
-		<sub-title>Episodio: Patrulla vecinal</sub-title>
-	</programme>
-	<programme start="20250110114500 +0000" stop="20250110121000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Kevin puede esperar</title>
-		<sub-title>Episodio: Competencia</sub-title>
-	</programme>
-	<programme start="20250110121000 +0000" stop="20250110123500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Kevin puede esperar</title>
-		<sub-title>Episodio: Cita doble</sub-title>
-	</programme>
-	<programme start="20250110123500 +0000" stop="20250110130000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Kevin puede esperar</title>
-		<sub-title>Episodio: Kenny puede esperar</sub-title>
-	</programme>
-	<programme start="20250110130000 +0000" stop="20250110132500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Kevin puede esperar</title>
-		<sub-title>Episodio: La ley de Queens - Parte 1</sub-title>
-	</programme>
-	<programme start="20250110132500 +0000" stop="20250110140000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Upright</title>
-		<sub-title>Episodio: Rendirse</sub-title>
-	</programme>
-	<programme start="20250110140000 +0000" stop="20250110143000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Upright</title>
-		<sub-title>Episodio: Jonestown esquimal</sub-title>
-	</programme>
-	<programme start="20250110143000 +0000" stop="20250110150500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Upright</title>
-		<sub-title>Episodio: Falsedades inofensivas</sub-title>
-	</programme>
-	<programme start="20250110150500 +0000" stop="20250110154000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Upright</title>
-		<sub-title>Episodio: Ya basta</sub-title>
-	</programme>
-	<programme start="20250110154000 +0000" stop="20250110160500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: CovenciÃ³n Policial</sub-title>
-	</programme>
-	<programme start="20250110160500 +0000" stop="20250110163000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Buscando a Amy</sub-title>
-	</programme>
-	<programme start="20250110163000 +0000" stop="20250110165500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Su seÃ±orÃ­a</sub-title>
-	</programme>
-	<programme start="20250110165500 +0000" stop="20250110172000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: El matadero</sub-title>
-	</programme>
-	<programme start="20250110172000 +0000" stop="20250110174500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Robo bancario</sub-title>
-	</programme>
-	<programme start="20250110174500 +0000" stop="20250110181000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Crimen y castigo</sub-title>
-	</programme>
-	<programme start="20250110181000 +0000" stop="20250110183500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: El presidio - Parte 1</sub-title>
-	</programme>
-	<programme start="20250110183500 +0000" stop="20250110190000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: El presidio - Parte 2</sub-title>
-	</programme>
-	<programme start="20250110190000 +0000" stop="20250110193000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Las zapatillas robadas</sub-title>
-	</programme>
-	<programme start="20250110193000 +0000" stop="20250110195500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Halloween V</sub-title>
-	</programme>
-	<programme start="20250110195500 +0000" stop="20250110202000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Mala jugada</sub-title>
-	</programme>
-	<programme start="20250110202000 +0000" stop="20250110204500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: El salÃ³n de bodas</sub-title>
-	</programme>
-	<programme start="20250110204500 +0000" stop="20250110211500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Dos pavos</sub-title>
-	</programme>
-	<programme start="20250110211500 +0000" stop="20250110214000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Regreso a Skyfire</sub-title>
-	</programme>
-	<programme start="20250110214000 +0000" stop="20250110220500 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: 99</sub-title>
-	</programme>
-	<programme start="20250110220500 +0000" stop="20250110223000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Brooklyn Nine-Nine</title>
-		<sub-title>Episodio: Noche de juegos - Parte 1</sub-title>
-	</programme>
-	<programme start="20250110223000 +0000" stop="20250111000000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>Johnny English 3.0</title>
-	</programme>
-	<programme start="20250111000000 +0000" stop="20250111015000 +0000" channel="UNIVERSAL COMEDY.mx">
-		<title>RED</title>
-	</programme>
 	<programme start="20250108060000 +0000" stop="20250108064500 +0000" channel="UNIVERSAL CRIME.mx">
 		<title>Parejas asesinas - Episodio: Brandi Hung...</title>
 	</programme>
@@ -47383,5 +46876,585 @@ En Vivo</title>
 	<programme start="20250110232500 +0000" stop="20250111010000 +0000" channel="Universal Cinema.uy">
 		<title>La primera purga: La noche de las bestias</title>
 		<desc>El tercer partido político de Estados Unidos, los Nuevos Padres Fundadores de America, llega al poder y realiza un experimento: no hay leyes durante 12 horas en Staten Island, dando la libertad a las personas de cometer cualquier tipo de crimen sin ninguna consecuencia. Nadie tiene que quedarse en la isla, pero se dan $ 5,000 a cualquiera que lo haga.</desc>
+	</programme>
+	<programme start="20250107233500 +0000" stop="20250108003000 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives Ultimate Girls Trip - Temp. 3 - Episodio 1</title>
+		<desc>Las Housewives aterrizan en Tailandia para el viaje de sus vida, pero los cielos soleados dan paso al mal tiempo cuando Heather confronta sus problemas con Whitney. El comentario insensible de Heather sobre la bebida de Leah pone a las mujeres en su contra.</desc>
+		<episode-num system="xmltv_ns">2.0.0/1</episode-num>
+	</programme>
+	<programme start="20250108003000 +0000" stop="20250108013000 +0000" channel="Universal Reality.uy">
+		<title>Paris in Love - Temp. 1 - Episodio 12</title>
+		<desc>La semana final está llena de revelaciones inesperadas, que conducen al momento largamente esperado.</desc>
+		<episode-num system="xmltv_ns">0.11.0/1</episode-num>
+	</programme>
+	<programme start="20250108013000 +0000" stop="20250108023000 +0000" channel="Universal Reality.uy">
+		<title>Paris in Love - Temp. 1 - Episodio 13</title>
+		<desc>La semana final está llena de revelaciones inesperadas, que conducen al momento largamente esperado.</desc>
+		<episode-num system="xmltv_ns">0.12.0/1</episode-num>
+	</programme>
+	<programme start="20250108023000 +0000" stop="20250108031500 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 5</title>
+		<desc>En el quinto episodio de Top Chef: New York, la presentadora y jueza, Padma Lakshmi, solicita la ayuda de los chefs para organizar una despedida de soltera para la jueza de Top Chef, Gail Simmons, y sus amigos.</desc>
+		<episode-num system="xmltv_ns">4.4.0/1</episode-num>
+	</programme>
+	<programme start="20250108031500 +0000" stop="20250108040000 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 6</title>
+		<desc>En el espíritu de las fiestas, los chefs usan sus habilidades para retribuir a la comunidad al servir un coctel de Navidad organizado por la jueza invitada especial, actriz y entusiasta de la comida, Natasha Richardson, para AmFar, una fundacion para la investigacion del SIDA.</desc>
+		<episode-num system="xmltv_ns">4.5.0/1</episode-num>
+	</programme>
+	<programme start="20250108040000 +0000" stop="20250108050000 +0000" channel="Universal Reality.uy">
+		<title>Paris in Love - Temp. 1 - Episodio 12</title>
+		<desc>La semana final está llena de revelaciones inesperadas, que conducen al momento largamente esperado.</desc>
+		<episode-num system="xmltv_ns">0.11.0/1</episode-num>
+	</programme>
+	<programme start="20250108050000 +0000" stop="20250108060000 +0000" channel="Universal Reality.uy">
+		<title>Paris in Love - Temp. 1 - Episodio 13</title>
+		<desc>La semana final está llena de revelaciones inesperadas, que conducen al momento largamente esperado.</desc>
+		<episode-num system="xmltv_ns">0.12.0/1</episode-num>
+	</programme>
+	<programme start="20250108060000 +0000" stop="20250108073000 +0000" channel="Universal Reality.uy">
+		<title>The Voice - Temp. 23 - Episodio 17</title>
+		<desc>Los 5 mejores artistas actúan frente a los coaches Kelly Clarkson, Blake Shelton, Niall Horan y Chance the Rapper para ganar el título de The Voice.</desc>
+		<episode-num system="xmltv_ns">22.16.0/1</episode-num>
+	</programme>
+	<programme start="20250108073000 +0000" stop="20250108075500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 5</title>
+		<desc>Despues de 18 años de contar los días, ¡Chase finalmente tiene 18 años!, cuando le dice a Todd que ya no seguirá las reglas de la casa, como la hora de llegada.</desc>
+		<episode-num system="xmltv_ns">1.4.0/1</episode-num>
+	</programme>
+	<programme start="20250108075500 +0000" stop="20250108081500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 6</title>
+		<desc>Todd culpa a su familia de su estres cuando su medico le dice que tiene la presion arterial alta. Y cuando Savannah le da a Todd más malas noticias, las cosas solo empeoran.</desc>
+		<episode-num system="xmltv_ns">1.5.0/1</episode-num>
+	</programme>
+	<programme start="20250108081500 +0000" stop="20250108084000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 7</title>
+		<desc>Los Chrisley viajan a Los Ángeles para hacerse sus cortes de cabello habituales en Beverly Hills, y para lo que Todd espera sean unas relajantes vacaciones familiares.</desc>
+		<episode-num system="xmltv_ns">1.6.0/1</episode-num>
+	</programme>
+	<programme start="20250108084000 +0000" stop="20250108090000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 8</title>
+		<desc>Despues de que Todd, sin saberlo, tenga que pagar por la factura de un almuerzo extravagante, quiere que Chase y Savannah aprendan que el dinero no crece en los árboles.</desc>
+		<episode-num system="xmltv_ns">1.7.0/1</episode-num>
+	</programme>
+	<programme start="20250108090000 +0000" stop="20250108103000 +0000" channel="Universal Reality.uy">
+		<title>The Voice - Temp. 23 - Episodio 18</title>
+		<desc>Carson Daly revela quien ha sido elegido por Estados Unidos para ser el ganador de la temporada 23, mientras que los invitados especiales, finalistas y coaches cantan juntos.</desc>
+		<episode-num system="xmltv_ns">22.17.0/1</episode-num>
+	</programme>
+	<programme start="20250108103000 +0000" stop="20250108105500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 5</title>
+		<desc>Despues de 18 años de contar los días, ¡Chase finalmente tiene 18 años!, cuando le dice a Todd que ya no seguirá las reglas de la casa, como la hora de llegada.</desc>
+		<episode-num system="xmltv_ns">1.4.0/1</episode-num>
+	</programme>
+	<programme start="20250108105500 +0000" stop="20250108111500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 6</title>
+		<desc>Todd culpa a su familia de su estres cuando su medico le dice que tiene la presion arterial alta. Y cuando Savannah le da a Todd más malas noticias, las cosas solo empeoran.</desc>
+		<episode-num system="xmltv_ns">1.5.0/1</episode-num>
+	</programme>
+	<programme start="20250108111500 +0000" stop="20250108114000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 7</title>
+		<desc>Los Chrisley viajan a Los Ángeles para hacerse sus cortes de cabello habituales en Beverly Hills, y para lo que Todd espera sean unas relajantes vacaciones familiares.</desc>
+		<episode-num system="xmltv_ns">1.6.0/1</episode-num>
+	</programme>
+	<programme start="20250108114000 +0000" stop="20250108120000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 8</title>
+		<desc>Despues de que Todd, sin saberlo, tenga que pagar por la factura de un almuerzo extravagante, quiere que Chase y Savannah aprendan que el dinero no crece en los árboles.</desc>
+		<episode-num system="xmltv_ns">1.7.0/1</episode-num>
+	</programme>
+	<programme start="20250108120000 +0000" stop="20250108122500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 9</title>
+		<desc>Todd y Chase se ven obligados a experimentar estar al aire libre cuando Grayson insiste en ir de campamento. Mientras los chicos pasan trabajo y aterrorizan a Grayson con historias de un lago embrujado, Savannah y Julie deben volver a la escuela de manejo.</desc>
+		<episode-num system="xmltv_ns">1.8.0/1</episode-num>
+	</programme>
+	<programme start="20250108122500 +0000" stop="20250108132000 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives Ultimate Girls Trip - Temp. 2 - Episodio 6</title>
+		<desc>La resaca de Red Lion aún persiste, pero Phaedra intenta levantar los ánimos con un almuerzo de cata de vinos. Santa llega temprano cuando Dorinda organiza una fiesta de Navidad en septiembre, donde salen a la luz secretos y nuevos rumores.</desc>
+		<episode-num system="xmltv_ns">1.5.0/1</episode-num>
+	</programme>
+	<programme start="20250108132000 +0000" stop="20250108141500 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives Ultimate Girls Trip - Temp. 2 - Episodio 7</title>
+		<desc>En el último día del viaje, Jill revive su experiencia de campamento al llevar al grupo a navegar en canoa por un lago local. Una cena final en Shaker Village reúne a las damas, mientras Phaedra revela una sorpresa nocturna para levantar el ánimo de todas.</desc>
+		<episode-num system="xmltv_ns">1.6.0/1</episode-num>
+	</programme>
+	<programme start="20250108141500 +0000" stop="20250108151000 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives Ultimate Girls Trip - Temp. 3 - Episodio 1</title>
+		<desc>Las Housewives aterrizan en Tailandia para el viaje de sus vida, pero los cielos soleados dan paso al mal tiempo cuando Heather confronta sus problemas con Whitney. El comentario insensible de Heather sobre la bebida de Leah pone a las mujeres en su contra.</desc>
+		<episode-num system="xmltv_ns">2.0.0/1</episode-num>
+	</programme>
+	<programme start="20250108151000 +0000" stop="20250108155500 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 5</title>
+		<desc>En el quinto episodio de Top Chef: New York, la presentadora y jueza, Padma Lakshmi, solicita la ayuda de los chefs para organizar una despedida de soltera para la jueza de Top Chef, Gail Simmons, y sus amigos.</desc>
+		<episode-num system="xmltv_ns">4.4.0/1</episode-num>
+	</programme>
+	<programme start="20250108155500 +0000" stop="20250108164000 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 6</title>
+		<desc>En el espíritu de las fiestas, los chefs usan sus habilidades para retribuir a la comunidad al servir un coctel de Navidad organizado por la jueza invitada especial, actriz y entusiasta de la comida, Natasha Richardson, para AmFar, una fundacion para la investigacion del SIDA.</desc>
+		<episode-num system="xmltv_ns">4.5.0/1</episode-num>
+	</programme>
+	<programme start="20250108164000 +0000" stop="20250108172500 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 7</title>
+		<desc>Cocinar comida excelente requiere de enfoque... y ninguno es mejor que los chefs concursantes del septimo episodio de Top Chef: New York, de Bravo. Su desafío rápido exige que creen un dulce sin usar nada de azúcar y, en la ronda de eliminacion, los chefs deben servirle a un interesante público.</desc>
+		<episode-num system="xmltv_ns">4.6.0/1</episode-num>
+	</programme>
+	<programme start="20250108172500 +0000" stop="20250108181000 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 8</title>
+		<desc>Es hora de que los chefs de la gran ciudad viajen al campo. Los concursantes restantes deben comprar los ingredientes más frescos en la granja Blue Hill y luego trabajar con lo que tienen para crear un festín para los trabajadores de la misma granja.</desc>
+		<episode-num system="xmltv_ns">4.7.0/1</episode-num>
+	</programme>
+	<programme start="20250108181000 +0000" stop="20250108185500 +0000" channel="Universal Reality.uy">
+		<title>Bajo cubierta - Temp. 4 - Episodio 3</title>
+		<desc>Kelley toma la decision de como proceder con Trevor. Los nuevos invitados del chárter resultan ser un puñado de personas con un poodle muy mimado. Ben y Kate se confrontan de nuevo, mientras Kelley sigue lidiando con la actitud mediocre de Trevor. Mientras tanto, Kelley recibe una llamada de un ser querido y Trevor demuestra que los viejos hábitos tardan en morir, durante la segunda salida nocturna de la tripulacion.</desc>
+		<episode-num system="xmltv_ns">3.2.0/1</episode-num>
+	</programme>
+	<programme start="20250108185500 +0000" stop="20250108194000 +0000" channel="Universal Reality.uy">
+		<title>Bajo cubierta - Temp. 4 - Episodio 4</title>
+		<desc>Trevor se enfrenta a la ira del Capitán Lee despues de poner en peligro la seguridad de la tripulacion durante su salida nocturna. Ben se estresa con un invitado del chárter que tiene necesidades dieteticas muy particulares. Kelley y Nico se encuentran atraídos por la misma camarera y Sierra aprende lo difícil que puede ser trabajar con Ben.</desc>
+		<episode-num system="xmltv_ns">3.3.0/1</episode-num>
+	</programme>
+	<programme start="20250108194000 +0000" stop="20250108200500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 11</title>
+		<desc>A Todd Chrisley le encanta ser el rey de su castillo, pero su vida hogareña se pone patas arriba cuando una amiga de Julie, embarazada y muy exigente, llega a quedarse por unos días.</desc>
+		<episode-num system="xmltv_ns">1.10.0/1</episode-num>
+	</programme>
+	<programme start="20250108200500 +0000" stop="20250108202500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 12</title>
+		<desc>Julie y Todd deciden celebrar su aniversario de bodas organizando un evento benefico para recaudar fondos para la lucha contra el cáncer de mama.</desc>
+		<episode-num system="xmltv_ns">1.11.0/1</episode-num>
+	</programme>
+	<programme start="20250108202500 +0000" stop="20250108205000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 13</title>
+		<desc>Disfrute de las fiestas con su familia favorita de fabulosos, en este especial de Navidad de los Chrisley. Acompañe a Todd y a la pandilla mientras se divierten, intercambian regalos y celebran algunos de sus videos nunca antes vistos.</desc>
+		<episode-num system="xmltv_ns">1.12.0/1</episode-num>
+	</programme>
+	<programme start="20250108205000 +0000" stop="20250108211000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 1</title>
+		<desc>Cuando una influyente revista sureña les pide a los Chrisleys hacerles una entrevista sobre todo lo relacionado con la moda, Todd insiste en controlar la situacion escribiendo un guion para que su familia lo memorice.</desc>
+		<episode-num system="xmltv_ns">2.0.0/1</episode-num>
+	</programme>
+	<programme start="20250108211000 +0000" stop="20250108220500 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives Ultimate Girls Trip - Temp. 3 - Episodio 2</title>
+		<desc>El segundo día en Tailandia comienza con una visita a un santuario de elefantes que deja a las mujeres sintiendose unidas y relajadas. La turbia cena de Candiace y un comentario improvisado amenazan con convertir todo el viaje en un caos.</desc>
+		<episode-num system="xmltv_ns">2.1.0/1</episode-num>
+	</programme>
+	<programme start="20250108220500 +0000" stop="20250108230000 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives Ultimate Girls Trip - Temp. 3 - Episodio 3</title>
+		<desc>Alexia lleva Miami a Tailandia con un día en un yate de lujo. Las tensiones latentes salen a la superficie, creando un torbellino de drama que no deja a nadie ileso.</desc>
+		<episode-num system="xmltv_ns">2.2.0/1</episode-num>
+	</programme>
+	<programme start="20250108230000 +0000" stop="20250108235500 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives Ultimate Girls Trip - Temp. 3 - Episodio 4</title>
+		<desc>Porsha organiza un día de campo con diferentes desafíos para las damas; todo es diversion y juegos hasta que aparecen escorpiones, lo que obliga a las mujeres a responder algunas preguntas peliagudas; Gizelle organiza una cena temática de Mardi Gras.</desc>
+		<episode-num system="xmltv_ns">2.3.0/1</episode-num>
+	</programme>
+	<programme start="20250108235500 +0000" stop="20250109004500 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives Ultimate Girls Trip - Temp. 3 - Episodio 5</title>
+		<desc>Las damas disfrutan de un día de compras, pero Gizelle no encuentra su preciosa botella de tequila. Mientras la tension hierve a fuego lento, Leah no puede soportar el calor, lo que provoca una emergencia medica.</desc>
+		<episode-num system="xmltv_ns">2.4.0/1</episode-num>
+	</programme>
+	<programme start="20250109004500 +0000" stop="20250109013000 +0000" channel="Universal Reality.uy">
+		<title>Below Deck Down Under - Temp. 1 - Episodio 11</title>
+		<desc>Jamie no sabe que hacer con el comportamiento de Benny y quiere que lo despidan.</desc>
+		<episode-num system="xmltv_ns">0.10.0/1</episode-num>
+	</programme>
+	<programme start="20250109013000 +0000" stop="20250109021500 +0000" channel="Universal Reality.uy">
+		<title>Below Deck Down Under - Temp. 1 - Episodio 12</title>
+		<desc>Jason investiga al equipo de cubierta. Ahora debe tomar una decision difícil.</desc>
+		<episode-num system="xmltv_ns">0.11.0/1</episode-num>
+	</programme>
+	<programme start="20250109021500 +0000" stop="20250109030000 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 7</title>
+		<desc>Cocinar comida excelente requiere de enfoque... y ninguno es mejor que los chefs concursantes del septimo episodio de Top Chef: New York, de Bravo. Su desafío rápido exige que creen un dulce sin usar nada de azúcar y, en la ronda de eliminacion, los chefs deben servirle a un interesante público.</desc>
+		<episode-num system="xmltv_ns">4.6.0/1</episode-num>
+	</programme>
+	<programme start="20250109030000 +0000" stop="20250109034500 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 8</title>
+		<desc>Es hora de que los chefs de la gran ciudad viajen al campo. Los concursantes restantes deben comprar los ingredientes más frescos en la granja Blue Hill y luego trabajar con lo que tienen para crear un festín para los trabajadores de la misma granja.</desc>
+		<episode-num system="xmltv_ns">4.7.0/1</episode-num>
+	</programme>
+	<programme start="20250109034500 +0000" stop="20250109043000 +0000" channel="Universal Reality.uy">
+		<title>Below Deck Down Under - Temp. 1 - Episodio 11</title>
+		<desc>Jamie no sabe que hacer con el comportamiento de Benny y quiere que lo despidan.</desc>
+		<episode-num system="xmltv_ns">0.10.0/1</episode-num>
+	</programme>
+	<programme start="20250109043000 +0000" stop="20250109051500 +0000" channel="Universal Reality.uy">
+		<title>Below Deck Down Under - Temp. 1 - Episodio 12</title>
+		<desc>Jason investiga al equipo de cubierta. Ahora debe tomar una decision difícil.</desc>
+		<episode-num system="xmltv_ns">0.11.0/1</episode-num>
+	</programme>
+	<programme start="20250109051500 +0000" stop="20250109064500 +0000" channel="Universal Reality.uy">
+		<title>The Voice - Temp. 23 - Episodio 18</title>
+		<desc>Carson Daly revela quien ha sido elegido por Estados Unidos para ser el ganador de la temporada 23, mientras que los invitados especiales, finalistas y coaches cantan juntos.</desc>
+		<episode-num system="xmltv_ns">22.17.0/1</episode-num>
+	</programme>
+	<programme start="20250109064500 +0000" stop="20250109071000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 11</title>
+		<desc>A Todd Chrisley le encanta ser el rey de su castillo, pero su vida hogareña se pone patas arriba cuando una amiga de Julie, embarazada y muy exigente, llega a quedarse por unos días.</desc>
+		<episode-num system="xmltv_ns">1.10.0/1</episode-num>
+	</programme>
+	<programme start="20250109071000 +0000" stop="20250109073000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 12</title>
+		<desc>Julie y Todd deciden celebrar su aniversario de bodas organizando un evento benefico para recaudar fondos para la lucha contra el cáncer de mama.</desc>
+		<episode-num system="xmltv_ns">1.11.0/1</episode-num>
+	</programme>
+	<programme start="20250109073000 +0000" stop="20250109075500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 13</title>
+		<desc>Disfrute de las fiestas con su familia favorita de fabulosos, en este especial de Navidad de los Chrisley. Acompañe a Todd y a la pandilla mientras se divierten, intercambian regalos y celebran algunos de sus videos nunca antes vistos.</desc>
+		<episode-num system="xmltv_ns">1.12.0/1</episode-num>
+	</programme>
+	<programme start="20250109075500 +0000" stop="20250109081500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 1</title>
+		<desc>Cuando una influyente revista sureña les pide a los Chrisleys hacerles una entrevista sobre todo lo relacionado con la moda, Todd insiste en controlar la situacion escribiendo un guion para que su familia lo memorice.</desc>
+		<episode-num system="xmltv_ns">2.0.0/1</episode-num>
+	</programme>
+	<programme start="20250109081500 +0000" stop="20250109084000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 2</title>
+		<desc>Todd intenta salvar el día cuando entra dirigir del equipo de beisbol de Grayson, pero cuando descubre que la situacion se escapa de sus capacidades, debe descifrar como recuperar el respeto de los niños de 9 años.</desc>
+		<episode-num system="xmltv_ns">2.1.0/1</episode-num>
+	</programme>
+	<programme start="20250109084000 +0000" stop="20250109090000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 3</title>
+		<desc>Cuando Savannah le hace una propuesta a Todd que le permitiría ir a la universidad un año antes, el organiza toda una competencia familiar para mantenerla en casa el mayor tiempo posible.</desc>
+		<episode-num system="xmltv_ns">2.2.0/1</episode-num>
+	</programme>
+	<programme start="20250109090000 +0000" stop="20250109103000 +0000" channel="Universal Reality.uy">
+		<title>The Voice - Temp. 24 - Episodio 1</title>
+		<desc>Reba McEntire, Niall Horan, Gwen Stefani y John Legend comienzan la búsqueda del proximo fenomeno musical de America.</desc>
+		<episode-num system="xmltv_ns">23.0.0/1</episode-num>
+	</programme>
+	<programme start="20250109103000 +0000" stop="20250109105500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 11</title>
+		<desc>A Todd Chrisley le encanta ser el rey de su castillo, pero su vida hogareña se pone patas arriba cuando una amiga de Julie, embarazada y muy exigente, llega a quedarse por unos días.</desc>
+		<episode-num system="xmltv_ns">1.10.0/1</episode-num>
+	</programme>
+	<programme start="20250109105500 +0000" stop="20250109111500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 12</title>
+		<desc>Julie y Todd deciden celebrar su aniversario de bodas organizando un evento benefico para recaudar fondos para la lucha contra el cáncer de mama.</desc>
+		<episode-num system="xmltv_ns">1.11.0/1</episode-num>
+	</programme>
+	<programme start="20250109111500 +0000" stop="20250109114000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 2 - Episodio 13</title>
+		<desc>Disfrute de las fiestas con su familia favorita de fabulosos, en este especial de Navidad de los Chrisley. Acompañe a Todd y a la pandilla mientras se divierten, intercambian regalos y celebran algunos de sus videos nunca antes vistos.</desc>
+		<episode-num system="xmltv_ns">1.12.0/1</episode-num>
+	</programme>
+	<programme start="20250109114000 +0000" stop="20250109120000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 1</title>
+		<desc>Cuando una influyente revista sureña les pide a los Chrisleys hacerles una entrevista sobre todo lo relacionado con la moda, Todd insiste en controlar la situacion escribiendo un guion para que su familia lo memorice.</desc>
+		<episode-num system="xmltv_ns">2.0.0/1</episode-num>
+	</programme>
+	<programme start="20250109120000 +0000" stop="20250109122500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 2</title>
+		<desc>Todd intenta salvar el día cuando entra dirigir del equipo de beisbol de Grayson, pero cuando descubre que la situacion se escapa de sus capacidades, debe descifrar como recuperar el respeto de los niños de 9 años.</desc>
+		<episode-num system="xmltv_ns">2.1.0/1</episode-num>
+	</programme>
+	<programme start="20250109122500 +0000" stop="20250109124500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 3</title>
+		<desc>Cuando Savannah le hace una propuesta a Todd que le permitiría ir a la universidad un año antes, el organiza toda una competencia familiar para mantenerla en casa el mayor tiempo posible.</desc>
+		<episode-num system="xmltv_ns">2.2.0/1</episode-num>
+	</programme>
+	<programme start="20250109124500 +0000" stop="20250109133000 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives Ultimate Girls Trip - Temp. 3 - Episodio 3</title>
+		<desc>Alexia lleva Miami a Tailandia con un día en un yate de lujo. Las tensiones latentes salen a la superficie, creando un torbellino de drama que no deja a nadie ileso.</desc>
+		<episode-num system="xmltv_ns">2.2.0/1</episode-num>
+	</programme>
+	<programme start="20250109133000 +0000" stop="20250109141500 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives Ultimate Girls Trip - Temp. 3 - Episodio 4</title>
+		<desc>Porsha organiza un día de campo con diferentes desafíos para las damas; todo es diversion y juegos hasta que aparecen escorpiones, lo que obliga a las mujeres a responder algunas preguntas peliagudas; Gizelle organiza una cena temática de Mardi Gras.</desc>
+		<episode-num system="xmltv_ns">2.3.0/1</episode-num>
+	</programme>
+	<programme start="20250109141500 +0000" stop="20250109150000 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives Ultimate Girls Trip - Temp. 3 - Episodio 5</title>
+		<desc>Las damas disfrutan de un día de compras, pero Gizelle no encuentra su preciosa botella de tequila. Mientras la tension hierve a fuego lento, Leah no puede soportar el calor, lo que provoca una emergencia medica.</desc>
+		<episode-num system="xmltv_ns">2.4.0/1</episode-num>
+	</programme>
+	<programme start="20250109150000 +0000" stop="20250109154500 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 7</title>
+		<desc>Cocinar comida excelente requiere de enfoque... y ninguno es mejor que los chefs concursantes del septimo episodio de Top Chef: New York, de Bravo. Su desafío rápido exige que creen un dulce sin usar nada de azúcar y, en la ronda de eliminacion, los chefs deben servirle a un interesante público.</desc>
+		<episode-num system="xmltv_ns">4.6.0/1</episode-num>
+	</programme>
+	<programme start="20250109154500 +0000" stop="20250109163000 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 8</title>
+		<desc>Es hora de que los chefs de la gran ciudad viajen al campo. Los concursantes restantes deben comprar los ingredientes más frescos en la granja Blue Hill y luego trabajar con lo que tienen para crear un festín para los trabajadores de la misma granja.</desc>
+		<episode-num system="xmltv_ns">4.7.0/1</episode-num>
+	</programme>
+	<programme start="20250109163000 +0000" stop="20250109171500 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 9</title>
+		<desc>¡Está de vuelta! El episodio siempre esperado, Guerra de restaurantes, donde los concursantes deben crear todos los aspectos de un restaurante en 24 horas. ¡Comienza el calor!</desc>
+		<episode-num system="xmltv_ns">4.8.0/1</episode-num>
+	</programme>
+	<programme start="20250109171500 +0000" stop="20250109180000 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 10</title>
+		<desc>¡Es hora del Super Bowl y nada combina mejor con el pasatiempo estadounidense por excelencia que la buena comida! Los chefs restantes luchan en una competencia de cocina con el tema del Super Bowl contra siete estrellas de temporadas anteriores.</desc>
+		<episode-num system="xmltv_ns">4.9.0/1</episode-num>
+	</programme>
+	<programme start="20250109180000 +0000" stop="20250109184500 +0000" channel="Universal Reality.uy">
+		<title>Bajo cubierta - Temp. 4 - Episodio 4</title>
+		<desc>Trevor se enfrenta a la ira del Capitán Lee despues de poner en peligro la seguridad de la tripulacion durante su salida nocturna. Ben se estresa con un invitado del chárter que tiene necesidades dieteticas muy particulares. Kelley y Nico se encuentran atraídos por la misma camarera y Sierra aprende lo difícil que puede ser trabajar con Ben.</desc>
+		<episode-num system="xmltv_ns">3.3.0/1</episode-num>
+	</programme>
+	<programme start="20250109184500 +0000" stop="20250109193000 +0000" channel="Universal Reality.uy">
+		<title>Bajo cubierta - Temp. 4 - Episodio 5</title>
+		<desc>Sierra toma una decision despues de una noche tensa con Ben. Mientras tanto, Kelley es retado a terminar el chárter corto de personal. Un nuevo miembro de la tripulacion se une al Valor. Nico intenta solucionar sus problemas con Emily, pero sus esfuerzos románticos le pueden costar su amistad con Lauren.</desc>
+		<episode-num system="xmltv_ns">3.4.0/1</episode-num>
+	</programme>
+	<programme start="20250109193000 +0000" stop="20250109195500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 4</title>
+		<desc>Cuando Todd se entera de que Chase saldrá con varias chicas diferentes el día de San Valentín, recluta a Savannah para que lo ayude a darle una leccion a su hijo sobre el respeto a las mujeres.</desc>
+		<episode-num system="xmltv_ns">2.3.0/1</episode-num>
+	</programme>
+	<programme start="20250109195500 +0000" stop="20250109201500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 5</title>
+		<desc>Savannah tiene una vision color de rosa sobre como serán sus hábitos de gasto cuando se vaya a la universidad, por lo que Todd le asigna un presupuesto realista para ayudarla a prepararse para el mundo real.</desc>
+		<episode-num system="xmltv_ns">2.4.0/1</episode-num>
+	</programme>
+	<programme start="20250109201500 +0000" stop="20250109204000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 6</title>
+		<desc>Cuando los Chrisley hacen un viaje por carretera a Nashville para recorrer un campus universitario, Todd se emociona por el tiempo adicional de union familiar.</desc>
+		<episode-num system="xmltv_ns">2.5.0/1</episode-num>
+	</programme>
+	<programme start="20250109204000 +0000" stop="20250109210000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 7</title>
+		<desc>Todd se siente herido cuando ofrece ayuda a todos sus hijos, pero ninguno la necesita, hasta que Savannah sufre una apendicitis y se vuelve dependiente de Todd y Julie; un sueño hecho realidad para Todd.</desc>
+		<episode-num system="xmltv_ns">2.6.0/1</episode-num>
+	</programme>
+	<programme start="20250109210000 +0000" stop="20250109212500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 8</title>
+		<desc>Cuando Chase le paga a un extraño para que le cambie un neumático pinchado, Todd y Julie se dan cuenta de que han sobre protegido a sus hijos y deciden someterlos a un riguroso campamento de entrenamiento para la vida real.</desc>
+		<episode-num system="xmltv_ns">2.7.0/1</episode-num>
+	</programme>
+	<programme start="20250109212500 +0000" stop="20250109214500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 9</title>
+		<desc>Cuando Todd se entera de que Savannah tiene un nuevo novio, Todd hace todo lo posible para tratar de echar una mirada a este nuevo chico, y no le gusta lo que ve.</desc>
+		<episode-num system="xmltv_ns">2.8.0/1</episode-num>
+	</programme>
+	<programme start="20250109214500 +0000" stop="20250109223000 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives Ultimate Girls Trip - Temp. 3 - Episodio 6</title>
+		<desc>Las Housewives se dirigen a un templo budista para recibir una muy necesaria sesion de sanacion. Mientras Heather y Whitney encuentran la paz durante la cena tántrica de Whitney, la rivalidad entre Porsha y Leah llega a su punto de ebullicion.</desc>
+		<episode-num system="xmltv_ns">2.5.0/1</episode-num>
+	</programme>
+	<programme start="20250109223000 +0000" stop="20250109231500 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives Ultimate Girls Trip - Temp. 3 - Episodio 7</title>
+		<desc>Mientras que las mujeres se acercan al final de sus nada relajantes vacaciones, Gizelle hace un último esfuerzo para encontrar al ladron de tequila. Demasiado tiempo juntas lleva al límite al dúo dinámico de Miami.</desc>
+		<episode-num system="xmltv_ns">2.6.0/1</episode-num>
+	</programme>
+	<programme start="20250109231500 +0000" stop="20250110000000 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives of Dubai - Temp. 1 - Episodio 1</title>
+		<desc>¡Bienvenido a la ciudad de oro: Dubái! La elite social de esta ciudad incluye a empresarios tecnologicos, como Sara Al Madani, y magnates de la moda, como Lesa Milan.</desc>
+		<episode-num system="xmltv_ns">0.0.0/1</episode-num>
+	</programme>
+	<programme start="20250110000000 +0000" stop="20250110004500 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives of Dubai - Temp. 1 - Episodio 2</title>
+		<desc>Los amigos se vuelven enemigos durante un momento de agradecimiento. A medida que se va formando una amistad entre Nina y Caroline Stanbury, Ayan cuestiona la lealtad de Nina.</desc>
+		<episode-num system="xmltv_ns">0.1.0/1</episode-num>
+	</programme>
+	<programme start="20250110004500 +0000" stop="20250110013000 +0000" channel="Universal Reality.uy">
+		<title>Top Chef: Family Style - Temp. 1 - Episodio 1</title>
+		<desc>Trece dúos compiten en la cocina para convertir una receta familiar en un plato de cinco estrellas.</desc>
+		<episode-num system="xmltv_ns">0.0.0/1</episode-num>
+	</programme>
+	<programme start="20250110013000 +0000" stop="20250110021500 +0000" channel="Universal Reality.uy">
+		<title>Top Chef: Family Style - Temp. 1 - Episodio 2</title>
+		<desc>Los 12 dúos crean platos lujosos para el juez invitado Josiah Citrin y el actor Jesse Tyler Ferguson.</desc>
+		<episode-num system="xmltv_ns">0.1.0/1</episode-num>
+	</programme>
+	<programme start="20250110021500 +0000" stop="20250110030000 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 9</title>
+		<desc>¡Está de vuelta! El episodio siempre esperado, Guerra de restaurantes, donde los concursantes deben crear todos los aspectos de un restaurante en 24 horas. ¡Comienza el calor!</desc>
+		<episode-num system="xmltv_ns">4.8.0/1</episode-num>
+	</programme>
+	<programme start="20250110030000 +0000" stop="20250110034500 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 10</title>
+		<desc>¡Es hora del Super Bowl y nada combina mejor con el pasatiempo estadounidense por excelencia que la buena comida! Los chefs restantes luchan en una competencia de cocina con el tema del Super Bowl contra siete estrellas de temporadas anteriores.</desc>
+		<episode-num system="xmltv_ns">4.9.0/1</episode-num>
+	</programme>
+	<programme start="20250110034500 +0000" stop="20250110043000 +0000" channel="Universal Reality.uy">
+		<title>Top Chef: Family Style - Temp. 1 - Episodio 1</title>
+		<desc>Trece dúos compiten en la cocina para convertir una receta familiar en un plato de cinco estrellas.</desc>
+		<episode-num system="xmltv_ns">0.0.0/1</episode-num>
+	</programme>
+	<programme start="20250110043000 +0000" stop="20250110051500 +0000" channel="Universal Reality.uy">
+		<title>Top Chef: Family Style - Temp. 1 - Episodio 2</title>
+		<desc>Los 12 dúos crean platos lujosos para el juez invitado Josiah Citrin y el actor Jesse Tyler Ferguson.</desc>
+		<episode-num system="xmltv_ns">0.1.0/1</episode-num>
+	</programme>
+	<programme start="20250110051500 +0000" stop="20250110064500 +0000" channel="Universal Reality.uy">
+		<title>The Voice - Temp. 24 - Episodio 1</title>
+		<desc>Reba McEntire, Niall Horan, Gwen Stefani y John Legend comienzan la búsqueda del proximo fenomeno musical de America.</desc>
+		<episode-num system="xmltv_ns">23.0.0/1</episode-num>
+	</programme>
+	<programme start="20250110064500 +0000" stop="20250110071000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 4</title>
+		<desc>Cuando Todd se entera de que Chase saldrá con varias chicas diferentes el día de San Valentín, recluta a Savannah para que lo ayude a darle una leccion a su hijo sobre el respeto a las mujeres.</desc>
+		<episode-num system="xmltv_ns">2.3.0/1</episode-num>
+	</programme>
+	<programme start="20250110071000 +0000" stop="20250110073000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 5</title>
+		<desc>Savannah tiene una vision color de rosa sobre como serán sus hábitos de gasto cuando se vaya a la universidad, por lo que Todd le asigna un presupuesto realista para ayudarla a prepararse para el mundo real.</desc>
+		<episode-num system="xmltv_ns">2.4.0/1</episode-num>
+	</programme>
+	<programme start="20250110073000 +0000" stop="20250110075500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 6</title>
+		<desc>Cuando los Chrisley hacen un viaje por carretera a Nashville para recorrer un campus universitario, Todd se emociona por el tiempo adicional de union familiar.</desc>
+		<episode-num system="xmltv_ns">2.5.0/1</episode-num>
+	</programme>
+	<programme start="20250110075500 +0000" stop="20250110081500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 7</title>
+		<desc>Todd se siente herido cuando ofrece ayuda a todos sus hijos, pero ninguno la necesita, hasta que Savannah sufre una apendicitis y se vuelve dependiente de Todd y Julie; un sueño hecho realidad para Todd.</desc>
+		<episode-num system="xmltv_ns">2.6.0/1</episode-num>
+	</programme>
+	<programme start="20250110081500 +0000" stop="20250110084000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 8</title>
+		<desc>Cuando Chase le paga a un extraño para que le cambie un neumático pinchado, Todd y Julie se dan cuenta de que han sobre protegido a sus hijos y deciden someterlos a un riguroso campamento de entrenamiento para la vida real.</desc>
+		<episode-num system="xmltv_ns">2.7.0/1</episode-num>
+	</programme>
+	<programme start="20250110084000 +0000" stop="20250110090000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 9</title>
+		<desc>Cuando Todd se entera de que Savannah tiene un nuevo novio, Todd hace todo lo posible para tratar de echar una mirada a este nuevo chico, y no le gusta lo que ve.</desc>
+		<episode-num system="xmltv_ns">2.8.0/1</episode-num>
+	</programme>
+	<programme start="20250110090000 +0000" stop="20250110094500 +0000" channel="Universal Reality.uy">
+		<title>The Voice - Temp. 24 - Episodio 2</title>
+		<desc>Reba McEntire, Niall Horan, Gwen Stefani y John Legend compiten por descubrir y entrenar al proximo fenomeno musical en la segunda noche de las Audiciones a Ciegas.</desc>
+		<episode-num system="xmltv_ns">23.1.0/1</episode-num>
+	</programme>
+	<programme start="20250110094500 +0000" stop="20250110101000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 2</title>
+		<desc>Todd intenta salvar el día cuando entra dirigir del equipo de beisbol de Grayson, pero cuando descubre que la situacion se escapa de sus capacidades, debe descifrar como recuperar el respeto de los niños de 9 años.</desc>
+		<episode-num system="xmltv_ns">2.1.0/1</episode-num>
+	</programme>
+	<programme start="20250110101000 +0000" stop="20250110103000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 3</title>
+		<desc>Cuando Savannah le hace una propuesta a Todd que le permitiría ir a la universidad un año antes, el organiza toda una competencia familiar para mantenerla en casa el mayor tiempo posible.</desc>
+		<episode-num system="xmltv_ns">2.2.0/1</episode-num>
+	</programme>
+	<programme start="20250110103000 +0000" stop="20250110105500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 4</title>
+		<desc>Cuando Todd se entera de que Chase saldrá con varias chicas diferentes el día de San Valentín, recluta a Savannah para que lo ayude a darle una leccion a su hijo sobre el respeto a las mujeres.</desc>
+		<episode-num system="xmltv_ns">2.3.0/1</episode-num>
+	</programme>
+	<programme start="20250110105500 +0000" stop="20250110111500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 5</title>
+		<desc>Savannah tiene una vision color de rosa sobre como serán sus hábitos de gasto cuando se vaya a la universidad, por lo que Todd le asigna un presupuesto realista para ayudarla a prepararse para el mundo real.</desc>
+		<episode-num system="xmltv_ns">2.4.0/1</episode-num>
+	</programme>
+	<programme start="20250110111500 +0000" stop="20250110114000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 6</title>
+		<desc>Cuando los Chrisley hacen un viaje por carretera a Nashville para recorrer un campus universitario, Todd se emociona por el tiempo adicional de union familiar.</desc>
+		<episode-num system="xmltv_ns">2.5.0/1</episode-num>
+	</programme>
+	<programme start="20250110114000 +0000" stop="20250110120000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 7</title>
+		<desc>Todd se siente herido cuando ofrece ayuda a todos sus hijos, pero ninguno la necesita, hasta que Savannah sufre una apendicitis y se vuelve dependiente de Todd y Julie; un sueño hecho realidad para Todd.</desc>
+		<episode-num system="xmltv_ns">2.6.0/1</episode-num>
+	</programme>
+	<programme start="20250110120000 +0000" stop="20250110122500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 8</title>
+		<desc>Cuando Chase le paga a un extraño para que le cambie un neumático pinchado, Todd y Julie se dan cuenta de que han sobre protegido a sus hijos y deciden someterlos a un riguroso campamento de entrenamiento para la vida real.</desc>
+		<episode-num system="xmltv_ns">2.7.0/1</episode-num>
+	</programme>
+	<programme start="20250110122500 +0000" stop="20250110124500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 9</title>
+		<desc>Cuando Todd se entera de que Savannah tiene un nuevo novio, Todd hace todo lo posible para tratar de echar una mirada a este nuevo chico, y no le gusta lo que ve.</desc>
+		<episode-num system="xmltv_ns">2.8.0/1</episode-num>
+	</programme>
+	<programme start="20250110124500 +0000" stop="20250110133000 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives Ultimate Girls Trip - Temp. 3 - Episodio 7</title>
+		<desc>Mientras que las mujeres se acercan al final de sus nada relajantes vacaciones, Gizelle hace un último esfuerzo para encontrar al ladron de tequila. Demasiado tiempo juntas lleva al límite al dúo dinámico de Miami.</desc>
+		<episode-num system="xmltv_ns">2.6.0/1</episode-num>
+	</programme>
+	<programme start="20250110133000 +0000" stop="20250110141500 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives of Dubai - Temp. 1 - Episodio 1</title>
+		<desc>¡Bienvenido a la ciudad de oro: Dubái! La elite social de esta ciudad incluye a empresarios tecnologicos, como Sara Al Madani, y magnates de la moda, como Lesa Milan.</desc>
+		<episode-num system="xmltv_ns">0.0.0/1</episode-num>
+	</programme>
+	<programme start="20250110141500 +0000" stop="20250110150000 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives of Dubai - Temp. 1 - Episodio 2</title>
+		<desc>Los amigos se vuelven enemigos durante un momento de agradecimiento. A medida que se va formando una amistad entre Nina y Caroline Stanbury, Ayan cuestiona la lealtad de Nina.</desc>
+		<episode-num system="xmltv_ns">0.1.0/1</episode-num>
+	</programme>
+	<programme start="20250110150000 +0000" stop="20250110154500 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 9</title>
+		<desc>¡Está de vuelta! El episodio siempre esperado, Guerra de restaurantes, donde los concursantes deben crear todos los aspectos de un restaurante en 24 horas. ¡Comienza el calor!</desc>
+		<episode-num system="xmltv_ns">4.8.0/1</episode-num>
+	</programme>
+	<programme start="20250110154500 +0000" stop="20250110163000 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 10</title>
+		<desc>¡Es hora del Super Bowl y nada combina mejor con el pasatiempo estadounidense por excelencia que la buena comida! Los chefs restantes luchan en una competencia de cocina con el tema del Super Bowl contra siete estrellas de temporadas anteriores.</desc>
+		<episode-num system="xmltv_ns">4.9.0/1</episode-num>
+	</programme>
+	<programme start="20250110163000 +0000" stop="20250110171500 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 11</title>
+		<desc>Los concursantes tienen la oportunidad de cocinar en uno de los mejores restaurantes del mundo, Le Bernadin, ganador de tres estrellas Michelin. Su producto final será juzgado por el reconocido chef Eric Ripert.</desc>
+		<episode-num system="xmltv_ns">4.10.0/1</episode-num>
+	</programme>
+	<programme start="20250110171500 +0000" stop="20250110180000 +0000" channel="Universal Reality.uy">
+		<title>Top Chef - Temp. 5 - Episodio 12</title>
+		<desc>Es hora de sacar el cuchillo. Los últimos cinco concursantes se enteran de quien cocinará la última cena de Top Chef: New York.</desc>
+		<episode-num system="xmltv_ns">4.11.0/1</episode-num>
+	</programme>
+	<programme start="20250110180000 +0000" stop="20250110184500 +0000" channel="Universal Reality.uy">
+		<title>Bajo cubierta - Temp. 4 - Episodio 5</title>
+		<desc>Sierra toma una decision despues de una noche tensa con Ben. Mientras tanto, Kelley es retado a terminar el chárter corto de personal. Un nuevo miembro de la tripulacion se une al Valor. Nico intenta solucionar sus problemas con Emily, pero sus esfuerzos románticos le pueden costar su amistad con Lauren.</desc>
+		<episode-num system="xmltv_ns">3.4.0/1</episode-num>
+	</programme>
+	<programme start="20250110184500 +0000" stop="20250110193000 +0000" channel="Universal Reality.uy">
+		<title>Bajo cubierta - Temp. 4 - Episodio 6</title>
+		<desc>El Capitán Lee se vuelve cada vez más frustrado con Kelley despues de una serie de errores cometidos por el nuevo contramaestre. Kate es sorprendida por un visitante que le sacude el ego a Ben hasta más no poder. Kelley intensifica su juego de persecucion con Emily. Mientras tanto un terrible accidente de navegacion deja guindando en el aire las vidas de los invitados del chárter.</desc>
+		<episode-num system="xmltv_ns">3.5.0/1</episode-num>
+	</programme>
+	<programme start="20250110193000 +0000" stop="20250110195500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 10</title>
+		<desc>Con el cumpleaños de Todd acercándose rápidamente, el comienza a obsesionarse con su edad y a negarse a envejecer, pero con la ayuda de Mama Faye y sus amigos, el comienza a aceptar el futuro.</desc>
+		<episode-num system="xmltv_ns">2.9.0/1</episode-num>
+	</programme>
+	<programme start="20250110195500 +0000" stop="20250110201500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 11</title>
+		<desc>Julie está emocionada por comenzar su nuevo blog de comida pero cuando a nadie le da me gusta a su página, ella y Todd emprenden un viaje gastronomico que los lleva desde la excelente cocina francesa hasta salir a forrajear para encontrar su propia comida.</desc>
+		<episode-num system="xmltv_ns">2.10.0/1</episode-num>
+	</programme>
+	<programme start="20250110201500 +0000" stop="20250110204000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 12</title>
+		<desc>Grayson decide que quiere ser un autentico citadino para su noveno cumpleaños y convence a toda su familia de quedarse a pasar la noche en un rancho para turistas, donde probarán cuán campestres los Chrisley realmente son.</desc>
+		<episode-num system="xmltv_ns">2.11.0/1</episode-num>
+	</programme>
+	<programme start="20250110204000 +0000" stop="20250110210000 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 13</title>
+		<desc>Chase y Savannah están encantados de embarcarse en un viaje familiar de graduacion a Londres, para disgusto de Todd, quien es una criatura de costumbres que nunca ha abandonado el país.</desc>
+		<episode-num system="xmltv_ns">2.12.0/1</episode-num>
+	</programme>
+	<programme start="20250110210000 +0000" stop="20250110212500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 14</title>
+		<desc>Cuando Todd lleva a su familia a la campiña inglesa, insiste en convertir a los Chrisley en una verdadera familia inglesa, pero cuando la familia se resiste Todd hace todo lo posible para demostrar que es un miembro de la realeza.</desc>
+		<episode-num system="xmltv_ns">2.13.0/1</episode-num>
+	</programme>
+	<programme start="20250110212500 +0000" stop="20250110214500 +0000" channel="Universal Reality.uy">
+		<title>La familia Chrisley - Temp. 3 - Episodio 15</title>
+		<desc>Cuando Todd y Julie se preparan para hacer un video de un día en la vida por su aniversario, las grietas en su matrimonio comienzan a hacerse notar y luchan por reinventarse como la pareja perfecta.</desc>
+		<episode-num system="xmltv_ns">2.14.0/1</episode-num>
+	</programme>
+	<programme start="20250110214500 +0000" stop="20250110223000 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives of Dubai - Temp. 1 - Episodio 3</title>
+		<desc>Es la Semana de la Moda en Dubái, y los diseñadores no son los únicos en organizar un espectáculo.</desc>
+		<episode-num system="xmltv_ns">0.2.0/1</episode-num>
+	</programme>
+	<programme start="20250110223000 +0000" stop="20250110231500 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives of Dubai - Temp. 1 - Episodio 4</title>
+		<desc>Sergio y Caroline Stanbury llegan a un callejon sin salida respecto a tener hijos juntos.</desc>
+		<episode-num system="xmltv_ns">0.3.0/1</episode-num>
+	</programme>
+	<programme start="20250110231500 +0000" stop="20250111000000 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives of Dubai - Temp. 1 - Episodio 5</title>
+		<desc>Caroline Stanbury y Ayan empiezan a sanar su ruptura. Caroline Brooks da la bienvenida a su vieja amiga, Phaedra Parks, a la ciudad de oro.</desc>
+		<episode-num system="xmltv_ns">0.4.0/1</episode-num>
+	</programme>
+	<programme start="20250111000000 +0000" stop="20250111004500 +0000" channel="Universal Reality.uy">
+		<title>The Real Housewives of Dubai - Temp. 1 - Episodio 6</title>
+		<desc>Comienza la cuenta regresiva para la boda de Caroline Stanbury, pero no sin antes aclarar algunos problemas con Lesa en una tarde de te.</desc>
+		<episode-num system="xmltv_ns">0.5.0/1</episode-num>
+	</programme>
+	<programme start="20250111004500 +0000" stop="20250111011000 +0000" channel="Universal Reality.uy">
+		<title>Pequeños grandes jardines - Temp. 1 - Episodio 1</title>
+		<desc>Tres hermanos quieren convertir su patio trasero en el paraíso para un amante de la comida, con una cocina al aire libre.</desc>
+		<episode-num system="xmltv_ns">0.0.0/1</episode-num>
 	</programme>
 </tv>
