@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timezone
 import os
 import gzip
 from pprint import pprint
@@ -9,10 +9,11 @@ import xmltodict
 
 from epgs import urls
 from canales import incluir
-from utils import extract_tvg_ids
+from utils import descomprimir, download_file, extract_tvg_ids, file_is_expired
 
 folder_path = 'downloads'
 output_name = "epg.xml"
+horas = 3
 
 xmls = []
 
@@ -44,23 +45,23 @@ for name, url in urls:
     extension = obtener_extension(name)
     filename = f"{folder_path}/{name}"
 
-    response = requests.get(url)
-    with open(filename, 'wb') as file:
-        file.write(response.content)
+    if os.path.exists(filename):
+        print(f"Archivo {filename} ya existe")
 
-    print(f"Archivo guardado como {filename}")
+        if file_is_expired(filename, horas):
+            filename = download_file(url, filename, extension)
 
-    if extension == '.gz':
-        uncompressed_filename = filename[:-3]
+        if obtener_extension(filename) == '.gz':
+            filename = descomprimir(filename)
 
-        with gzip.open(filename, 'rb') as f_in:
-            with open(uncompressed_filename, 'wb') as f_out:
-                shutil.copyfileobj(f_in, f_out)
-
-        print(f"Archivo descomprimido como {uncompressed_filename}")
-        xmls.append(uncompressed_filename)
-    if extension == '.xml':
         xmls.append(filename)
+    else:
+        file = download_file(url, filename, extension)
+
+        if obtener_extension(file) == '.gz':
+            file = descomprimir(file)
+        xmls.append(file)
+
 
 canales = []
 programas = []
@@ -103,6 +104,17 @@ for filename in xmls:
 
         ids_en_xml_canales = {canal["@id"] for canal in xml_canales}
         incluir = [id_str for id_str in incluir if id_str not in ids_en_xml_canales]
+
+        for programa in programas:
+            start_time_str = programa["@start"]
+            start_time = datetime.strptime(start_time_str, "%Y%m%d%H%M%S %z")
+            start_time_utc = start_time.astimezone(timezone.utc)
+            programa["@start"] = start_time_utc.strftime("%Y%m%d%H%M%S %z")
+
+            stop_time_str = programa["@stop"]
+            stop_time = datetime.strptime(stop_time_str, "%Y%m%d%H%M%S %z")
+            stop_time_utc = stop_time.astimezone(timezone.utc)
+            programa["@stop"] = stop_time_utc.strftime("%Y%m%d%H%M%S %z")
 
 
 
