@@ -41,6 +41,7 @@ if not os.path.exists(folder_path):
     os.makedirs(folder_path)
     print(f"Carpeta '{folder_path}' creada.")
 
+print("\nObteniendo EPGS...")
 for name, url in urls:
     extension = obtener_extension(name)
     filename = f"{folder_path}/{name}"
@@ -66,6 +67,7 @@ for name, url in urls:
 canales = []
 programas = []
 
+print("\nRevisando archivos...")
 for filename in xmls:
 
     print("Revisando archivo", filename)
@@ -129,7 +131,7 @@ for filename in xmls:
 
 xmltodict.unparse(programacion, output=open(output_name, 'w', encoding="utf-8"), pretty=True)
 
-archivo_comprimido = output_name+'.gz'
+archivo_comprimido = output_name + '.gz'
 
 with open(output_name, 'rb') as f_in:
     with gzip.open(archivo_comprimido, 'wb') as f_out:
