@@ -1,5 +1,8 @@
 
 incluir = [
+    "Canal.Golden.Edge.mx",
+    "Canal.Golden.Edge.cl",
+    "Canal.Golden.Premier.cl",
     "Starz.Cinema.HD.-.Eastern.us",
     "Univision.Telenovelas.us",
     "CINECANAL HD.cl",
