@@ -222,6 +222,12 @@
 		<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png"></icon>
 		<url>http://www.gatotv.com</url>
 	</channel>
+	<channel id="DAZN.1.es">
+		<display-name lang="es">DAZN 1</display-name>
+		<icon src="https://www.movistarplus.es/recorte/m-NEO/externo/M1SD"></icon>
+		<icon src="https://www.movistarplus.es/recorte/m-NEO/externo/M1SD"></icon>
+		<url>http://www.comunicacion.movistarplus.es</url>
+	</channel>
 	<channel id="ANIMAL PLANET.mx">
 		<display-name>ANIMAL PLANET.mx</display-name>
 	</channel>
@@ -443,9 +449,6 @@
 	</channel>
 	<channel id="GOLDEN HD.co">
 		<display-name>GOLDEN HD.co</display-name>
-	</channel>
-	<channel id="DAZN 1.es">
-		<display-name>DAZN 1.es</display-name>
 	</channel>
 	<channel id="DAZN 2.es">
 		<display-name>DAZN 2.es</display-name>
@@ -24253,6 +24256,186 @@ En Vivo</title>
 	<programme start="20250113050000 +0000" stop="20250113064500 +0000" channel="Canal.HBO.Signature.Latinoamérica.ar">
 		<title lang="es">Transhood Crecer transgénero</title>
 	</programme>
+	<programme start="20250107230000 +0000" stop="20250107230000 +0000" channel="DAZN.1.es">
+		<title lang="es">Carrera Moto3 - Mundial de motociclismo</title>
+	</programme>
+	<programme start="20250108050000 +0000" stop="20250108120000 +0000" channel="DAZN.1.es">
+		<title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+	</programme>
+	<programme start="20250108150100 +0000" stop="20250108160300 +0000" channel="DAZN.1.es">
+		<title lang="es">Estoril - Carrera 1 - Iberian Supercars Endurance T2024 (?)</title>
+	</programme>
+	<programme start="20250108160300 +0000" stop="20250108162000 +0000" channel="DAZN.1.es">
+		<title lang="es">MotoGP Features T2024 Ep. 13 - Pedro Acosta se pone a prueba (?)</title>
+	</programme>
+	<programme start="20250108162000 +0000" stop="20250108164500 +0000" channel="DAZN.1.es">
+		<title lang="es">Equals T1 Ep. 1 - La presión es un privilegio (?)</title>
+	</programme>
+	<programme start="20250108164500 +0000" stop="20250108170900 +0000" channel="DAZN.1.es">
+		<title lang="es">Equals T1 Ep. 2 - Desde el Norte (?)</title>
+	</programme>
+	<programme start="20250108170900 +0000" stop="20250108173400 +0000" channel="DAZN.1.es">
+		<title lang="es">Equals T1 Ep. 3 - De todo a nada (?)</title>
+	</programme>
+	<programme start="20250108173400 +0000" stop="20250108175800 +0000" channel="DAZN.1.es">
+		<title lang="es">Equals T1 Ep. 4 - Amigos y familia (?)</title>
+	</programme>
+	<programme start="20250108175800 +0000" stop="20250108185000 +0000" channel="DAZN.1.es">
+		<title lang="es">Equals T1 Ep. 5 - Modelos reales (?)</title>
+	</programme>
+	<programme start="20250108185000 +0000" stop="20250108210300 +0000" channel="DAZN.1.es">
+		<title lang="es">Real Madrid - Levante UD. Liga F T24/25 - J.8 (?)</title>
+	</programme>
+	<programme start="20250108210300 +0000" stop="20250108212700 +0000" channel="DAZN.1.es">
+		<title lang="es">Equals T1 Ep. 6 - El principio, no el final (?)</title>
+	</programme>
+	<programme start="20250108212700 +0000" stop="20250108215000 +0000" channel="DAZN.1.es">
+		<title lang="es">Premier Corner by Guiness 0,0 T2024 Ep. 6 - Unai Emery, maestro... (?)</title>
+	</programme>
+	<programme start="20250108215000 +0000" stop="20250108225600 +0000" channel="DAZN.1.es">
+		<title lang="es">Boxeo (?)</title>
+	</programme>
+	<programme start="20250108225600 +0000" stop="20250109050000 +0000" channel="DAZN.1.es">
+		<title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+	</programme>
+	<programme start="20250109050000 +0000" stop="20250109120000 +0000" channel="DAZN.1.es">
+		<title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+	</programme>
+	<programme start="20250109120000 +0000" stop="20250109122300 +0000" channel="DAZN.1.es">
+		<title lang="es">Premier Corner by Guiness 0,0 T2024 Ep. 6 - Unai Emery, maestro... (?)</title>
+	</programme>
+	<programme start="20250109122300 +0000" stop="20250109123800 +0000" channel="DAZN.1.es">
+		<title lang="es">Premier Corner by Guiness 0,0 T2024 Ep. 8 - Monchi, un cazatalentos único (?)</title>
+	</programme>
+	<programme start="20250109123800 +0000" stop="20250109125400 +0000" channel="DAZN.1.es">
+		<title lang="es">Premier Corner by Guiness 0,0 T2024 Ep. 2 - Julen Lopetegui,... (?)</title>
+	</programme>
+	<programme start="20250109125400 +0000" stop="20250109132300 +0000" channel="DAZN.1.es">
+		<title lang="es">Cara B - Cañada Real Galiana (?)</title>
+	</programme>
+	<programme start="20250109132300 +0000" stop="20250109135500 +0000" channel="DAZN.1.es">
+		<title lang="es">Premier Corner by Guiness 0,0 T2024 Ep. 3 - Ander Herrera (?)</title>
+	</programme>
+	<programme start="20250109135500 +0000" stop="20250109155700 +0000" channel="DAZN.1.es">
+		<title lang="es">Manchester City - West Ham. Premier League T24/25 - J.20 (?)</title>
+	</programme>
+	<programme start="20250109155700 +0000" stop="20250109162700 +0000" channel="DAZN.1.es">
+		<title lang="es">Premier Corner by Guiness 0,0 T2024 Ep. 1 - Michu, el ídolo de Haaland (?)</title>
+	</programme>
+	<programme start="20250109162700 +0000" stop="20250109165400 +0000" channel="DAZN.1.es">
+		<title lang="es">Premier League Stories T23/24 Ep. 4 - Las calles no olvidarán a Michu (?)</title>
+	</programme>
+	<programme start="20250109165400 +0000" stop="20250109170700 +0000" channel="DAZN.1.es">
+		<title lang="es">Premier Corner by Guiness 0,0 T2024 Ep. 5 - David Raya, el guardián gunner (?)</title>
+	</programme>
+	<programme start="20250109170700 +0000" stop="20250109173700 +0000" channel="DAZN.1.es">
+		<title lang="es">Premier League Stories T23/24 Ep. 5 - Casemiro, El... (?)</title>
+	</programme>
+	<programme start="20250109173700 +0000" stop="20250109182600 +0000" channel="DAZN.1.es">
+		<title lang="es">Fever Pitch T23/24 Ep. 30 - Iraola se reúne con viejos amigos (?)</title>
+	</programme>
+	<programme start="20250109182600 +0000" stop="20250109185800 +0000" channel="DAZN.1.es">
+		<title lang="es">Premier Corner by Guiness 0,0 T2024 Ep. 4 - Luis García, el... (?)</title>
+	</programme>
+	<programme start="20250109185800 +0000" stop="20250109191100 +0000" channel="DAZN.1.es">
+		<title lang="es">Premier Corner by Guiness 0,0 T2024 Ep. 5 - David Raya, el guardián gunner (?)</title>
+	</programme>
+	<programme start="20250109191100 +0000" stop="20250109211200 +0000" channel="DAZN.1.es">
+		<title lang="es">Brighton &amp; Hove Albion - Arsenal. Premier League T24/25 - J.20 (?)</title>
+	</programme>
+	<programme start="20250109211200 +0000" stop="20250109221500 +0000" channel="DAZN.1.es">
+		<title lang="es">Erasmus FC T24/25 Ep. 10 - El 'Wrapped' 2024 de Erasmus (?)</title>
+	</programme>
+	<programme start="20250109221500 +0000" stop="20250109231000 +0000" channel="DAZN.1.es">
+		<title lang="es">Carrera 2 - eSport MotoGP Global Series T2024 (?)</title>
+	</programme>
+	<programme start="20250109231000 +0000" stop="20250110001400 +0000" channel="DAZN.1.es">
+		<title lang="es">La vida en rojo (?)</title>
+	</programme>
+	<programme start="20250110001400 +0000" stop="20250110050000 +0000" channel="DAZN.1.es">
+		<title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+	</programme>
+	<programme start="20250110050000 +0000" stop="20250110110000 +0000" channel="DAZN.1.es">
+		<title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+	</programme>
+	<programme start="20250110110000 +0000" stop="20250110120100 +0000" channel="DAZN.1.es">
+		<title lang="es">Erasmus FC T24/25 Ep. 11 (?)</title>
+	</programme>
+	<programme start="20250110120100 +0000" stop="20250110140200 +0000" channel="DAZN.1.es">
+		<title lang="es">Manchester City - West Ham. Premier League T24/25 - J.20 (?)</title>
+	</programme>
+	<programme start="20250110140200 +0000" stop="20250110142700 +0000" channel="DAZN.1.es">
+		<title lang="es">Equals T1 Ep. 1 - La presión es un privilegio (?)</title>
+	</programme>
+	<programme start="20250110142700 +0000" stop="20250110145100 +0000" channel="DAZN.1.es">
+		<title lang="es">Equals T1 Ep. 2 - Desde el Norte (?)</title>
+	</programme>
+	<programme start="20250110145100 +0000" stop="20250110151600 +0000" channel="DAZN.1.es">
+		<title lang="es">Equals T1 Ep. 3 - De todo a nada (?)</title>
+	</programme>
+	<programme start="20250110151600 +0000" stop="20250110170700 +0000" channel="DAZN.1.es">
+		<title lang="es">Atlético de Madrid - Real Madrid. Liga F T24/25 - J.16 (?)</title>
+	</programme>
+	<programme start="20250110170700 +0000" stop="20250110174300 +0000" channel="DAZN.1.es">
+		<title lang="es">David Alonso, historia para Colombia (?)</title>
+	</programme>
+	<programme start="20250110174300 +0000" stop="20250110194400 +0000" channel="DAZN.1.es">
+		<title lang="es">Brighton &amp; Hove Albion - Arsenal. Premier League T24/25 - J.20 (?)</title>
+	</programme>
+	<programme start="20250110194400 +0000" stop="20250110201600 +0000" channel="DAZN.1.es">
+		<title lang="es">Premier Corner by Guiness 0,0 T2024 Ep. 3 - Ander Herrera (?)</title>
+	</programme>
+	<programme start="20250110201600 +0000" stop="20250110211700 +0000" channel="DAZN.1.es">
+		<title lang="es">Erasmus FC T24/25 Ep. 11 (?)</title>
+	</programme>
+	<programme start="20250110211700 +0000" stop="20250110235600 +0000" channel="DAZN.1.es">
+		<title lang="es">6 Kings Slam T2024 - Alcaraz - Sinner (?)</title>
+	</programme>
+	<programme start="20250110235600 +0000" stop="20250111050000 +0000" channel="DAZN.1.es">
+		<title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+	</programme>
+	<programme start="20250111050000 +0000" stop="20250111105000 +0000" channel="DAZN.1.es">
+		<title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+	</programme>
+	<programme start="20250111105000 +0000" stop="20250111130300 +0000" channel="DAZN.1.es">
+		<title lang="es">RCD Espanyol - Athletic Club. Liga F T24/25 - J.14 (?)</title>
+	</programme>
+	<programme start="20250111130300 +0000" stop="20250111133300 +0000" channel="DAZN.1.es">
+		<title lang="es">Cara B - Cañada Real Galiana (?)</title>
+	</programme>
+	<programme start="20250111133300 +0000" stop="20250111141600 +0000" channel="DAZN.1.es">
+		<title lang="es">Decoded Pedro Acosta (?)</title>
+	</programme>
+	<programme start="20250111141600 +0000" stop="20250111144000 +0000" channel="DAZN.1.es">
+		<title lang="es">Equals T1 Ep. 5 - Modelos reales (?)</title>
+	</programme>
+	<programme start="20250111144000 +0000" stop="20250111145000 +0000" channel="DAZN.1.es">
+		<title lang="es">Equals T1 Ep. 6 - El principio, no el final (?)</title>
+	</programme>
+	<programme start="20250111145000 +0000" stop="20250111170300 +0000" channel="DAZN.1.es">
+		<title lang="es">Eibar - Sevilla. Liga F T24/25 - J.14 (?)</title>
+	</programme>
+	<programme start="20250111170300 +0000" stop="20250111172000 +0000" channel="DAZN.1.es">
+		<title lang="es">Premier Corner by Guiness 0,0 T2024 Ep. 7 - Emery y Monchi,... (?)</title>
+	</programme>
+	<programme start="20250111172000 +0000" stop="20250111193300 +0000" channel="DAZN.1.es">
+		<title lang="es">FC Barcelona - Levante Badalona. Liga F T24/25 - J.14 (?)</title>
+	</programme>
+	<programme start="20250111193300 +0000" stop="20250111195800 +0000" channel="DAZN.1.es">
+		<title lang="es">Aitana Bonmati (?)</title>
+	</programme>
+	<programme start="20250111195800 +0000" stop="20250111214900 +0000" channel="DAZN.1.es">
+		<title lang="es">Real Sociedad - FC Barcelona. Liga F T24/25 - J.16 (?)</title>
+	</programme>
+	<programme start="20250111214900 +0000" stop="20250111224800 +0000" channel="DAZN.1.es">
+		<title lang="es">Carrera 2 - eSport MotoGP Global Series T2024 (?)</title>
+	</programme>
+	<programme start="20250111224800 +0000" stop="20250111230500 +0000" channel="DAZN.1.es">
+		<title lang="es">ADN de piloto T1 Ep. 5 - Michelin (?)</title>
+	</programme>
+	<programme start="20250111230500 +0000" stop="20250111232600 +0000" channel="DAZN.1.es">
+		<title lang="es">Francis Ngannou, forjado en la adversidad (?)</title>
+	</programme>
 	<programme start="20250108060600 +0000" stop="20250108065800 +0000" channel="ANIMAL PLANET.mx">
 		<title>¡Terror en la aldea! - Episodio: Tigres</title>
 	</programme>
@@ -45397,191 +45580,6 @@ En Vivo</title>
 	<programme start="20250111020000 +0000" stop="20250111035500 +0000" channel="GOLDEN HD.co">
 		<title>La casa con un reloj en sus paredes</title>
 		<desc>Un niño que ha quedado huerfano debe mudarse con su tío a una misteriosa casa en la que descubrirá un mundo de hechiceros y maldiciones. Deberá ayudar a su tío, un ávido brujo, a encontrar un reloj con el poder de causar el fin del mundo.</desc>
-	</programme>
-	<programme start="20250109050000 +0000" stop="20250109120000 +0000" channel="DAZN 1.es">
-		<title>Disfruta de DAZN en Movistar Plus+</title>
-	</programme>
-	<programme start="20250109120000 +0000" stop="20250109125200 +0000" channel="DAZN 1.es">
-		<title>Mundial de motociclismoCarrera de Moto3</title>
-		<desc>El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109125200 +0000" stop="20250109134600 +0000" channel="DAZN 1.es">
-		<title>Mundial de motociclismoCarrera de Moto3</title>
-		<desc>El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109134600 +0000" stop="20250109150000 +0000" channel="DAZN 1.es">
-		<title>Mundial de motociclismoCarrera MotoGP</title>
-		<desc>El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109150000 +0000" stop="20250109160100 +0000" channel="DAZN 1.es">
-		<title>Asia Talent CupMalasia Carrera 2</title>
-		<desc>Una competicion donde los jovenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109160100 +0000" stop="20250109161800 +0000" channel="DAZN 1.es">
-		<title>MotoGP FeaturesPedro Acosta se pone a prueba</title>
-		<desc>Pedro Acosta se sienta con Izaskun Ruiz para responder algunas preguntas: unas fáciles y otras, no tanto.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109161800 +0000" stop="20250109164600 +0000" channel="DAZN 1.es">
-		<title>25 años de emociones, 25 años del Circuit</title>
-		<desc>Historia del circuito Ricardo Tormo de Cheste. Ubicado en Valencia, las curvas de este legendario trazado inaugurado en 1999 ha sido testigo de grandes batallas finales en el mundo del automovilismo y motociclismo.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109164600 +0000" stop="20250109171200 +0000" channel="DAZN 1.es">
-		<title>EqualsLa presion es un privilegio</title>
-		<desc>Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores despues de batir records en la última Eurocopa.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109171200 +0000" stop="20250109173600 +0000" channel="DAZN 1.es">
-		<title>EqualsDesde el Norte</title>
-		<desc>Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores despues de batir records en la última Eurocopa.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109173600 +0000" stop="20250109180000 +0000" channel="DAZN 1.es">
-		<title>EqualsDe todo a nada</title>
-		<desc>Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores despues de batir records en la última Eurocopa.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109180000 +0000" stop="20250109182500 +0000" channel="DAZN 1.es">
-		<title>EqualsAmigos y familia</title>
-		<desc>Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores despues de batir records en la última Eurocopa.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109182500 +0000" stop="20250109185000 +0000" channel="DAZN 1.es">
-		<title>EqualsModelos reales</title>
-		<desc>Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores despues de batir records en la última Eurocopa.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109185000 +0000" stop="20250109210300 +0000" channel="DAZN 1.es">
-		<title>Liga F (T24/25): Real Madrid - Levante UD</title>
-		<desc>La Liga F es la máxima categoría del fútbol femenino. Dieciseis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atletico de Madrid o Levante intentarán plantar cara.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109210300 +0000" stop="20250109212800 +0000" channel="DAZN 1.es">
-		<title>EqualsEl principio, no el final</title>
-		<desc>Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores despues de batir records en la última Eurocopa.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109212800 +0000" stop="20250109215100 +0000" channel="DAZN 1.es">
-		<title>Premier Corner by Guiness 0,0: Unai Emery, maestro de la táctica y rey de Birmingham</title>
-		<desc>El entrenador español, reconocido por su habilidad táctica y exito en competiciones europeas como la Europa League, llego a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.</desc>
-		<episode-num system="xmltv_ns">2023..</episode-num>
-	</programme>
-	<programme start="20250109215100 +0000" stop="20250109223900 +0000" channel="DAZN 1.es">
-		<title>Maverick Viñales: dos vidas</title>
-		<desc>Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109223900 +0000" stop="20250109225700 +0000" channel="DAZN 1.es">
-		<title>Àlex Criville, referente máximo</title>
-		<desc>Álex Criville es una figura clave en la historia del motociclismo español. En la temporada 1999, el de Seva rompio muchas barreras para España en un deporte dominado por ingleses y americanos.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109225700 +0000" stop="20250110000400 +0000" channel="DAZN 1.es">
-		<title>Zurdo vs. Billam Smith: Riyadh Season Latinos NightZurdo vs. Billam Smith</title>
-		<desc>Gilberto Zurdo Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche epica en Riyadh.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110000400 +0000" stop="20250110050000 +0000" channel="DAZN 1.es">
-		<title>Disfruta de DAZN en Movistar Plus+</title>
-	</programme>
-	<programme start="20250110050000 +0000" stop="20250110120000 +0000" channel="DAZN 1.es">
-		<title>Disfruta de DAZN en Movistar Plus+</title>
-	</programme>
-	<programme start="20250110120000 +0000" stop="20250110125200 +0000" channel="DAZN 1.es">
-		<title>Mundial de motociclismoCarrera de Moto3</title>
-		<desc>El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110125200 +0000" stop="20250110134600 +0000" channel="DAZN 1.es">
-		<title>Mundial de motociclismoCarrera de Moto3</title>
-		<desc>El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110134600 +0000" stop="20250110150000 +0000" channel="DAZN 1.es">
-		<title>Mundial de motociclismoCarrera MotoGP</title>
-		<desc>El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110150000 +0000" stop="20250110160100 +0000" channel="DAZN 1.es">
-		<title>Asia Talent CupMalasia Carrera 2</title>
-		<desc>Una competicion donde los jovenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110160100 +0000" stop="20250110161800 +0000" channel="DAZN 1.es">
-		<title>MotoGP FeaturesPedro Acosta se pone a prueba</title>
-		<desc>Pedro Acosta se sienta con Izaskun Ruiz para responder algunas preguntas: unas fáciles y otras, no tanto.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110161800 +0000" stop="20250110164600 +0000" channel="DAZN 1.es">
-		<title>25 años de emociones, 25 años del Circuit</title>
-		<desc>Historia del circuito Ricardo Tormo de Cheste. Ubicado en Valencia, las curvas de este legendario trazado inaugurado en 1999 ha sido testigo de grandes batallas finales en el mundo del automovilismo y motociclismo.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110164600 +0000" stop="20250110171200 +0000" channel="DAZN 1.es">
-		<title>EqualsLa presion es un privilegio</title>
-		<desc>Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores despues de batir records en la última Eurocopa.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110171200 +0000" stop="20250110173600 +0000" channel="DAZN 1.es">
-		<title>EqualsDesde el Norte</title>
-		<desc>Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores despues de batir records en la última Eurocopa.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110173600 +0000" stop="20250110180000 +0000" channel="DAZN 1.es">
-		<title>EqualsDe todo a nada</title>
-		<desc>Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores despues de batir records en la última Eurocopa.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110180000 +0000" stop="20250110182500 +0000" channel="DAZN 1.es">
-		<title>EqualsAmigos y familia</title>
-		<desc>Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores despues de batir records en la última Eurocopa.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110182500 +0000" stop="20250110185000 +0000" channel="DAZN 1.es">
-		<title>EqualsModelos reales</title>
-		<desc>Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores despues de batir records en la última Eurocopa.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110185000 +0000" stop="20250110210300 +0000" channel="DAZN 1.es">
-		<title>Liga F (T24/25): Real Madrid - Levante UD</title>
-		<desc>La Liga F es la máxima categoría del fútbol femenino. Dieciseis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atletico de Madrid o Levante intentarán plantar cara.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110210300 +0000" stop="20250110212800 +0000" channel="DAZN 1.es">
-		<title>EqualsEl principio, no el final</title>
-		<desc>Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores despues de batir records en la última Eurocopa.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110212800 +0000" stop="20250110215100 +0000" channel="DAZN 1.es">
-		<title>Premier Corner by Guiness 0,0: Unai Emery, maestro de la táctica y rey de Birmingham</title>
-		<desc>El entrenador español, reconocido por su habilidad táctica y exito en competiciones europeas como la Europa League, llego a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.</desc>
-		<episode-num system="xmltv_ns">2023..</episode-num>
-	</programme>
-	<programme start="20250110215100 +0000" stop="20250110223900 +0000" channel="DAZN 1.es">
-		<title>Maverick Viñales: dos vidas</title>
-		<desc>Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110223900 +0000" stop="20250110225700 +0000" channel="DAZN 1.es">
-		<title>Àlex Criville, referente máximo</title>
-		<desc>Álex Criville es una figura clave en la historia del motociclismo español. En la temporada 1999, el de Seva rompio muchas barreras para España en un deporte dominado por ingleses y americanos.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110225700 +0000" stop="20250111000400 +0000" channel="DAZN 1.es">
-		<title>Zurdo vs. Billam Smith: Riyadh Season Latinos NightZurdo vs. Billam Smith</title>
-		<desc>Gilberto Zurdo Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche epica en Riyadh.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250111000400 +0000" stop="20250111050000 +0000" channel="DAZN 1.es">
-		<title>Disfruta de DAZN en Movistar Plus+</title>
-	</programme>
-	<programme start="20250111050000 +0000" stop="20250111120000 +0000" channel="DAZN 1.es">
-		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
 	<programme start="20250109050000 +0000" stop="20250109090000 +0000" channel="DAZN 2.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
