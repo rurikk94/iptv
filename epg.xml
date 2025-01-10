@@ -45544,24 +45544,6 @@ En Vivo</title>
 		<title>Jack y Jill</title>
 		<desc>La vida de un exitoso y feliz ejecutivo de publicidad termina en un caos cuando su exigente hermana gemela pasivo-agresiva realiza su visita anual del Día de Accion de Gracias.</desc>
 	</programme>
-	<programme start="20250109050000 +0000" stop="20250109090000 +0000" channel="DAZN 2.es">
-		<title>Disfruta de DAZN en Movistar Plus+</title>
-	</programme>
-	<programme start="20250109090000 +0000" stop="20250109130000 +0000" channel="DAZN 2.es">
-		<title>Disfruta de DAZN en Movistar Plus+</title>
-	</programme>
-	<programme start="20250109130000 +0000" stop="20250109170000 +0000" channel="DAZN 2.es">
-		<title>Disfruta de DAZN en Movistar Plus+</title>
-	</programme>
-	<programme start="20250109170000 +0000" stop="20250109210000 +0000" channel="DAZN 2.es">
-		<title>Disfruta de DAZN en Movistar Plus+</title>
-	</programme>
-	<programme start="20250109210000 +0000" stop="20250110010000 +0000" channel="DAZN 2.es">
-		<title>Disfruta de DAZN en Movistar Plus+</title>
-	</programme>
-	<programme start="20250110010000 +0000" stop="20250110050000 +0000" channel="DAZN 2.es">
-		<title>Disfruta de DAZN en Movistar Plus+</title>
-	</programme>
 	<programme start="20250110050000 +0000" stop="20250110090000 +0000" channel="DAZN 2.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
@@ -45583,22 +45565,25 @@ En Vivo</title>
 	<programme start="20250111050000 +0000" stop="20250111090000 +0000" channel="DAZN 2.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250109050000 +0000" stop="20250109090000 +0000" channel="DAZN 3.es">
+	<programme start="20250111090000 +0000" stop="20250111130000 +0000" channel="DAZN 2.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250109090000 +0000" stop="20250109130000 +0000" channel="DAZN 3.es">
+	<programme start="20250111130000 +0000" stop="20250111170000 +0000" channel="DAZN 2.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250109130000 +0000" stop="20250109170000 +0000" channel="DAZN 3.es">
+	<programme start="20250111170000 +0000" stop="20250111210000 +0000" channel="DAZN 2.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250109170000 +0000" stop="20250109210000 +0000" channel="DAZN 3.es">
+	<programme start="20250111210000 +0000" stop="20250112010000 +0000" channel="DAZN 2.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250109210000 +0000" stop="20250110010000 +0000" channel="DAZN 3.es">
+	<programme start="20250112010000 +0000" stop="20250112050000 +0000" channel="DAZN 2.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250110010000 +0000" stop="20250110050000 +0000" channel="DAZN 3.es">
+	<programme start="20250112050000 +0000" stop="20250112090000 +0000" channel="DAZN 2.es">
+		<title>Disfruta de DAZN en Movistar Plus+</title>
+	</programme>
+	<programme start="20250112090000 +0000" stop="20250112130000 +0000" channel="DAZN 2.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
 	<programme start="20250110050000 +0000" stop="20250110090000 +0000" channel="DAZN 3.es">
@@ -45622,22 +45607,25 @@ En Vivo</title>
 	<programme start="20250111050000 +0000" stop="20250111090000 +0000" channel="DAZN 3.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250109050000 +0000" stop="20250109090000 +0000" channel="DAZN 4.es">
+	<programme start="20250111090000 +0000" stop="20250111130000 +0000" channel="DAZN 3.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250109090000 +0000" stop="20250109130000 +0000" channel="DAZN 4.es">
+	<programme start="20250111130000 +0000" stop="20250111170000 +0000" channel="DAZN 3.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250109130000 +0000" stop="20250109170000 +0000" channel="DAZN 4.es">
+	<programme start="20250111170000 +0000" stop="20250111210000 +0000" channel="DAZN 3.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250109170000 +0000" stop="20250109210000 +0000" channel="DAZN 4.es">
+	<programme start="20250111210000 +0000" stop="20250112010000 +0000" channel="DAZN 3.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250109210000 +0000" stop="20250110010000 +0000" channel="DAZN 4.es">
+	<programme start="20250112010000 +0000" stop="20250112050000 +0000" channel="DAZN 3.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250110010000 +0000" stop="20250110050000 +0000" channel="DAZN 4.es">
+	<programme start="20250112050000 +0000" stop="20250112090000 +0000" channel="DAZN 3.es">
+		<title>Disfruta de DAZN en Movistar Plus+</title>
+	</programme>
+	<programme start="20250112090000 +0000" stop="20250112130000 +0000" channel="DAZN 3.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
 	<programme start="20250110050000 +0000" stop="20250110090000 +0000" channel="DAZN 4.es">
@@ -45661,661 +45649,714 @@ En Vivo</title>
 	<programme start="20250111050000 +0000" stop="20250111090000 +0000" channel="DAZN 4.es">
 		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250109034500 +0000" stop="20250109053500 +0000" channel="M+ Deportes.es">
-		<title>Gallagher Premiership Rugby (T24/25): Northampton Saints - Bath</title>
-		<desc>Northampton Saints y Bath reeditan la final de 2024 para inaugurar 2025 y tambien la segunda vuelta de la Gallagher Premiership con la 10ª jornada.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
+	<programme start="20250111090000 +0000" stop="20250111130000 +0000" channel="DAZN 4.es">
+		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250109053500 +0000" stop="20250109060500 +0000" channel="M+ Deportes.es">
-		<title>World of free sports</title>
-		<episode-num system="xmltv_ns">5.1.</episode-num>
+	<programme start="20250111130000 +0000" stop="20250111170000 +0000" channel="DAZN 4.es">
+		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250109060500 +0000" stop="20250109070000 +0000" channel="M+ Deportes.es">
-		<title>Transworld Sport</title>
-		<desc>Programa que recoge la actualidad internacional de los deportes, desde los grandes eventos de masas hasta especialidades minoritarias. Presenta, además, reportajes sobre todo tipo de disciplinas deportivas, hechos historicos o situaciones sociales que tengan que ver con la actividad deportiva, así como biografías de grandes estrellas del deporte o de deportistas que, sin haber llegado al estrellato, alcanzaron relevancia especial por diversos motivos.</desc>
-		<episode-num system="xmltv_ns">5.1964.</episode-num>
+	<programme start="20250111170000 +0000" stop="20250111210000 +0000" channel="DAZN 4.es">
+		<title>Disfruta de DAZN en Movistar Plus+</title>
 	</programme>
-	<programme start="20250109070000 +0000" stop="20250109085000 +0000" channel="M+ Deportes.es">
+	<programme start="20250111210000 +0000" stop="20250112010000 +0000" channel="DAZN 4.es">
+		<title>Disfruta de DAZN en Movistar Plus+</title>
+	</programme>
+	<programme start="20250112010000 +0000" stop="20250112050000 +0000" channel="DAZN 4.es">
+		<title>Disfruta de DAZN en Movistar Plus+</title>
+	</programme>
+	<programme start="20250112050000 +0000" stop="20250112090000 +0000" channel="DAZN 4.es">
+		<title>Disfruta de DAZN en Movistar Plus+</title>
+	</programme>
+	<programme start="20250112090000 +0000" stop="20250112130000 +0000" channel="DAZN 4.es">
+		<title>Disfruta de DAZN en Movistar Plus+</title>
+	</programme>
+	<programme start="20250110041500 +0000" stop="20250110060000 +0000" channel="M+ Deportes.es">
 		<title>Top 14 Rugby (T24/25): Stade Rochelais - Stade Toulousain</title>
 		<desc>Stade Rochelais y Stade Toulousain, dos colosos del rugby frances, inauguran su 2025 con partidazo en el Marcel Deflandre por la 14ª jornada del TOP 14.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109085000 +0000" stop="20250109103500 +0000" channel="M+ Deportes.es">
-		<title>Liga Endesa (T24/25): Bàsquet Girona - Barça</title>
-		<desc>Dos equipos en apuros buscan la victoria en la 14º jornada ACB. Girona para abandonar el farolillo rojo y FCB para romper una racha negativa y acercarse a la Copa</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109103500 +0000" stop="20250109122500 +0000" channel="M+ Deportes.es">
-		<title>NHL (T24/25): Carolina Hurricanes - Pittsburgh Penguins</title>
-		<desc>Tercer duelo de la temporada entre ambos conjuntos de la division Metropolitana. En los dos anteriores se impuso Carolina, que ahora busca barrer la serie ante los Pens.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109122500 +0000" stop="20250109125000 +0000" channel="M+ Deportes.es">
-		<title>Interceptados por la NFL (T24/25): Episodio 18</title>
-		<desc>Interceptados por la NFL aterriza en Movistar todos los lunes para disfrutar del mejor repaso a la jornada de la NFL, analizar quienes han sido los jugadores más destacados y repasar las mejores jugadas y los detalles más curiosos de la mejor liga de fútbol americano.</desc>
-		<episode-num system="xmltv_ns">5.17.</episode-num>
-	</programme>
-	<programme start="20250109125000 +0000" stop="20250109144500 +0000" channel="M+ Deportes.es">
-		<title>Eurocup (T24/25): Ratiopharm Ulm - Dreamland Gran Canaria</title>
-		<desc>Ratiopharm Ulm y Dreamland Gran Canaria están empatados con balances de 9 victorias y 4 derrotas, y ponen en juego el 2º puesto del Grupo A en su choque de la 14ª jornada de la EuroCup.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109144500 +0000" stop="20250109151500 +0000" channel="M+ Deportes.es">
+	<programme start="20250110060000 +0000" stop="20250110063000 +0000" channel="M+ Deportes.es">
 		<title>Highlights Top 14 (T24/25): Jornada 14</title>
 		<desc>Resumen con los mejores momentos de cada jornada del TOP14, la mejor liga de rugby del mundo. Los 14 colosos franceses nos ofrecen el mejor espectáculo con ensayos, rupturas o placajes de otra galaxia.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109151500 +0000" stop="20250109170300 +0000" channel="M+ Deportes.es">
-		<title>Eurocup (T24/25): Valencia Basket - Turk Telekom Ankara</title>
-		<desc>La Eurocup es una especie de Europa League del básquet europeo. Se trata de la segunda competicion continental de clubes y el vencedor logra acceso a la proxima edicion de la Euroliga. Valencia Basket, Gran Canaria y Joventut son los participantes de la ACB.</desc>
+	<programme start="20250110063000 +0000" stop="20250110070000 +0000" channel="M+ Deportes.es">
+		<title>Zona Euro (T24/25): Sergio Rodríguez con Amaya Valdemoro</title>
+		<desc>Si te apasiona la Euroliga y quieres conocer más de sus jugadores, Zona Euro es tu programa.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109170300 +0000" stop="20250109185500 +0000" channel="M+ Deportes.es">
-		<title>NHL (T24/25): New York Rangers - Dallas Stars</title>
-		<desc>Dallas llega al Madison con cuatro victorias consecutivas, mientas que los Rangers, aún en crisis, muestran ligeros síntomas de mejoría en su juego.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109185500 +0000" stop="20250109205900 +0000" channel="M+ Deportes.es">
-		<title>Liga Endesa (T24/25): Baskonia - Leyma Coruña</title>
-		<desc>La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109205900 +0000" stop="20250109223400 +0000" channel="M+ Deportes.es">
-		<title>NBA (T24/25): Dallas Mavericks - Los Angeles Lakers</title>
-		<desc>Una temporada más la mejor liga de baloncesto continúa en Movistar+. Múltiples aspirantes buscan hacerse con el anillo.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109223400 +0000" stop="20250109225700 +0000" channel="M+ Deportes.es">
-		<title>Interceptados por la NFL (T24/25): Episodio 18</title>
-		<desc>Interceptados por la NFL aterriza en Movistar todos los lunes para disfrutar del mejor repaso a la jornada de la NFL, analizar quienes han sido los jugadores más destacados y repasar las mejores jugadas y los detalles más curiosos de la mejor liga de fútbol americano.</desc>
-		<episode-num system="xmltv_ns">5.17.</episode-num>
-	</programme>
-	<programme start="20250109225700 +0000" stop="20250110000000 +0000" channel="M+ Deportes.es">
+	<programme start="20250110070000 +0000" stop="20250110080000 +0000" channel="M+ Deportes.es">
 		<title>Generacion NBA (T24/25): Episodio 10</title>
 		<desc>Como cada semana, Daimiel y compañía se reúnen para comentar la actualidad de la mejor liga de baloncesto del mundo. Son más de 500 entregas de uno de los programas deportivos más longevos de nuestro país. El Laboratorio, La Clave de Daimiel, El Miron, Pick and Pop y mucho más tocan todos los palos del baloncesto americano. Siete días dan para mucho en la NBA y Generacion NBA lo comprime en 55 minutos de puro espectáculo.</desc>
 		<episode-num system="xmltv_ns">5.9.</episode-num>
 	</programme>
-	<programme start="20250110000000 +0000" stop="20250110025000 +0000" channel="M+ Deportes.es">
+	<programme start="20250110080000 +0000" stop="20250110085500 +0000" channel="M+ Deportes.es">
+		<title>Highlights ATPPostseason 2024</title>
+		<desc>Repaso de los mejores puntos, todas las imágenes y los grandes momentos de los torneos de ATP</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250110085500 +0000" stop="20250110095000 +0000" channel="M+ Deportes.es">
+		<title>Transworld Sport</title>
+		<desc>Programa que recoge la actualidad internacional de los deportes, desde los grandes eventos de masas hasta especialidades minoritarias. Presenta, además, reportajes sobre todo tipo de disciplinas deportivas, hechos historicos o situaciones sociales que tengan que ver con la actividad deportiva, así como biografías de grandes estrellas del deporte o de deportistas que, sin haber llegado al estrellato, alcanzaron relevancia especial por diversos motivos.</desc>
+		<episode-num system="xmltv_ns">5.1964.</episode-num>
+	</programme>
+	<programme start="20250110095000 +0000" stop="20250110112700 +0000" channel="M+ Deportes.es">
+		<title>Liga Endesa (T24/25): Baskonia - Leyma Coruña</title>
+		<desc>La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250110112700 +0000" stop="20250110115700 +0000" channel="M+ Deportes.es">
+		<title>World of free sports</title>
+		<episode-num system="xmltv_ns">5.1.</episode-num>
+	</programme>
+	<programme start="20250110115700 +0000" stop="20250110134700 +0000" channel="M+ Deportes.es">
+		<title>NHL (T24/25): New York Rangers - Dallas Stars</title>
+		<desc>Dallas llega al Madison con cuatro victorias consecutivas, mientas que los Rangers, aún en crisis, muestran ligeros síntomas de mejoría en su juego.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250110134700 +0000" stop="20250110144900 +0000" channel="M+ Deportes.es">
+		<title>Generacion NBA (T24/25): Episodio 10</title>
+		<desc>Como cada semana, Daimiel y compañía se reúnen para comentar la actualidad de la mejor liga de baloncesto del mundo. Son más de 500 entregas de uno de los programas deportivos más longevos de nuestro país. El Laboratorio, La Clave de Daimiel, El Miron, Pick and Pop y mucho más tocan todos los palos del baloncesto americano. Siete días dan para mucho en la NBA y Generacion NBA lo comprime en 55 minutos de puro espectáculo.</desc>
+		<episode-num system="xmltv_ns">5.9.</episode-num>
+	</programme>
+	<programme start="20250110144900 +0000" stop="20250110163900 +0000" channel="M+ Deportes.es">
+		<title>Liga Endesa (T24/25): Coviran Granada - Real Madrid</title>
+		<desc>La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250110163900 +0000" stop="20250110170900 +0000" channel="M+ Deportes.es">
+		<title>Highlights Top 14 (T24/25): Jornada 14</title>
+		<desc>Resumen con los mejores momentos de cada jornada del TOP14, la mejor liga de rugby del mundo. Los 14 colosos franceses nos ofrecen el mejor espectáculo con ensayos, rupturas o placajes de otra galaxia.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250110170900 +0000" stop="20250110190000 +0000" channel="M+ Deportes.es">
 		<title>NBA (T24/25): Cleveland Cavaliers - Oklahoma City Thunder</title>
 		<desc>Una temporada más la mejor liga de baloncesto continúa en Movistar+. Múltiples aspirantes buscan hacerse con el anillo.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110025000 +0000" stop="20250110034500 +0000" channel="M+ Deportes.es">
+	<programme start="20250110190000 +0000" stop="20250110191500 +0000" channel="M+ Deportes.es">
+		<title>Previa Euroliga de baloncesto (T24/25): Panathinaikos - Partizán</title>
+		<desc>Vive los momentos previos de los mejores partidos de la Euroliga 2024/2025.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250110191500 +0000" stop="20250110212900 +0000" channel="M+ Deportes.es">
+		<title>Euroliga de baloncesto (T24/25): Panathinaikos - Partizán</title>
+		<desc>Con la Euroliga en la jornada 20 el campeon es tercero a una victoria del líder Monaco y los serbios están a un triunfo de entrar en el play in. El equipo de Ataman ha enlazado cuatro victorias seguidas, los de Obradovic dos triunfos consecutivos.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250110212900 +0000" stop="20250110222900 +0000" channel="M+ Deportes.es">
+		<title>Generacion NBA (T24/25): Episodio 10</title>
+		<desc>Como cada semana, Daimiel y compañía se reúnen para comentar la actualidad de la mejor liga de baloncesto del mundo. Son más de 500 entregas de uno de los programas deportivos más longevos de nuestro país. El Laboratorio, La Clave de Daimiel, El Miron, Pick and Pop y mucho más tocan todos los palos del baloncesto americano. Siete días dan para mucho en la NBA y Generacion NBA lo comprime en 55 minutos de puro espectáculo.</desc>
+		<episode-num system="xmltv_ns">5.9.</episode-num>
+	</programme>
+	<programme start="20250110222900 +0000" stop="20250110230500 +0000" channel="M+ Deportes.es">
+		<title>NFL Game Day (T24/25): Jornada 18</title>
+		<desc>Disfruta de toda la accion y espectacularidad del fútbol americano como nunca lo has visto antes. NFL Networks produce el mejor programa resumen de todo cuanto acontece de Septiembre hasta el partido final de la NFL: Super Bowl.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250110230500 +0000" stop="20250110235900 +0000" channel="M+ Deportes.es">
 		<title>Transworld Sport</title>
 		<desc>Programa que recoge la actualidad internacional de los deportes, desde los grandes eventos de masas hasta especialidades minoritarias. Presenta, además, reportajes sobre todo tipo de disciplinas deportivas, hechos historicos o situaciones sociales que tengan que ver con la actividad deportiva, así como biografías de grandes estrellas del deporte o de deportistas que, sin haber llegado al estrellato, alcanzaron relevancia especial por diversos motivos.</desc>
 		<episode-num system="xmltv_ns">5.1964.</episode-num>
 	</programme>
-	<programme start="20250110034500 +0000" stop="20250110041500 +0000" channel="M+ Deportes.es">
-		<title>World of free sports</title>
-		<episode-num system="xmltv_ns">5.1.</episode-num>
+	<programme start="20250110235900 +0000" stop="20250111024500 +0000" channel="M+ Deportes.es">
+		<title>NBA (T24/25): Orlando Magic - Minnesota Timberwolves</title>
+		<desc>¿Quieres show? Anthony Edwards te lo da. Dentro y fuera de la pista. Que no te gusta AE, no te preocupes. Los Magic están firmando una gran temporada pese a las bajas. Muy buen partido.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110041500 +0000" stop="20250111034500 +0000" channel="M+ Deportes.es">
+	<programme start="20250111024500 +0000" stop="20250111034500 +0000" channel="M+ Deportes.es">
+		<title>Generacion NBA (T24/25): Episodio 10</title>
+		<desc>Como cada semana, Daimiel y compañía se reúnen para comentar la actualidad de la mejor liga de baloncesto del mundo. Son más de 500 entregas de uno de los programas deportivos más longevos de nuestro país. El Laboratorio, La Clave de Daimiel, El Miron, Pick and Pop y mucho más tocan todos los palos del baloncesto americano. Siete días dan para mucho en la NBA y Generacion NBA lo comprime en 55 minutos de puro espectáculo.</desc>
+		<episode-num system="xmltv_ns">5.9.</episode-num>
+	</programme>
+	<programme start="20250111034500 +0000" stop="20250111041500 +0000" channel="M+ Deportes.es">
+		<title>Liga Endesa (T24/25): Coviran Granada - Real Madrid</title>
+		<desc>La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250111041500 +0000" stop="20250111060000 +0000" channel="M+ Deportes.es">
 		<title>Top 14 Rugby (T24/25): Stade Rochelais - Stade Toulousain</title>
 		<desc>Stade Rochelais y Stade Toulousain, dos colosos del rugby frances, inauguran su 2025 con partidazo en el Marcel Deflandre por la 14ª jornada del TOP 14.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250111034500 +0000" stop="20250111053500 +0000" channel="M+ Deportes.es">
-		<title>Gallagher Premiership Rugby (T24/25): Northampton Saints - Bath</title>
-		<desc>Northampton Saints y Bath reeditan la final de 2024 para inaugurar 2025 y tambien la segunda vuelta de la Gallagher Premiership con la 10ª jornada.</desc>
+	<programme start="20250111060000 +0000" stop="20250111063000 +0000" channel="M+ Deportes.es">
+		<title>Highlights Top 14 (T24/25): Jornada 14</title>
+		<desc>Resumen con los mejores momentos de cada jornada del TOP14, la mejor liga de rugby del mundo. Los 14 colosos franceses nos ofrecen el mejor espectáculo con ensayos, rupturas o placajes de otra galaxia.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250111053500 +0000" stop="20250111060500 +0000" channel="M+ Deportes.es">
-		<title>World of free sports</title>
-		<episode-num system="xmltv_ns">5.1.</episode-num>
+	<programme start="20250111063000 +0000" stop="20250111070000 +0000" channel="M+ Deportes.es">
+		<title>Zona Euro (T24/25): Sergio Rodríguez con Amaya Valdemoro</title>
+		<desc>Si te apasiona la Euroliga y quieres conocer más de sus jugadores, Zona Euro es tu programa.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250111060500 +0000" stop="20250111070000 +0000" channel="M+ Deportes.es">
+	<programme start="20250111070000 +0000" stop="20250111080000 +0000" channel="M+ Deportes.es">
+		<title>Generacion NBA (T24/25): Episodio 10</title>
+		<desc>Como cada semana, Daimiel y compañía se reúnen para comentar la actualidad de la mejor liga de baloncesto del mundo. Son más de 500 entregas de uno de los programas deportivos más longevos de nuestro país. El Laboratorio, La Clave de Daimiel, El Miron, Pick and Pop y mucho más tocan todos los palos del baloncesto americano. Siete días dan para mucho en la NBA y Generacion NBA lo comprime en 55 minutos de puro espectáculo.</desc>
+		<episode-num system="xmltv_ns">5.9.</episode-num>
+	</programme>
+	<programme start="20250111080000 +0000" stop="20250111085500 +0000" channel="M+ Deportes.es">
+		<title>Highlights ATPPostseason 2024</title>
+		<desc>Repaso de los mejores puntos, todas las imágenes y los grandes momentos de los torneos de ATP</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250111085500 +0000" stop="20250111095000 +0000" channel="M+ Deportes.es">
 		<title>Transworld Sport</title>
 		<desc>Programa que recoge la actualidad internacional de los deportes, desde los grandes eventos de masas hasta especialidades minoritarias. Presenta, además, reportajes sobre todo tipo de disciplinas deportivas, hechos historicos o situaciones sociales que tengan que ver con la actividad deportiva, así como biografías de grandes estrellas del deporte o de deportistas que, sin haber llegado al estrellato, alcanzaron relevancia especial por diversos motivos.</desc>
 		<episode-num system="xmltv_ns">5.1964.</episode-num>
 	</programme>
-	<programme start="20250111070000 +0000" stop="20250111085000 +0000" channel="M+ Deportes.es">
+	<programme start="20250111095000 +0000" stop="20250111112700 +0000" channel="M+ Deportes.es">
+		<title>Liga Endesa (T24/25): Baskonia - Leyma Coruña</title>
+		<desc>La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250111112700 +0000" stop="20250111115700 +0000" channel="M+ Deportes.es">
+		<title>World of free sports</title>
+		<episode-num system="xmltv_ns">5.1.</episode-num>
+	</programme>
+	<programme start="20250111115700 +0000" stop="20250111134700 +0000" channel="M+ Deportes.es">
+		<title>NHL (T24/25): New York Rangers - Dallas Stars</title>
+		<desc>Dallas llega al Madison con cuatro victorias consecutivas, mientas que los Rangers, aún en crisis, muestran ligeros síntomas de mejoría en su juego.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250111134700 +0000" stop="20250111144900 +0000" channel="M+ Deportes.es">
+		<title>Generacion NBA (T24/25): Episodio 10</title>
+		<desc>Como cada semana, Daimiel y compañía se reúnen para comentar la actualidad de la mejor liga de baloncesto del mundo. Son más de 500 entregas de uno de los programas deportivos más longevos de nuestro país. El Laboratorio, La Clave de Daimiel, El Miron, Pick and Pop y mucho más tocan todos los palos del baloncesto americano. Siete días dan para mucho en la NBA y Generacion NBA lo comprime en 55 minutos de puro espectáculo.</desc>
+		<episode-num system="xmltv_ns">5.9.</episode-num>
+	</programme>
+	<programme start="20250111144900 +0000" stop="20250111163900 +0000" channel="M+ Deportes.es">
+		<title>Liga Endesa (T24/25): Coviran Granada - Real Madrid</title>
+		<desc>La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250111163900 +0000" stop="20250111170900 +0000" channel="M+ Deportes.es">
+		<title>Highlights Top 14 (T24/25): Jornada 14</title>
+		<desc>Resumen con los mejores momentos de cada jornada del TOP14, la mejor liga de rugby del mundo. Los 14 colosos franceses nos ofrecen el mejor espectáculo con ensayos, rupturas o placajes de otra galaxia.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250111170900 +0000" stop="20250111190000 +0000" channel="M+ Deportes.es">
+		<title>NBA (T24/25): Cleveland Cavaliers - Oklahoma City Thunder</title>
+		<desc>Una temporada más la mejor liga de baloncesto continúa en Movistar+. Múltiples aspirantes buscan hacerse con el anillo.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250111190000 +0000" stop="20250111191500 +0000" channel="M+ Deportes.es">
+		<title>Previa Euroliga de baloncesto (T24/25): Panathinaikos - Partizán</title>
+		<desc>Vive los momentos previos de los mejores partidos de la Euroliga 2024/2025.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250111191500 +0000" stop="20250111212900 +0000" channel="M+ Deportes.es">
+		<title>Euroliga de baloncesto (T24/25): Panathinaikos - Partizán</title>
+		<desc>Con la Euroliga en la jornada 20 el campeon es tercero a una victoria del líder Monaco y los serbios están a un triunfo de entrar en el play in. El equipo de Ataman ha enlazado cuatro victorias seguidas, los de Obradovic dos triunfos consecutivos.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250111212900 +0000" stop="20250111222900 +0000" channel="M+ Deportes.es">
+		<title>Generacion NBA (T24/25): Episodio 10</title>
+		<desc>Como cada semana, Daimiel y compañía se reúnen para comentar la actualidad de la mejor liga de baloncesto del mundo. Son más de 500 entregas de uno de los programas deportivos más longevos de nuestro país. El Laboratorio, La Clave de Daimiel, El Miron, Pick and Pop y mucho más tocan todos los palos del baloncesto americano. Siete días dan para mucho en la NBA y Generacion NBA lo comprime en 55 minutos de puro espectáculo.</desc>
+		<episode-num system="xmltv_ns">5.9.</episode-num>
+	</programme>
+	<programme start="20250111222900 +0000" stop="20250111230500 +0000" channel="M+ Deportes.es">
+		<title>NFL Game Day (T24/25): Jornada 18</title>
+		<desc>Disfruta de toda la accion y espectacularidad del fútbol americano como nunca lo has visto antes. NFL Networks produce el mejor programa resumen de todo cuanto acontece de Septiembre hasta el partido final de la NFL: Super Bowl.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250111230500 +0000" stop="20250111235900 +0000" channel="M+ Deportes.es">
+		<title>Transworld Sport</title>
+		<desc>Programa que recoge la actualidad internacional de los deportes, desde los grandes eventos de masas hasta especialidades minoritarias. Presenta, además, reportajes sobre todo tipo de disciplinas deportivas, hechos historicos o situaciones sociales que tengan que ver con la actividad deportiva, así como biografías de grandes estrellas del deporte o de deportistas que, sin haber llegado al estrellato, alcanzaron relevancia especial por diversos motivos.</desc>
+		<episode-num system="xmltv_ns">5.1964.</episode-num>
+	</programme>
+	<programme start="20250111235900 +0000" stop="20250112024500 +0000" channel="M+ Deportes.es">
+		<title>NBA (T24/25): Orlando Magic - Minnesota Timberwolves</title>
+		<desc>¿Quieres show? Anthony Edwards te lo da. Dentro y fuera de la pista. Que no te gusta AE, no te preocupes. Los Magic están firmando una gran temporada pese a las bajas. Muy buen partido.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250112024500 +0000" stop="20250112034500 +0000" channel="M+ Deportes.es">
+		<title>Generacion NBA (T24/25): Episodio 10</title>
+		<desc>Como cada semana, Daimiel y compañía se reúnen para comentar la actualidad de la mejor liga de baloncesto del mundo. Son más de 500 entregas de uno de los programas deportivos más longevos de nuestro país. El Laboratorio, La Clave de Daimiel, El Miron, Pick and Pop y mucho más tocan todos los palos del baloncesto americano. Siete días dan para mucho en la NBA y Generacion NBA lo comprime en 55 minutos de puro espectáculo.</desc>
+		<episode-num system="xmltv_ns">5.9.</episode-num>
+	</programme>
+	<programme start="20250112034500 +0000" stop="20250112041500 +0000" channel="M+ Deportes.es">
+		<title>Liga Endesa (T24/25): Coviran Granada - Real Madrid</title>
+		<desc>La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
+	</programme>
+	<programme start="20250112041500 +0000" stop="20250112060000 +0000" channel="M+ Deportes.es">
 		<title>Top 14 Rugby (T24/25): Stade Rochelais - Stade Toulousain</title>
 		<desc>Stade Rochelais y Stade Toulousain, dos colosos del rugby frances, inauguran su 2025 con partidazo en el Marcel Deflandre por la 14ª jornada del TOP 14.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109050000 +0000" stop="20250109053000 +0000" channel="Nat Geo Wild.es">
-		<title>La casa de los perritos de las praderas: La conquista del oeste</title>
-		<desc>Las disputas por la propiedad se solucionan de un modo un poco distinto en la ciudad de los perros. Mientras buscan las primeras madrigueras propias, Pelt y Digit se topan con un inesperado reto en forma de tejones y perros Alfa que protegen su propio territorio.</desc>
+	<programme start="20250112060000 +0000" stop="20250112063000 +0000" channel="M+ Deportes.es">
+		<title>Highlights Top 14 (T24/25): Jornada 14</title>
+		<desc>Resumen con los mejores momentos de cada jornada del TOP14, la mejor liga de rugby del mundo. Los 14 colosos franceses nos ofrecen el mejor espectáculo con ensayos, rupturas o placajes de otra galaxia.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109053000 +0000" stop="20250109055000 +0000" channel="Nat Geo Wild.es">
-		<title>La casa de los perritos de las praderas: De vuelta a casa</title>
-		<desc>Los perros de las praderas del norte de Nuevo Mejico se enfrentan a todo tipo de amenazas, tanto grandes como pequeñas. En las llanuras, June hace frente a una plaga de pulgas.</desc>
+	<programme start="20250112063000 +0000" stop="20250112070000 +0000" channel="M+ Deportes.es">
+		<title>Zona Euro (T24/25): Sergio Rodríguez con Amaya Valdemoro</title>
+		<desc>Si te apasiona la Euroliga y quieres conocer más de sus jugadores, Zona Euro es tu programa.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109055000 +0000" stop="20250109061500 +0000" channel="Nat Geo Wild.es">
-		<title>La casa de los perritos de las praderas: Una inundacion de problemas</title>
-		<desc>Ha llegado la estacion del monzon a la ciudad de los perros. Scarlett y su familia se apresuran por reforzar su madriguera antes de que comiencen las inundaciones, pero tienen que lidiar con invitados inesperados antes de que llegue la tormenta.</desc>
+	<programme start="20250112070000 +0000" stop="20250112080000 +0000" channel="M+ Deportes.es">
+		<title>Generacion NBA (T24/25): Episodio 10</title>
+		<desc>Como cada semana, Daimiel y compañía se reúnen para comentar la actualidad de la mejor liga de baloncesto del mundo. Son más de 500 entregas de uno de los programas deportivos más longevos de nuestro país. El Laboratorio, La Clave de Daimiel, El Miron, Pick and Pop y mucho más tocan todos los palos del baloncesto americano. Siete días dan para mucho en la NBA y Generacion NBA lo comprime en 55 minutos de puro espectáculo.</desc>
+		<episode-num system="xmltv_ns">5.9.</episode-num>
+	</programme>
+	<programme start="20250112080000 +0000" stop="20250112085500 +0000" channel="M+ Deportes.es">
+		<title>Highlights ATPPostseason 2024</title>
+		<desc>Repaso de los mejores puntos, todas las imágenes y los grandes momentos de los torneos de ATP</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109061500 +0000" stop="20250109065500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Aguas letales</title>
-		<desc>Las charcas africanas atraen a grandes concentraciones de animales; algunos buscan saciar su sed, mientras que otros buscan una presa fácil. Desde los cocodrilos del Nilo que esperan bajo la superficie a las violentas disputas territoriales de los hipopotamos macho gigantes, las charcas de África son el escenario perfecto para las peleas más letales del continente</desc>
+	<programme start="20250112085500 +0000" stop="20250112095000 +0000" channel="M+ Deportes.es">
+		<title>Transworld Sport</title>
+		<desc>Programa que recoge la actualidad internacional de los deportes, desde los grandes eventos de masas hasta especialidades minoritarias. Presenta, además, reportajes sobre todo tipo de disciplinas deportivas, hechos historicos o situaciones sociales que tengan que ver con la actividad deportiva, así como biografías de grandes estrellas del deporte o de deportistas que, sin haber llegado al estrellato, alcanzaron relevancia especial por diversos motivos.</desc>
+		<episode-num system="xmltv_ns">5.1964.</episode-num>
+	</programme>
+	<programme start="20250110033000 +0000" stop="20250110053000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Youth League (T24/25): Atalanta - Real Madrid</title>
+		<desc>Atalanta y Real Madrid se enfrentan en este partido de la Jornada 6 de la UEFA Youth League.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109065500 +0000" stop="20250109074000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Los oceanos</title>
-		<desc>Los extraordinarios oceanos de África dan cabida a algunos de los medios marinos más diversos y dinámicamente poblados del planeta. Desde escabrosas costas hasta las profundidades marinas más remotas, existe todo un mundo letal y misterioso. En este entorno, el cazador bien podría convertirse en la presa. En este episodio presenciaremos como la vida marina de África sobrevive gracias a la fuerza bruta, a comportamientos ingeniosos y ¡a instintos asesinos!</desc>
+	<programme start="20250110053000 +0000" stop="20250110073000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Europa League (T24/25): Olympique Lyon - Eintracht</title>
+		<desc>Es la segunda competicion de la UEFA, pero siempre cuenta con equipos de primer nivel. La Europa League, al igual que Champions League, ha introducido un nuevo formato de competicion. El actual campeon es la Atlanta y la final se disputará en el estadio de San Mames.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109074000 +0000" stop="20250109082500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Asesinos salvajes</title>
-		<desc>Los depredadores más temidos de África cuentan con habilidades increíbles, precision letal y astutas estrategias. Desde las tecnicas de caza del lobo etíope, en grave peligro de extincion, hasta las persecuciones aereas a gran velocidad del águila cafre, descubriremos que los depredadores más letales de África están hechos para matar</desc>
+	<programme start="20250110073000 +0000" stop="20250110093000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Europa League (T24/25): Rangers - Tottenham</title>
+		<desc>En el estadio de Ibrox en Glasgow se vive un duelo entre clubes británicos con el enfrentamiento entre Rangers y Tottenham Hotspur.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109082500 +0000" stop="20250109091000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Aguas letales</title>
-		<desc>Las charcas africanas atraen a grandes concentraciones de animales; algunos buscan saciar su sed, mientras que otros buscan una presa fácil. Desde los cocodrilos del Nilo que esperan bajo la superficie a las violentas disputas territoriales de los hipopotamos macho gigantes, las charcas de África son el escenario perfecto para las peleas más letales del continente</desc>
+	<programme start="20250110093000 +0000" stop="20250110110000 +0000" channel="M+ Liga de Campeones.es">
+		<title>Noche de Europa League (T24/25): 12/12/2024</title>
+		<desc>Programa que incluye resúmenes de los partidos de la UEFA Europa League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competicion.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109091000 +0000" stop="20250109095500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Los oceanos</title>
-		<desc>Los extraordinarios oceanos de África dan cabida a algunos de los medios marinos más diversos y dinámicamente poblados del planeta. Desde escabrosas costas hasta las profundidades marinas más remotas, existe todo un mundo letal y misterioso. En este entorno, el cazador bien podría convertirse en la presa. En este episodio presenciaremos como la vida marina de África sobrevive gracias a la fuerza bruta, a comportamientos ingeniosos y ¡a instintos asesinos!</desc>
+	<programme start="20250110110000 +0000" stop="20250110125000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Champions League (T24/25): PSG - Girona</title>
+		<desc>Jornada historica para el Girona. El club rojiblanco debuta en la máxima competicion continental, la Champions League, con la intencion de hacer algo grande. Los de Míchel acuden al Parque de los Príncipes para medirse al PSG de Luis Enrique.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109095500 +0000" stop="20250109103500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Pequeños pero letales</title>
-		<desc>Puede que sean pequeños y humildes. Sin embargo los pequeños depredadores que tienen en África su hogar cuentan con una magnífica y letal pegada. En este episodio observaremos a estos pequeños animales y sus ocultas habilidades asesinas. Desde suricatas hasta lagartos monitores, pasando por águilas y hormigas leon, lo que les falta a estos depredadores en tamaño lo suplen con potencia, fuerza y tenacidad.</desc>
+	<programme start="20250110125000 +0000" stop="20250110144000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Champions League (T24/25): Girona - Feyenoord</title>
+		<desc>El Girona juega por primera vez en su estadio un partido de Liga de Campeones. El rival, el Feyenoord, es el actual campeon de la liga holandesa. Los de Michel buscan sus primeros puntos. Despues de perder en el último instante su partido en París ante el PSG, el Girona se dispone a celebrar en Montilivi su primer duelo como local. El Feyenoord fue goleado en casa en la primera jornada por el Bayer Leverkusen, y actualmente en sexto en su campeonato domestico.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109103500 +0000" stop="20250109112000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Los pantanos</title>
-		<desc>Los vastos humedales de África sirven tanto de refugio como de sustento para muchos animales que sobreviven en estas espectaculares regiones. Sin embargo, la vida y muerte van de la mano y estos pantanos ocultan oscuros y letales secretos. Cada sorbo de agua lleva consigo un riesgo. En este episodio seremos testigos de las letales formas en que los depredadores africanos hacen uso de su entorno para ejecutar el asesinato perfecto.</desc>
+	<programme start="20250110144000 +0000" stop="20250110154000 +0000" channel="M+ Liga de Campeones.es">
+		<title>Universo ValdanoFede Valverde</title>
+		<desc>El uruguayo Fede Valverde, centrocampista del Real Madrid, se sienta junto a Jorge Valdano para hablar de su pasada nominacion al Balon de Oro, de la dura derrota contra el Barça, de su papel en la seleccion de Uruguy... muchos y variados temas que dan contenido a una nueva entrega de Universo Valdano.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109112000 +0000" stop="20250109121000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Asesinos salvajes</title>
-		<desc>Los depredadores más temidos de África cuentan con habilidades increíbles, precision letal y astutas estrategias. Desde las tecnicas de caza del lobo etíope, en grave peligro de extincion, hasta las persecuciones aereas a gran velocidad del águila cafre, descubriremos que los depredadores más letales de África están hechos para matar</desc>
+	<programme start="20250110154000 +0000" stop="20250110173000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Champions League (T24/25): Girona - Slovan Bratislava</title>
+		<desc>Girona y Slovan de Bratislava, en su temporada de debut en la Liga de Campeones, buscan sus primeros puntos en la competicion despues de perder sus dos primeros duelos. Para los de Michel, que estuvieron muy cerca de puntuar ante PSG y Feyenoord, se trata de un duelo vital en su camino hacia la clasificacion para la siguiente fase. La victoria sería el primer triunfo europeo para los catalanes en su temporada de debut en Europa, en un partido que afrontarán con solo doce jugadores de campo de la primera plantilla debido a las bajas. El Slovan perdio ante Celtic y Manchester City en sus dos primeros partidos de Champions, pero es segundo en la liga eslovaca tras ganar el pasado fin de semana a domicilio al Spartak Trnava.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109121000 +0000" stop="20250109125500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Junglas salvajes</title>
-		<desc>Las junglas africanas son mundos místicos y salvajes que esconden a algunos de los depredadores más letales del planeta. Entre el oscuro y enredado manto de vegetacion, los depredadores acechan. Ya sea mediante la fuerza bruta, la destreza a la hora de cazar o un talento desenfrenado para matar, revelaremos a los animales más letales de las junglas africanas</desc>
+	<programme start="20250110173000 +0000" stop="20250110192000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Champions League (T24/25): PSV Eindhoven - Girona</title>
+		<desc>PSV Eindhoven y Girona se enfrentan en este partido de la Jornada 4 de la UEFA Champions League.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109125500 +0000" stop="20250109134500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Pequeños pero letales</title>
-		<desc>Puede que sean pequeños y humildes. Sin embargo los pequeños depredadores que tienen en África su hogar cuentan con una magnífica y letal pegada. En este episodio observaremos a estos pequeños animales y sus ocultas habilidades asesinas. Desde suricatas hasta lagartos monitores, pasando por águilas y hormigas leon, lo que les falta a estos depredadores en tamaño lo suplen con potencia, fuerza y tenacidad.</desc>
+	<programme start="20250110192000 +0000" stop="20250110195000 +0000" channel="M+ Liga de Campeones.es">
+		<title>Magazine Champions League (T24/25): Episodio 15</title>
+		<desc>Magacín que repasa toda la actualidad de la Champions League, la máxima competicion del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc>
+		<episode-num system="xmltv_ns">5.14.</episode-num>
+	</programme>
+	<programme start="20250110195000 +0000" stop="20250110214000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Champions League (T24/25): Sturm Graz - Girona</title>
+		<desc>Partido al límite para el Girona. Con tres puntos en cuatro jornadas los de Michel son 29º y tienen un calendario que les cruza con Liverpool, Milan y Arsenal, ganar es imperativo. Los austriacos aún no han puntuado.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109134500 +0000" stop="20250109143500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Asesinos en el desierto</title>
-		<desc>Las dunas y los desiertos de África no son amables con los animales que viven en ellos. El severo calor asegura que solo los más fuertes sobrevivan a los inviernos secos. Estos animales han aprendido el arte de sobrevivir en esta tierra, lo que significa que deben usar su ingenio, fuerza y talento natural para prosperar continuamente dentro de este paisaje implacable.</desc>
+	<programme start="20250110214000 +0000" stop="20250110233000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Champions League (T24/25): Girona - Liverpool</title>
+		<desc>El Girona afronta el encuentro ante el Liverpool como una fiesta que puede quedar grabada en su historia. Con solo tres puntos en el casillero, los de Míchel necesitan ganar para seguir soñando. Por su parte, el mítico conjunto ingles llega como líder.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109143500 +0000" stop="20250109152000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Aguas letales</title>
-		<desc>Las charcas africanas atraen a grandes concentraciones de animales; algunos buscan saciar su sed, mientras que otros buscan una presa fácil. Desde los cocodrilos del Nilo que esperan bajo la superficie a las violentas disputas territoriales de los hipopotamos macho gigantes, las charcas de África son el escenario perfecto para las peleas más letales del continente</desc>
+	<programme start="20250110233000 +0000" stop="20250111012000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Champions League (T24/25): At. Madrid - Slovan Bratislava</title>
+		<desc>Nueve victorias oficiales consecutivas han disparado al At.Madrid en todos los ámbitos. Los del Cholo tienen en su mano ,con un calendario prometedor; lograr la clasificacion directa. El Slovan no ha puntuado y ha encajado 18 goles. Los tres puntos son una obligacion.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109152000 +0000" stop="20250109161000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Supervivientes de la sabana</title>
-		<desc>Las dunas y los desiertos de África no son amables con los animales que viven en ellos. El intenso calor hace que solo los más fuertes sobrevivan a los inviernos secos. Estos animales han aprendido el arte de sobrevivir en la tierra, lo que significa que deben utilizar su ingenio, su fuerza y sus talentos mortales naturales para prosperar continuamente en estos paisajes implacables.</desc>
+	<programme start="20250111012000 +0000" stop="20250111013500 +0000" channel="M+ Liga de Campeones.es">
+		<title>Película Oficial Final UEFA Europa League</title>
+		<desc>La UEFA produce la película oficial de la final de la Europa League. El estadio de Dublín fue testigo de la ascension al firmamento del Atalanta. Los italianos se impusieron claramente en la final al Bayer Leverkusen de Xabi Alonso.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109161000 +0000" stop="20250109170000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Asesinos salvajes</title>
-		<desc>Los depredadores más temidos de África cuentan con habilidades increíbles, precision letal y astutas estrategias. Desde las tecnicas de caza del lobo etíope, en grave peligro de extincion, hasta las persecuciones aereas a gran velocidad del águila cafre, descubriremos que los depredadores más letales de África están hechos para matar</desc>
+	<programme start="20250111013500 +0000" stop="20250111033000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Conference League (T24/25): Chelsea - Shamrock Rovers</title>
+		<desc>Poco a poco, la Conference League se va consolidando como una competicion a seguir. El tercer torneo de la UEFA aglutina a 36 equipos en su fase liga, al igual que el resto de competiciones UEFA de esta temporada. El Olympiacos es el actual campeon.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109170000 +0000" stop="20250109175000 +0000" channel="Nat Geo Wild.es">
-		<title>El club de la lucha animal: Peleas brutales</title>
-		<desc>Este episodio nos muestra que ocurre cuando los luchadores más grandes y locos del mundo animal se enfrentan entre sí, y nos acerca más que nunca a peleas adrenalínicas de todo el planeta. Es una lucha a muerte en la que todo vale.</desc>
+	<programme start="20250111033000 +0000" stop="20250112033000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Youth League (T24/25): Benfica - Bolonia</title>
+		<desc>Las futuras estrellas del fútbol continental protagonizan la Youth League. El torneo de la UEFA da la oportunidad a los juveniles de los clubes que participan en Champions de mostrar su talento más allá de sus países. El Olympiacos se impuso la pasada campaña.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109175000 +0000" stop="20250109184000 +0000" channel="Nat Geo Wild.es">
-		<title>El club de la lucha animal: Enfrentamientos letales</title>
-		<desc>Este episodio nos muestra que ocurre cuando las especies más fieras del mundo animal se enfrentan entre sí, y nos acerca más que nunca a peleas adrenalínicas de los Estados Unidos y el resto del mundo. Corre la sangre y abundan las tácticas en esta lucha sin reglas entre animales.</desc>
+	<programme start="20250112033000 +0000" stop="20250112053000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Youth League (T24/25): Atalanta - Real Madrid</title>
+		<desc>Atalanta y Real Madrid se enfrentan en este partido de la Jornada 6 de la UEFA Youth League.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109184000 +0000" stop="20250109193000 +0000" channel="Nat Geo Wild.es">
-		<title>El club de la lucha animal: Violencia monstruosa</title>
-		<desc>Este episodio nos muestra que ocurre cuando las especies más grandes del reino animal se enfrentan a mordiscos y arañazos, y nos acerca más que nunca a peleas adrenalínicas en los parajes más extremos del planeta. El enfrentamiento de algunos de los animales más grandes del mundo en paisajes espectaculares de todo el mundo es una autentica batalla de colosos.</desc>
+	<programme start="20250112053000 +0000" stop="20250112073000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Europa League (T24/25): Olympique Lyon - Eintracht</title>
+		<desc>Es la segunda competicion de la UEFA, pero siempre cuenta con equipos de primer nivel. La Europa League, al igual que Champions League, ha introducido un nuevo formato de competicion. El actual campeon es la Atlanta y la final se disputará en el estadio de San Mames.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109193000 +0000" stop="20250109195500 +0000" channel="Nat Geo Wild.es">
-		<title>La increíble granja del Dr. Pol: El campo de heno soñado</title>
-		<desc>Antes de poder plantar sus semillas de heno, la familia Pol necesita descubrir por que el campo está tan húmedo. Además, el Doctor Pol ayuda a instalar nuevos panales.</desc>
+	<programme start="20250112073000 +0000" stop="20250112093000 +0000" channel="M+ Liga de Campeones.es">
+		<title>UEFA Europa League (T24/25): Rangers - Tottenham</title>
+		<desc>En el estadio de Ibrox en Glasgow se vive un duelo entre clubes británicos con el enfrentamiento entre Rangers y Tottenham Hotspur.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109195500 +0000" stop="20250109205000 +0000" channel="Nat Geo Wild.es">
-		<title>El increíble doctor Pol: Toboganes y vejigas</title>
-		<desc>Los veterinarios responden a múltiples emergencias; de un caballo gravemente traumatizado en un accidente a un dulce perrito que quedo con una herida muy grave en el ojo despues de una pelea. El Dr. Pol trata a un caballo de carreras con una lesion en el casco que amenaza su carrera, mientras que los Dres. Nicole y Brenda traen la clínica a cuestas. Un reno toro tiene una cornamenta gravemente lacerada e incluso hay una gallina de Guinea que necesita la ayuda del Dr. Pol.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109205000 +0000" stop="20250109214500 +0000" channel="Nat Geo Wild.es">
-		<title>El increíble doctor Pol: ¡A toda prisa!</title>
-		<desc>El doctor y Diane dan la bienvenida a la manada a una potra de raza frisona. La Dra. Lisa se encarga de dos emergencias con perros Corgi. La Dra. Olivia recibe ayuda para tratar a dos perros con curiosas heridas.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109214500 +0000" stop="20250109223500 +0000" channel="Nat Geo Wild.es">
-		<title>El increíble doctor Pol: Un DOCumental</title>
-		<desc>Una mirada de estilo documental sobre las vidas personales de nuestros veterinarios rurales. El Dr. Pol y la Dra. Lisa unen fuerzas para tratar a dos perras en pleno parto de urgencia.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109223500 +0000" stop="20250109233500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Junglas salvajes</title>
-		<desc>Las junglas africanas son mundos místicos y salvajes que esconden a algunos de los depredadores más letales del planeta. Entre el oscuro y enredado manto de vegetacion, los depredadores acechan. Ya sea mediante la fuerza bruta, la destreza a la hora de cazar o un talento desenfrenado para matar, revelaremos a los animales más letales de las junglas africanas</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250109233500 +0000" stop="20250110002500 +0000" channel="Nat Geo Wild.es">
-		<title>El club de la lucha animal: Peleas brutales</title>
-		<desc>Este episodio nos muestra que ocurre cuando los luchadores más grandes y locos del mundo animal se enfrentan entre sí, y nos acerca más que nunca a peleas adrenalínicas de todo el planeta. Es una lucha a muerte en la que todo vale.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110002500 +0000" stop="20250110011000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Asesinos salvajes</title>
-		<desc>Los depredadores más temidos de África cuentan con habilidades increíbles, precision letal y astutas estrategias. Desde las tecnicas de caza del lobo etíope, en grave peligro de extincion, hasta las persecuciones aereas a gran velocidad del águila cafre, descubriremos que los depredadores más letales de África están hechos para matar</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110011000 +0000" stop="20250110015500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Los oceanos</title>
-		<desc>Los extraordinarios oceanos de África dan cabida a algunos de los medios marinos más diversos y dinámicamente poblados del planeta. Desde escabrosas costas hasta las profundidades marinas más remotas, existe todo un mundo letal y misterioso. En este entorno, el cazador bien podría convertirse en la presa. En este episodio presenciaremos como la vida marina de África sobrevive gracias a la fuerza bruta, a comportamientos ingeniosos y ¡a instintos asesinos!</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110015500 +0000" stop="20250110024000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Pequeños pero letales</title>
-		<desc>Puede que sean pequeños y humildes. Sin embargo los pequeños depredadores que tienen en África su hogar cuentan con una magnífica y letal pegada. En este episodio observaremos a estos pequeños animales y sus ocultas habilidades asesinas. Desde suricatas hasta lagartos monitores, pasando por águilas y hormigas leon, lo que les falta a estos depredadores en tamaño lo suplen con potencia, fuerza y tenacidad.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110024000 +0000" stop="20250110032500 +0000" channel="Nat Geo Wild.es">
-		<title>Los tiburones más peligrosos del mundo</title>
-		<desc>Acechan en las aguas más profundas y cortan el aire con una fuerza brutal, autenticos tanques de músculo en busca de alimento. Acosan a sus presas con sus inmensas bocas y sus fortísimas mandíbulas. Cazan en todos los abismos, equipados con superpoderes y unos sentidos increíbles. En este documental examinamos varias especies de tiburon, incluyendo al tiburon tigre, el tiburon gata, y el más impresionante de todos, el tiburon blanco.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110032500 +0000" stop="20250110041000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Aguas letales</title>
-		<desc>Las charcas africanas atraen a grandes concentraciones de animales; algunos buscan saciar su sed, mientras que otros buscan una presa fácil. Desde los cocodrilos del Nilo que esperan bajo la superficie a las violentas disputas territoriales de los hipopotamos macho gigantes, las charcas de África son el escenario perfecto para las peleas más letales del continente</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110041000 +0000" stop="20250110043000 +0000" channel="Nat Geo Wild.es">
-		<title>La casa de los perritos de las praderas: Una inundacion de problemas</title>
-		<desc>Ha llegado la estacion del monzon a la ciudad de los perros. Scarlett y su familia se apresuran por reforzar su madriguera antes de que comiencen las inundaciones, pero tienen que lidiar con invitados inesperados antes de que llegue la tormenta.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110043000 +0000" stop="20250110050000 +0000" channel="Nat Geo Wild.es">
-		<title>La casa de los perritos de las praderas: La conquista del oeste</title>
-		<desc>Las disputas por la propiedad se solucionan de un modo un poco distinto en la ciudad de los perros. Mientras buscan las primeras madrigueras propias, Pelt y Digit se topan con un inesperado reto en forma de tejones y perros Alfa que protegen su propio territorio.</desc>
+	<programme start="20250112093000 +0000" stop="20250112110000 +0000" channel="M+ Liga de Campeones.es">
+		<title>Noche de Europa League (T24/25): 12/12/2024</title>
+		<desc>Programa que incluye resúmenes de los partidos de la UEFA Europa League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competicion.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
 	<programme start="20250110050000 +0000" stop="20250110053000 +0000" channel="Nat Geo Wild.es">
-		<title>La casa de los perritos de las praderas: La conquista del oeste</title>
-		<desc>Las disputas por la propiedad se solucionan de un modo un poco distinto en la ciudad de los perros. Mientras buscan las primeras madrigueras propias, Pelt y Digit se topan con un inesperado reto en forma de tejones y perros Alfa que protegen su propio territorio.</desc>
+		<title>La casa de los perritos de las praderas: Las ovejas grandes</title>
+		<desc>Para los perros de las praderas del norte de Nuevo Mexico, el invierno ya casi ha llegado. En las tierras altas, Carl y los cachorros se preparan para hibernar, si bien una alianza poco común de letales depredadores constituye una amenaza elevada para cada perro del territorio.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
 	<programme start="20250110053000 +0000" stop="20250110055000 +0000" channel="Nat Geo Wild.es">
-		<title>La casa de los perritos de las praderas: De vuelta a casa</title>
-		<desc>Los perros de las praderas del norte de Nuevo Mejico se enfrentan a todo tipo de amenazas, tanto grandes como pequeñas. En las llanuras, June hace frente a una plaga de pulgas.</desc>
+		<title>La casa de los perritos de las praderas: La carrera del siglo</title>
+		<desc>En las tierras altas, Charlotte y Petal se embarcan en busca de un nuevo territorio y de potenciales apareamientos. En las llanuras, Buttercup y sus hermanos deben averiguar como sobrevivir sin la supervision de sus padres.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110055000 +0000" stop="20250110061500 +0000" channel="Nat Geo Wild.es">
-		<title>La casa de los perritos de las praderas: Una inundacion de problemas</title>
-		<desc>Ha llegado la estacion del monzon a la ciudad de los perros. Scarlett y su familia se apresuran por reforzar su madriguera antes de que comiencen las inundaciones, pero tienen que lidiar con invitados inesperados antes de que llegue la tormenta.</desc>
+	<programme start="20250110055000 +0000" stop="20250110063500 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Supervivientes</title>
+		<desc>¿Eres un superviviente, capaz de superar accidentes, cataclismos y catástrofes? Incluso los más duros de los seres humanos son unos flojos si los comparamos con los animales más duros del planeta. Hacemos el ranking definitivo de los diez mayores supervivientes de la naturaleza, para descubrir cuál es el animal que tiene una resistencia más extraordinaria.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110061500 +0000" stop="20250110065500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Aguas letales</title>
-		<desc>Las charcas africanas atraen a grandes concentraciones de animales; algunos buscan saciar su sed, mientras que otros buscan una presa fácil. Desde los cocodrilos del Nilo que esperan bajo la superficie a las violentas disputas territoriales de los hipopotamos macho gigantes, las charcas de África son el escenario perfecto para las peleas más letales del continente</desc>
+	<programme start="20250110063500 +0000" stop="20250110072000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Armas letales</title>
+		<desc>Los animales matan para sobrevivir, y cuentan con armas letales. Lo habitual son colmillos y garras, pero tambien hay algunos guerreros de elite que tienen armamento especial. Hacemos un ranking de las diez armas más bestiales de la naturaleza para descubrir cuál es el animal que tiene una tecnología asesina más sofisticada. Estas son las armas biologicas más salvajes.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110065500 +0000" stop="20250110074000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Los oceanos</title>
-		<desc>Los extraordinarios oceanos de África dan cabida a algunos de los medios marinos más diversos y dinámicamente poblados del planeta. Desde escabrosas costas hasta las profundidades marinas más remotas, existe todo un mundo letal y misterioso. En este entorno, el cazador bien podría convertirse en la presa. En este episodio presenciaremos como la vida marina de África sobrevive gracias a la fuerza bruta, a comportamientos ingeniosos y ¡a instintos asesinos!</desc>
+	<programme start="20250110072000 +0000" stop="20250110080500 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Ataques</title>
+		<desc>Cuando un animal se enfada, lo mejor es apartarse de su camino. Hacemos el ranking de los diez ataques más salvajes de la naturaleza para descubrir cuál es el animal que provoca la mayor carnicería.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110074000 +0000" stop="20250110082500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Asesinos salvajes</title>
-		<desc>Los depredadores más temidos de África cuentan con habilidades increíbles, precision letal y astutas estrategias. Desde las tecnicas de caza del lobo etíope, en grave peligro de extincion, hasta las persecuciones aereas a gran velocidad del águila cafre, descubriremos que los depredadores más letales de África están hechos para matar</desc>
+	<programme start="20250110080500 +0000" stop="20250110085000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Supervivientes</title>
+		<desc>¿Eres un superviviente, capaz de superar accidentes, cataclismos y catástrofes? Incluso los más duros de los seres humanos son unos flojos si los comparamos con los animales más duros del planeta. Hacemos el ranking definitivo de los diez mayores supervivientes de la naturaleza, para descubrir cuál es el animal que tiene una resistencia más extraordinaria.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110082500 +0000" stop="20250110091000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Aguas letales</title>
-		<desc>Las charcas africanas atraen a grandes concentraciones de animales; algunos buscan saciar su sed, mientras que otros buscan una presa fácil. Desde los cocodrilos del Nilo que esperan bajo la superficie a las violentas disputas territoriales de los hipopotamos macho gigantes, las charcas de África son el escenario perfecto para las peleas más letales del continente</desc>
+	<programme start="20250110085000 +0000" stop="20250110093500 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Armas letales</title>
+		<desc>Los animales matan para sobrevivir, y cuentan con armas letales. Lo habitual son colmillos y garras, pero tambien hay algunos guerreros de elite que tienen armamento especial. Hacemos un ranking de las diez armas más bestiales de la naturaleza para descubrir cuál es el animal que tiene una tecnología asesina más sofisticada. Estas son las armas biologicas más salvajes.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110091000 +0000" stop="20250110095500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Los oceanos</title>
-		<desc>Los extraordinarios oceanos de África dan cabida a algunos de los medios marinos más diversos y dinámicamente poblados del planeta. Desde escabrosas costas hasta las profundidades marinas más remotas, existe todo un mundo letal y misterioso. En este entorno, el cazador bien podría convertirse en la presa. En este episodio presenciaremos como la vida marina de África sobrevive gracias a la fuerza bruta, a comportamientos ingeniosos y ¡a instintos asesinos!</desc>
+	<programme start="20250110093500 +0000" stop="20250110102000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Mal olor</title>
+		<desc>Algunos animales huelen fatal. Este mal olor se puede originar en sus pies, por una pelea, o incluso en su comida. Los olores se pueden disparar, vomitar, babear o defecar, incluso emitirse desde unas curiosas glándulas de la muñeca. Desde la secrecion de las glándulas anales de las hienas hasta el cianuro de hidrogeno, todo está en nuestra cuenta atrás de los diez animales más apestosos de la naturaleza, para descubrir cuál es el número uno.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110095500 +0000" stop="20250110103500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Pequeños pero letales</title>
-		<desc>Puede que sean pequeños y humildes. Sin embargo los pequeños depredadores que tienen en África su hogar cuentan con una magnífica y letal pegada. En este episodio observaremos a estos pequeños animales y sus ocultas habilidades asesinas. Desde suricatas hasta lagartos monitores, pasando por águilas y hormigas leon, lo que les falta a estos depredadores en tamaño lo suplen con potencia, fuerza y tenacidad.</desc>
+	<programme start="20250110102000 +0000" stop="20250110111000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Enjambres</title>
+		<desc>Los animales se hacen fuertes cuando son muchos, y llegan a formar enjambres de cientos, miles, millones y miles de millones de individuos. Da igual que estos bichos esten comiendo, peleando, viajando o apareándose, el consejo es siempre el mismo: no conviene molestar a la masa.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110103500 +0000" stop="20250110112000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Los pantanos</title>
-		<desc>Los vastos humedales de África sirven tanto de refugio como de sustento para muchos animales que sobreviven en estas espectaculares regiones. Sin embargo, la vida y muerte van de la mano y estos pantanos ocultan oscuros y letales secretos. Cada sorbo de agua lleva consigo un riesgo. En este episodio seremos testigos de las letales formas en que los depredadores africanos hacen uso de su entorno para ejecutar el asesinato perfecto.</desc>
+	<programme start="20250110111000 +0000" stop="20250110120000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Ataques</title>
+		<desc>Cuando un animal se enfada, lo mejor es apartarse de su camino. Hacemos el ranking de los diez ataques más salvajes de la naturaleza para descubrir cuál es el animal que provoca la mayor carnicería.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110112000 +0000" stop="20250110121000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Asesinos salvajes</title>
-		<desc>Los depredadores más temidos de África cuentan con habilidades increíbles, precision letal y astutas estrategias. Desde las tecnicas de caza del lobo etíope, en grave peligro de extincion, hasta las persecuciones aereas a gran velocidad del águila cafre, descubriremos que los depredadores más letales de África están hechos para matar</desc>
+	<programme start="20250110120000 +0000" stop="20250110125000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Temerarios</title>
+		<desc>Las personas temerarias son adictas a la adrenalina: cuando mayor sea el riesgo, más grande es el subidon. Sin embargo, hay animales que se juegan la vida todos los días pero no para divertirse, sino para sobrevivir. Presentamos el top diez de los animales más adictos a la adrenalina y descubrimos cuál es el que más se arriesga.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110121000 +0000" stop="20250110125500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Junglas salvajes</title>
-		<desc>Las junglas africanas son mundos místicos y salvajes que esconden a algunos de los depredadores más letales del planeta. Entre el oscuro y enredado manto de vegetacion, los depredadores acechan. Ya sea mediante la fuerza bruta, la destreza a la hora de cazar o un talento desenfrenado para matar, revelaremos a los animales más letales de las junglas africanas</desc>
+	<programme start="20250110125000 +0000" stop="20250110134000 +0000" channel="Nat Geo Wild.es">
+		<title>Con las manos en la masa: ¡A la carga!</title>
+		<desc>Tanto las profundidades del oceano Índico como el corazon de la sabana africana ofrecen la oportunidad de ver de cerca animales salvajes impresionantes, pero algunas veces llegan a acercarse demasiado.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110125500 +0000" stop="20250110134500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Pequeños pero letales</title>
-		<desc>Puede que sean pequeños y humildes. Sin embargo los pequeños depredadores que tienen en África su hogar cuentan con una magnífica y letal pegada. En este episodio observaremos a estos pequeños animales y sus ocultas habilidades asesinas. Desde suricatas hasta lagartos monitores, pasando por águilas y hormigas leon, lo que les falta a estos depredadores en tamaño lo suplen con potencia, fuerza y tenacidad.</desc>
+	<programme start="20250110134000 +0000" stop="20250110142500 +0000" channel="Nat Geo Wild.es">
+		<title>Con las manos en la masa: Raros y salvajes</title>
+		<desc>Muchas veces la naturaleza no hace las cosas según lo esperado, y por eso nos encontramos con bichos raros o con animales en apuros que atacan de forma poco convencional. Es la naturaleza más extraña y salvaje.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110134500 +0000" stop="20250110143500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Asesinos en el desierto</title>
-		<desc>Las dunas y los desiertos de África no son amables con los animales que viven en ellos. El severo calor asegura que solo los más fuertes sobrevivan a los inviernos secos. Estos animales han aprendido el arte de sobrevivir en esta tierra, lo que significa que deben usar su ingenio, fuerza y talento natural para prosperar continuamente dentro de este paisaje implacable.</desc>
+	<programme start="20250110142500 +0000" stop="20250110151500 +0000" channel="Nat Geo Wild.es">
+		<title>Con las manos en la masa: Clubs de la lucha</title>
+		<desc>Cuando están en su hábitat natural, los animales luchan a muerte por la comida, el territorio y la familia. Sin embargo, para sobrevivir no basta con la fuerza bruta, sino que tambien hace falta inteligencia, e incluso valor.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110143500 +0000" stop="20250110152000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Aguas letales</title>
-		<desc>Las charcas africanas atraen a grandes concentraciones de animales; algunos buscan saciar su sed, mientras que otros buscan una presa fácil. Desde los cocodrilos del Nilo que esperan bajo la superficie a las violentas disputas territoriales de los hipopotamos macho gigantes, las charcas de África son el escenario perfecto para las peleas más letales del continente</desc>
+	<programme start="20250110151500 +0000" stop="20250110160500 +0000" channel="Nat Geo Wild.es">
+		<title>Con las manos en la masa: Batallas sangrientas</title>
+		<desc>Cuando un animal ataca no siempre es una cuestion de supervivencia. A veces se trata de una cuenta pendiente, como en el caso de una guerra entre hienas y leones que viene de muy atrás, o de la enemistad que existe entre dos grupos de hermanos.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110152000 +0000" stop="20250110161000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Supervivientes de la sabana</title>
-		<desc>Las dunas y los desiertos de África no son amables con los animales que viven en ellos. El intenso calor hace que solo los más fuertes sobrevivan a los inviernos secos. Estos animales han aprendido el arte de sobrevivir en la tierra, lo que significa que deben utilizar su ingenio, su fuerza y sus talentos mortales naturales para prosperar continuamente en estos paisajes implacables.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250110161000 +0000" stop="20250110170000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Asesinos salvajes</title>
-		<desc>Los depredadores más temidos de África cuentan con habilidades increíbles, precision letal y astutas estrategias. Desde las tecnicas de caza del lobo etíope, en grave peligro de extincion, hasta las persecuciones aereas a gran velocidad del águila cafre, descubriremos que los depredadores más letales de África están hechos para matar</desc>
+	<programme start="20250110160500 +0000" stop="20250110170000 +0000" channel="Nat Geo Wild.es">
+		<title>Con las manos en la masa: A vida o muerte</title>
+		<desc>La naturaleza, en toda su crudeza, puede resultar a la vez hermosa y desagradable. En este episodio contamos distintas historias de los animales más jovenes de África, sus victorias y sus derrotas.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
 	<programme start="20250110170000 +0000" stop="20250110175000 +0000" channel="Nat Geo Wild.es">
-		<title>El club de la lucha animal: Peleas brutales</title>
-		<desc>Este episodio nos muestra que ocurre cuando los luchadores más grandes y locos del mundo animal se enfrentan entre sí, y nos acerca más que nunca a peleas adrenalínicas de todo el planeta. Es una lucha a muerte en la que todo vale.</desc>
+		<title>Wild Vietnam: El misterioso norte: la tierra de los bosques montañosos</title>
+		<desc>Viajamos a las montañas de Vietnam para visitar a los lagartos cocodrilos, a los amenazados pangolines y a unos primates poco conocidos: los langures de cabeza dorada de la isla de Cat Ba.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
 	<programme start="20250110175000 +0000" stop="20250110184000 +0000" channel="Nat Geo Wild.es">
-		<title>El club de la lucha animal: Enfrentamientos letales</title>
-		<desc>Este episodio nos muestra que ocurre cuando las especies más fieras del mundo animal se enfrentan entre sí, y nos acerca más que nunca a peleas adrenalínicas de los Estados Unidos y el resto del mundo. Corre la sangre y abundan las tácticas en esta lucha sin reglas entre animales.</desc>
+		<title>Wild Vietnam: El sur tropical: tierra de agua</title>
+		<desc>Viajamos a los hábitats tropicales del sur de Vietnam, hogar de gibones y macacos juguetones, tortugas verdes y osos tibetanos.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110184000 +0000" stop="20250110193000 +0000" channel="Nat Geo Wild.es">
-		<title>El club de la lucha animal: Violencia monstruosa</title>
-		<desc>Este episodio nos muestra que ocurre cuando las especies más grandes del reino animal se enfrentan a mordiscos y arañazos, y nos acerca más que nunca a peleas adrenalínicas en los parajes más extremos del planeta. El enfrentamiento de algunos de los animales más grandes del mundo en paisajes espectaculares de todo el mundo es una autentica batalla de colosos.</desc>
+	<programme start="20250110184000 +0000" stop="20250110193500 +0000" channel="Nat Geo Wild.es">
+		<title>Wild Japon: monos de la nieve</title>
+		<desc>Viaje al interior de las montañas cubiertas de nieve del centro de Japon y conozca a Hiro, un mono de nieve joven y valiente con una personalidad encantadora. Únete a Hiro y a su extensa familia en una aventura de un año de duracion, atravesando feroces tormentas, experimentando el nacimiento de una nueva vida, y enfrentándose a la tragedia de la muerte. Es una historia íntima y envolvente sobre la familia, la amistad, y la supervivencia en el corazon de los Alpes japoneses.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110193000 +0000" stop="20250110195500 +0000" channel="Nat Geo Wild.es">
-		<title>La increíble granja del Dr. Pol: El campo de heno soñado</title>
-		<desc>Antes de poder plantar sus semillas de heno, la familia Pol necesita descubrir por que el campo está tan húmedo. Además, el Doctor Pol ayuda a instalar nuevos panales.</desc>
+	<programme start="20250110193500 +0000" stop="20250110200500 +0000" channel="Nat Geo Wild.es">
+		<title>La increíble granja del Dr. Pol: Enfardadores</title>
+		<desc>El Doctor Pol, Charles y Ben inician el agotador proceso de enfardar heno y además, los Pol traen a otro animal a la granja: un emú.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110195500 +0000" stop="20250110205000 +0000" channel="Nat Geo Wild.es">
-		<title>El increíble doctor Pol: Toboganes y vejigas</title>
-		<desc>Los veterinarios responden a múltiples emergencias; de un caballo gravemente traumatizado en un accidente a un dulce perrito que quedo con una herida muy grave en el ojo despues de una pelea. El Dr. Pol trata a un caballo de carreras con una lesion en el casco que amenaza su carrera, mientras que los Dres. Nicole y Brenda traen la clínica a cuestas. Un reno toro tiene una cornamenta gravemente lacerada e incluso hay una gallina de Guinea que necesita la ayuda del Dr. Pol.</desc>
+	<programme start="20250110200500 +0000" stop="20250110210000 +0000" channel="Nat Geo Wild.es">
+		<title>El increíble doctor Pol: Pol de patrulla</title>
+		<desc>Con una vaca rebelde, la hernia doble de un potro y la primera visita a un cachorro arrugado, se avecina una semana ocupada. Mientras Animal Control sigue al Dr. Pol por la ciudad, la Dra. Nicole trata a un pastor alemán que está tan enfermo que apenas puede caminar, y la Dra. Lisa cose la espeluznante herida de la pierna de un gato.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110205000 +0000" stop="20250110214500 +0000" channel="Nat Geo Wild.es">
-		<title>El increíble doctor Pol: ¡A toda prisa!</title>
-		<desc>El doctor y Diane dan la bienvenida a la manada a una potra de raza frisona. La Dra. Lisa se encarga de dos emergencias con perros Corgi. La Dra. Olivia recibe ayuda para tratar a dos perros con curiosas heridas.</desc>
+	<programme start="20250110210000 +0000" stop="20250110215000 +0000" channel="Nat Geo Wild.es">
+		<title>El Increíble Doctor Pol: Dr. Pol-Ar Express</title>
+		<desc>Una tormenta de hielo cierra la clínica y labradores recien nacidos derriten corazones. El tiempo traicionero deja animales lastimados a su paso. El Dr. Pol y sus equipo curan caderas y pezuñas. La Dra. Lisa se encarga de un parto exigente mientras la Dra. Brenda sorprende acorralando ganado y domando caballos de carrera.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110214500 +0000" stop="20250110223500 +0000" channel="Nat Geo Wild.es">
-		<title>El increíble doctor Pol: Un DOCumental</title>
-		<desc>Una mirada de estilo documental sobre las vidas personales de nuestros veterinarios rurales. El Dr. Pol y la Dra. Lisa unen fuerzas para tratar a dos perras en pleno parto de urgencia.</desc>
+	<programme start="20250110215000 +0000" stop="20250110224500 +0000" channel="Nat Geo Wild.es">
+		<title>El increíble doctor Pol: Nunca la había visto antes</title>
+		<desc>El Dr. Pol da la bienvenida a nueva veterinaria en la clínica. ¡Conoceremos a la Dra. Olivia! La Dra. Brenda trata a un gato con una extremidad quemada y un perro policía suplente resulta herido durante una mision.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110223500 +0000" stop="20250110233500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Junglas salvajes</title>
-		<desc>Las junglas africanas son mundos místicos y salvajes que esconden a algunos de los depredadores más letales del planeta. Entre el oscuro y enredado manto de vegetacion, los depredadores acechan. Ya sea mediante la fuerza bruta, la destreza a la hora de cazar o un talento desenfrenado para matar, revelaremos a los animales más letales de las junglas africanas</desc>
+	<programme start="20250110224500 +0000" stop="20250110234000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Temerarios</title>
+		<desc>Las personas temerarias son adictas a la adrenalina: cuando mayor sea el riesgo, más grande es el subidon. Sin embargo, hay animales que se juegan la vida todos los días pero no para divertirse, sino para sobrevivir. Presentamos el top diez de los animales más adictos a la adrenalina y descubrimos cuál es el que más se arriesga.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110233500 +0000" stop="20250111002500 +0000" channel="Nat Geo Wild.es">
-		<title>El club de la lucha animal: Peleas brutales</title>
-		<desc>Este episodio nos muestra que ocurre cuando los luchadores más grandes y locos del mundo animal se enfrentan entre sí, y nos acerca más que nunca a peleas adrenalínicas de todo el planeta. Es una lucha a muerte en la que todo vale.</desc>
+	<programme start="20250110234000 +0000" stop="20250111003000 +0000" channel="Nat Geo Wild.es">
+		<title>Wild Vietnam: El misterioso norte: la tierra de los bosques montañosos</title>
+		<desc>Viajamos a las montañas de Vietnam para visitar a los lagartos cocodrilos, a los amenazados pangolines y a unos primates poco conocidos: los langures de cabeza dorada de la isla de Cat Ba.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250111002500 +0000" stop="20250111011000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Asesinos salvajes</title>
-		<desc>Los depredadores más temidos de África cuentan con habilidades increíbles, precision letal y astutas estrategias. Desde las tecnicas de caza del lobo etíope, en grave peligro de extincion, hasta las persecuciones aereas a gran velocidad del águila cafre, descubriremos que los depredadores más letales de África están hechos para matar</desc>
+	<programme start="20250111003000 +0000" stop="20250111012000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Ataques</title>
+		<desc>Cuando un animal se enfada, lo mejor es apartarse de su camino. Hacemos el ranking de los diez ataques más salvajes de la naturaleza para descubrir cuál es el animal que provoca la mayor carnicería.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250111011000 +0000" stop="20250111015500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Los oceanos</title>
-		<desc>Los extraordinarios oceanos de África dan cabida a algunos de los medios marinos más diversos y dinámicamente poblados del planeta. Desde escabrosas costas hasta las profundidades marinas más remotas, existe todo un mundo letal y misterioso. En este entorno, el cazador bien podría convertirse en la presa. En este episodio presenciaremos como la vida marina de África sobrevive gracias a la fuerza bruta, a comportamientos ingeniosos y ¡a instintos asesinos!</desc>
+	<programme start="20250111012000 +0000" stop="20250111020500 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Armas letales</title>
+		<desc>Los animales matan para sobrevivir, y cuentan con armas letales. Lo habitual son colmillos y garras, pero tambien hay algunos guerreros de elite que tienen armamento especial. Hacemos un ranking de las diez armas más bestiales de la naturaleza para descubrir cuál es el animal que tiene una tecnología asesina más sofisticada. Estas son las armas biologicas más salvajes.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250111015500 +0000" stop="20250111024000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Pequeños pero letales</title>
-		<desc>Puede que sean pequeños y humildes. Sin embargo los pequeños depredadores que tienen en África su hogar cuentan con una magnífica y letal pegada. En este episodio observaremos a estos pequeños animales y sus ocultas habilidades asesinas. Desde suricatas hasta lagartos monitores, pasando por águilas y hormigas leon, lo que les falta a estos depredadores en tamaño lo suplen con potencia, fuerza y tenacidad.</desc>
+	<programme start="20250111020500 +0000" stop="20250111025000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Mal olor</title>
+		<desc>Algunos animales huelen fatal. Este mal olor se puede originar en sus pies, por una pelea, o incluso en su comida. Los olores se pueden disparar, vomitar, babear o defecar, incluso emitirse desde unas curiosas glándulas de la muñeca. Desde la secrecion de las glándulas anales de las hienas hasta el cianuro de hidrogeno, todo está en nuestra cuenta atrás de los diez animales más apestosos de la naturaleza, para descubrir cuál es el número uno.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250111024000 +0000" stop="20250111032500 +0000" channel="Nat Geo Wild.es">
-		<title>Los tiburones más peligrosos del mundo</title>
-		<desc>Acechan en las aguas más profundas y cortan el aire con una fuerza brutal, autenticos tanques de músculo en busca de alimento. Acosan a sus presas con sus inmensas bocas y sus fortísimas mandíbulas. Cazan en todos los abismos, equipados con superpoderes y unos sentidos increíbles. En este documental examinamos varias especies de tiburon, incluyendo al tiburon tigre, el tiburon gata, y el más impresionante de todos, el tiburon blanco.</desc>
+	<programme start="20250111025000 +0000" stop="20250111033500 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Enjambres</title>
+		<desc>Los animales se hacen fuertes cuando son muchos, y llegan a formar enjambres de cientos, miles, millones y miles de millones de individuos. Da igual que estos bichos esten comiendo, peleando, viajando o apareándose, el consejo es siempre el mismo: no conviene molestar a la masa.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250111032500 +0000" stop="20250111041000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Aguas letales</title>
-		<desc>Las charcas africanas atraen a grandes concentraciones de animales; algunos buscan saciar su sed, mientras que otros buscan una presa fácil. Desde los cocodrilos del Nilo que esperan bajo la superficie a las violentas disputas territoriales de los hipopotamos macho gigantes, las charcas de África son el escenario perfecto para las peleas más letales del continente</desc>
+	<programme start="20250111033500 +0000" stop="20250111042000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Supervivientes</title>
+		<desc>¿Eres un superviviente, capaz de superar accidentes, cataclismos y catástrofes? Incluso los más duros de los seres humanos son unos flojos si los comparamos con los animales más duros del planeta. Hacemos el ranking definitivo de los diez mayores supervivientes de la naturaleza, para descubrir cuál es el animal que tiene una resistencia más extraordinaria.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250111041000 +0000" stop="20250111043000 +0000" channel="Nat Geo Wild.es">
-		<title>La casa de los perritos de las praderas: Una inundacion de problemas</title>
-		<desc>Ha llegado la estacion del monzon a la ciudad de los perros. Scarlett y su familia se apresuran por reforzar su madriguera antes de que comiencen las inundaciones, pero tienen que lidiar con invitados inesperados antes de que llegue la tormenta.</desc>
-		<episode-num system="xmltv_ns">5..</episode-num>
-	</programme>
-	<programme start="20250111043000 +0000" stop="20250111050000 +0000" channel="Nat Geo Wild.es">
-		<title>La casa de los perritos de las praderas: La conquista del oeste</title>
-		<desc>Las disputas por la propiedad se solucionan de un modo un poco distinto en la ciudad de los perros. Mientras buscan las primeras madrigueras propias, Pelt y Digit se topan con un inesperado reto en forma de tejones y perros Alfa que protegen su propio territorio.</desc>
+	<programme start="20250111042000 +0000" stop="20250111050000 +0000" channel="Nat Geo Wild.es">
+		<title>La casa de los perritos de las praderas: La carrera del siglo</title>
+		<desc>En las tierras altas, Charlotte y Petal se embarcan en busca de un nuevo territorio y de potenciales apareamientos. En las llanuras, Buttercup y sus hermanos deben averiguar como sobrevivir sin la supervision de sus padres.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
 	<programme start="20250111050000 +0000" stop="20250111053000 +0000" channel="Nat Geo Wild.es">
-		<title>La casa de los perritos de las praderas: La conquista del oeste</title>
-		<desc>Las disputas por la propiedad se solucionan de un modo un poco distinto en la ciudad de los perros. Mientras buscan las primeras madrigueras propias, Pelt y Digit se topan con un inesperado reto en forma de tejones y perros Alfa que protegen su propio territorio.</desc>
+		<title>La casa de los perritos de las praderas: Las ovejas grandes</title>
+		<desc>Para los perros de las praderas del norte de Nuevo Mexico, el invierno ya casi ha llegado. En las tierras altas, Carl y los cachorros se preparan para hibernar, si bien una alianza poco común de letales depredadores constituye una amenaza elevada para cada perro del territorio.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
 	<programme start="20250111053000 +0000" stop="20250111055000 +0000" channel="Nat Geo Wild.es">
-		<title>La casa de los perritos de las praderas: De vuelta a casa</title>
-		<desc>Los perros de las praderas del norte de Nuevo Mejico se enfrentan a todo tipo de amenazas, tanto grandes como pequeñas. En las llanuras, June hace frente a una plaga de pulgas.</desc>
+		<title>La casa de los perritos de las praderas: La carrera del siglo</title>
+		<desc>En las tierras altas, Charlotte y Petal se embarcan en busca de un nuevo territorio y de potenciales apareamientos. En las llanuras, Buttercup y sus hermanos deben averiguar como sobrevivir sin la supervision de sus padres.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250111055000 +0000" stop="20250111061500 +0000" channel="Nat Geo Wild.es">
-		<title>La casa de los perritos de las praderas: Una inundacion de problemas</title>
-		<desc>Ha llegado la estacion del monzon a la ciudad de los perros. Scarlett y su familia se apresuran por reforzar su madriguera antes de que comiencen las inundaciones, pero tienen que lidiar con invitados inesperados antes de que llegue la tormenta.</desc>
+	<programme start="20250111055000 +0000" stop="20250111063500 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Supervivientes</title>
+		<desc>¿Eres un superviviente, capaz de superar accidentes, cataclismos y catástrofes? Incluso los más duros de los seres humanos son unos flojos si los comparamos con los animales más duros del planeta. Hacemos el ranking definitivo de los diez mayores supervivientes de la naturaleza, para descubrir cuál es el animal que tiene una resistencia más extraordinaria.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250111061500 +0000" stop="20250111065500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Aguas letales</title>
-		<desc>Las charcas africanas atraen a grandes concentraciones de animales; algunos buscan saciar su sed, mientras que otros buscan una presa fácil. Desde los cocodrilos del Nilo que esperan bajo la superficie a las violentas disputas territoriales de los hipopotamos macho gigantes, las charcas de África son el escenario perfecto para las peleas más letales del continente</desc>
+	<programme start="20250111063500 +0000" stop="20250111072000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Armas letales</title>
+		<desc>Los animales matan para sobrevivir, y cuentan con armas letales. Lo habitual son colmillos y garras, pero tambien hay algunos guerreros de elite que tienen armamento especial. Hacemos un ranking de las diez armas más bestiales de la naturaleza para descubrir cuál es el animal que tiene una tecnología asesina más sofisticada. Estas son las armas biologicas más salvajes.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250111065500 +0000" stop="20250111074000 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Los oceanos</title>
-		<desc>Los extraordinarios oceanos de África dan cabida a algunos de los medios marinos más diversos y dinámicamente poblados del planeta. Desde escabrosas costas hasta las profundidades marinas más remotas, existe todo un mundo letal y misterioso. En este entorno, el cazador bien podría convertirse en la presa. En este episodio presenciaremos como la vida marina de África sobrevive gracias a la fuerza bruta, a comportamientos ingeniosos y ¡a instintos asesinos!</desc>
+	<programme start="20250111072000 +0000" stop="20250111080500 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Ataques</title>
+		<desc>Cuando un animal se enfada, lo mejor es apartarse de su camino. Hacemos el ranking de los diez ataques más salvajes de la naturaleza para descubrir cuál es el animal que provoca la mayor carnicería.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250111074000 +0000" stop="20250111082500 +0000" channel="Nat Geo Wild.es">
-		<title>Los depredadores más letales de África: Asesinos salvajes</title>
-		<desc>Los depredadores más temidos de África cuentan con habilidades increíbles, precision letal y astutas estrategias. Desde las tecnicas de caza del lobo etíope, en grave peligro de extincion, hasta las persecuciones aereas a gran velocidad del águila cafre, descubriremos que los depredadores más letales de África están hechos para matar</desc>
+	<programme start="20250111080500 +0000" stop="20250111085000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Supervivientes</title>
+		<desc>¿Eres un superviviente, capaz de superar accidentes, cataclismos y catástrofes? Incluso los más duros de los seres humanos son unos flojos si los comparamos con los animales más duros del planeta. Hacemos el ranking definitivo de los diez mayores supervivientes de la naturaleza, para descubrir cuál es el animal que tiene una resistencia más extraordinaria.</desc>
 		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109050000 +0000" stop="20250109060000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Christina on the Coast</title>
-		<sub-title>Dificultad con el tiempo</sub-title>
-		<desc>Una pareja que compro una casa necesita ayuda para convertirla en un hogar para ellos y sus tres hijos. Christina planea ampliar su espacio habitable principal, pero los problemas con los materiales y los costos podrían retrasar la renovacion.</desc>
+	<programme start="20250111085000 +0000" stop="20250111093500 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Armas letales</title>
+		<desc>Los animales matan para sobrevivir, y cuentan con armas letales. Lo habitual son colmillos y garras, pero tambien hay algunos guerreros de elite que tienen armamento especial. Hacemos un ranking de las diez armas más bestiales de la naturaleza para descubrir cuál es el animal que tiene una tecnología asesina más sofisticada. Estas son las armas biologicas más salvajes.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109060000 +0000" stop="20250109070000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Hasta que el diseño nos separe</title>
-		<sub-title>El diseñador sabe más</sub-title>
-		<desc>Ray y Eilyn compiten por el proyecto de renovacion de una pareja. El propietario de la casa tiene un estilo oscuro y masculino y entra en conflicto con la vibra luminosa y tropical de su esposa, por lo que encontrar puntos en común será un desafío.</desc>
+	<programme start="20250111093500 +0000" stop="20250111102000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Mal olor</title>
+		<desc>Algunos animales huelen fatal. Este mal olor se puede originar en sus pies, por una pelea, o incluso en su comida. Los olores se pueden disparar, vomitar, babear o defecar, incluso emitirse desde unas curiosas glándulas de la muñeca. Desde la secrecion de las glándulas anales de las hienas hasta el cianuro de hidrogeno, todo está en nuestra cuenta atrás de los diez animales más apestosos de la naturaleza, para descubrir cuál es el número uno.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109070000 +0000" stop="20250109080000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Hasta que el diseño nos separe</title>
-		<sub-title>Renovacion de un apartamento en Miami Beach</sub-title>
-		<desc>Ray e Eilyn competem por um projeto em Miami Beach, em que devem reformar um apartamento antiquado. Eilyn tenta terminar um projeto caro em Coral Gables, Florida, mas enfrenta obstáculos inesperados.</desc>
+	<programme start="20250111102000 +0000" stop="20250111111000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Enjambres</title>
+		<desc>Los animales se hacen fuertes cuando son muchos, y llegan a formar enjambres de cientos, miles, millones y miles de millones de individuos. Da igual que estos bichos esten comiendo, peleando, viajando o apareándose, el consejo es siempre el mismo: no conviene molestar a la masa.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109080000 +0000" stop="20250109083000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Christina on the Coast</title>
-		<sub-title>Dificultad con el tiempo</sub-title>
-		<desc>Una pareja que compro una casa necesita ayuda para convertirla en un hogar para ellos y sus tres hijos. Christina planea ampliar su espacio habitable principal, pero los problemas con los materiales y los costos podrían retrasar la renovacion.</desc>
+	<programme start="20250111111000 +0000" stop="20250111120000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Ataques</title>
+		<desc>Cuando un animal se enfada, lo mejor es apartarse de su camino. Hacemos el ranking de los diez ataques más salvajes de la naturaleza para descubrir cuál es el animal que provoca la mayor carnicería.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109083000 +0000" stop="20250109090000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Programacion pagada</title>
-		<desc>Se emitirá programacion pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.</desc>
+	<programme start="20250111120000 +0000" stop="20250111125000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Temerarios</title>
+		<desc>Las personas temerarias son adictas a la adrenalina: cuando mayor sea el riesgo, más grande es el subidon. Sin embargo, hay animales que se juegan la vida todos los días pero no para divertirse, sino para sobrevivir. Presentamos el top diez de los animales más adictos a la adrenalina y descubrimos cuál es el que más se arriesga.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109090000 +0000" stop="20250109093000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Hasta que el diseño nos separe</title>
-		<sub-title>El diseñador sabe más</sub-title>
-		<desc>Ray y Eilyn compiten por el proyecto de renovacion de una pareja. El propietario de la casa tiene un estilo oscuro y masculino y entra en conflicto con la vibra luminosa y tropical de su esposa, por lo que encontrar puntos en común será un desafío.</desc>
+	<programme start="20250111125000 +0000" stop="20250111134000 +0000" channel="Nat Geo Wild.es">
+		<title>Con las manos en la masa: ¡A la carga!</title>
+		<desc>Tanto las profundidades del oceano Índico como el corazon de la sabana africana ofrecen la oportunidad de ver de cerca animales salvajes impresionantes, pero algunas veces llegan a acercarse demasiado.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109093000 +0000" stop="20250109100000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Programacion pagada</title>
-		<desc>Se emitirá programacion pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.</desc>
+	<programme start="20250111134000 +0000" stop="20250111142500 +0000" channel="Nat Geo Wild.es">
+		<title>Con las manos en la masa: Raros y salvajes</title>
+		<desc>Muchas veces la naturaleza no hace las cosas según lo esperado, y por eso nos encontramos con bichos raros o con animales en apuros que atacan de forma poco convencional. Es la naturaleza más extraña y salvaje.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109100000 +0000" stop="20250109103000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Hasta que el diseño nos separe</title>
-		<sub-title>Renovacion de un apartamento en Miami Beach</sub-title>
-		<desc>Ray e Eilyn competem por um projeto em Miami Beach, em que devem reformar um apartamento antiquado. Eilyn tenta terminar um projeto caro em Coral Gables, Florida, mas enfrenta obstáculos inesperados.</desc>
+	<programme start="20250111142500 +0000" stop="20250111151500 +0000" channel="Nat Geo Wild.es">
+		<title>Con las manos en la masa: Clubs de la lucha</title>
+		<desc>Cuando están en su hábitat natural, los animales luchan a muerte por la comida, el territorio y la familia. Sin embargo, para sobrevivir no basta con la fuerza bruta, sino que tambien hace falta inteligencia, e incluso valor.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109103000 +0000" stop="20250109110000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Programacion pagada</title>
-		<desc>Se emitirá programacion pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.</desc>
+	<programme start="20250111151500 +0000" stop="20250111160500 +0000" channel="Nat Geo Wild.es">
+		<title>Con las manos en la masa: Batallas sangrientas</title>
+		<desc>Cuando un animal ataca no siempre es una cuestion de supervivencia. A veces se trata de una cuenta pendiente, como en el caso de una guerra entre hienas y leones que viene de muy atrás, o de la enemistad que existe entre dos grupos de hermanos.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109110000 +0000" stop="20250109113000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Doki</title>
-		<sub-title>Doki y la Ciudad Perdida</sub-title>
-		<desc>El Equipo recibe una invitacion para salir de expedicion en busca de una "ciudad perdida" en Nuevo Mexico, Estados Unidos. Pero Oto está convencido de que si la busca por aire la encontrará primero.</desc>
-		<episode-num system="xmltv_ns">2.25.</episode-num>
+	<programme start="20250111160500 +0000" stop="20250111170000 +0000" channel="Nat Geo Wild.es">
+		<title>Con las manos en la masa: A vida o muerte</title>
+		<desc>La naturaleza, en toda su crudeza, puede resultar a la vez hermosa y desagradable. En este episodio contamos distintas historias de los animales más jovenes de África, sus victorias y sus derrotas.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109113000 +0000" stop="20250109120000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Doki</title>
-		<sub-title>Doki en Pisa / Invasion de algas</sub-title>
-		<desc>Diviertete en cada episodio con el Equipo Doki, que nos llevarán en una divertida aventura, enseñándonos cosas nuevas y geniales, para, al final, regresarnos a casa con una mision cumplida.</desc>
-		<episode-num system="xmltv_ns">3.5.</episode-num>
+	<programme start="20250111170000 +0000" stop="20250111175000 +0000" channel="Nat Geo Wild.es">
+		<title>Wild Vietnam: El misterioso norte: la tierra de los bosques montañosos</title>
+		<desc>Viajamos a las montañas de Vietnam para visitar a los lagartos cocodrilos, a los amenazados pangolines y a unos primates poco conocidos: los langures de cabeza dorada de la isla de Cat Ba.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109120000 +0000" stop="20250109123000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>El zoo de Zu</title>
-		<sub-title>La gymkhana de la abuela</sub-title>
-		<desc>Nuno y Zu no se ponen de acuerdo sobre quien tiene que ayudar al Señor Helado, pero la Abuela usa la GymKhana para determinar quien debe ayudarlo. Zu quedara en el Equipo de los Guacamayos y Nuno en el equipo de los Leones. Quien pierda deberá ayudar al Señor Helado.</desc>
-		<episode-num system="xmltv_ns">0.11.</episode-num>
+	<programme start="20250111175000 +0000" stop="20250111184000 +0000" channel="Nat Geo Wild.es">
+		<title>Wild Vietnam: El sur tropical: tierra de agua</title>
+		<desc>Viajamos a los hábitats tropicales del sur de Vietnam, hogar de gibones y macacos juguetones, tortugas verdes y osos tibetanos.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109123000 +0000" stop="20250109130000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Paz</title>
-		<sub-title>Un Gran Descubrimiento; ¿Será Que Estoy Azul?; los Pasos de Baile; la Cajota</sub-title>
-		<desc>Paz y sus amigos ejercitan su imaginacion haciendo cuentos acerca de los exploradores cuyos errores de navegacion los condujeron hacia hermosos descubrimientos.</desc>
-		<episode-num system="xmltv_ns">0.3.</episode-num>
+	<programme start="20250111184000 +0000" stop="20250111193500 +0000" channel="Nat Geo Wild.es">
+		<title>Wild Japon: monos de la nieve</title>
+		<desc>Viaje al interior de las montañas cubiertas de nieve del centro de Japon y conozca a Hiro, un mono de nieve joven y valiente con una personalidad encantadora. Únete a Hiro y a su extensa familia en una aventura de un año de duracion, atravesando feroces tormentas, experimentando el nacimiento de una nueva vida, y enfrentándose a la tragedia de la muerte. Es una historia íntima y envolvente sobre la familia, la amistad, y la supervivencia en el corazon de los Alpes japoneses.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109130000 +0000" stop="20250109133000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Cleo y Cuquín</title>
-		<sub-title>Aventura al anochecer / La remodelacion / Un cumpleaños espaciástic</sub-title>
-		<desc>Cuando llega la hora de dormir Cuquín se da cuenta de que no tiene a Ramona.</desc>
+	<programme start="20250111193500 +0000" stop="20250111200500 +0000" channel="Nat Geo Wild.es">
+		<title>La increíble granja del Dr. Pol: Enfardadores</title>
+		<desc>El Doctor Pol, Charles y Ben inician el agotador proceso de enfardar heno y además, los Pol traen a otro animal a la granja: un emú.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109133000 +0000" stop="20250109140000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Cleo y Cuquín</title>
-		<sub-title>Los lentes de Tete / El gran huevo de Odín / Escuela de monstruos</sub-title>
-		<desc>Jugando con Cleo, Cuquín rompe sin querer las gafas de Tete, que se disgusta muchísimo. / Cleo.</desc>
+	<programme start="20250111200500 +0000" stop="20250111210000 +0000" channel="Nat Geo Wild.es">
+		<title>El increíble doctor Pol: Pol de patrulla</title>
+		<desc>Con una vaca rebelde, la hernia doble de un potro y la primera visita a un cachorro arrugado, se avecina una semana ocupada. Mientras Animal Control sigue al Dr. Pol por la ciudad, la Dra. Nicole trata a un pastor alemán que está tan enfermo que apenas puede caminar, y la Dra. Lisa cose la espeluznante herida de la pierna de un gato.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109140000 +0000" stop="20250109141500 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Defensores Petronix</title>
-		<sub-title>Episode 29</sub-title>
-		<desc>Cuando Tim no está siendo un muy buen compañero de equipo, crea tension para el Equipo Petronix y dificulta un rescate urgente.</desc>
-		<episode-num system="xmltv_ns">0.28.</episode-num>
+	<programme start="20250111210000 +0000" stop="20250111215000 +0000" channel="Nat Geo Wild.es">
+		<title>El Increíble Doctor Pol: Dr. Pol-Ar Express</title>
+		<desc>Una tormenta de hielo cierra la clínica y labradores recien nacidos derriten corazones. El tiempo traicionero deja animales lastimados a su paso. El Dr. Pol y sus equipo curan caderas y pezuñas. La Dra. Lisa se encarga de un parto exigente mientras la Dra. Brenda sorprende acorralando ganado y domando caballos de carrera.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109141500 +0000" stop="20250109143000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Defensores Petronix</title>
-		<sub-title>Episode 25</sub-title>
-		<desc>Cuando Danny MacTrampas captura un gorila de espalda plateada, Jia y Polly dejan que su ira se apodere de ellos y se apresuran a capturar a sus compañeros de equipo tambien.</desc>
-		<episode-num system="xmltv_ns">0.24.</episode-num>
+	<programme start="20250111215000 +0000" stop="20250111224500 +0000" channel="Nat Geo Wild.es">
+		<title>El increíble doctor Pol: Nunca la había visto antes</title>
+		<desc>El Dr. Pol da la bienvenida a nueva veterinaria en la clínica. ¡Conoceremos a la Dra. Olivia! La Dra. Brenda trata a un gato con una extremidad quemada y un perro policía suplente resulta herido durante una mision.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109143000 +0000" stop="20250109150000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Doki</title>
-		<sub-title>Doki y los Surfistas</sub-title>
-		<desc>En Coolangatta, Australia, un equipo de expedicion ve el video del surfista a control remoto de Fico y cree que Fico es el surfista experto.</desc>
-		<episode-num system="xmltv_ns">2.27.</episode-num>
+	<programme start="20250111224500 +0000" stop="20250111234000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Temerarios</title>
+		<desc>Las personas temerarias son adictas a la adrenalina: cuando mayor sea el riesgo, más grande es el subidon. Sin embargo, hay animales que se juegan la vida todos los días pero no para divertirse, sino para sobrevivir. Presentamos el top diez de los animales más adictos a la adrenalina y descubrimos cuál es el que más se arriesga.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109150000 +0000" stop="20250109153000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>El zoo de Zu</title>
-		<sub-title>Una leona feliz</sub-title>
-		<desc>Es verano, y la Tia Mimi les pide a Nuno y a Zu que les saquen fotos a los animales para un concurso. Ambos descubren que la leona del zoologico está muy desanimada y que es culpa del calor, pero ¿como hacer para alegrar a una leona?</desc>
-		<episode-num system="xmltv_ns">0.12.</episode-num>
+	<programme start="20250111234000 +0000" stop="20250112003000 +0000" channel="Nat Geo Wild.es">
+		<title>Wild Vietnam: El misterioso norte: la tierra de los bosques montañosos</title>
+		<desc>Viajamos a las montañas de Vietnam para visitar a los lagartos cocodrilos, a los amenazados pangolines y a unos primates poco conocidos: los langures de cabeza dorada de la isla de Cat Ba.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109153000 +0000" stop="20250109160000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>El zoo de Zu</title>
-		<sub-title>El dragon de komodo</sub-title>
-		<desc>Los niños deciden jugar a los superheroes, pero pronto empieza una pelea para ver quien es el mejor. Mientras, Tia Mimi trata de leer la revista número uno de su superheroe favorito, pero Tio Passarinho nunca saco la revista del plástico original.</desc>
-		<episode-num system="xmltv_ns">0.13.</episode-num>
+	<programme start="20250112003000 +0000" stop="20250112012000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Ataques</title>
+		<desc>Cuando un animal se enfada, lo mejor es apartarse de su camino. Hacemos el ranking de los diez ataques más salvajes de la naturaleza para descubrir cuál es el animal que provoca la mayor carnicería.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109160000 +0000" stop="20250109163000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Los cazahogares en familia</title>
-		<sub-title>Ready to Own in Cedar Park, Texas</sub-title>
-		<desc>Una familia de cuatro espera encontrar su primera casa en Austin, Texas.</desc>
-		<episode-num system="xmltv_ns">1.6.</episode-num>
+	<programme start="20250112012000 +0000" stop="20250112020500 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Armas letales</title>
+		<desc>Los animales matan para sobrevivir, y cuentan con armas letales. Lo habitual son colmillos y garras, pero tambien hay algunos guerreros de elite que tienen armamento especial. Hacemos un ranking de las diez armas más bestiales de la naturaleza para descubrir cuál es el animal que tiene una tecnología asesina más sofisticada. Estas son las armas biologicas más salvajes.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109163000 +0000" stop="20250109170000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Los cazahogares en familia</title>
-		<sub-title>Dads New House in Austin, TX</sub-title>
-		<desc>Un padre y sus tres hijos buscan una casa en Austin, Texas.</desc>
+	<programme start="20250112020500 +0000" stop="20250112025000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Mal olor</title>
+		<desc>Algunos animales huelen fatal. Este mal olor se puede originar en sus pies, por una pelea, o incluso en su comida. Los olores se pueden disparar, vomitar, babear o defecar, incluso emitirse desde unas curiosas glándulas de la muñeca. Desde la secrecion de las glándulas anales de las hienas hasta el cianuro de hidrogeno, todo está en nuestra cuenta atrás de los diez animales más apestosos de la naturaleza, para descubrir cuál es el número uno.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109170000 +0000" stop="20250109180000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Un gran mundo pequeño</title>
-		<sub-title>No hay plan B</sub-title>
-		<desc>Jeremy y Zach se ocupan de sus tareas como padres y de sus responsabilidades en la granja. La tension aumenta cuando Amy tiene que negociar la venta de sus productos en la granja. Esta serie sigue la vida de padres de corta estatura que deben enfrentar las dificultades financieras y emocionales con el fin de educar a sus hijos.</desc>
-		<episode-num system="xmltv_ns">12.6.</episode-num>
+	<programme start="20250112025000 +0000" stop="20250112033500 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Enjambres</title>
+		<desc>Los animales se hacen fuertes cuando son muchos, y llegan a formar enjambres de cientos, miles, millones y miles de millones de individuos. Da igual que estos bichos esten comiendo, peleando, viajando o apareándose, el consejo es siempre el mismo: no conviene molestar a la masa.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109180000 +0000" stop="20250109200000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Todo en 90 días</title>
-		<sub-title>Ellos No Saben</sub-title>
-		<desc>Tania se dirige al aeropuerto para encontrarse con Syngin. Anna le presenta su familia a Mursel, y revela un secreto. Emily y Sasha tienen un encuentro tenso con la exesposa de el.</desc>
-		<episode-num system="xmltv_ns">6.1.</episode-num>
+	<programme start="20250112033500 +0000" stop="20250112042000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Supervivientes</title>
+		<desc>¿Eres un superviviente, capaz de superar accidentes, cataclismos y catástrofes? Incluso los más duros de los seres humanos son unos flojos si los comparamos con los animales más duros del planeta. Hacemos el ranking definitivo de los diez mayores supervivientes de la naturaleza, para descubrir cuál es el animal que tiene una resistencia más extraordinaria.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109200000 +0000" stop="20250109210000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Vestido de novia</title>
-		<sub-title>Mamá no está en la lista</sub-title>
-		<desc>Kayla llega a Kleinfeld con su familia para encontrar el vestido de sus sueños, pero lo curioso es que ellos no están invitados a la boda. Dori quiere mostrar su propio estilo con un vestido nuevo.</desc>
-		<episode-num system="xmltv_ns">16.3.</episode-num>
+	<programme start="20250112042000 +0000" stop="20250112050000 +0000" channel="Nat Geo Wild.es">
+		<title>La casa de los perritos de las praderas: La carrera del siglo</title>
+		<desc>En las tierras altas, Charlotte y Petal se embarcan en busca de un nuevo territorio y de potenciales apareamientos. En las llanuras, Buttercup y sus hermanos deben averiguar como sobrevivir sin la supervision de sus padres.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109210000 +0000" stop="20250109220000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Gran-diosa</title>
-		<sub-title>Suenan las campanas de boda</sub-title>
-		<desc>Whitney y Chase no están cerca de vivir juntos, pero tienen que hacer planes para su boda.</desc>
-		<episode-num system="xmltv_ns">7.0.</episode-num>
+	<programme start="20250112050000 +0000" stop="20250112053000 +0000" channel="Nat Geo Wild.es">
+		<title>La casa de los perritos de las praderas: Las ovejas grandes</title>
+		<desc>Para los perros de las praderas del norte de Nuevo Mexico, el invierno ya casi ha llegado. En las tierras altas, Carl y los cachorros se preparan para hibernar, si bien una alianza poco común de letales depredadores constituye una amenaza elevada para cada perro del territorio.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109220000 +0000" stop="20250109223000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Cuponmanía</title>
-		<sub-title>Chrystie y Treasure</sub-title>
-		<desc>Chrystie, una novata, tiene una pila de cupones que de a poco se apodera de su hogar. Mientras tanto, Treasure comenzo a usar los cupones para salvar el negocio familiar, pero ahora sus cupones valen treinta y cinco mil dolares.</desc>
-		<episode-num system="xmltv_ns">0.6.</episode-num>
+	<programme start="20250112053000 +0000" stop="20250112055000 +0000" channel="Nat Geo Wild.es">
+		<title>La casa de los perritos de las praderas: La carrera del siglo</title>
+		<desc>En las tierras altas, Charlotte y Petal se embarcan en busca de un nuevo territorio y de potenciales apareamientos. En las llanuras, Buttercup y sus hermanos deben averiguar como sobrevivir sin la supervision de sus padres.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109223000 +0000" stop="20250109230000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Cuponmanía</title>
-		<sub-title>Amber y Tammilee</sub-title>
-		<desc>Amber está desesperada porque debe salir de compras y la niñera todavía no llega a su casa. Sus cuatro niños deben quedarse a su cuidado, de lo contrario, no podrá marcharse. Otra mujer, que vive en Spokane, se muestra como una gran ahorradora, dado que con el dinero recolectado consigue salir varias veces al año de vacaciones junto a su marido.</desc>
-		<episode-num system="xmltv_ns">0.7.</episode-num>
+	<programme start="20250112055000 +0000" stop="20250112063500 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Supervivientes</title>
+		<desc>¿Eres un superviviente, capaz de superar accidentes, cataclismos y catástrofes? Incluso los más duros de los seres humanos son unos flojos si los comparamos con los animales más duros del planeta. Hacemos el ranking definitivo de los diez mayores supervivientes de la naturaleza, para descubrir cuál es el animal que tiene una resistencia más extraordinaria.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250109230000 +0000" stop="20250110000000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Christina on the Coast</title>
-		<sub-title>New Bathroom, New Baby</sub-title>
-		<desc>Christina actualiza el baño principal de Gina y Eric para que combine con su nueva cocina.</desc>
+	<programme start="20250112063500 +0000" stop="20250112072000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Armas letales</title>
+		<desc>Los animales matan para sobrevivir, y cuentan con armas letales. Lo habitual son colmillos y garras, pero tambien hay algunos guerreros de elite que tienen armamento especial. Hacemos un ranking de las diez armas más bestiales de la naturaleza para descubrir cuál es el animal que tiene una tecnología asesina más sofisticada. Estas son las armas biologicas más salvajes.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110000000 +0000" stop="20250110010000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Vívala o vendala</title>
-		<sub-title>Caos a la medida</sub-title>
-		<desc>Una pareja que construyo su propia casa siente que cometio errores en el diseño y que ahora necesitan más espacio. Él siente que necesitan un experto en diseño, pero ella cree que la mejor opcion es comprar una casa nueva.</desc>
-		<episode-num system="xmltv_ns">14.2.</episode-num>
+	<programme start="20250112072000 +0000" stop="20250112080500 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Ataques</title>
+		<desc>Cuando un animal se enfada, lo mejor es apartarse de su camino. Hacemos el ranking de los diez ataques más salvajes de la naturaleza para descubrir cuál es el animal que provoca la mayor carnicería.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110010000 +0000" stop="20250110020000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Amor a distancia</title>
-		<sub-title>Will They or Wont They?</sub-title>
-		<desc>Cuatro habitantes de la ciudad dejan su hogar para buscar el amor en la naturaleza. Jen.</desc>
+	<programme start="20250112080500 +0000" stop="20250112085000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Supervivientes</title>
+		<desc>¿Eres un superviviente, capaz de superar accidentes, cataclismos y catástrofes? Incluso los más duros de los seres humanos son unos flojos si los comparamos con los animales más duros del planeta. Hacemos el ranking definitivo de los diez mayores supervivientes de la naturaleza, para descubrir cuál es el animal que tiene una resistencia más extraordinaria.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110020000 +0000" stop="20250110030000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Love Off the Grid</title>
-		<sub-title>Construyendo hogares</sub-title>
-		<desc>Vivir lejos de la sociedad se vuelve real.</desc>
+	<programme start="20250112085000 +0000" stop="20250112093500 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Armas letales</title>
+		<desc>Los animales matan para sobrevivir, y cuentan con armas letales. Lo habitual son colmillos y garras, pero tambien hay algunos guerreros de elite que tienen armamento especial. Hacemos un ranking de las diez armas más bestiales de la naturaleza para descubrir cuál es el animal que tiene una tecnología asesina más sofisticada. Estas son las armas biologicas más salvajes.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
-	<programme start="20250110030000 +0000" stop="20250110040000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Todo en 90 días: una última oportunidad</title>
-		<sub-title>Últimas lamidas</sub-title>
-		<desc>Kalani, Yara, Angela y Liz se unen en una fiesta de lencería, y Yara habla de sus inseguridades.</desc>
-	</programme>
-	<programme start="20250110040000 +0000" stop="20250110050000 +0000" channel="Discovery Familia (U.S. feed).us">
-		<title>Amor a distancia</title>
-		<sub-title>Will They or Wont They?</sub-title>
-		<desc>Cuatro habitantes de la ciudad dejan su hogar para buscar el amor en la naturaleza. Jen.</desc>
+	<programme start="20250112093500 +0000" stop="20250112102000 +0000" channel="Nat Geo Wild.es">
+		<title>Top 10 animal: Mal olor</title>
+		<desc>Algunos animales huelen fatal. Este mal olor se puede originar en sus pies, por una pelea, o incluso en su comida. Los olores se pueden disparar, vomitar, babear o defecar, incluso emitirse desde unas curiosas glándulas de la muñeca. Desde la secrecion de las glándulas anales de las hienas hasta el cianuro de hidrogeno, todo está en nuestra cuenta atrás de los diez animales más apestosos de la naturaleza, para descubrir cuál es el número uno.</desc>
+		<episode-num system="xmltv_ns">5..</episode-num>
 	</programme>
 	<programme start="20250110050000 +0000" stop="20250110060000 +0000" channel="Discovery Familia (U.S. feed).us">
 		<title>Love Off the Grid</title>
@@ -46653,89 +46694,211 @@ En Vivo</title>
 		<sub-title>Viviendo en una burbuja</sub-title>
 		<desc>Si hay algo que Rec y Tángulo detestan más que nada en el mundo, es la suciedad.</desc>
 	</programme>
-	<programme start="20250109050000 +0000" stop="20250109060000 +0000" channel="ESPN Deportes.us">
-		<title>Fútbol Picante</title>
-		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	<programme start="20250111150000 +0000" stop="20250111151500 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Hanni and the Wild Woods</title>
+		<sub-title>El Día de Gracias</sub-title>
+		<desc>El Día de Accion de Gracias por fin ha llegado al bosque y los amigos de la naturaleza se preparan para compartir una deliciosa cena, pero, ¿que es una cena sin la compañía de todos tus seres queridos?</desc>
 	</programme>
-	<programme start="20250109060000 +0000" stop="20250109070000 +0000" channel="ESPN Deportes.us">
-		<title>SportsCenter</title>
-		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	<programme start="20250111151500 +0000" stop="20250111153000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Hanni and the Wild Woods</title>
+		<sub-title>El festival de otoño</sub-title>
+		<desc>Las hojas caídas del otoño necesitan reciclarse y Po tiene una gran idea de como lograrlo.</desc>
 	</programme>
-	<programme start="20250109070000 +0000" stop="20250109080000 +0000" channel="ESPN Deportes.us">
-		<title>Fútbol Picante</title>
-		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	<programme start="20250111153000 +0000" stop="20250111154500 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Hanni and the Wild Woods</title>
+		<sub-title>Seguridad ante todo</sub-title>
+		<desc>Parece que hay riesgos importantes como parte de vivir en cualquier comunidad.</desc>
 	</programme>
-	<programme start="20250109080000 +0000" stop="20250109090000 +0000" channel="ESPN Deportes.us">
-		<title>SportsCenter</title>
-		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	<programme start="20250111154500 +0000" stop="20250111160000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Hanni and the Wild Woods</title>
+		<sub-title>La hora angelical</sub-title>
+		<desc>Al usar la imaginacion Hanni y los amigos de la naturaleza exploran mundos sin iguales y llenos de diversion para jugar en "La hora angelical".</desc>
 	</programme>
-	<programme start="20250109090000 +0000" stop="20250109100000 +0000" channel="ESPN Deportes.us">
-		<title>Top Rank Classic Fights</title>
-		<sub-title>Terence Crawford vs. Viktor Postol</sub-title>
-		<desc>Terence Crawford (28-0 con 20 KOs) vs. Viktor Postol (28-0 con 12 KOs), pelea a 12 rounds que se llevo a cabo desde Las Vegas Nevadas, Estados Unidos.</desc>
+	<programme start="20250111160000 +0000" stop="20250111163000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Los cazahogares en familia</title>
+		<sub-title>More Space in Macon, GA</sub-title>
+		<desc>Una familia busca una casa amplia donde todos puedan tener su propio espacio en Macon, Georgia.</desc>
 	</programme>
-	<programme start="20250109100000 +0000" stop="20250109110000 +0000" channel="ESPN Deportes.us">
-		<title>Top Rank Classic Fights</title>
-		<sub-title>Vasiliy Lomachenko vs. Roman Martinez</sub-title>
-		<desc>Lomachenko (5-1, 3 KOs), 2 veces medallista de oro olímpico y actual campeon peso pluma de la OMB, subirá de division para retar a Martínez (29-2-3, 17 KOs) por el título junior ligero de la OMB desde el Teatro del Madison Square Gaden, Nueva York, Estados Unidos.</desc>
+	<programme start="20250111163000 +0000" stop="20250111170000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Los cazahogares en familia</title>
+		<sub-title>Family of Five Upsizing in Thousand Oaks, CA</sub-title>
+		<desc>Una familia grande busca una casa en Thousand Oaks, California.</desc>
 	</programme>
-	<programme start="20250109110000 +0000" stop="20250109120000 +0000" channel="ESPN Deportes.us">
-		<title>Fútbol Picante</title>
-		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	<programme start="20250111170000 +0000" stop="20250111173000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Rescatando propiedades</title>
+		<sub-title>Las guerras</sub-title>
+		<desc>Tarek y Christina se unen a su amigo Pete De Best en una casa en Yorba Linda, California.</desc>
+		<episode-num system="xmltv_ns">7.10.</episode-num>
 	</programme>
-	<programme start="20250109120000 +0000" stop="20250109130000 +0000" channel="ESPN Deportes.us">
-		<title>SportsCenter</title>
-		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	<programme start="20250111173000 +0000" stop="20250111180000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Rescatando propiedades</title>
+		<sub-title>El arrepentimiento del comprador</sub-title>
+		<desc>Serie conducida por verdaderos agentes inmobiliarios, además de esposos en la vida real.</desc>
+		<episode-num system="xmltv_ns">7.12.</episode-num>
 	</programme>
-	<programme start="20250109130000 +0000" stop="20250109140000 +0000" channel="ESPN Deportes.us">
-		<title>Fútbol Picante</title>
-		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	<programme start="20250111180000 +0000" stop="20250111183000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Rescatando propiedades</title>
+		<sub-title>Remodelacion de la casa adosada</sub-title>
+		<desc>Tarek y Christina dieron un giro a sus carreras: empezaron como agentes inmobiliarios, pero ahora adquieren viviendas y las transforman en una nueva propiedad con la esperanza de obtener ganancias.</desc>
+		<episode-num system="xmltv_ns">9.0.</episode-num>
 	</programme>
-	<programme start="20250109140000 +0000" stop="20250109150000 +0000" channel="ESPN Deportes.us">
-		<title>SportsCenter</title>
-		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	<programme start="20250111183000 +0000" stop="20250111190000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Rescatando propiedades</title>
+		<sub-title>Casa generica de un millon de dolares</sub-title>
+		<desc>Tarek renueva una casa hecha a mano en Newport Beach, California.</desc>
+		<episode-num system="xmltv_ns">7.15.</episode-num>
 	</programme>
-	<programme start="20250109150000 +0000" stop="20250109160000 +0000" channel="ESPN Deportes.us">
-		<title>Fútbol Picante</title>
-		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	<programme start="20250111190000 +0000" stop="20250111193000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Rescatando propiedades</title>
+		<sub-title>Acumuladores</sub-title>
+		<desc>El amigo de Tarek, Robert, quiere empezar a renovar y compran una casa en Lakewood, California.</desc>
+		<episode-num system="xmltv_ns">7.11.</episode-num>
 	</programme>
-	<programme start="20250109160000 +0000" stop="20250109170000 +0000" channel="ESPN Deportes.us">
-		<title>SportsCenter</title>
-		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	<programme start="20250111193000 +0000" stop="20250111200000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Rescatando propiedades</title>
+		<sub-title>Casa pequeña, grandes problemas</sub-title>
+		<desc>Tarek y el contratista Izzy Battres consiguen una pequeña casa en Fullerton, California.</desc>
+		<episode-num system="xmltv_ns">7.13.</episode-num>
 	</programme>
-	<programme start="20250109170000 +0000" stop="20250109180000 +0000" channel="ESPN Deportes.us">
-		<title>Fútbol Picante</title>
-		<desc>Un programa dinámico con todos los goles, la informacion y el análisis de los expertos de ESPN sobre el fútbol mexicano. Acompañe a un selecto equipo periodístico para disfrutar de lo mejor del fútbol de Mexico, ya que cada semana tendremos entrevistas exclusivas con los mejores jugadores y entrenadores.</desc>
+	<programme start="20250111200000 +0000" stop="20250111203000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Flip or Flop</title>
+		<sub-title>Dura competencia</sub-title>
+		<desc>Tarek y Christina deben competir para vencer a otros inversionistas en North Tustin, CA.</desc>
+		<episode-num system="xmltv_ns">8.3.</episode-num>
 	</programme>
-	<programme start="20250109180000 +0000" stop="20250109183000 +0000" channel="ESPN Deportes.us">
-		<title>SportsCenter</title>
-		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	<programme start="20250111203000 +0000" stop="20250111210000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Rescatando propiedades</title>
+		<sub-title>Covered Costs</sub-title>
+		<desc>Serie conducida por verdaderos agentes inmobiliarios, además de esposos en la vida real.</desc>
+		<episode-num system="xmltv_ns">8.1.</episode-num>
 	</programme>
-	<programme start="20250109183000 +0000" stop="20250109210000 +0000" channel="ESPN Deportes.us">
-		<title>Fútbol: Supercopa de España</title>
-		<sub-title>Real Madrid vs. RCD Mallorca</sub-title>
-		<desc>Semifinal Real Madrid vs. RCD Mallorca.</desc>
+	<programme start="20250111210000 +0000" stop="20250111213000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Flip or Flop</title>
+		<sub-title>Enamorados de la vista</sub-title>
+		<desc>Tarek y Christina tienen la oportunidad de remodelar una casa con vistas del oceano.</desc>
+		<episode-num system="xmltv_ns">8.13.</episode-num>
 	</programme>
-	<programme start="20250109210000 +0000" stop="20250109230000 +0000" channel="ESPN Deportes.us">
-		<title>Ahora o nunca</title>
-		<desc>Ahora o nunca.</desc>
+	<programme start="20250111213000 +0000" stop="20250111220000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Flip or Flop</title>
+		<sub-title>Busy Flip</sub-title>
+		<desc>Tarek y Christina encuentran tiempo para visitar una casa en La Mirada, California, cuando aparece una buena oferta. Lo que parece ser una compra rápida se vuelve más difícil cuando surgen problemas mientras intentan modernizar el diseño.</desc>
 	</programme>
-	<programme start="20250109230000 +0000" stop="20250110000000 +0000" channel="ESPN Deportes.us">
-		<title>Cronometro</title>
-		<desc>Si deseas estar enterado de las informaciones más importantes del deporte colombiano este es tu espacio, donde te traemos la actualidad de los acontecimientos más resaltantes en el mundo de las competencias.</desc>
+	<programme start="20250111220000 +0000" stop="20250111223000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Flip or Flop</title>
+		<sub-title>Escaparse</sub-title>
+		<desc>Tarek y Christina adquieren una casa en Laguna Hills, California, en un vecindario precario.</desc>
 	</programme>
-	<programme start="20250110000000 +0000" stop="20250110003000 +0000" channel="ESPN Deportes.us">
-		<title>SportsCenter</title>
-		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	<programme start="20250111223000 +0000" stop="20250111230000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Flip or Flop</title>
+		<sub-title>Frascaso inclinado</sub-title>
+		<desc>Una compra en Mission Viejo, California, parece prometedora hasta que Tarek y Christina descubren grietas y pisos irregulares.</desc>
 	</programme>
-	<programme start="20250110003000 +0000" stop="20250110040000 +0000" channel="ESPN Deportes.us">
-		<title>Fútbol americano universitario NCAA</title>
-		<sub-title>Penn State vs. Notre Dame</sub-title>
-		<desc>Penn State vs. Notre Dame en Orange Bowl desde Hard Rock Stadium, Miami, Florida, Estados Unidos.</desc>
+	<programme start="20250111230000 +0000" stop="20250111233000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Rescatando propiedades</title>
+		<sub-title>Far Out Flip</sub-title>
+		<desc>Tarek y Christina van a North Hollywood, California, por una casa española de los años 30.</desc>
+		<episode-num system="xmltv_ns">8.6.</episode-num>
 	</programme>
-	<programme start="20250110040000 +0000" stop="20250110050000 +0000" channel="ESPN Deportes.us">
-		<title>SportsCenter</title>
-		<desc>Interpretacion irreverente y comprehensiva del mundo de deportes del noticiero oficial de ESPN. Se incluyen secuencias de puntos culminantes, análisis, encuestas por Internet y trivialidades. El programa se estreno en 1979.</desc>
+	<programme start="20250111233000 +0000" stop="20250112000000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Flip or Flop</title>
+		<sub-title>Mejor ser rápidos</sub-title>
+		<desc>Tarek y Christina obtienen un prestamo costoso para comprar una casa en Fountain Valley, California. Están presionados por renovar la casa rápidamente mientras hacen malabarismos con las decisiones de diseño en medio de un cronograma ajustado.</desc>
+	</programme>
+	<programme start="20250112000000 +0000" stop="20250112010000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Vívala o vendala</title>
+		<sub-title>Historia de un solo piso</sub-title>
+		<desc>Luego de que a el le diagnosticaron distrofia muscular, una pareja compro un bungalo de un piso.</desc>
+		<episode-num system="xmltv_ns">14.3.</episode-num>
+	</programme>
+	<programme start="20250112010000 +0000" stop="20250112020000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Christina on the Coast</title>
+		<sub-title>Dificultad con el tiempo</sub-title>
+		<desc>Una pareja que compro una casa necesita ayuda para convertirla en un hogar para ellos y sus tres hijos. Christina planea ampliar su espacio habitable principal, pero los problemas con los materiales y los costos podrían retrasar la renovacion.</desc>
+	</programme>
+	<programme start="20250112020000 +0000" stop="20250112030000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Christina on the Coast</title>
+		<desc>Christina transforma las propiedades obsoletas de los clientes en exhibiciones de alta gama. Las cámaras la seguirán mientras busca el nuevo hogar perfecto, equilibra la maternidad, la carrera y una nueva relacion.</desc>
+	</programme>
+	<programme start="20250112030000 +0000" stop="20250112040000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Renovaciones en Chicago</title>
+		<sub-title>Tesoros, baratijas y chismes</sub-title>
+		<desc>Una diseñadora recibe total libertad para renovar y expandir una casa en Chicago. La creatividad y los desafíos se combinan en este emocionante proyecto de renovacion.</desc>
+		<episode-num system="xmltv_ns">3.2.</episode-num>
+	</programme>
+	<programme start="20250112040000 +0000" stop="20250112050000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Renovaciones en Chicago</title>
+		<sub-title>Construccion en tiempo prestado</sub-title>
+		<desc>Una vivienda antigua necesita ser renovada en un año. Alison enfrenta desafíos para combinar historia y modernidad en cada detalle.</desc>
+		<episode-num system="xmltv_ns">3.7.</episode-num>
+	</programme>
+	<programme start="20250112050000 +0000" stop="20250112060000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Christina on the Coast</title>
+		<desc>Christina transforma las propiedades obsoletas de los clientes en exhibiciones de alta gama. Las cámaras la seguirán mientras busca el nuevo hogar perfecto, equilibra la maternidad, la carrera y una nueva relacion.</desc>
+	</programme>
+	<programme start="20250112060000 +0000" stop="20250112070000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Renovaciones en Chicago</title>
+		<sub-title>Tesoros, baratijas y chismes</sub-title>
+		<desc>Una diseñadora recibe total libertad para renovar y expandir una casa en Chicago. La creatividad y los desafíos se combinan en este emocionante proyecto de renovacion.</desc>
+		<episode-num system="xmltv_ns">3.2.</episode-num>
+	</programme>
+	<programme start="20250112070000 +0000" stop="20250112080000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Renovaciones en Chicago</title>
+		<sub-title>Construccion en tiempo prestado</sub-title>
+		<desc>Una vivienda antigua necesita ser renovada en un año. Alison enfrenta desafíos para combinar historia y modernidad en cada detalle.</desc>
+		<episode-num system="xmltv_ns">3.7.</episode-num>
+	</programme>
+	<programme start="20250112080000 +0000" stop="20250112083000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Christina on the Coast</title>
+		<desc>Christina transforma las propiedades obsoletas de los clientes en exhibiciones de alta gama. Las cámaras la seguirán mientras busca el nuevo hogar perfecto, equilibra la maternidad, la carrera y una nueva relacion.</desc>
+	</programme>
+	<programme start="20250112083000 +0000" stop="20250112090000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Programacion pagada</title>
+		<desc>Se emitirá programacion pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.</desc>
+	</programme>
+	<programme start="20250112090000 +0000" stop="20250112093000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Renovaciones en Chicago</title>
+		<sub-title>Tesoros, baratijas y chismes</sub-title>
+		<desc>Una diseñadora recibe total libertad para renovar y expandir una casa en Chicago. La creatividad y los desafíos se combinan en este emocionante proyecto de renovacion.</desc>
+		<episode-num system="xmltv_ns">3.2.</episode-num>
+	</programme>
+	<programme start="20250112093000 +0000" stop="20250112100000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Programacion pagada</title>
+		<desc>Se emitirá programacion pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.</desc>
+	</programme>
+	<programme start="20250112100000 +0000" stop="20250112103000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Renovaciones en Chicago</title>
+		<sub-title>Construccion en tiempo prestado</sub-title>
+		<desc>Una vivienda antigua necesita ser renovada en un año. Alison enfrenta desafíos para combinar historia y modernidad en cada detalle.</desc>
+		<episode-num system="xmltv_ns">3.7.</episode-num>
+	</programme>
+	<programme start="20250112103000 +0000" stop="20250112110000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Programacion pagada</title>
+		<desc>Se emitirá programacion pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.</desc>
+	</programme>
+	<programme start="20250112110000 +0000" stop="20250112113000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Doki</title>
+		<desc>Doki es una serie para niños, y sus temas, humor y vocabulario están adaptados para ellos.</desc>
+	</programme>
+	<programme start="20250112113000 +0000" stop="20250112120000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Doki</title>
+		<desc>Doki es una serie para niños, y sus temas, humor y vocabulario están adaptados para ellos.</desc>
+	</programme>
+	<programme start="20250112120000 +0000" stop="20250112123000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>El zoo de Zu</title>
+		<sub-title>Si los animales hablaran</sub-title>
+		<desc>Zu encuentra un antiguo almanaque de Magame Margot, una biologa del siglo XIX capaz de conversar con animales, y decide crear un traductor universal de animales. Mientras, Nuno descubre un codigo morse y cree que se trata de un contacto extraterrestre.</desc>
+		<episode-num system="xmltv_ns">0.18.</episode-num>
+	</programme>
+	<programme start="20250112123000 +0000" stop="20250112130000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Paz</title>
+		<sub-title>Cacería de Huevos; Nacio la Primavera; Las Cosas Cambian; el Huevote</sub-title>
+		<desc>Hay una cacería de huevos en casa de Paz y alguien hace trampas.</desc>
+		<episode-num system="xmltv_ns">0.6.</episode-num>
+	</programme>
+	<programme start="20250112130000 +0000" stop="20250112133000 +0000" channel="Discovery Familia (U.S. feed).us">
+		<title>Cleo y Cuquín</title>
+		<sub-title>Aventura al anochecer / La remodelacion / Un cumpleaños espaciástic</sub-title>
+		<desc>Cuando llega la hora de dormir Cuquín se da cuenta de que no tiene a Ramona.</desc>
 	</programme>
 	<programme start="20250110050000 +0000" stop="20250110060000 +0000" channel="ESPN Deportes.us">
 		<title>Fútbol Picante</title>
@@ -46861,6 +47024,50 @@ En Vivo</title>
 		<title>Fútbol: La Liga</title>
 		<sub-title>Alaves vs. Girona</sub-title>
 		<desc>Alaves vs. Girona. Desde Mendizorrotza.</desc>
+	</programme>
+	<programme start="20250111150000 +0000" stop="20250111171500 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol: La Liga</title>
+		<sub-title>Real Valladolid vs. Real Betis</sub-title>
+		<desc>Real Valladolid vs. Real Betis. Desde Estadio Jose Zorrilla.</desc>
+	</programme>
+	<programme start="20250111171500 +0000" stop="20250111193000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol: La Liga</title>
+		<sub-title>Espanyol vs. CD Leganes</sub-title>
+		<desc>Espanyol vs. CD Leganes. Desde Stage Front Stadium.</desc>
+	</programme>
+	<programme start="20250111193000 +0000" stop="20250111220000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol: La Liga</title>
+		<sub-title>Sevilla vs. Valencia</sub-title>
+		<desc>Sevilla vs. Valencia. Desde Ramon Sánchez Pizjuán Stadium.</desc>
+	</programme>
+	<programme start="20250111220000 +0000" stop="20250111230000 +0000" channel="ESPN Deportes.us">
+		<title>ESPN Fútbol Center</title>
+		<desc>Programa de actualidad informativa sobre el mundo del fútbol.</desc>
+	</programme>
+	<programme start="20250111230000 +0000" stop="20250111233000 +0000" channel="ESPN Deportes.us">
+		<title>Greenland</title>
+		<sub-title>San Francisco</sub-title>
+		<desc>Una fascinante mirada al impacto del fútbol en San Francisco. Este documental revela historias inspiradoras de jugadores y la pasion que une a la comunidad.</desc>
+	</programme>
+	<programme start="20250111233000 +0000" stop="20250112000000 +0000" channel="ESPN Deportes.us">
+		<title>Greenland</title>
+		<sub-title>Puerto Rico</sub-title>
+		<desc>Un documental revela el impacto del fútbol en Puerto Rico. Jugadores y fanáticos comparten sus pasiones y desafíos en este vibrante deporte.</desc>
+	</programme>
+	<programme start="20250112000000 +0000" stop="20250112080000 +0000" channel="ESPN Deportes.us">
+		<title>Tenis: Australian Open</title>
+		<sub-title>Primera Ronda Australian Open</sub-title>
+		<desc>Primera Ronda Australian Open desde Melbourne Park, Melbourne, Australia.</desc>
+	</programme>
+	<programme start="20250112080000 +0000" stop="20250112125500 +0000" channel="ESPN Deportes.us">
+		<title>Tenis: Australian Open</title>
+		<sub-title>Primera Ronda Australian Open</sub-title>
+		<desc>Primera Ronda Australian Open, desde Melbourne Park, Melbourne, Australia.</desc>
+	</programme>
+	<programme start="20250112125500 +0000" stop="20250112150000 +0000" channel="ESPN Deportes.us">
+		<title>Fútbol: La Liga</title>
+		<sub-title>Las Palmas vs. Getafe</sub-title>
+		<desc>Las Palmas vs. Getafe. Desde Estadio Gran Canaria.</desc>
 	</programme>
 	<programme start="20250108231000 +0000" stop="20250109010000 +0000" channel="Universal Cinema.uy">
 		<title>Mamma Mia! Vamos otra vez</title>
