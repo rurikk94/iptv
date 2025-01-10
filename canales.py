@@ -1,5 +1,6 @@
 
 incluir = [
+    "[CL] La Red.cl",
     "DAZN.1.es",
     "ESPN Deportes.us",
     "Universal Cinema.uy",

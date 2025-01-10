@@ -822,11 +822,11 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/307
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1443
 #EXTINF:-1 tvg-id="" tvg-name="CHI | HAGALO USTED MISMO" tvg-logo="http://tv.streamid.tv:8080/images/ca969528c923b7c79b792a146039a3d1.jpg" group-title="CHILE", CHI | HAGALO USTED MISMO
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/35842
-#EXTINF:-1 tvg-id="" tvg-name="CHI | LA RED | FHD (ENC)" tvg-logo="http://tv.streamid.tv:8080/images/2fc0ff9a4414c577c8e5030d1269a297.png" group-title="CHILE", CHI | LA RED | FHD (ENC)
+#EXTINF:-1 tvg-id="[CL] La Red.cl" tvg-name="CHI | LA RED | FHD (ENC)" tvg-logo="http://tv.streamid.tv:8080/images/2fc0ff9a4414c577c8e5030d1269a297.png" group-title="CHILE", CHI | LA RED | FHD (ENC)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/754
-#EXTINF:-1 tvg-id="" tvg-name="CHI | LA RED | (LT)" tvg-logo="http://tv.streamid.tv:8080/images/2fc0ff9a4414c577c8e5030d1269a297.png" group-title="CHILE", CHI | LA RED | (LT)
+#EXTINF:-1 tvg-id="[CL] La Red.cl" tvg-name="CHI | LA RED | (LT)" tvg-logo="http://tv.streamid.tv:8080/images/2fc0ff9a4414c577c8e5030d1269a297.png" group-title="CHILE", CHI | LA RED | (LT)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/55755
-#EXTINF:-1 tvg-id="" tvg-name="CHI | LA RED HD | 2mb" tvg-logo="http://tv.streamid.tv:8080/images/2fc0ff9a4414c577c8e5030d1269a297.png" group-title="CHILE", CHI | LA RED HD | 2mb
+#EXTINF:-1 tvg-id="[CL] La Red.cl" tvg-name="CHI | LA RED HD | 2mb" tvg-logo="http://tv.streamid.tv:8080/images/2fc0ff9a4414c577c8e5030d1269a297.png" group-title="CHILE", CHI | LA RED HD | 2mb
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/60112
 #EXTINF:-1 tvg-id="" tvg-name="CHI | MEGA |   FHD | (E) " tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA |   FHD | (E)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/734
