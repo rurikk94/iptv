@@ -198,12 +198,6 @@
 		<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png"></icon>
 		<url>http://www.gatotv.com</url>
 	</channel>
-	<channel id="Univision.Telenovelas.us">
-		<icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s74550_h15_ab.png"></icon>
-		<icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s74550_h15_ab.png"></icon>
-		<url>http://www.tvpassport.com</url>
-		<display-name lang="en">Univision Telenovelas</display-name>
-	</channel>
 	<channel id="Starz.Cinema.HD.-.Eastern.us">
 		<icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s67236_h15_ac.png"></icon>
 		<icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s67236_h15_ac.png"></icon>
@@ -215,6 +209,12 @@
 		<icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png"></icon>
 		<url>http://www.tvpassport.com</url>
 		<display-name lang="en">HBO - Eastern Feed</display-name>
+	</channel>
+	<channel id="Univision.Telenovelas.us">
+		<icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s74550_h15_ab.png"></icon>
+		<icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s74550_h15_ab.png"></icon>
+		<url>http://www.tvpassport.com</url>
+		<display-name lang="en">Univision Telenovelas</display-name>
 	</channel>
 	<channel id="Canal.HBO.Signature.Latinoamérica.ar">
 		<display-name lang="es">Canal HBO Signature Latinoamérica</display-name>
@@ -19573,266 +19573,6 @@ En Vivo</title>
 	<programme start="20250113052100 +0000" stop="20250113065400 +0000" channel="Canal.Golden.Premier.cl">
 		<title lang="es">The girls next door 2</title>
 	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250109083600 +0000" stop="20250109120200 +0000">
-		<title lang="en">Texas Killing Fields</title>
-		<desc lang="en">After a familiar girl goes missing, two detectives race against time before a serial killer claims her as his next victim.</desc>
-		<credits>
-			<actor>Sam Worthington</actor>
-			<actor>Jeffrey Dean Morgan</actor>
-			<actor>Jessica Chastain</actor>
-		</credits>
-		<date>2011</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Thriller</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVPG</value>
-		</rating>
-		<star-rating system="MPAA">
-			<value>4.0/10</value>
-		</star-rating>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250109120200 +0000" stop="20250109134900 +0000">
-		<title lang="en">The Human Factor</title>
-		<desc lang="en">U.S. presidents, politicians and statesmen spend 30 years trying to achieve peace in the Middle East.</desc>
-		<date>2019</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Documentary</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250109134900 +0000" stop="20250109153200 +0000">
-		<title lang="en">Searching</title>
-		<desc lang="en">David Kim becomes desperate when his 16-year-old daughter Margot disappears and an immediate police investigation leads nowhere. He soon uses Margot's laptop to contact her friends and look at photos and videos for any clues to her whereabouts.</desc>
-		<credits>
-			<actor>John Cho</actor>
-			<actor>Debra Messing</actor>
-			<actor>Joseph Lee</actor>
-		</credits>
-		<date>2018</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Thriller</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
-		<star-rating system="MPAA">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250109153200 +0000" stop="20250109165900 +0000">
-		<title lang="en">Midnight Movies: From the Margin to the Mainstream</title>
-		<desc lang="en">Filmmaker Stuart Samuels examines six cult movies that gained a late-night following, including "Night of the Living Dead," "Pink Flamingos" and "Eraserhead.".</desc>
-		<date>2005</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Documentary</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVPG</value>
-		</rating>
-		<star-rating system="MPAA">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250109165900 +0000" stop="20250109182100 +0000">
-		<title lang="en">Head Count</title>
-		<desc lang="en">After escaping prison, Kat's own revolver is pointed to his head by an unknown assailant. As the empty rounds click away, he tries to remember what happened to each bullet.</desc>
-		<credits>
-			<actor>Melanie Zanetti</actor>
-			<actor>Ryan Kwanten</actor>
-			<actor>Aaron Jakubenko</actor>
-		</credits>
-		<date>2023</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Action</category>
-		<previously-shown></previously-shown>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250109182100 +0000" stop="20250109200800 +0000">
-		<title lang="en">The Human Factor</title>
-		<desc lang="en">U.S. presidents, politicians and statesmen spend 30 years trying to achieve peace in the Middle East.</desc>
-		<date>2019</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Documentary</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250109200800 +0000" stop="20250109214400 +0000">
-		<title lang="en">Tanner Hall</title>
-		<desc lang="en">A manipulative childhood acquaintance (Georgia King) worms her way into a teenager's (Rooney Mara) circle of friends at an all-girls boarding school.</desc>
-		<credits>
-			<actor>Rooney Mara</actor>
-			<actor>Georgia King</actor>
-			<actor>Brie Larson</actor>
-		</credits>
-		<date>2009</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Drama</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVPG</value>
-		</rating>
-		<star-rating system="MPAA">
-			<value>4.0/10</value>
-		</star-rating>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250109214400 +0000" stop="20250109234000 +0000">
-		<title lang="en">The Girl in the Spider's Web</title>
-		<desc lang="en">Hacker Lisbeth Salander steals a computer program that can access codes for nuclear weapons worldwide. When Russian thugs seize her laptop, she teams up with an unlikely ally in a race against time to recover the codes and avert disaster.</desc>
-		<credits>
-			<actor>Claire Foy</actor>
-			<actor>Beau Gadsdon</actor>
-			<actor>Sverrir Gudnason</actor>
-		</credits>
-		<date>2018</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Action</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVPG</value>
-		</rating>
-		<star-rating system="MPAA">
-			<value>4.0/10</value>
-		</star-rating>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250109234000 +0000" stop="20250110012000 +0000">
-		<title lang="en">The Rambler</title>
-		<desc lang="en">Released from prison, a man (Dermot Mulroney) returns home to an unsatisfied wife (Natasha Lyonne). He moves to Oregon to help his brother on a ranch, where he meets a mad scientist and a con artist.</desc>
-		<credits>
-			<actor>Dermot Mulroney</actor>
-			<actor>Lindsay Pulsipher</actor>
-			<actor>Natasha Lyonne</actor>
-		</credits>
-		<date>2013</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Horror</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVPG</value>
-		</rating>
-		<star-rating system="MPAA">
-			<value>4.0/10</value>
-		</star-rating>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250110012000 +0000" stop="20250110030300 +0000">
-		<title lang="en">Searching</title>
-		<desc lang="en">David Kim becomes desperate when his 16-year-old daughter Margot disappears and an immediate police investigation leads nowhere. He soon uses Margot's laptop to contact her friends and look at photos and videos for any clues to her whereabouts.</desc>
-		<credits>
-			<actor>John Cho</actor>
-			<actor>Debra Messing</actor>
-			<actor>Joseph Lee</actor>
-		</credits>
-		<date>2018</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Thriller</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
-		<star-rating system="MPAA">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250110030300 +0000" stop="20250110040100 +0000">
-		<title lang="en">Outlander</title>
-		<sub-title lang="en">Written in My Own Heart's Blood</sub-title>
-		<desc lang="en">The American Revolution reaches the pivotal Battle of Monmouth; Lord John Grey and Ian race to save William; Brianna makes an important decision.</desc>
-		<credits>
-			<actor>Caitriona Balfe</actor>
-			<actor>Sam Heughan</actor>
-			<actor>Sophie Skelton</actor>
-		</credits>
-		<category lang="en">Drama</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVMA</value>
-		</rating>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250110040100 +0000" stop="20250110055700 +0000">
-		<title lang="en">The Girl in the Spider's Web</title>
-		<desc lang="en">Hacker Lisbeth Salander steals a computer program that can access codes for nuclear weapons worldwide. When Russian thugs seize her laptop, she teams up with an unlikely ally in a race against time to recover the codes and avert disaster.</desc>
-		<credits>
-			<actor>Claire Foy</actor>
-			<actor>Beau Gadsdon</actor>
-			<actor>Sverrir Gudnason</actor>
-		</credits>
-		<date>2018</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Action</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVPG</value>
-		</rating>
-		<star-rating system="MPAA">
-			<value>4.0/10</value>
-		</star-rating>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250110055700 +0000" stop="20250110065500 +0000">
-		<title lang="en">Outlander</title>
-		<sub-title lang="en">Written in My Own Heart's Blood</sub-title>
-		<desc lang="en">The American Revolution reaches the pivotal Battle of Monmouth; Lord John Grey and Ian race to save William; Brianna makes an important decision.</desc>
-		<credits>
-			<actor>Caitriona Balfe</actor>
-			<actor>Sam Heughan</actor>
-			<actor>Sophie Skelton</actor>
-		</credits>
-		<category lang="en">Drama</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVMA</value>
-		</rating>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250110065500 +0000" stop="20250110085400 +0000">
-		<title lang="en">12 Mighty Orphans</title>
-		<desc lang="en">During the Great Depression, Rusty Russell gives up a privileged position to coach football at an orphanage in Fort Worth, Texas. Whipping his young players into shape, they soon become an inspiration to their city, state and an entire nation.</desc>
-		<credits>
-			<actor>Luke Wilson</actor>
-			<actor>Vinessa Shaw</actor>
-			<actor>Wayne Knight</actor>
-		</credits>
-		<date>2021</date>
-		<category lang="en">Movies</category>
-		<category lang="en">History</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
-		<star-rating system="MPAA">
-			<value>4.0/10</value>
-		</star-rating>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250110085400 +0000" stop="20250110104000 +0000">
-		<title lang="en">Allure</title>
-		<desc lang="en">An unlikely relationship forms between Laura, an emotionally damaged house cleaner, and Eva, a talented 16- year-old pianist who is frustrated with her disciplined life.</desc>
-		<credits>
-			<actor>Evan Rachel Wood</actor>
-			<actor>Julia Sarah Stone</actor>
-			<actor>Denis O'Hare</actor>
-		</credits>
-		<date>2017</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Drama</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TV14</value>
-		</rating>
-	</programme>
-	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250110104000 +0000" stop="20250110104000 +0000">
-		<title lang="en">100 Streets</title>
-		<desc lang="en">Three different stories covering infidelity, adoption and a drug dealer turned actor are intertwined as characters meet in the streets of London.</desc>
-		<credits>
-			<actor>Idris Elba</actor>
-			<actor>Gemma Arterton</actor>
-			<actor>Tom Cullen</actor>
-		</credits>
-		<date>2016</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Drama</category>
-		<previously-shown></previously-shown>
-	</programme>
 	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250110104000 +0000" stop="20250110121500 +0000">
 		<title lang="en">100 Streets</title>
 		<desc lang="en">Three different stories covering infidelity, adoption and a drug dealer turned actor are intertwined as characters meet in the streets of London.</desc>
@@ -20622,329 +20362,254 @@ En Vivo</title>
 			<value>4.0/10</value>
 		</star-rating>
 	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250109110000 +0000" stop="20250109113000 +0000">
-		<title lang="en">Programa pagado</title>
-		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-		<category lang="en">Paid Program</category>
-		<category lang="en">Shopping</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250109113000 +0000" stop="20250109120000 +0000">
-		<title lang="en">Programa pagado</title>
-		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-		<category lang="en">Paid Program</category>
-		<category lang="en">Shopping</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250109120000 +0000" stop="20250109130000 +0000">
-		<title lang="en">Sin tu mirada</title>
-		<desc lang="en">En una noche de tormenta, nace la bella Marina aparentemente sin vida, justo la misma noche que nace un niño sano, cuya madre no sobrevive; es Damiana, la partera del pueblo, quien mueve los hilos del destino para ofrecer dicha a una familia.</desc>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250113094700 +0000" stop="20250113094700 +0000">
+		<title lang="en">Deadly Code</title>
+		<desc lang="en">In Siberia, a boy is raised by his grandfather in a community of criminals and taught to live by their ruthless moral code. He and his best friend become bitter enemies when each grows up to take a different path.</desc>
 		<credits>
-			<actor>Claudia Martín</actor>
-			<actor>Osvaldo de León</actor>
-			<actor>Scarlet Gruber</actor>
+			<actor>Arnas Fedaravicius</actor>
+			<actor>Vilius Tumalavicius</actor>
+			<actor>Eleanor Tomlinson</actor>
 		</credits>
-		<category lang="en">Soaps</category>
-		<previously-shown></previously-shown>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250109130000 +0000" stop="20250109140000 +0000">
-		<title lang="en">Mi pequeña traviesa</title>
-		<desc lang="en">Una joven busca trabajo pero descubre que ser mujer no es ningún beneficio, se viste de hombre para laborar en una sastrería y comienza una doble vida hasta que se enamora de un abogado.</desc>
-		<credits>
-			<actor>Michelle Vieth</actor>
-			<actor>Hector Soberón</actor>
-			<actor>Arleth Terán</actor>
-		</credits>
-		<category lang="en">Soaps</category>
+		<date>2013</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Drama</category>
 		<previously-shown></previously-shown>
 		<rating system="MPAA">
 			<value>TVPG</value>
 		</rating>
 	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250109140000 +0000" stop="20250109150000 +0000">
-		<title lang="en">Peregrina</title>
-		<desc lang="en">La joven gitana Peregrina vive y trabaja en un circo itinerante. Allí, conoce a Rodolfo y se enamoran de inmediato, pero no se imaginan que un oscuro secreto del pasado ya los une.</desc>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250113094700 +0000" stop="20250113113100 +0000">
+		<title lang="en">Deadly Code</title>
+		<desc lang="en">In Siberia, a boy is raised by his grandfather in a community of criminals and taught to live by their ruthless moral code. He and his best friend become bitter enemies when each grows up to take a different path.</desc>
 		<credits>
-			<actor>Eduardo Capetillo</actor>
-			<actor>África Zavala</actor>
-			<actor>Victor Noriega</actor>
+			<actor>Arnas Fedaravicius</actor>
+			<actor>Vilius Tumalavicius</actor>
+			<actor>Eleanor Tomlinson</actor>
 		</credits>
-		<category lang="en">Soaps</category>
+		<date>2013</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Drama</category>
 		<previously-shown></previously-shown>
 		<rating system="MPAA">
 			<value>TVPG</value>
 		</rating>
 	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250109150000 +0000" stop="20250109160000 +0000">
-		<title lang="en">La malquerida</title>
-		<desc lang="en">La historia de doña Raymunda y su hija, Acacia. Al quedar Raymunda viuda, se casa con Esteban, quien es rechazado por su hija, sin saber que en realidad entre ambos se ha despertado un amor profundo que ocultan tras su máscara de hostilidad.</desc>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250113113100 +0000" stop="20250113131200 +0000">
+		<title lang="en">Lying and Stealing</title>
+		<desc lang="en">Hoping to leave his criminal lifestyle behind him, a successful art thief teams up with a sexy con woman to pull off the ultimate heist and set himself free.</desc>
 		<credits>
-			<actor>Victoria Ruffo</actor>
-			<actor>Christian Meier</actor>
-			<actor>Ariadne Díaz</actor>
+			<actor>Theo James</actor>
+			<actor>Emily Ratajkowski</actor>
+			<actor>Fred Melamed</actor>
 		</credits>
-		<category lang="en">Soaps</category>
+		<date>2019</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Thriller</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250113131200 +0000" stop="20250113145200 +0000">
+		<title lang="en">Most Likely to Murder</title>
+		<desc lang="en">When Billy, the coolest kid in high school, comes back to his hometown 15 years later to find he's no longer cool and the girl he still has feelings for now dates the former town outcast, he sets out to prove that his rival is actually a murderer.</desc>
+		<credits>
+			<actor>Adam Pally</actor>
+			<actor>Rachel Bloom</actor>
+			<actor>Doug Mand</actor>
+		</credits>
+		<date>2018</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Comedy</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250113145200 +0000" stop="20250113162200 +0000">
+		<title lang="en">Lady Macbeth</title>
+		<desc lang="en">In rural England, 1865, a woman who is trapped in a loveless marriage to a much older man begins a passionate affair with a man her own age.</desc>
+		<credits>
+			<actor>Florence Pugh</actor>
+			<actor>Cosmo Jarvis</actor>
+			<actor>Paul Hilton</actor>
+		</credits>
+		<date>2016</date>
+		<category lang="en">Movies</category>
+		<category lang="en">History</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVPG</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250113162200 +0000" stop="20250113181800 +0000">
+		<title lang="en">The Girl in the Spider's Web</title>
+		<desc lang="en">Hacker Lisbeth Salander steals a computer program that can access codes for nuclear weapons worldwide. When Russian thugs seize her laptop, she teams up with an unlikely ally in a race against time to recover the codes and avert disaster.</desc>
+		<credits>
+			<actor>Claire Foy</actor>
+			<actor>Beau Gadsdon</actor>
+			<actor>Sverrir Gudnason</actor>
+		</credits>
+		<date>2018</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Action</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVPG</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>4.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250113181800 +0000" stop="20250113201400 +0000">
+		<title lang="en">Safe Haven</title>
+		<desc lang="en">Dark secrets intrude on the blossoming romance between a widowed merchant (Josh Duhamel) and a new arrival (Julianne Hough) in a small North Carolina town.</desc>
+		<credits>
+			<actor>Josh Duhamel</actor>
+			<actor>Julianne Hough</actor>
+			<actor>Cobie Smulders</actor>
+		</credits>
+		<date>2013</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Romance</category>
+		<premiere lang="en"></premiere>
+		<rating system="MPAA">
+			<value>TVG</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>4.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250113201400 +0000" stop="20250113215400 +0000">
+		<title lang="en">Most Likely to Murder</title>
+		<desc lang="en">When Billy, the coolest kid in high school, comes back to his hometown 15 years later to find he's no longer cool and the girl he still has feelings for now dates the former town outcast, he sets out to prove that his rival is actually a murderer.</desc>
+		<credits>
+			<actor>Adam Pally</actor>
+			<actor>Rachel Bloom</actor>
+			<actor>Doug Mand</actor>
+		</credits>
+		<date>2018</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Comedy</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250113215400 +0000" stop="20250113233800 +0000">
+		<title lang="en">Deadly Code</title>
+		<desc lang="en">In Siberia, a boy is raised by his grandfather in a community of criminals and taught to live by their ruthless moral code. He and his best friend become bitter enemies when each grows up to take a different path.</desc>
+		<credits>
+			<actor>Arnas Fedaravicius</actor>
+			<actor>Vilius Tumalavicius</actor>
+			<actor>Eleanor Tomlinson</actor>
+		</credits>
+		<date>2013</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Drama</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250113233800 +0000" stop="20250114011900 +0000">
+		<title lang="en">At Middleton</title>
+		<desc lang="en">Though adversaries at first, romantic sparks begin to fly between a surgeon (Andy Garcia) and a retailer (Vera Farmiga) during a college tour with their teenage offspring.</desc>
+		<credits>
+			<actor>Andy Garcia</actor>
+			<actor>Vera Farmiga</actor>
+			<actor>Taissa Farmiga</actor>
+		</credits>
+		<date>2013</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Romance</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVG</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>4.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250114011900 +0000" stop="20250114030000 +0000">
+		<title lang="en">Lying and Stealing</title>
+		<desc lang="en">Hoping to leave his criminal lifestyle behind him, a successful art thief teams up with a sexy con woman to pull off the ultimate heist and set himself free.</desc>
+		<credits>
+			<actor>Theo James</actor>
+			<actor>Emily Ratajkowski</actor>
+			<actor>Fred Melamed</actor>
+		</credits>
+		<date>2019</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Thriller</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250114030000 +0000" stop="20250114050500 +0000">
+		<title lang="en">Nine Days</title>
+		<desc lang="en">A man interviews five unborn souls to determine which one can be given life on Earth.</desc>
+		<credits>
+			<actor>Winston Duke</actor>
+			<actor>Zazie Beetz</actor>
+			<actor>Bill Skarsgård</actor>
+		</credits>
+		<date>2020</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Fantasy</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250114050500 +0000" stop="20250114063300 +0000">
+		<title lang="en">1982</title>
+		<desc lang="en">A father hides his wife's drug addiction from his daughter.</desc>
+		<credits>
+			<actor>Sharon Leal</actor>
+			<actor>Bokeem Woodbine</actor>
+			<actor>Wayne Brady</actor>
+		</credits>
+		<date>2013</date>
+		<category lang="en">Movies</category>
 		<category lang="en">Drama</category>
 		<previously-shown></previously-shown>
 	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250109160000 +0000" stop="20250109170000 +0000">
-		<title lang="en">Antes muerta que Lichita</title>
-		<desc lang="en">Lichita lleva ocho años trabajando en una agencia de publicidad, en donde se siente subestimada. Un fuerte impulso por cambiar la lleva a una transformación en la que pasa a ser la poderosa de la oficina, con todo lo bueno y malo que eso implica.</desc>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250114063300 +0000" stop="20250114080600 +0000">
+		<title lang="en">Small Town Crime</title>
+		<desc lang="en">When alcoholic ex-cop Mike Kendall finds the body of a young woman, he becomes obsessed with redeeming himself by finding the killer. In the process, he puts himself and his family in danger while hanging out with an assortment of shady characters.</desc>
 		<credits>
-			<actor>Maite Perroni</actor>
-			<actor>Arath de la Torre</actor>
-			<actor>Sherlyn</actor>
+			<actor>John Hawkes</actor>
+			<actor>Anthony Anderson</actor>
+			<actor>Octavia Spencer</actor>
 		</credits>
-		<category lang="en">Soaps</category>
+		<date>2017</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Thriller</category>
 		<previously-shown></previously-shown>
 	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250109170000 +0000" stop="20250109180000 +0000">
-		<title lang="en">Teresa</title>
-		<desc lang="en">Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+	<programme channel="Starz.Cinema.HD.-.Eastern.us" start="20250114080600 +0000" stop="20250114094700 +0000">
+		<title lang="en">Of an Age</title>
+		<desc lang="en">During the summer of 1999, an 18-year-old amateur ballroom dancer has an unexpected and intense 24-hour romance with a friend's older brother.</desc>
 		<credits>
-			<actor>Aarón Díaz</actor>
-			<actor>Angelique Boyer</actor>
-			<actor>Sebastián Rulli</actor>
+			<actor>Elias Anton</actor>
+			<actor>Tom Green</actor>
+			<actor>Hattie Hook</actor>
 		</credits>
-		<category lang="en">Soaps</category>
-		<previously-shown></previously-shown>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250109180000 +0000" stop="20250109190000 +0000">
-		<title lang="en">Sin tu mirada</title>
-		<desc lang="en">En una noche de tormenta, nace la bella Marina aparentemente sin vida, justo la misma noche que nace un niño sano, cuya madre no sobrevive; es Damiana, la partera del pueblo, quien mueve los hilos del destino para ofrecer dicha a una familia.</desc>
-		<credits>
-			<actor>Claudia Martín</actor>
-			<actor>Osvaldo de León</actor>
-			<actor>Scarlet Gruber</actor>
-		</credits>
-		<category lang="en">Soaps</category>
-		<previously-shown></previously-shown>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250109190000 +0000" stop="20250109200000 +0000">
-		<title lang="en">Mi pequeña traviesa</title>
-		<desc lang="en">Una joven busca trabajo pero descubre que ser mujer no es ningún beneficio, se viste de hombre para laborar en una sastrería y comienza una doble vida hasta que se enamora de un abogado.</desc>
-		<credits>
-			<actor>Michelle Vieth</actor>
-			<actor>Hector Soberón</actor>
-			<actor>Arleth Terán</actor>
-		</credits>
-		<category lang="en">Soaps</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVPG</value>
-		</rating>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250109200000 +0000" stop="20250109210000 +0000">
-		<title lang="en">Peregrina</title>
-		<desc lang="en">La joven gitana Peregrina vive y trabaja en un circo itinerante. Allí, conoce a Rodolfo y se enamoran de inmediato, pero no se imaginan que un oscuro secreto del pasado ya los une.</desc>
-		<credits>
-			<actor>Eduardo Capetillo</actor>
-			<actor>África Zavala</actor>
-			<actor>Victor Noriega</actor>
-		</credits>
-		<category lang="en">Soaps</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVPG</value>
-		</rating>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250109210000 +0000" stop="20250109220000 +0000">
-		<title lang="en">La malquerida</title>
-		<desc lang="en">La historia de doña Raymunda y su hija, Acacia. Al quedar Raymunda viuda, se casa con Esteban, quien es rechazado por su hija, sin saber que en realidad entre ambos se ha despertado un amor profundo que ocultan tras su máscara de hostilidad.</desc>
-		<credits>
-			<actor>Victoria Ruffo</actor>
-			<actor>Christian Meier</actor>
-			<actor>Ariadne Díaz</actor>
-		</credits>
-		<category lang="en">Soaps</category>
-		<category lang="en">Drama</category>
-		<previously-shown></previously-shown>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250109220000 +0000" stop="20250109230000 +0000">
-		<title lang="en">Antes muerta que Lichita</title>
-		<desc lang="en">Lichita lleva ocho años trabajando en una agencia de publicidad, en donde se siente subestimada. Un fuerte impulso por cambiar la lleva a una transformación en la que pasa a ser la poderosa de la oficina, con todo lo bueno y malo que eso implica.</desc>
-		<credits>
-			<actor>Maite Perroni</actor>
-			<actor>Arath de la Torre</actor>
-			<actor>Sherlyn</actor>
-		</credits>
-		<category lang="en">Soaps</category>
-		<previously-shown></previously-shown>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250109230000 +0000" stop="20250110000000 +0000">
-		<title lang="en">Teresa</title>
-		<desc lang="en">Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
-		<credits>
-			<actor>Aarón Díaz</actor>
-			<actor>Angelique Boyer</actor>
-			<actor>Sebastián Rulli</actor>
-		</credits>
-		<category lang="en">Soaps</category>
-		<previously-shown></previously-shown>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250110000000 +0000" stop="20250110010000 +0000">
-		<title lang="en">Sin tu mirada</title>
-		<desc lang="en">En una noche de tormenta, nace la bella Marina aparentemente sin vida, justo la misma noche que nace un niño sano, cuya madre no sobrevive; es Damiana, la partera del pueblo, quien mueve los hilos del destino para ofrecer dicha a una familia.</desc>
-		<credits>
-			<actor>Claudia Martín</actor>
-			<actor>Osvaldo de León</actor>
-			<actor>Scarlet Gruber</actor>
-		</credits>
-		<category lang="en">Soaps</category>
-		<previously-shown></previously-shown>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250110010000 +0000" stop="20250110020000 +0000">
-		<title lang="en">Mi pequeña traviesa</title>
-		<desc lang="en">Una joven busca trabajo pero descubre que ser mujer no es ningún beneficio, se viste de hombre para laborar en una sastrería y comienza una doble vida hasta que se enamora de un abogado.</desc>
-		<credits>
-			<actor>Michelle Vieth</actor>
-			<actor>Hector Soberón</actor>
-			<actor>Arleth Terán</actor>
-		</credits>
-		<category lang="en">Soaps</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVPG</value>
-		</rating>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250110020000 +0000" stop="20250110030000 +0000">
-		<title lang="en">Peregrina</title>
-		<desc lang="en">La joven gitana Peregrina vive y trabaja en un circo itinerante. Allí, conoce a Rodolfo y se enamoran de inmediato, pero no se imaginan que un oscuro secreto del pasado ya los une.</desc>
-		<credits>
-			<actor>Eduardo Capetillo</actor>
-			<actor>África Zavala</actor>
-			<actor>Victor Noriega</actor>
-		</credits>
-		<category lang="en">Soaps</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVPG</value>
-		</rating>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250110030000 +0000" stop="20250110040000 +0000">
-		<title lang="en">La malquerida</title>
-		<desc lang="en">La historia de doña Raymunda y su hija, Acacia. Al quedar Raymunda viuda, se casa con Esteban, quien es rechazado por su hija, sin saber que en realidad entre ambos se ha despertado un amor profundo que ocultan tras su máscara de hostilidad.</desc>
-		<credits>
-			<actor>Victoria Ruffo</actor>
-			<actor>Christian Meier</actor>
-			<actor>Ariadne Díaz</actor>
-		</credits>
-		<category lang="en">Soaps</category>
-		<category lang="en">Drama</category>
-		<previously-shown></previously-shown>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250110040000 +0000" stop="20250110050000 +0000">
-		<title lang="en">Antes muerta que Lichita</title>
-		<desc lang="en">Lichita lleva ocho años trabajando en una agencia de publicidad, en donde se siente subestimada. Un fuerte impulso por cambiar la lleva a una transformación en la que pasa a ser la poderosa de la oficina, con todo lo bueno y malo que eso implica.</desc>
-		<credits>
-			<actor>Maite Perroni</actor>
-			<actor>Arath de la Torre</actor>
-			<actor>Sherlyn</actor>
-		</credits>
-		<category lang="en">Soaps</category>
-		<previously-shown></previously-shown>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250110050000 +0000" stop="20250110060000 +0000">
-		<title lang="en">Teresa</title>
-		<desc lang="en">Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
-		<credits>
-			<actor>Aarón Díaz</actor>
-			<actor>Angelique Boyer</actor>
-			<actor>Sebastián Rulli</actor>
-		</credits>
-		<category lang="en">Soaps</category>
-		<previously-shown></previously-shown>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250110060000 +0000" stop="20250110070000 +0000">
-		<title lang="en">Sin tu mirada</title>
-		<desc lang="en">En una noche de tormenta, nace la bella Marina aparentemente sin vida, justo la misma noche que nace un niño sano, cuya madre no sobrevive; es Damiana, la partera del pueblo, quien mueve los hilos del destino para ofrecer dicha a una familia.</desc>
-		<credits>
-			<actor>Claudia Martín</actor>
-			<actor>Osvaldo de León</actor>
-			<actor>Scarlet Gruber</actor>
-		</credits>
-		<category lang="en">Soaps</category>
-		<previously-shown></previously-shown>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250110070000 +0000" stop="20250110080000 +0000">
-		<title lang="en">Mi pequeña traviesa</title>
-		<desc lang="en">Una joven busca trabajo pero descubre que ser mujer no es ningún beneficio, se viste de hombre para laborar en una sastrería y comienza una doble vida hasta que se enamora de un abogado.</desc>
-		<credits>
-			<actor>Michelle Vieth</actor>
-			<actor>Hector Soberón</actor>
-			<actor>Arleth Terán</actor>
-		</credits>
-		<category lang="en">Soaps</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVPG</value>
-		</rating>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250110080000 +0000" stop="20250110083000 +0000">
-		<title lang="en">Programa pagado</title>
-		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-		<category lang="en">Paid Program</category>
-		<category lang="en">Shopping</category>
+		<date>2022</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Romance</category>
 		<previously-shown></previously-shown>
 		<rating system="MPAA">
 			<value>TVG</value>
 		</rating>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250110083000 +0000" stop="20250110090000 +0000">
-		<title lang="en">Programa pagado</title>
-		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-		<category lang="en">Paid Program</category>
-		<category lang="en">Shopping</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250110090000 +0000" stop="20250110093000 +0000">
-		<title lang="en">Programa pagado</title>
-		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-		<category lang="en">Paid Program</category>
-		<category lang="en">Shopping</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250110093000 +0000" stop="20250110100000 +0000">
-		<title lang="en">Programa pagado</title>
-		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-		<category lang="en">Paid Program</category>
-		<category lang="en">Shopping</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250110100000 +0000" stop="20250110103000 +0000">
-		<title lang="en">Programa pagado</title>
-		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-		<category lang="en">Paid Program</category>
-		<category lang="en">Shopping</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
-	</programme>
-	<programme channel="Univision.Telenovelas.us" start="20250110103000 +0000" stop="20250110110000 +0000">
-		<title lang="en">Programa pagado</title>
-		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
-		<category lang="en">Paid Program</category>
-		<category lang="en">Shopping</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
+		<star-rating system="MPAA">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme channel="Univision.Telenovelas.us" start="20250110110000 +0000" stop="20250110113000 +0000">
 		<title lang="en">Programa pagado</title>
@@ -21834,257 +21499,330 @@ En Vivo</title>
 		<category lang="en">Soaps</category>
 		<previously-shown></previously-shown>
 	</programme>
-	<programme channel="HBO.-.Eastern.Feed.us" start="20250109093700 +0000" stop="20250109111800 +0000">
-		<title lang="en">The Whistlers</title>
-		<desc lang="en">A Romanian police officer, determined to free from prison a crooked businessman who knows where a mobster's money is hidden, must learn the difficult ancestral language used on the island of Gomera.</desc>
+	<programme channel="Univision.Telenovelas.us" start="20250113070000 +0000" stop="20250113110000 +0000">
+		<title lang="en">Antes muerta que Lichita</title>
+		<desc lang="en">Lichita lleva ocho años trabajando en una agencia de publicidad, en donde se siente subestimada. Un fuerte impulso por cambiar la lleva a una transformación en la que pasa a ser la poderosa de la oficina, con todo lo bueno y malo que eso implica.</desc>
 		<credits>
-			<actor>Vlad Ivanov</actor>
-			<actor>Catrinel Marlon</actor>
-			<actor>Rodica Lazar</actor>
+			<actor>Maite Perroni</actor>
+			<actor>Arath de la Torre</actor>
+			<actor>Sherlyn</actor>
 		</credits>
-		<date>2019</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Thriller</category>
-		<premiere lang="en"></premiere>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
 	</programme>
-	<programme channel="HBO.-.Eastern.Feed.us" start="20250109111800 +0000" stop="20250109141000 +0000">
-		<title lang="en">The Hobbit: An Unexpected Journey</title>
-		<desc lang="en">At the urging of the wizard Gandalf (Ian McKellen), unassuming hobbit Bilbo Baggins (Martin Freeman) joins 13 dwarves on a perilous quest to reclaim the kingdom of Erebor and gains possession of the powerful One Ring.</desc>
-		<credits>
-			<actor>Ian McKellen</actor>
-			<actor>Martin Freeman</actor>
-			<actor>Richard Armitage</actor>
-		</credits>
-		<date>2012</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Fantasy</category>
+	<programme channel="Univision.Telenovelas.us" start="20250113110000 +0000" stop="20250113113000 +0000">
+		<title lang="en">Programa pagado</title>
+		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
+		<category lang="en">Paid Program</category>
+		<category lang="en">Shopping</category>
 		<previously-shown></previously-shown>
 		<rating system="MPAA">
 			<value>TVG</value>
 		</rating>
-		<star-rating system="MPAA">
-			<value>4.0/10</value>
-		</star-rating>
 	</programme>
-	<programme channel="HBO.-.Eastern.Feed.us" start="20250109141000 +0000" stop="20250109153500 +0000">
-		<title lang="en">Reality</title>
-		<desc lang="en">A former American intelligence specialist is given the longest sentence for the unauthorized release of government information to the media about Russian interference in the 2016 United States elections via an email operation.</desc>
+	<programme channel="Univision.Telenovelas.us" start="20250113113000 +0000" stop="20250113120000 +0000">
+		<title lang="en">Programa pagado</title>
+		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
+		<category lang="en">Paid Program</category>
+		<category lang="en">Shopping</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250113120000 +0000" stop="20250113130000 +0000">
+		<title lang="en">Sin tu mirada</title>
+		<desc lang="en">En una noche de tormenta, nace la bella Marina aparentemente sin vida, justo la misma noche que nace un niño sano, cuya madre no sobrevive; es Damiana, la partera del pueblo, quien mueve los hilos del destino para ofrecer dicha a una familia.</desc>
 		<credits>
-			<actor>Sydney Sweeney</actor>
-			<actor>Josh Hamilton</actor>
-			<actor>Marchánt Davis</actor>
+			<actor>Claudia Martín</actor>
+			<actor>Osvaldo de León</actor>
+			<actor>Scarlet Gruber</actor>
 		</credits>
-		<date>2023</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Drama</category>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250113130000 +0000" stop="20250113140000 +0000">
+		<title lang="en">Mi pequeña traviesa</title>
+		<desc lang="en">Una joven busca trabajo pero descubre que ser mujer no es ningún beneficio, se viste de hombre para laborar en una sastrería y comienza una doble vida hasta que se enamora de un abogado.</desc>
+		<credits>
+			<actor>Michelle Vieth</actor>
+			<actor>Hector Soberón</actor>
+			<actor>Arleth Terán</actor>
+		</credits>
+		<category lang="en">Soaps</category>
 		<previously-shown></previously-shown>
 		<rating system="MPAA">
 			<value>TVPG</value>
 		</rating>
 	</programme>
-	<programme channel="HBO.-.Eastern.Feed.us" start="20250109153500 +0000" stop="20250109171700 +0000">
-		<title lang="en">Role Models</title>
-		<desc lang="en">Forced to join a mentorship program, two irresponsible men (Seann William Scott, Paul Rudd) must help a pair of impressionable boys navigate the troubled waters of youth.</desc>
+	<programme channel="Univision.Telenovelas.us" start="20250113140000 +0000" stop="20250113150000 +0000">
+		<title lang="en">Peregrina</title>
+		<desc lang="en">La joven gitana Peregrina vive y trabaja en un circo itinerante. Allí, conoce a Rodolfo y se enamoran de inmediato, pero no se imaginan que un oscuro secreto del pasado ya los une.</desc>
 		<credits>
-			<actor>Seann William Scott</actor>
-			<actor>Paul Rudd</actor>
-			<actor>Christopher Mintz-Plasse</actor>
+			<actor>Eduardo Capetillo</actor>
+			<actor>África Zavala</actor>
+			<actor>Victor Noriega</actor>
 		</credits>
-		<date>2008</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Comedy</category>
+		<category lang="en">Soaps</category>
 		<previously-shown></previously-shown>
 		<rating system="MPAA">
 			<value>TVPG</value>
 		</rating>
-		<star-rating system="MPAA">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
-	<programme channel="HBO.-.Eastern.Feed.us" start="20250109171700 +0000" stop="20250109193000 +0000">
-		<title lang="en">Need for Speed</title>
-		<desc lang="en">Determined to take down his treacherous rival (Dominic Cooper), a street-car racer (Aaron Paul) runs through a cross-country net of cops and bounty hunters to enter the most prestigious race in the underground racing circuit.</desc>
+	<programme channel="Univision.Telenovelas.us" start="20250113150000 +0000" stop="20250113160000 +0000">
+		<title lang="en">La malquerida</title>
+		<desc lang="en">La historia de doña Raymunda y su hija, Acacia. Al quedar Raymunda viuda, se casa con Esteban, quien es rechazado por su hija, sin saber que en realidad entre ambos se ha despertado un amor profundo que ocultan tras su máscara de hostilidad.</desc>
 		<credits>
-			<actor>Aaron Paul</actor>
-			<actor>Dominic Cooper</actor>
-			<actor>Imogen Poots</actor>
+			<actor>Victoria Ruffo</actor>
+			<actor>Christian Meier</actor>
+			<actor>Ariadne Díaz</actor>
 		</credits>
-		<date>2014</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Action</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
-		<star-rating system="MPAA">
-			<value>4.0/10</value>
-		</star-rating>
-	</programme>
-	<programme channel="HBO.-.Eastern.Feed.us" start="20250109193000 +0000" stop="20250109211000 +0000">
-		<title lang="en">Paddington</title>
-		<desc lang="en">A lost Peruvian bear (Ben Whishaw) finds shelter with a kind British family, but a museum taxidermist (Nicole Kidman) has designs on his rare hide.</desc>
-		<credits>
-			<actor>Hugh Bonneville</actor>
-			<actor>Sally Hawkins</actor>
-			<actor>Julie Walters</actor>
-		</credits>
-		<date>2014</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Children</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
-		<star-rating system="MPAA">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme channel="HBO.-.Eastern.Feed.us" start="20250109211000 +0000" stop="20250109231200 +0000">
-		<title lang="en">Steel Magnolias</title>
-		<desc lang="en">Based on the play about six Southern women who become close friends despite their eccentricities and complicated lives.</desc>
-		<credits>
-			<actor>Sally Field</actor>
-			<actor>Dolly Parton</actor>
-			<actor>Shirley MacLaine</actor>
-		</credits>
-		<date>1989</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Comedy</category>
+		<category lang="en">Soaps</category>
 		<category lang="en">Drama</category>
 		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVG</value>
-		</rating>
-		<star-rating system="MPAA">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
-	<programme channel="HBO.-.Eastern.Feed.us" start="20250109231200 +0000" stop="20250110010000 +0000">
-		<title lang="en">Beetlejuice Beetlejuice</title>
-		<desc lang="en">Still haunted by Beetlejuice, Lydia's life gets turned upside down when her daughter discovers a portal to the afterlife. When someone says Beetlejuice's name three times, the mischievous demon returns to unleash his very own brand of mayhem.</desc>
+	<programme channel="Univision.Telenovelas.us" start="20250113160000 +0000" stop="20250113170000 +0000">
+		<title lang="en">Antes muerta que Lichita</title>
+		<desc lang="en">Lichita lleva ocho años trabajando en una agencia de publicidad, en donde se siente subestimada. Un fuerte impulso por cambiar la lleva a una transformación en la que pasa a ser la poderosa de la oficina, con todo lo bueno y malo que eso implica.</desc>
 		<credits>
-			<actor>Michael Keaton</actor>
-			<actor>Winona Ryder</actor>
-			<actor>Catherine O'Hara</actor>
+			<actor>Maite Perroni</actor>
+			<actor>Arath de la Torre</actor>
+			<actor>Sherlyn</actor>
 		</credits>
-		<date>2024</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Comedy</category>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250113170000 +0000" stop="20250113180000 +0000">
+		<title lang="en">Teresa</title>
+		<desc lang="en">Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+		<credits>
+			<actor>Aarón Díaz</actor>
+			<actor>Angelique Boyer</actor>
+			<actor>Sebastián Rulli</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250113180000 +0000" stop="20250113190000 +0000">
+		<title lang="en">Sin tu mirada</title>
+		<desc lang="en">En una noche de tormenta, nace la bella Marina aparentemente sin vida, justo la misma noche que nace un niño sano, cuya madre no sobrevive; es Damiana, la partera del pueblo, quien mueve los hilos del destino para ofrecer dicha a una familia.</desc>
+		<credits>
+			<actor>Claudia Martín</actor>
+			<actor>Osvaldo de León</actor>
+			<actor>Scarlet Gruber</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250113190000 +0000" stop="20250113200000 +0000">
+		<title lang="en">Mi pequeña traviesa</title>
+		<desc lang="en">Una joven busca trabajo pero descubre que ser mujer no es ningún beneficio, se viste de hombre para laborar en una sastrería y comienza una doble vida hasta que se enamora de un abogado.</desc>
+		<credits>
+			<actor>Michelle Vieth</actor>
+			<actor>Hector Soberón</actor>
+			<actor>Arleth Terán</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250113200000 +0000" stop="20250113210000 +0000">
+		<title lang="en">Peregrina</title>
+		<desc lang="en">La joven gitana Peregrina vive y trabaja en un circo itinerante. Allí, conoce a Rodolfo y se enamoran de inmediato, pero no se imaginan que un oscuro secreto del pasado ya los une.</desc>
+		<credits>
+			<actor>Eduardo Capetillo</actor>
+			<actor>África Zavala</actor>
+			<actor>Victor Noriega</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250113210000 +0000" stop="20250113220000 +0000">
+		<title lang="en">La malquerida</title>
+		<desc lang="en">La historia de doña Raymunda y su hija, Acacia. Al quedar Raymunda viuda, se casa con Esteban, quien es rechazado por su hija, sin saber que en realidad entre ambos se ha despertado un amor profundo que ocultan tras su máscara de hostilidad.</desc>
+		<credits>
+			<actor>Victoria Ruffo</actor>
+			<actor>Christian Meier</actor>
+			<actor>Ariadne Díaz</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<category lang="en">Drama</category>
+		<previously-shown></previously-shown>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250113220000 +0000" stop="20250113230000 +0000">
+		<title lang="en">Antes muerta que Lichita</title>
+		<desc lang="en">Lichita lleva ocho años trabajando en una agencia de publicidad, en donde se siente subestimada. Un fuerte impulso por cambiar la lleva a una transformación en la que pasa a ser la poderosa de la oficina, con todo lo bueno y malo que eso implica.</desc>
+		<credits>
+			<actor>Maite Perroni</actor>
+			<actor>Arath de la Torre</actor>
+			<actor>Sherlyn</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250113230000 +0000" stop="20250114000000 +0000">
+		<title lang="en">Teresa</title>
+		<desc lang="en">Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+		<credits>
+			<actor>Aarón Díaz</actor>
+			<actor>Angelique Boyer</actor>
+			<actor>Sebastián Rulli</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250114000000 +0000" stop="20250114010000 +0000">
+		<title lang="en">Sin tu mirada</title>
+		<desc lang="en">En una noche de tormenta, nace la bella Marina aparentemente sin vida, justo la misma noche que nace un niño sano, cuya madre no sobrevive; es Damiana, la partera del pueblo, quien mueve los hilos del destino para ofrecer dicha a una familia.</desc>
+		<credits>
+			<actor>Claudia Martín</actor>
+			<actor>Osvaldo de León</actor>
+			<actor>Scarlet Gruber</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250114010000 +0000" stop="20250114020000 +0000">
+		<title lang="en">Mi pequeña traviesa</title>
+		<desc lang="en">Una joven busca trabajo pero descubre que ser mujer no es ningún beneficio, se viste de hombre para laborar en una sastrería y comienza una doble vida hasta que se enamora de un abogado.</desc>
+		<credits>
+			<actor>Michelle Vieth</actor>
+			<actor>Hector Soberón</actor>
+			<actor>Arleth Terán</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250114020000 +0000" stop="20250114030000 +0000">
+		<title lang="en">Peregrina</title>
+		<desc lang="en">La joven gitana Peregrina vive y trabaja en un circo itinerante. Allí, conoce a Rodolfo y se enamoran de inmediato, pero no se imaginan que un oscuro secreto del pasado ya los une.</desc>
+		<credits>
+			<actor>Eduardo Capetillo</actor>
+			<actor>África Zavala</actor>
+			<actor>Victor Noriega</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250114030000 +0000" stop="20250114040000 +0000">
+		<title lang="en">La malquerida</title>
+		<desc lang="en">La historia de doña Raymunda y su hija, Acacia. Al quedar Raymunda viuda, se casa con Esteban, quien es rechazado por su hija, sin saber que en realidad entre ambos se ha despertado un amor profundo que ocultan tras su máscara de hostilidad.</desc>
+		<credits>
+			<actor>Victoria Ruffo</actor>
+			<actor>Christian Meier</actor>
+			<actor>Ariadne Díaz</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<category lang="en">Drama</category>
+		<previously-shown></previously-shown>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250114040000 +0000" stop="20250114050000 +0000">
+		<title lang="en">Antes muerta que Lichita</title>
+		<desc lang="en">Lichita lleva ocho años trabajando en una agencia de publicidad, en donde se siente subestimada. Un fuerte impulso por cambiar la lleva a una transformación en la que pasa a ser la poderosa de la oficina, con todo lo bueno y malo que eso implica.</desc>
+		<credits>
+			<actor>Maite Perroni</actor>
+			<actor>Arath de la Torre</actor>
+			<actor>Sherlyn</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250114050000 +0000" stop="20250114060000 +0000">
+		<title lang="en">Teresa</title>
+		<desc lang="en">Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+		<credits>
+			<actor>Aarón Díaz</actor>
+			<actor>Angelique Boyer</actor>
+			<actor>Sebastián Rulli</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250114060000 +0000" stop="20250114070000 +0000">
+		<title lang="en">Sin tu mirada</title>
+		<desc lang="en">En una noche de tormenta, nace la bella Marina aparentemente sin vida, justo la misma noche que nace un niño sano, cuya madre no sobrevive; es Damiana, la partera del pueblo, quien mueve los hilos del destino para ofrecer dicha a una familia.</desc>
+		<credits>
+			<actor>Claudia Martín</actor>
+			<actor>Osvaldo de León</actor>
+			<actor>Scarlet Gruber</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250114070000 +0000" stop="20250114080000 +0000">
+		<title lang="en">Mi pequeña traviesa</title>
+		<desc lang="en">Una joven busca trabajo pero descubre que ser mujer no es ningún beneficio, se viste de hombre para laborar en una sastrería y comienza una doble vida hasta que se enamora de un abogado.</desc>
+		<credits>
+			<actor>Michelle Vieth</actor>
+			<actor>Hector Soberón</actor>
+			<actor>Arleth Terán</actor>
+		</credits>
+		<category lang="en">Soaps</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250114080000 +0000" stop="20250114083000 +0000">
+		<title lang="en">Programa pagado</title>
+		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
+		<category lang="en">Paid Program</category>
+		<category lang="en">Shopping</category>
 		<previously-shown></previously-shown>
 		<rating system="MPAA">
 			<value>TVG</value>
 		</rating>
-		<star-rating system="MPAA">
-			<value>4.0/10</value>
-		</star-rating>
 	</programme>
-	<programme channel="HBO.-.Eastern.Feed.us" start="20250110010000 +0000" stop="20250110034900 +0000">
-		<title lang="en">Dune: Part Two</title>
-		<desc lang="en">Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.</desc>
-		<credits>
-			<actor>Timothée Chalamet</actor>
-			<actor>Zendaya</actor>
-			<actor>Rebecca Ferguson</actor>
-		</credits>
-		<date>2024</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Sci-Fi</category>
+	<programme channel="Univision.Telenovelas.us" start="20250114083000 +0000" stop="20250114090000 +0000">
+		<title lang="en">Programa pagado</title>
+		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
+		<category lang="en">Paid Program</category>
+		<category lang="en">Shopping</category>
 		<previously-shown></previously-shown>
 		<rating system="MPAA">
 			<value>TVG</value>
 		</rating>
-		<star-rating system="MPAA">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
-	<programme channel="HBO.-.Eastern.Feed.us" start="20250110034900 +0000" stop="20250110053500 +0000">
-		<title lang="en">Love Lies Bleeding</title>
-		<desc lang="en">A bodybuilder heading through town to Vegas is thrust into the dangerous plot of a violent crime family when she falls into a steamy romance with her trainer.</desc>
-		<credits>
-			<actor>Kristen Stewart</actor>
-			<actor>Katy O'Brian</actor>
-			<actor>Ed Harris</actor>
-		</credits>
-		<date>2024</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Thriller</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TV14</value>
-		</rating>
-		<star-rating system="MPAA">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme channel="HBO.-.Eastern.Feed.us" start="20250110053500 +0000" stop="20250110064500 +0000">
-		<title lang="en">Bill Maher: #Adulting</title>
-		<desc lang="en">From the stage of Miami's Fillmore Theater, Bill Maher returns for a scathing hour of his signature commentary on hot-button issues, bringing his no-holds-barred perspective to cancel culture, quarantine, Q-Anon and everything in-between.</desc>
-		<credits>
-			<actor>Bill Maher</actor>
-		</credits>
-		<category lang="en">Specials</category>
-		<category lang="en">Comedy</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TVMA</value>
-		</rating>
-	</programme>
-	<programme channel="HBO.-.Eastern.Feed.us" start="20250110064500 +0000" stop="20250110090500 +0000">
-		<title lang="en">Joker: Folie à Deux</title>
-		<desc lang="en">Struggling with his dual identity, failed comedian Arthur Fleck stumbles upon true love while incarcerated at Arkham State Hospital. Awaiting trial for the murder of five people, Fleck soon discovers the music that's always been inside him.</desc>
-		<credits>
-			<actor>Joaquin Phoenix</actor>
-			<actor>Lady Gaga</actor>
-			<actor>Brendan Gleeson</actor>
-		</credits>
-		<date>2024</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Musical</category>
-		<previously-shown></previously-shown>
-		<rating system="MPAA">
-			<value>TV14</value>
-		</rating>
-		<star-rating system="MPAA">
-			<value>4.0/10</value>
-		</star-rating>
-	</programme>
-	<programme channel="HBO.-.Eastern.Feed.us" start="20250110090500 +0000" stop="20250110105400 +0000">
-		<title lang="en">Trap</title>
-		<desc lang="en">A man and his teenage daughter realize they're at the center of a dark and sinister event while watching a concert.</desc>
-		<credits>
-			<actor>Josh Hartnett</actor>
-			<actor>Ariel Donoghue</actor>
-			<actor>Saleka Shyamalan</actor>
-		</credits>
-		<date>2024</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Thriller</category>
+	<programme channel="Univision.Telenovelas.us" start="20250114090000 +0000" stop="20250114093000 +0000">
+		<title lang="en">Programa pagado</title>
+		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
+		<category lang="en">Paid Program</category>
+		<category lang="en">Shopping</category>
 		<previously-shown></previously-shown>
 		<rating system="MPAA">
 			<value>TVG</value>
 		</rating>
-		<star-rating system="MPAA">
-			<value>4.0/10</value>
-		</star-rating>
 	</programme>
-	<programme channel="HBO.-.Eastern.Feed.us" start="20250110105400 +0000" stop="20250110105400 +0000">
-		<title lang="en">Unstoppable</title>
-		<desc lang="en">When an unmanned locomotive roars out of control, two railroad employees (Denzel Washington, Chris Pine) must find a way to bring it to a halt before it crashes and spills its toxic cargo.</desc>
-		<credits>
-			<actor>Denzel Washington</actor>
-			<actor>Chris Pine</actor>
-			<actor>Rosario Dawson</actor>
-		</credits>
-		<date>2010</date>
-		<category lang="en">Movies</category>
-		<category lang="en">Action</category>
+	<programme channel="Univision.Telenovelas.us" start="20250114093000 +0000" stop="20250114100000 +0000">
+		<title lang="en">Programa pagado</title>
+		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
+		<category lang="en">Paid Program</category>
+		<category lang="en">Shopping</category>
 		<previously-shown></previously-shown>
 		<rating system="MPAA">
 			<value>TVG</value>
 		</rating>
-		<star-rating system="MPAA">
-			<value>6.0/10</value>
-		</star-rating>
+	</programme>
+	<programme channel="Univision.Telenovelas.us" start="20250114100000 +0000" stop="20250114103000 +0000">
+		<title lang="en">Programa pagado</title>
+		<desc lang="en">Programa que muestra diversos productos para la venta.</desc>
+		<category lang="en">Paid Program</category>
+		<category lang="en">Shopping</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVG</value>
+		</rating>
 	</programme>
 	<programme channel="HBO.-.Eastern.Feed.us" start="20250110105400 +0000" stop="20250110123600 +0000">
 		<title lang="en">Unstoppable</title>
@@ -22861,6 +22599,256 @@ En Vivo</title>
 		</rating>
 		<star-rating system="MPAA">
 			<value>2.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="HBO.-.Eastern.Feed.us" start="20250113102100 +0000" stop="20250113102100 +0000">
+		<title lang="en">Sully</title>
+		<desc lang="en">After landing US Airways Flight 1549 in New York's Hudson River, Capt. Chesley "Sully" Sullenberger (Tom Hanks) faces an investigation that threatens to destroy his career and reputation.</desc>
+		<credits>
+			<actor>Tom Hanks</actor>
+			<actor>Aaron Eckhart</actor>
+			<actor>Valerie Mahaffey</actor>
+		</credits>
+		<date>2016</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Drama</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVG</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="HBO.-.Eastern.Feed.us" start="20250113102100 +0000" stop="20250113115900 +0000">
+		<title lang="en">Sully</title>
+		<desc lang="en">After landing US Airways Flight 1549 in New York's Hudson River, Capt. Chesley "Sully" Sullenberger (Tom Hanks) faces an investigation that threatens to destroy his career and reputation.</desc>
+		<credits>
+			<actor>Tom Hanks</actor>
+			<actor>Aaron Eckhart</actor>
+			<actor>Valerie Mahaffey</actor>
+		</credits>
+		<date>2016</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Drama</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVG</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="HBO.-.Eastern.Feed.us" start="20250113115900 +0000" stop="20250113135100 +0000">
+		<title lang="en">Dirty Rotten Scoundrels</title>
+		<desc lang="en">An American con man (Steve Martin) and his British rival (Michael Caine) target a soap heiress (Glenne Headly) from Cleveland on the French Riviera.</desc>
+		<credits>
+			<actor>Steve Martin</actor>
+			<actor>Michael Caine</actor>
+			<actor>Glenne Headly</actor>
+		</credits>
+		<date>1988</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Comedy</category>
+		<premiere lang="en"></premiere>
+		<rating system="MPAA">
+			<value>TVG</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="HBO.-.Eastern.Feed.us" start="20250113135100 +0000" stop="20250113163900 +0000">
+		<title lang="en">Dune: Part Two</title>
+		<desc lang="en">Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.</desc>
+		<credits>
+			<actor>Timothée Chalamet</actor>
+			<actor>Zendaya</actor>
+			<actor>Rebecca Ferguson</actor>
+		</credits>
+		<date>2024</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Sci-Fi</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVG</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="HBO.-.Eastern.Feed.us" start="20250113163900 +0000" stop="20250113182500 +0000">
+		<title lang="en">Desperately Seeking Susan</title>
+		<desc lang="en">A bored housewife (Rosanna Arquette) with amnesia thinks she is "Susan," a wild woman (Madonna) on the run.</desc>
+		<credits>
+			<actor>Rosanna Arquette</actor>
+			<actor>Madonna</actor>
+			<actor>Aidan Quinn</actor>
+		</credits>
+		<date>1985</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Comedy</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVG</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>4.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="HBO.-.Eastern.Feed.us" start="20250113182500 +0000" stop="20250113200800 +0000">
+		<title lang="en">Ghosts of Girlfriends Past</title>
+		<desc lang="en">Spirits of jilted lovers take a photographer (Matthew McConaughey) on an odyssey through his many failed relationships to find out what made him such a cad, and if there is any hope for true love.</desc>
+		<credits>
+			<actor>Matthew McConaughey</actor>
+			<actor>Jennifer Garner</actor>
+			<actor>Michael Douglas</actor>
+		</credits>
+		<date>2009</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Romance</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVG</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>4.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="HBO.-.Eastern.Feed.us" start="20250113200800 +0000" stop="20250113214500 +0000">
+		<title lang="en">The Front Room</title>
+		<desc lang="en">Everything goes to hell for newly pregnant Belinda after her mother-in-law moves in. As the diabolical guest tries to get her claws on the child, Belinda must draw the line somewhere.</desc>
+		<credits>
+			<actor>Brandy Norwood</actor>
+			<actor>Andrew Burnap</actor>
+			<actor>Kathryn Hunter</actor>
+		</credits>
+		<date>2024</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Horror</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TV14</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>4.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="HBO.-.Eastern.Feed.us" start="20250113214500 +0000" stop="20250113235500 +0000">
+		<title lang="en">Gods of Egypt</title>
+		<desc lang="en">A defiant mortal (Brenton Thwaites) forms an unlikely alliance with the powerful god Horus (Nikolaj Coster-Waldau) to save the world from Set (Gerard Butler), the merciless god of darkness.</desc>
+		<credits>
+			<actor>Nikolaj Coster-Waldau</actor>
+			<actor>Brenton Thwaites</actor>
+			<actor>Chadwick Boseman</actor>
+		</credits>
+		<date>2016</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Fantasy</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVG</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>2.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="HBO.-.Eastern.Feed.us" start="20250113235500 +0000" stop="20250114010500 +0000">
+		<title lang="en">Bill Maher: Is Anyone Else Seeing This?</title>
+		<desc lang="en">Comedian Bill Maher addresses societal issues and taboo topics in their stand-up routine, pushing boundaries while aiming to resonate with a large audience.</desc>
+		<category lang="en">Specials</category>
+		<category lang="en">Comedy</category>
+		<previously-shown></previously-shown>
+	</programme>
+	<programme channel="HBO.-.Eastern.Feed.us" start="20250114010500 +0000" stop="20250114033000 +0000">
+		<title lang="en">The Martian</title>
+		<desc lang="en">Left behind by his crew, a stranded astronaut (Matt Damon) must find a way to survive on Mars, while NASA and a team of international scientists work tirelessly to bring him home.</desc>
+		<credits>
+			<actor>Matt Damon</actor>
+			<actor>Jessica Chastain</actor>
+			<actor>Kristen Wiig</actor>
+		</credits>
+		<date>2015</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Sci-Fi</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVG</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="HBO.-.Eastern.Feed.us" start="20250114033000 +0000" stop="20250114054500 +0000">
+		<title lang="en">He's Just Not That Into You</title>
+		<desc lang="en">Friends and lovers try to navigate their way through the complexities of modern relationships, sometimes misconstruing the true intentions of the opposite sex.</desc>
+		<credits>
+			<actor>Ben Affleck</actor>
+			<actor>Jennifer Aniston</actor>
+			<actor>Drew Barrymore</actor>
+		</credits>
+		<date>2009</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Romance</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVG</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>4.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="HBO.-.Eastern.Feed.us" start="20250114054500 +0000" stop="20250114072900 +0000">
+		<title lang="en">It Follows</title>
+		<desc lang="en">Following a strange sexual encounter, a teenager (Maika Monroe) has disturbing visions and the inescapable feeling that someone -- or something -- is stalking her.</desc>
+		<credits>
+			<actor>Maika Monroe</actor>
+			<actor>Keir Gilchrist</actor>
+			<actor>Daniel Zovatto</actor>
+		</credits>
+		<date>2014</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Horror</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVPG</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme channel="HBO.-.Eastern.Feed.us" start="20250114072900 +0000" stop="20250114082900 +0000">
+		<title lang="en">Hard Knocks: In Season With the AFC North</title>
+		<desc lang="en">Documenting the battle for the AFC North crown during the final six weeks of the NFL season; registering a playoff run for the division-winner and any AFC North Wild Card teams.</desc>
+		<credits>
+			<actor>John Harbaugh</actor>
+			<actor>Zac Taylor</actor>
+			<actor>Kevin Stefanski</actor>
+		</credits>
+		<category lang="en">Sports</category>
+		<category lang="en">Football</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TVMA</value>
+		</rating>
+	</programme>
+	<programme channel="HBO.-.Eastern.Feed.us" start="20250114082900 +0000" stop="20250114104400 +0000">
+		<title lang="en">The Iron Claw</title>
+		<desc lang="en">The true story of the Von Erich brothers, who, through tragedy and triumph, under the shadow of their domineering father and coach, seek epic immortality on the biggest stage in sports.</desc>
+		<credits>
+			<actor>Zac Efron</actor>
+			<actor>Jeremy Allen White</actor>
+			<actor>Harris Dickinson</actor>
+		</credits>
+		<date>2023</date>
+		<category lang="en">Movies</category>
+		<category lang="en">Biography</category>
+		<previously-shown></previously-shown>
+		<rating system="MPAA">
+			<value>TV14</value>
+		</rating>
+		<star-rating system="MPAA">
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20250109080000 +0000" stop="20250109090000 +0000" channel="Canal.HBO.Signature.Latinoamérica.ar">
