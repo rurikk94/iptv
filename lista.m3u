@@ -126,7 +126,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228273
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228274
 #EXTINF:-1 tvg-id="Love.Nature.co" tvg-name="Love Nature HD" tvg-logo="" group-title="TEST CANALES", Love Nature HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228275
-#EXTINF:-1 tvg-id="" tvg-name="MEGA HD" tvg-logo="" group-title="TEST CANALES", MEGA HD
+#EXTINF:-1 tvg-id="[CL] Mega.cl" tvg-name="MEGA HD" tvg-logo="" group-title="TEST CANALES", MEGA HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228276
 #EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="" group-title="TEST CANALES", MTV 00s
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228277
@@ -828,15 +828,15 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/754
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/55755
 #EXTINF:-1 tvg-id="[CL] La Red.cl" tvg-name="CHI | LA RED HD | 2mb" tvg-logo="http://tv.streamid.tv:8080/images/2fc0ff9a4414c577c8e5030d1269a297.png" group-title="CHILE", CHI | LA RED HD | 2mb
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/60112
-#EXTINF:-1 tvg-id="" tvg-name="CHI | MEGA |   FHD | (E) " tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA |   FHD | (E)
+#EXTINF:-1 tvg-id="[CL] Mega.cl" tvg-name="CHI | MEGA |   FHD | (E) " tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA |   FHD | (E)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/734
-#EXTINF:-1 tvg-id="" tvg-name="CHI | MEGA |   HQ (E)" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA |   HQ (E)
+#EXTINF:-1 tvg-id="[CL] Mega.cl" tvg-name="CHI | MEGA |   HQ (E)" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA |   HQ (E)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/733
-#EXTINF:-1 tvg-id="" tvg-name="CHI | MEGA |  2mb" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA |  2mb
+#EXTINF:-1 tvg-id="[CL] Mega.cl" tvg-name="CHI | MEGA |  2mb" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA |  2mb
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/60113
-#EXTINF:-1 tvg-id="" tvg-name="CHI | MEGA | (LT)" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA | (LT)
+#EXTINF:-1 tvg-id="[CL] Mega.cl" tvg-name="CHI | MEGA | (LT)" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA | (LT)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/305
-#EXTINF:-1 tvg-id="" tvg-name="CHI | MEGA | (P)" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA | (P)
+#EXTINF:-1 tvg-id="[CL] Mega.cl" tvg-name="CHI | MEGA | (P)" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA | (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/27294
 #EXTINF:-1 tvg-id="" tvg-name="CHI | MEGA 2" tvg-logo="http://tv.streamid.tv:8080/images/147d9dad79d1c00e7383e907d1e2dc46.png" group-title="CHILE", CHI | MEGA 2
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198155

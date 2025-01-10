@@ -297,6 +297,9 @@
 	<channel id="[CL] La Red.cl">
 		<display-name>[CL] La Red.cl</display-name>
 	</channel>
+	<channel id="[CL] Mega.cl">
+		<display-name>[CL] Mega.cl</display-name>
+	</channel>
 	<channel id="[CL] TyC Sports.cl">
 		<display-name>[CL] TyC Sports.cl</display-name>
 	</channel>
@@ -30036,6 +30039,97 @@ En Vivo</title>
 	<programme start="20250111040000 +0000" stop="20250111080000 +0000" channel="[CL] La Red.cl">
 		<title>No hagan olas</title>
 		<desc>En el cielo, el supervisor angelical Gideon envía al ángel aprendiz Maya a la Tierra para ganarse sus alas solucionando las vidas de un grupo de amigos. Así un ginecologo perturbado y sus amigos aprenden el verdadero significado del amor.</desc>
+	</programme>
+	<programme start="20250109053000 +0000" stop="20250109063000 +0000" channel="[CL] Mega.cl">
+		<title>Luz de día</title>
+		<desc>La organizadora de bodas Elif ha estado casada con Hakan desde su años escolares y es muy feliz. Sin embargo, un día, cuando pierde a su marido en un accidente de tráfico, se entera de que lleva años viviendo una gran mentira. No solo hay un hijo suyo ahí fuera, sino que tambien hay decenas de preguntas sin respuesta. Su mundo se desmorona por completo.</desc>
+		<episode-num system="xmltv_ns">0.67.</episode-num>
+	</programme>
+	<programme start="20250109063000 +0000" stop="20250109075500 +0000" channel="[CL] Mega.cl">
+		<title>Hora cero</title>
+		<desc>Programa informativo del Departamento de Prensa de Megamedia. El noticiero aborda las noticias más importantes de la jornada y anticipa la pauta informativa del día que comienza. La conduccion está a cargo del periodista Carlos Jara, quien tambien complementa informacion con los periodistas Lucas Quinn y Fernando Fabres tomando el pulso en vivo desde las calles.</desc>
+	</programme>
+	<programme start="20250109075500 +0000" stop="20250109110000 +0000" channel="[CL] Mega.cl">
+		<title>Meganoticias ahora</title>
+		<desc>Una completa y especial cobertura de las elecciones primarias 2024 en diferentes comunas del país, con toda la contingencia y el recuento de los votos, de los 215 candidatos, para la nominacion de Alcaldes y Gobernadores Regionales en todo el territorio nacional.</desc>
+	</programme>
+	<programme start="20250109110000 +0000" stop="20250109120000 +0000" channel="[CL] Mega.cl">
+		<title>Oye</title>
+		<desc>Programa de música junto a Francisca Gomez.</desc>
+	</programme>
+	<programme start="20250109120000 +0000" stop="20250109140000 +0000" channel="[CL] Mega.cl">
+		<title>Meganoticias amanece</title>
+		<desc>Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
+	</programme>
+	<programme start="20250109140000 +0000" stop="20250109181500 +0000" channel="[CL] Mega.cl">
+		<title>Mucho gusto</title>
+		<desc>Un programa que se encarga de llevar informacion y entretenimiento de una manera muy alegre a los hogares chilenos. El conductor Jose Antonio Neme reúne un panel de expertos para debatir los hechos más destacados de la actualidad.</desc>
+	</programme>
+	<programme start="20250109181500 +0000" stop="20250109212500 +0000" channel="[CL] Mega.cl">
+		<title>Meganoticias alerta</title>
+		<desc>Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
+	</programme>
+	<programme start="20250109212500 +0000" stop="20250109213000 +0000" channel="[CL] Mega.cl">
+		<title>El tiempo</title>
+		<desc>Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y enterate de los cambios ocurridos dentro del panorama climático.</desc>
+	</programme>
+	<programme start="20250109213000 +0000" stop="20250109220000 +0000" channel="[CL] Mega.cl">
+		<title>Juego de ilusiones</title>
+		<desc>La vida de Mariana Nazir cambia radicalmente cuando descubre la infidelidad de su marido con su mejor amiga.</desc>
+		<episode-num system="xmltv_ns">.501.</episode-num>
+	</programme>
+	<programme start="20250109220000 +0000" stop="20250109224000 +0000" channel="[CL] Mega.cl">
+		<title>Juego de ilusiones</title>
+		<desc>La vida de Mariana Nazir cambia radicalmente cuando descubre la infidelidad de su marido con su mejor amiga.</desc>
+		<episode-num system="xmltv_ns">.502.</episode-num>
+	</programme>
+	<programme start="20250109224000 +0000" stop="20250110003500 +0000" channel="[CL] Mega.cl">
+		<title>Tierra de deseos</title>
+		<sub-title>Aline fica furiosa com Caio</sub-title>
+		<desc>La saga de una mujer, guiada por el poder del amor y movida por el deseo de justicia por el asesinato de su marido, se cruza con la de una familia dividida por la ambicion y muchos secretos. Así, las disputas familiares por la tierra y el amor van de la mano.</desc>
+		<episode-num system="xmltv_ns">.99.</episode-num>
+	</programme>
+	<programme start="20250110003500 +0000" stop="20250110012000 +0000" channel="[CL] Mega.cl">
+		<title>Luz de día</title>
+		<desc>La organizadora de bodas Elif ha estado casada con Hakan desde su años escolares y es muy feliz. Sin embargo, un día, cuando pierde a su marido en un accidente de tráfico, se entera de que lleva años viviendo una gran mentira. No solo hay un hijo suyo ahí fuera, sino que tambien hay decenas de preguntas sin respuesta. Su mundo se desmorona por completo.</desc>
+	</programme>
+	<programme start="20250110012000 +0000" stop="20250110021000 +0000" channel="[CL] Mega.cl">
+		<title>Medcezir</title>
+		<desc>Yaman es un joven y honesto trabajador que vive junto a su madre, hermano y padrastro en un barrio pobre de Estambul. Pero su vida cambiará por completo cuando, acusado de un robo que no cometio, conozca al exitoso abogado Selim Serez, quien verá reflejado en el joven mucho potencial y le ofrecerá vivir junto a el y su adinerada familia. Selim se transformará en su benefactor y comenzará una nueva vida para Yaman quien retomará sus estudios, cambiará su círculo social y se enamorará de Mira, su nueva vecina. Pero nada será tan fácil como parece. Ahora, el joven tendrá que cargar con su pasado y vivir en un mundo desconocido.</desc>
+		<episode-num system="xmltv_ns">.148.</episode-num>
+	</programme>
+	<programme start="20250110021000 +0000" stop="20250110023500 +0000" channel="[CL] Mega.cl">
+		<title>Nuevo amores de mercado</title>
+		<desc>Tras el encuentro de dos hombres desconocidos, con vidas diametralmente opuestas, descubren que físicamente son identicos. Ambos deciden intercambiar roles en un confuso incidente, dejando a Pelluco Solís como CEO de una poderosa empresa familiar y a Rodolfo Ruttemeyer como garzon el Mercado Central.</desc>
+		<episode-num system="xmltv_ns">.27.</episode-num>
+	</programme>
+	<programme start="20250110023500 +0000" stop="20250110031500 +0000" channel="[CL] Mega.cl">
+		<title>Nuevo amores de mercado</title>
+		<desc>Tras el encuentro de dos hombres desconocidos, con vidas diametralmente opuestas, descubren que físicamente son identicos. Ambos deciden intercambiar roles en un confuso incidente, dejando a Pelluco Solís como CEO de una poderosa empresa familiar y a Rodolfo Ruttemeyer como garzon el Mercado Central.</desc>
+		<episode-num system="xmltv_ns">.28.</episode-num>
+	</programme>
+	<programme start="20250110031500 +0000" stop="20250110044000 +0000" channel="[CL] Mega.cl">
+		<title>Meganoticias Prime</title>
+		<desc>Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
+	</programme>
+	<programme start="20250110044000 +0000" stop="20250110044500 +0000" channel="[CL] Mega.cl">
+		<title>El tiempo</title>
+		<desc>Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y enterate de los cambios ocurridos dentro del panorama climático.</desc>
+	</programme>
+	<programme start="20250110044500 +0000" stop="20250110053000 +0000" channel="[CL] Mega.cl">
+		<title>Los Casablanca</title>
+		<desc>La estabilidad de una poderosa familia, dueña de un imperio de viñas, caballos e inmobiliarias, se tambalea con el regreso de Iván Casablanca, quien busca destruir a Raimundo Casablanca, su hermano. Pronto surge una lucha de poder y traiciones que expondrá los secretos mejor guardados de la prestigiosa familia.</desc>
+		<episode-num system="xmltv_ns">0.19.</episode-num>
+	</programme>
+	<programme start="20250110053000 +0000" stop="20250111053000 +0000" channel="[CL] Mega.cl">
+		<title>Luz de día</title>
+		<desc>La organizadora de bodas Elif ha estado casada con Hakan desde su años escolares y es muy feliz. Sin embargo, un día, cuando pierde a su marido en un accidente de tráfico, se entera de que lleva años viviendo una gran mentira. No solo hay un hijo suyo ahí fuera, sino que tambien hay decenas de preguntas sin respuesta. Su mundo se desmorona por completo.</desc>
+		<episode-num system="xmltv_ns">0.68.</episode-num>
+	</programme>
+	<programme start="20250111053000 +0000" stop="20250111063000 +0000" channel="[CL] Mega.cl">
+		<title>Luz de día</title>
+		<desc>La organizadora de bodas Elif ha estado casada con Hakan desde su años escolares y es muy feliz. Sin embargo, un día, cuando pierde a su marido en un accidente de tráfico, se entera de que lleva años viviendo una gran mentira. No solo hay un hijo suyo ahí fuera, sino que tambien hay decenas de preguntas sin respuesta. Su mundo se desmorona por completo.</desc>
+		<episode-num system="xmltv_ns">0.68.</episode-num>
 	</programme>
 	<programme start="20250109060000 +0000" stop="20250109070000 +0000" channel="[CL] TyC Sports.cl">
 		<title>30 años - Parte 6: Moli vs. Dascola</title>
