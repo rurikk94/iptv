@@ -13,7 +13,8 @@ from utils import descomprimir, download_file, extract_tvg_ids, file_is_expired
 
 folder_path = 'downloads'
 output_name = "epg.xml"
-horas = 3
+epg_expiration_hours = 3
+lista_filename = 'lista.m3u'
 
 xmls = []
 
@@ -23,18 +24,20 @@ def obtener_extension(filename):
 
 fechahoraactual = datetime.now().strftime("%Y%m%d%H%M%S")
 
-tvg_ids_lista = extract_tvg_ids('lista.m3u')
+tvg_ids_lista = extract_tvg_ids(lista_filename)
 canales_no_se_usan = [tvg_id for tvg_id in incluir if tvg_id not in tvg_ids_lista]
 tvg_ids_no_existen = [tvg_id for tvg_id in tvg_ids_lista if tvg_id not in incluir]
-incluir = [tvg_id for tvg_id in tvg_ids_lista if tvg_id in incluir]
+# incluir = [tvg_id for tvg_id in tvg_ids_lista if tvg_id in incluir]
+incluir = tvg_ids_lista
 
 if len(canales_no_se_usan) > 0:
     print("Los siguientes canales no se usan en la lista:")
     pprint(canales_no_se_usan)
 
-if len(tvg_ids_no_existen) > 0:
-    print("Los siguientes tvg-ids de la lista no existen en la epg:")
-    pprint(tvg_ids_no_existen)
+# if len(tvg_ids_no_existen) > 0:
+    # print("Los siguientes tvg-ids de la lista no existen en la epg:")
+    # pprint(tvg_ids_no_existen)
+    # incluir += tvg_ids_no_existen
 
 
 if not os.path.exists(folder_path):
@@ -49,7 +52,7 @@ for name, url in urls:
     if os.path.exists(filename):
         print(f"Archivo {filename} ya existe")
 
-        if file_is_expired(filename, horas):
+        if file_is_expired(filename, epg_expiration_hours):
             filename = download_file(url, filename, extension)
 
         if obtener_extension(filename) == '.gz':
