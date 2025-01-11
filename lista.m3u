@@ -270,12 +270,24 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/158229
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/174349
 #EXTINF:-1 tvg-id="" tvg-name="DEP | DIRECTV FIGHT (L)" tvg-logo="" group-title="DEPORTES", DEP | DIRECTV FIGHT (L)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/100219
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 3 HD (MX)" tvg-logo="" group-title="DEPORTES", DEP | ESPN 3 HD (MX)
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/163076
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 5 ENC" tvg-logo="http://tv.streamid.tv:8080/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="DEPORTES", DEP | ESPN 5 ENC
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/194985
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 5 Sudam (mv)" tvg-logo="" group-title="DEPORTES", DEP | ESPN 5 Sudam (mv)
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198531
+#EXTINF:-1 tvg-id="" tvg-name="DEP | FOX SPORTS 3 MEXICO | HD" tvg-logo="http://tv.streamid.tv:8080/images/14630b4fee10848fec726cc5c1ea40ef.png" group-title="DEPORTES", DEP | FOX SPORTS 3 MEXICO | HD
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/213840
+#EXTINF:-1 tvg-id="" tvg-name="DEP | FOX SPORTS PREMIUM MX " tvg-logo="http://tv.streamid.tv:8080/images/65a9e03c8d073b256861480f2746ef3f.png" group-title="DEPORTES", DEP | FOX SPORTS PREMIUM MX
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/211012
 #EXTINF:-1 tvg-id="" tvg-name="DEP | TELETRAK CHILE opc 3" tvg-logo="http://tv.streamid.tv:8080/images/747d00c399dbb30d86140ef5b8f61f76.jpg" group-title="DEPORTES", DEP | TELETRAK CHILE opc 3
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/211135
 #EXTINF:-1 tvg-id="" tvg-name="DEP | ZZAPNG SPORTS  2 (eventos)" tvg-logo="" group-title="DEPORTES", DEP | ZZAPNG SPORTS  2 (eventos)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199929
 #EXTINF:-1 tvg-id="" tvg-name="DEP | ZZAPNG SPORTS (eventos)" tvg-logo="" group-title="DEPORTES", DEP | ZZAPNG SPORTS (eventos)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/189393
+#EXTINF:-1 tvg-id="" tvg-name="DEP|  ESPN PREMIUM CHILE | FHD ENC" tvg-logo="http://tv.streamid.tv:8080/images/2c0da48d13ac24148b43c496143fb4ab.png" group-title="DEPORTES", DEP|  ESPN PREMIUM CHILE | FHD ENC
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/27775
 #EXTINF:-1 tvg-id="" tvg-name="DEP|  SPORTS 1 CHILE  | FHD (COP)" tvg-logo="" group-title="DEPORTES", DEP|  SPORTS 1 CHILE  | FHD (COP)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/558
 #EXTINF:-1 tvg-id="" tvg-name="DEP|  SPORTS 1 CHILE | 2mb" tvg-logo="" group-title="DEPORTES", DEP|  SPORTS 1 CHILE | 2mb
@@ -1325,6 +1337,8 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58790
 #EXTINF:-1 tvg-id="Canal.Golden.Edge.mx" tvg-name="CINE | Golden Plus FHD (P)" tvg-logo="http://budtv.ottmex.com/posters/1529003615268.jpg" group-title="CINE", CINE | Golden Plus FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1933
 #EXTINF:-1 tvg-id="Canal.Golden.Edge.mx" tvg-name="CINE | Golden Plus FHD (P)" tvg-logo="http://budtv.ottmex.com/posters/1529003615268.jpg" group-title="CINE", CINE | Golden Plus FHD (P)
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1934
+#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PLUS HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/cfb6c6930418d4e47810cb3c82cf8ffa.png" group-title="CINE", CINE | GOLDEN PLUS HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58791
 #EXTINF:-1 tvg-id="Canal.Golden.Premier.cl" tvg-name="CINE | GOLDEN PREMIER FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/ad308ff7bbf4e99959051f22851f6861.png" group-title="CINE", CINE | GOLDEN PREMIER FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58792
@@ -1788,6 +1802,10 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/545
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1022
 #EXTINF:-1 tvg-id="" tvg-name="INF | Senpai TV " tvg-logo="http://tv.streamid.tv:8080/images/1fd53bcf713e77ebcfe705493f5f3fa0.png" group-title="INFANTILES", INF | Senpai TV
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/120024
+#EXTINF:-1 tvg-id="" tvg-name="INF | TOONCAST (R)" tvg-logo="http://tv.streamid.tv:8080/images/4ed4cda3e2481447b44d29f034f52ea0.png" group-title="INFANTILES", INF | TOONCAST (R)
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/545
+#EXTINF:-1 tvg-id="" tvg-name="INF | Tooncast SD (P)" tvg-logo="http://tv.streamid.tv:8080/images/4ed4cda3e2481447b44d29f034f52ea0.png" group-title="INFANTILES", INF | Tooncast SD (P)
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1022
 #EXTINF:-1 tvg-id="" tvg-name="24/7  POCOYO" tvg-logo="http://tv.streamid.tv:8080/images/c68059ff9075a67037d15000881f9ae4.png" group-title="BABY PLAY ", 24/7  POCOYO
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/59627
 #EXTINF:-1 tvg-id="" tvg-name="24/7 13 Now Kids" tvg-logo="http://tv.streamid.tv:8080/images/05a5cb48b806ce1cb3a8ce74707d59bd.png" group-title="BABY PLAY ", 24/7 13 Now Kids
@@ -2906,6 +2924,34 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/17821
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/17828
 #EXTINF:-1 tvg-id="" tvg-name="ARG| TVPUBLICA HD" tvg-logo="" group-title="ARGENTINA", ARG| TVPUBLICA HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/17820
+#EXTINF:-1 tvg-id="" tvg-name="ARG | La Nacion (Argentina) (lt)" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG | La Nacion (Argentina) (lt)
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226016
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG: ESPN 2
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226011
+#EXTINF:-1 tvg-id="" tvg-name="ARG|  FOX SPORTS 1 FHD (LOCAL)" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG|  FOX SPORTS 1 FHD (LOCAL)
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/225999
+#EXTINF:-1 tvg-id="" tvg-name="ARG| 24/7 NOTICIAS HD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG| 24/7 NOTICIAS HD
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226036
+#EXTINF:-1 tvg-id="" tvg-name="ARG| A24 HD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG| A24 HD
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226037
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA TV FHD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG| AMERICA TV FHD
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226041
+#EXTINF:-1 tvg-id="" tvg-name="ARG| C5N HD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG| C5N HD
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226032
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 26 HD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG| CANAL 26 HD
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226038
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL TRECE HD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG| CANAL TRECE HD
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226035
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CINE ARGENTINO" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG| CINE ARGENTINO
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/225993
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CIUDAD MGAZINE HD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG| CIUDAD MGAZINE HD
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/225996
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CONSTRUIR TV HD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG| CONSTRUIR TV HD
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/225992
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CRONICA HD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG| CRONICA HD
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226033
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DEPORT TV HD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG| DEPORT TV HD
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226012
 #EXTINF:-1 tvg-id="" tvg-name="ARG| DIRECTV SPORTS PLUS FHD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG| DIRECTV SPORTS PLUS FHD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/225979
 #EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN 3 FHD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCvuyCf-cVZQtEGMFf2k5JyzgszP8BYLCYEoKTB0KWkp.png" group-title="ARGENTINA 2", ARG| ESPN 3 FHD
@@ -3034,6 +3080,10 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226040
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/226041
 #EXTINF:-1 tvg-id="" tvg-name="BO | TIGO SPORTS 1" tvg-logo="" group-title="BOLIVIA", BO | TIGO SPORTS 1
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/195219
+#EXTINF:-1 tvg-id="" tvg-name="BO | TIGO SPORTS 2 " tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2015/10/PREVtigosport.png?fit=800%2C600&ssl=1" group-title="BOLIVIA", BO | TIGO SPORTS 2
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228114
+#EXTINF:-1 tvg-id="" tvg-name="BO | TIGO SPORTS 3" tvg-logo="" group-title="BOLIVIA", BO | TIGO SPORTS 3
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228115
 #EXTINF:-1 tvg-id="" tvg-name="Bolivia TV Deportes" tvg-logo="" group-title="BOLIVIA", Bolivia TV Deportes
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/9755
 #EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | ATB" tvg-logo="" group-title="BOLIVIA", BOLIVIA | ATB
@@ -3088,10 +3138,6 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/50107
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/50110
 #EXTINF:-1 tvg-id="" tvg-name="BOLIVIA| UNITEL FHD (A)" tvg-logo="" group-title="BOLIVIA", BOLIVIA| UNITEL FHD (A)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/50106
-#EXTINF:-1 tvg-id="" tvg-name="BO | TIGO SPORTS 2 " tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2015/10/PREVtigosport.png?fit=800%2C600&ssl=1" group-title="BOLIVIA", BO | TIGO SPORTS 2
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228114
-#EXTINF:-1 tvg-id="" tvg-name="BO | TIGO SPORTS 3" tvg-logo="" group-title="BOLIVIA", BO | TIGO SPORTS 3
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228115
 #EXTINF:-1 tvg-id="" tvg-name="ʙʀ | A&E ʜᴅ" tvg-logo="http://tv.streamid.tv:8080/images/ea458226bb1c06a9cbf25833444adfde.png" group-title="BRASIL", ʙʀ | A&E ʜᴅ
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/106702
 #EXTINF:-1 tvg-id="" tvg-name="ʙʀ | AMC ʜᴅ" tvg-logo="http://tv.streamid.tv:8080/images/2e5b2c5d03ddce773089fce1cdf99d47.png" group-title="BRASIL", ʙʀ | AMC ʜᴅ
@@ -7926,17 +7972,4 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/231987
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/231988
 #EXTINF:-1 tvg-id="" tvg-name="ES||| MULTIDEPORTE" tvg-logo="http://tv.iptvboss.net/ch_logo/mdeporte.png" group-title="ESPANA 2", ES||| MULTIDEPORTE
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/231989
-#EXTINF:-1 tvg-id="" tvg-name="REL | Aliento Vision" tvg-logo="" group-title="RELIGIOSOS", REL | Aliento Vision
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/8875
-#EXTINF:-1 tvg-id="" tvg-name="REL | Avivamiento" tvg-logo="" group-title="RELIGIOSOS", REL | Avivamiento
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/8874
-#EXTINF:-1 tvg-id="" tvg-name="REL | Catholic TV" tvg-logo="" group-title="RELIGIOSOS", REL | Catholic TV
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/8873
-#EXTINF:-1 tvg-id="" tvg-name="REL | CTNI PR" tvg-logo="" group-title="RELIGIOSOS", REL | CTNI PR
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/8870
-#EXTINF:-1 tvg-id="" tvg-name="REL | Esperanza" tvg-logo="" group-title="RELIGIOSOS", REL | Esperanza
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/8868
-#EXTINF:-1 tvg-id="" tvg-name="REL | Hope ch InterAmerica" tvg-logo="" group-title="RELIGIOSOS", REL | Hope ch InterAmerica
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/8865
-#EXTINF:-1 tvg-id="" tvg-name="REL | Hope ch NuevoTiempo" tvg-logo="" group-title="RELIGIOSOS", REL | Hope ch NuevoTiempo
-http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/8864
+
