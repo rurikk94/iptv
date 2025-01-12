@@ -1,4 +1,9 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/rurikk94/iptv/refs/heads/main/epg.xml"
+
+#EXTINF:-1 tvg-id="13 C HD.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="Chile Adaptativo",13C (1080p)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://tv.streamid.tv:8080/images/9853b1db0a21d9bd7c27cbcf20e47c52.png" group-title="Chile Adaptativo",TVN
+https://raw.githubusercontent.com/rurikk94/iptv/refs/heads/main/tvn.m3u8
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/229079
 #EXTINF:-1 tvg-id="AandE HD.cl" tvg-name="A&E HD" tvg-logo="" group-title="TEST CANALES", A&E HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228213
