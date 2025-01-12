@@ -417,6 +417,9 @@
 	<channel id="[CL] TyC Sports.cl">
 		<display-name>[CL] TyC Sports.cl</display-name>
 	</channel>
+	<channel id="13 C HD.cl">
+		<display-name>13 C HD.cl</display-name>
+	</channel>
 	<channel id="AandE HD.cl">
 		<display-name>AandE HD.cl</display-name>
 	</channel>
@@ -43258,6 +43261,275 @@ En Vivo</title>
 	<programme start="20250114040000 +0000" stop="20250114060000 +0000" channel="[CL] TyC Sports.cl">
 		<title>TYC Sports Verano</title>
 		<desc>La mejor informacion deportiva con moviles en cada club con la cobertura de las pretemporadas, las novedades del mercado de pases, la actualidad del futbol argentino, el futbol internacional y toda la actualidad deportiva.</desc>
+	</programme>
+	<programme start="20250112000000 +0000" stop="20250112010000 +0000" channel="13 C HD.cl">
+		<title>La ruta del libro : Valparaíso. Tierra de poetas</title>
+		<sub-title>Valparaíso. Tierra de poetas</sub-title>
+		<desc>Se explora Chile de norte a sur para conocer de cerca su cultura y su identidad a traves de los libros.</desc>
+	</programme>
+	<programme start="20250112010000 +0000" stop="20250112020000 +0000" channel="13 C HD.cl">
+		<title>Only Comparini</title>
+		<desc>Un late show semanal con invitados variados para conversar y analizar, desde una mirada diferente.</desc>
+	</programme>
+	<programme start="20250112020000 +0000" stop="20250112023000 +0000" channel="13 C HD.cl">
+		<title>Secretos de un reportero</title>
+		<desc>Memorias, experiencias dramáticas e historias detrás de las coberturas más impactantes del periodista de guerra y documentalista Jorge Said.</desc>
+	</programme>
+	<programme start="20250112023000 +0000" stop="20250112033000 +0000" channel="13 C HD.cl">
+		<title>El cuarto de música</title>
+		<desc>Un espacio íntimo en el que grandes cantantes de la escena musical chilena comparten su vida y su carrera.</desc>
+	</programme>
+	<programme start="20250112033000 +0000" stop="20250112040000 +0000" channel="13 C HD.cl">
+		<title>Reportajes de seleccion : #hayqueir: Puyehue; Puerto Natales</title>
+		<sub-title>#hayqueir: Puyehue; Puerto Natales</sub-title>
+		<desc>Una recopilacion de los mejores reportajes realizados por destacados equipos de prensa.</desc>
+	</programme>
+	<programme start="20250112040000 +0000" stop="20250112050000 +0000" channel="13 C HD.cl">
+		<title>City Tour On Tour : Roma</title>
+		<sub-title>Roma</sub-title>
+		<desc>Se conoce la arquitectura, la cultura y el patrimonio de diversas ciudades del mundo.</desc>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+	</programme>
+	<programme start="20250112050000 +0000" stop="20250112060000 +0000" channel="13 C HD.cl">
+		<title>Cultura Indomita</title>
+		<desc>Claudio Iturra viajará por los distintos países en busca de tradiciones, animales y lugares exoticos de la zona.</desc>
+	</programme>
+	<programme start="20250112060000 +0000" stop="20250112070000 +0000" channel="13 C HD.cl">
+		<title>Recomiendo Chile : Valparaíso</title>
+		<sub-title>Valparaíso</sub-title>
+		<desc>Un recorrido por la ciudad chilena de Valparaíso.</desc>
+	</programme>
+	<programme start="20250112070000 +0000" stop="20250112080000 +0000" channel="13 C HD.cl">
+		<title>La ruta del libro : Magallanes</title>
+		<sub-title>Magallanes</sub-title>
+		<desc>Se explora Chile de norte a sur para conocer de cerca su cultura y su identidad a traves de los libros.</desc>
+	</programme>
+	<programme start="20250112080000 +0000" stop="20250112090000 +0000" channel="13 C HD.cl">
+		<title>Plan V : Globoflexia y tablas de madera nativas</title>
+		<sub-title>Globoflexia y tablas de madera nativas</sub-title>
+		<desc>Una invitacion para volver a aprender, buscar los mejores datos de belleza, las más novedosas ideas para realizar manualidades y las recetas más deliciosas y sencillas.</desc>
+	</programme>
+	<programme start="20250112090000 +0000" stop="20250112100000 +0000" channel="13 C HD.cl">
+		<title>Cultura Indomita</title>
+		<desc>Claudio Iturra viajará por los distintos países en busca de tradiciones, animales y lugares exoticos de la zona.</desc>
+	</programme>
+	<programme start="20250112100000 +0000" stop="20250112103000 +0000" channel="13 C HD.cl">
+		<title>Cocinas del pacífico</title>
+		<desc>El Festival Internacional de Gastronomía realizado en Bahía Inglesa, un encuentro multicultural que combina degustaciones de platos nacionales e internacionales realizados por destacados chefs, música en vivo, artes visuales y mucho más.</desc>
+	</programme>
+	<programme start="20250112103000 +0000" stop="20250112110000 +0000" channel="13 C HD.cl">
+		<title>Misa Asuncion de la Virgen</title>
+	</programme>
+	<programme start="20250112110000 +0000" stop="20250112120000 +0000" channel="13 C HD.cl">
+		<title>Carlo cocina, vive sustentable</title>
+		<desc>Un viaje culinario y sustentable desde su parcela en Peñalolen, para hacer huertos comestibles, cuidar del agua y aprender a hacer compost. Además, el chef enseña como cocinar algo delicioso, sano y de bajas calorías.</desc>
+	</programme>
+	<programme start="20250112120000 +0000" stop="20250112123000 +0000" channel="13 C HD.cl">
+		<title>Cambio de vida</title>
+		<desc>Un programa que se interesa en el origen de las recetas y la esencia de los platos tipicos chilenos.</desc>
+	</programme>
+	<programme start="20250112123000 +0000" stop="20250112130000 +0000" channel="13 C HD.cl">
+		<title>Cambio de vida</title>
+		<desc>Un programa que se interesa en el origen de las recetas y la esencia de los platos tipicos chilenos.</desc>
+	</programme>
+	<programme start="20250112130000 +0000" stop="20250112133000 +0000" channel="13 C HD.cl">
+		<title>Paula sin culpas</title>
+		<desc>Paula Larenas, sin culpa, hace un recorrido por una experiencia y deliciosa culinaria.</desc>
+	</programme>
+	<programme start="20250112133000 +0000" stop="20250112143000 +0000" channel="13 C HD.cl">
+		<title>Copa Culinaria Carozzi</title>
+		<desc>Estudiantes y profesionales de la gastronomía compiten para convertirse en el mejor chef de Chile y representar al país en el foro panamericano de Asociaciones Gastronomicas Profesionales.</desc>
+	</programme>
+	<programme start="20250112143000 +0000" stop="20250112150000 +0000" channel="13 C HD.cl">
+		<title>Hacedores de pan</title>
+		<desc>Paciencia, pasion y mucho Ingenio serán los ingredientes indispensables. En cada encuentro, se realizará una receta de pan.</desc>
+	</programme>
+	<programme start="20250112150000 +0000" stop="20250112160000 +0000" channel="13 C HD.cl">
+		<title>Carlo cocina, vive sustentable</title>
+		<desc>Un viaje culinario y sustentable desde su parcela en Peñalolen, para hacer huertos comestibles, cuidar del agua y aprender a hacer compost. Además, el chef enseña como cocinar algo delicioso, sano y de bajas calorías.</desc>
+	</programme>
+	<programme start="20250112160000 +0000" stop="20250112170000 +0000" channel="13 C HD.cl">
+		<title>Cocina sin fronteras</title>
+		<desc>Recetas acompañadas de un gran número de consejos y frases.</desc>
+	</programme>
+	<programme start="20250112170000 +0000" stop="20250112180000 +0000" channel="13 C HD.cl">
+		<title>Recomiendo Chile</title>
+		<desc>Un programa dedicado a rescatar la identidad culinaria de Chile mostrando los sabores, aromas y colores de la gastronomía recorriendo la geografía del país.</desc>
+	</programme>
+	<programme start="20250112180000 +0000" stop="20250112183000 +0000" channel="13 C HD.cl">
+		<title>Diario de antojos</title>
+		<desc>Con recetas dulces y saladas, Lore muestra que hay goce especial en cocinar para compartir.</desc>
+	</programme>
+	<programme start="20250112183000 +0000" stop="20250112193000 +0000" channel="13 C HD.cl">
+		<title>Mundo campers</title>
+		<desc>Una invitacion a conocer y viajar por los principales monumentos naturales de Chile, a bordo de casas rodantes.</desc>
+	</programme>
+	<programme start="20250112193000 +0000" stop="20250112203000 +0000" channel="13 C HD.cl">
+		<title>La ruta del libro : Chile invertido</title>
+		<sub-title>Chile invertido</sub-title>
+		<desc>Se explora Chile de norte a sur para conocer de cerca su cultura y su identidad a traves de los libros.</desc>
+	</programme>
+	<programme start="20250112203000 +0000" stop="20250112210000 +0000" channel="13 C HD.cl">
+		<title>Factor de cambio : Centro de Primares. Emprende tu mente</title>
+		<sub-title>Centro de Primares. Emprende tu mente</sub-title>
+		<desc>Un programa que busca crear conciencia en la poblacion sobre el cuidado del medio ambiente.</desc>
+		<episode-num system="xmltv_ns">0..</episode-num>
+	</programme>
+	<programme start="20250112210000 +0000" stop="20250112213000 +0000" channel="13 C HD.cl">
+		<title>Cocinas del pacífico</title>
+		<desc>El Festival Internacional de Gastronomía realizado en Bahía Inglesa, un encuentro multicultural que combina degustaciones de platos nacionales e internacionales realizados por destacados chefs, música en vivo, artes visuales y mucho más.</desc>
+	</programme>
+	<programme start="20250112213000 +0000" stop="20250112223000 +0000" channel="13 C HD.cl">
+		<title>Cultura Indomita</title>
+		<desc>Claudio Iturra viajará por los distintos países en busca de tradiciones, animales y lugares exoticos de la zona.</desc>
+	</programme>
+	<programme start="20250112223000 +0000" stop="20250112230000 +0000" channel="13 C HD.cl">
+		<title>Secretos de un reportero</title>
+		<desc>Memorias, experiencias dramáticas e historias detrás de las coberturas más impactantes del periodista de guerra y documentalista Jorge Said.</desc>
+	</programme>
+	<programme start="20250112230000 +0000" stop="20250113000000 +0000" channel="13 C HD.cl">
+		<title>City Tour</title>
+		<desc>Un recorrido por distintas calles de Chile para enseñar a apreciar la arquitectura patrimonial, el diseño, urbanismo y cultura popular, en forma amena y coloquial.</desc>
+	</programme>
+	<programme start="20250113000000 +0000" stop="20250113010000 +0000" channel="13 C HD.cl">
+		<title>Red Hot Chico Perez</title>
+		<desc>Se entrevistan a los más entretenidos personajes de la vida televisa de Chile mientras prueban distintos tipos de picantes.</desc>
+	</programme>
+	<programme start="20250113010000 +0000" stop="20250113013000 +0000" channel="13 C HD.cl">
+		<title>El giornalista : Claudio Lucero</title>
+		<sub-title>Claudio Lucero</sub-title>
+		<desc>Un programa de entrevistas que busca profundizar de una manera peculiar en los entrevistados, que son sometidos a un extraño cuestionario que permite conocerlos de una forma original.</desc>
+		<episode-num system="xmltv_ns">4.4.</episode-num>
+	</programme>
+	<programme start="20250113013000 +0000" stop="20250113020000 +0000" channel="13 C HD.cl">
+		<title>El giornalista : Jorge Said</title>
+		<sub-title>Jorge Said</sub-title>
+		<desc>Entrevista con Jorge Said, un periodista y corresponsal de guerra chileno-estadounidense de origen palestino.</desc>
+		<episode-num system="xmltv_ns">4.9.</episode-num>
+	</programme>
+	<programme start="20250113020000 +0000" stop="20250113030000 +0000" channel="13 C HD.cl">
+		<title>El cuarto de música</title>
+		<desc>Un espacio íntimo en el que grandes cantantes de la escena musical chilena comparten su vida y su carrera.</desc>
+	</programme>
+	<programme start="20250113030000 +0000" stop="20250113033000 +0000" channel="13 C HD.cl">
+		<title>Corto y preciso</title>
+		<desc>Entrevistas y 12 cortometrajes de 16 alumnos de Direccion Audiovisual de la UC.</desc>
+	</programme>
+	<programme start="20250113033000 +0000" stop="20250113040000 +0000" channel="13 C HD.cl">
+		<title>Corto y preciso</title>
+		<desc>Entrevistas y 12 cortometrajes de 16 alumnos de Direccion Audiovisual de la UC.</desc>
+	</programme>
+	<programme start="20250113040000 +0000" stop="20250113050000 +0000" channel="13 C HD.cl">
+		<title>City Tour On Tour : Venecia</title>
+		<sub-title>Venecia</sub-title>
+		<desc>Se conoce la arquitectura, la cultura y el patrimonio de diversas ciudades del mundo.</desc>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+	</programme>
+	<programme start="20250113050000 +0000" stop="20250113060000 +0000" channel="13 C HD.cl">
+		<title>Cultura Indomita</title>
+		<desc>Claudio Iturra viajará por los distintos países en busca de tradiciones, animales y lugares exoticos de la zona.</desc>
+	</programme>
+	<programme start="20250113060000 +0000" stop="20250113070000 +0000" channel="13 C HD.cl">
+		<title>Recomiendo Chile</title>
+		<desc>Un programa dedicado a rescatar la identidad culinaria de Chile mostrando los sabores, aromas y colores de la gastronomía recorriendo la geografía del país.</desc>
+	</programme>
+	<programme start="20250113070000 +0000" stop="20250113080000 +0000" channel="13 C HD.cl">
+		<title>La ruta del libro : Valparaíso. Tierra de poetas</title>
+		<sub-title>Valparaíso. Tierra de poetas</sub-title>
+		<desc>Se explora Chile de norte a sur para conocer de cerca su cultura y su identidad a traves de los libros.</desc>
+	</programme>
+	<programme start="20250113080000 +0000" stop="20250113090000 +0000" channel="13 C HD.cl">
+		<title>Plan V : Frutas y fibras naturales</title>
+		<sub-title>Frutas y fibras naturales</sub-title>
+		<desc>Una invitacion para volver a aprender, buscar los mejores datos de belleza, las más novedosas ideas para realizar manualidades y las recetas más deliciosas y sencillas.</desc>
+	</programme>
+	<programme start="20250113090000 +0000" stop="20250113100000 +0000" channel="13 C HD.cl">
+		<title>Cultura Indomita</title>
+		<desc>Claudio Iturra viajará por los distintos países en busca de tradiciones, animales y lugares exoticos de la zona.</desc>
+	</programme>
+	<programme start="20250113100000 +0000" stop="20250113110000 +0000" channel="13 C HD.cl">
+		<title>Tierra adentro</title>
+		<desc>Entrevistas a los personajes que mueven las industrias y la economía del Perú.</desc>
+	</programme>
+	<programme start="20250113110000 +0000" stop="20250113120000 +0000" channel="13 C HD.cl">
+		<title>City Tour On Tour : Venecia</title>
+		<sub-title>Venecia</sub-title>
+		<desc>Se conoce la arquitectura, la cultura y el patrimonio de diversas ciudades del mundo.</desc>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+	</programme>
+	<programme start="20250113120000 +0000" stop="20250113130000 +0000" channel="13 C HD.cl">
+		<title>La ruta del libro : Valparaíso. Tierra de poetas</title>
+		<sub-title>Valparaíso. Tierra de poetas</sub-title>
+		<desc>Se explora Chile de norte a sur para conocer de cerca su cultura y su identidad a traves de los libros.</desc>
+	</programme>
+	<programme start="20250113130000 +0000" stop="20250113140000 +0000" channel="13 C HD.cl">
+		<title>Recomiendo Chile</title>
+		<desc>Un programa dedicado a rescatar la identidad culinaria de Chile mostrando los sabores, aromas y colores de la gastronomía recorriendo la geografía del país.</desc>
+	</programme>
+	<programme start="20250113140000 +0000" stop="20250113150000 +0000" channel="13 C HD.cl">
+		<title>Plan V : Defensa personal y rally con Jorge Martínez</title>
+		<sub-title>Defensa personal y rally con Jorge Martínez</sub-title>
+		<desc>Una invitacion para volver a aprender, buscar los mejores datos de belleza, las más novedosas ideas para realizar manualidades y las recetas más deliciosas y sencillas.</desc>
+	</programme>
+	<programme start="20250113150000 +0000" stop="20250113153000 +0000" channel="13 C HD.cl">
+		<title>Paula sin culpas</title>
+		<desc>Paula Larenas, sin culpa, hace un recorrido por una experiencia y deliciosa culinaria.</desc>
+	</programme>
+	<programme start="20250113153000 +0000" stop="20250113163000 +0000" channel="13 C HD.cl">
+		<title>Cocina sin fronteras</title>
+		<desc>Recetas acompañadas de un gran número de consejos y frases.</desc>
+	</programme>
+	<programme start="20250113163000 +0000" stop="20250113170000 +0000" channel="13 C HD.cl">
+		<title>Cambio de vida</title>
+		<desc>Un programa que se interesa en el origen de las recetas y la esencia de los platos tipicos chilenos.</desc>
+	</programme>
+	<programme start="20250113170000 +0000" stop="20250113180000 +0000" channel="13 C HD.cl">
+		<title>Recomiendo Chile : Futrono</title>
+		<sub-title>Futrono</sub-title>
+		<desc>Un programa dedicado a rescatar la identidad culinaria de Chile mostrando los sabores, aromas y colores de la gastronomía recorriendo la geografía del país.</desc>
+	</programme>
+	<programme start="20250113180000 +0000" stop="20250113190000 +0000" channel="13 C HD.cl">
+		<title>Tierra adentro</title>
+		<desc>Entrevistas a los personajes que mueven las industrias y la economía del Perú.</desc>
+	</programme>
+	<programme start="20250113190000 +0000" stop="20250113200000 +0000" channel="13 C HD.cl">
+		<title>Carlo cocina, vive sustentable</title>
+		<desc>Un viaje culinario y sustentable desde su parcela en Peñalolen, para hacer huertos comestibles, cuidar del agua y aprender a hacer compost. Además, el chef enseña como cocinar algo delicioso, sano y de bajas calorías.</desc>
+	</programme>
+	<programme start="20250113200000 +0000" stop="20250113210000 +0000" channel="13 C HD.cl">
+		<title>La ruta del libro : Concepcion</title>
+		<sub-title>Concepcion</sub-title>
+		<desc>Se explora Chile de norte a sur para conocer de cerca su cultura y su identidad a traves de los libros.</desc>
+	</programme>
+	<programme start="20250113210000 +0000" stop="20250113220000 +0000" channel="13 C HD.cl">
+		<title>T13 Digital PM</title>
+		<desc>Programa de análisis acerca de las principales noticias de la jornada. Periodistas en terreno y entrevistas para estar al día con la informacion.</desc>
+	</programme>
+	<programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="13 C HD.cl">
+		<title>Ruta 5 : Inicio de la ruta: Arica centro y cordillera</title>
+		<sub-title>Inicio de la ruta: Arica centro y cordillera</sub-title>
+		<desc>La mejor guía de itinerarios y turística de Chile.</desc>
+		<episode-num system="xmltv_ns">0..</episode-num>
+	</programme>
+	<programme start="20250113230000 +0000" stop="20250113233000 +0000" channel="13 C HD.cl">
+		<title>Hacedores de pan</title>
+		<desc>Paciencia, pasion y mucho Ingenio serán los ingredientes indispensables. En cada encuentro, se realizará una receta de pan.</desc>
+	</programme>
+	<programme start="20250113233000 +0000" stop="20250114000000 +0000" channel="13 C HD.cl">
+		<title>Factor de cambio</title>
+		<desc>Un programa que busca crear conciencia en la poblacion sobre el cuidado del medio ambiente.</desc>
+	</programme>
+	<programme start="20250114000000 +0000" stop="20250114010000 +0000" channel="13 C HD.cl">
+		<title>Only Comparini</title>
+		<desc>Un late show semanal con invitados variados para conversar y analizar, desde una mirada diferente.</desc>
+	</programme>
+	<programme start="20250114010000 +0000" stop="20250114013000 +0000" channel="13 C HD.cl">
+		<title>Secretos de un reportero</title>
+		<desc>Memorias, experiencias dramáticas e historias detrás de las coberturas más impactantes del periodista de guerra y documentalista Jorge Said.</desc>
+	</programme>
+	<programme start="20250114013000 +0000" stop="20250114023000 +0000" channel="13 C HD.cl">
+		<title>Será anunciado</title>
+		<desc>Programacion que se anunciará.</desc>
 	</programme>
 	<programme start="20250111224000 +0000" stop="20250112005500 +0000" channel="AandE HD.cl">
 		<title>Aliados</title>
