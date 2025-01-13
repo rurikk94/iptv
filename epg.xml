@@ -192,6 +192,12 @@
 		<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/24_horas_chile-mediano.png"></icon>
 		<url>http://www.gatotv.com</url>
 	</channel>
+	<channel id="Canal.De.Película.cl">
+		<display-name lang="es">Canal De Película</display-name>
+		<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png"></icon>
+		<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png"></icon>
+		<url>http://www.gatotv.com</url>
+	</channel>
 	<channel id="Canal.MTV.Live.HD.cl">
 		<display-name lang="es">Canal MTV Live HD</display-name>
 		<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mtv_live_hd-mediano.png"></icon>
@@ -19980,6 +19986,168 @@ En Vivo</title>
 	<programme start="20250115230000 +0000" stop="20250116000000 +0000" channel="Canal.24.Horas.(Chile).cl">
 		<title lang="es">24 horas</title>
 		<sub-title lang="es">Deportes</sub-title>
+	</programme>
+	<programme start="20250112074600 +0000" stop="20250112091100 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El pantano de las ánimas</title>
+	</programme>
+	<programme start="20250112091100 +0000" stop="20250112103500 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Alma llanera</title>
+	</programme>
+	<programme start="20250112103500 +0000" stop="20250112120000 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El campeón ciclista</title>
+	</programme>
+	<programme start="20250112120000 +0000" stop="20250112135300 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Se equivoco la cigueña</title>
+	</programme>
+	<programme start="20250112135300 +0000" stop="20250112153000 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Grandes amigos</title>
+	</programme>
+	<programme start="20250112153000 +0000" stop="20250112173600 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El Mártir del Calvario</title>
+	</programme>
+	<programme start="20250112173600 +0000" stop="20250112194900 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El patrullero 777</title>
+	</programme>
+	<programme start="20250112194900 +0000" stop="20250112214300 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Todo un hombre</title>
+	</programme>
+	<programme start="20250112214300 +0000" stop="20250112231700 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Los reyes del volante</title>
+	</programme>
+	<programme start="20250112231700 +0000" stop="20250113010700 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">La mujer marcada</title>
+	</programme>
+	<programme start="20250113010700 +0000" stop="20250113025400 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Diablos en el cielo</title>
+	</programme>
+	<programme start="20250113025400 +0000" stop="20250113051000 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El profe</title>
+	</programme>
+	<programme start="20250113051000 +0000" stop="20250113072000 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Mujeres insumisas</title>
+	</programme>
+	<programme start="20250113072000 +0000" stop="20250113085000 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El tesoro de Morgan</title>
+	</programme>
+	<programme start="20250113085000 +0000" stop="20250113103000 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">La golfa del barrio</title>
+	</programme>
+	<programme start="20250113103000 +0000" stop="20250113120000 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El potro salvaje</title>
+	</programme>
+	<programme start="20250113120000 +0000" stop="20250113134100 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Yo no me caso compadre</title>
+	</programme>
+	<programme start="20250113134100 +0000" stop="20250113155700 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El profe</title>
+	</programme>
+	<programme start="20250113155700 +0000" stop="20250113174200 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El diablo, el santo y el tonto</title>
+	</programme>
+	<programme start="20250113174200 +0000" stop="20250113193200 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Cuando los hijos se van</title>
+	</programme>
+	<programme start="20250113193200 +0000" stop="20250113210600 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Conexión Criminal</title>
+	</programme>
+	<programme start="20250113210600 +0000" stop="20250113224100 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Triste recuerdo</title>
+	</programme>
+	<programme start="20250113224100 +0000" stop="20250114000900 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Los desalmados</title>
+	</programme>
+	<programme start="20250114000900 +0000" stop="20250114020200 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El Fugitivo</title>
+	</programme>
+	<programme start="20250114020200 +0000" stop="20250114041500 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">La Ley Del Monte</title>
+	</programme>
+	<programme start="20250114041500 +0000" stop="20250114055600 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Persecusión y muerte</title>
+	</programme>
+	<programme start="20250114055600 +0000" stop="20250114075000 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El rey de la vecindad</title>
+	</programme>
+	<programme start="20250114075000 +0000" stop="20250114091400 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">La justicia tiene doce años</title>
+	</programme>
+	<programme start="20250114091400 +0000" stop="20250114103600 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">La Ley de las Pistolas</title>
+	</programme>
+	<programme start="20250114103600 +0000" stop="20250114120000 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Mi querido capitán</title>
+	</programme>
+	<programme start="20250114120000 +0000" stop="20250114134100 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Yo el aventurero</title>
+	</programme>
+	<programme start="20250114134100 +0000" stop="20250114152200 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El revoltoso</title>
+	</programme>
+	<programme start="20250114152200 +0000" stop="20250114172300 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">La maestra inolvidable</title>
+	</programme>
+	<programme start="20250114172300 +0000" stop="20250114191500 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Necesito dinero</title>
+	</programme>
+	<programme start="20250114191500 +0000" stop="20250114205400 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Secreto de confesión</title>
+	</programme>
+	<programme start="20250114205400 +0000" stop="20250114223400 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Ambiciosa</title>
+	</programme>
+	<programme start="20250114223400 +0000" stop="20250115004000 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Casa de Vecindad</title>
+	</programme>
+	<programme start="20250115004000 +0000" stop="20250115021600 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Como gallos de pelea</title>
+	</programme>
+	<programme start="20250115021600 +0000" stop="20250115035800 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El hijo del palenque</title>
+	</programme>
+	<programme start="20250115035800 +0000" stop="20250115054700 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El desconocido</title>
+	</programme>
+	<programme start="20250115054700 +0000" stop="20250115071800 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Escuela de valientes</title>
+	</programme>
+	<programme start="20250115071800 +0000" stop="20250115090400 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Días de combate</title>
+	</programme>
+	<programme start="20250115090400 +0000" stop="20250115103200 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Pilotos de combate</title>
+	</programme>
+	<programme start="20250115103200 +0000" stop="20250115120000 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Los desalmados</title>
+	</programme>
+	<programme start="20250115120000 +0000" stop="20250115134000 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Los cinco halcones</title>
+	</programme>
+	<programme start="20250115134000 +0000" stop="20250115151400 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Cinco en la cárcel</title>
+	</programme>
+	<programme start="20250115151400 +0000" stop="20250115171800 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Dos Tipos De Cuidado</title>
+	</programme>
+	<programme start="20250115171800 +0000" stop="20250115190500 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Octagón y Máscara sagrada</title>
+	</programme>
+	<programme start="20250115190500 +0000" stop="20250115204600 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Lástima de ropa</title>
+	</programme>
+	<programme start="20250115204600 +0000" stop="20250115224800 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">una papa sin catsup</title>
+	</programme>
+	<programme start="20250115224800 +0000" stop="20250116002900 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">El tragabalas</title>
+	</programme>
+	<programme start="20250116002900 +0000" stop="20250116021100 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Cayó de la gloria el diablo</title>
+	</programme>
+	<programme start="20250116021100 +0000" stop="20250116035300 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Macario</title>
+	</programme>
+	<programme start="20250116035300 +0000" stop="20250116060300 +0000" channel="Canal.De.Película.cl">
+		<title lang="es">Los albañiles</title>
 	</programme>
 	<programme start="20250112070000 +0000" stop="20250112083000 +0000" channel="Canal.MTV.Live.HD.cl">
 		<title lang="es">Bruno Mars x Eminem x Coldplay</title>

@@ -1292,15 +1292,15 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58754
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1904
 #EXTINF:-1 tvg-id="Canal.Cinemax.(México).mx" tvg-name="CINE | CINEMAX HD (CLARO)" tvg-logo="http://tv.streamid.tv:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="CINE", CINE | CINEMAX HD (CLARO)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58755
-#EXTINF:-1 tvg-id="" tvg-name="CINE | DE PELICULA (lt)" tvg-logo="http://tv.streamid.ga:8080/images/da70a8061beae45841b15f7ea17e3662.png" group-title="CINE", CINE | DE PELICULA (lt)
+#EXTINF:-1 tvg-id="Canal.De.Película.cl" tvg-name="CINE | DE PELICULA (lt)" tvg-logo="http://tv.streamid.ga:8080/images/da70a8061beae45841b15f7ea17e3662.png" group-title="CINE", CINE | DE PELICULA (lt)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/4880
-#EXTINF:-1 tvg-id="" tvg-name="CINE | De Pelicula Plus FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE", CINE | De Pelicula Plus FHD (P)
+#EXTINF:-1 tvg-id="Canal.De.Película.cl" tvg-name="CINE | De Pelicula Plus FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE", CINE | De Pelicula Plus FHD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1905
-#EXTINF:-1 tvg-id="" tvg-name="CINE | De Pelicula SD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE", CINE | De Pelicula SD (P)
+#EXTINF:-1 tvg-id="Canal.De.Película.cl" tvg-name="CINE | De Pelicula SD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE", CINE | De Pelicula SD (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1906
-#EXTINF:-1 tvg-id="" tvg-name="CINE | DE PELICULAS HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/da70a8061beae45841b15f7ea17e3662.png" group-title="CINE", CINE | DE PELICULAS HD (mv)
+#EXTINF:-1 tvg-id="Canal.De.Película.cl" tvg-name="CINE | DE PELICULAS HD (mv)" tvg-logo="http://tv.streamid.tv:8080/images/da70a8061beae45841b15f7ea17e3662.png" group-title="CINE", CINE | DE PELICULAS HD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58756
-#EXTINF:-1 tvg-id="" tvg-name="CINE | DE PELICULAS PLUS* (mv)" tvg-logo="http://tv.streamid.tv:8080/images/da70a8061beae45841b15f7ea17e3662.png" group-title="CINE", CINE | DE PELICULAS PLUS* (mv)
+#EXTINF:-1 tvg-id="Canal.De.Película.cl" tvg-name="CINE | DE PELICULAS PLUS* (mv)" tvg-logo="http://tv.streamid.tv:8080/images/da70a8061beae45841b15f7ea17e3662.png" group-title="CINE", CINE | DE PELICULAS PLUS* (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58757
 #EXTINF:-1 tvg-id="DHE HD.cl" tvg-name="CINE | DHE FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/447ef96542382d5a195c45fbbfa552e2.png" group-title="CINE", CINE | DHE FHD (mv)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58758
