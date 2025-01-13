@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1920x1080
-http://tv.streamid.tv:8080/live/SergioMora93838/xgnqwAxcZi/35555.m3u8
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/35555
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
-http://tv.streamid.tv:8080/live/SergioMora93838/xgnqwAxcZi/752.m3u8
+http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/752
