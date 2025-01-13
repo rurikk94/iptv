@@ -3,6 +3,7 @@ import os
 import gzip
 from pprint import pprint
 import shutil
+import concurrent.futures
 
 import requests
 import xmltodict
@@ -44,8 +45,7 @@ if not os.path.exists(folder_path):
     os.makedirs(folder_path)
     print(f"Carpeta '{folder_path}' creada.")
 
-print("\nObteniendo EPGS...")
-for name, url in urls:
+def procesar_archivo(url, name):
     extension = obtener_extension(name)
     filename = f"{folder_path}/{name}"
 
@@ -58,23 +58,25 @@ for name, url in urls:
         if obtener_extension(filename) == '.gz':
             filename = descomprimir(filename)
 
-        xmls.append(filename)
+        return filename
     else:
         file = download_file(url, filename, extension)
 
         if obtener_extension(file) == '.gz':
             file = descomprimir(file)
-        xmls.append(file)
+        return file
 
+print("\nObteniendo EPGS...")
+with concurrent.futures.ThreadPoolExecutor() as executor:
+    futures = [executor.submit(procesar_archivo, url, name) for name, url in urls]
+    for future in concurrent.futures.as_completed(futures):
+        xmls.append(future.result())
 
 canales = []
 programas = []
 
-print("\nRevisando archivos...")
-for filename in xmls:
-
+def revisar_archivo(filename):
     print("Revisando archivo", filename)
-
 
     with open(filename, 'r', encoding='utf-8') as file:
         data = file.read()
@@ -88,12 +90,12 @@ for filename in xmls:
         xml_programas_filtrados = [p for p in xml_programas if p["@channel"] in canales_encontrados]
 
         if len(xml_canales_filtrados) == 0:
-            continue
+            return [], []
 
         if len(xml_programas_filtrados) == 0:
             print("No se han encontrado programas para los canales encontrados")
             print(canales_encontrados)
-            continue
+            return [], []
 
         for c in xml_canales_filtrados:
             flag = False
@@ -104,13 +106,10 @@ for filename in xmls:
             if not flag:
                 print(f"No se han encontrado programas para el canal {c['@id']}")
 
-        canales += xml_canales_filtrados
-        programas += xml_programas_filtrados
-
         ids_en_xml_canales = {canal["@id"] for canal in xml_canales}
-        incluir = [id_str for id_str in incluir if id_str not in ids_en_xml_canales]
+        incluir[:] = [id_str for id_str in incluir if id_str not in ids_en_xml_canales]
 
-        for programa in programas:
+        for programa in xml_programas_filtrados:
             start_time_str = programa["@start"]
             start_time = datetime.strptime(start_time_str, "%Y%m%d%H%M%S %z")
             start_time_utc = start_time.astimezone(timezone.utc)
@@ -121,7 +120,15 @@ for filename in xmls:
             stop_time_utc = stop_time.astimezone(timezone.utc)
             programa["@stop"] = stop_time_utc.strftime("%Y%m%d%H%M%S %z")
 
+        return xml_canales_filtrados, xml_programas_filtrados
 
+print("\nRevisando archivos...")
+with concurrent.futures.ThreadPoolExecutor() as executor:
+    futures = [executor.submit(revisar_archivo, filename) for filename in xmls]
+    for future in concurrent.futures.as_completed(futures):
+        canales_filtrados, programas_filtrados = future.result()
+        canales += canales_filtrados
+        programas += programas_filtrados
 
         programacion = {
             'tv': {
