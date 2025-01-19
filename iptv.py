@@ -1,3 +1,4 @@
+import canal247
 from datetime import datetime, timezone
 import os
 import gzip
@@ -5,7 +6,6 @@ from pprint import pprint
 import shutil
 import concurrent.futures
 
-import requests
 import xmltodict
 
 from epgs import urls
@@ -23,7 +23,6 @@ def obtener_extension(filename):
     return os.path.splitext(filename)[1]
 
 
-fechahoraactual = datetime.now().strftime("%Y%m%d%H%M%S")
 
 tvg_ids_lista = extract_tvg_ids(lista_filename)
 canales_no_se_usan = [tvg_id for tvg_id in incluir if tvg_id not in tvg_ids_lista]

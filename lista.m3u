@@ -1858,7 +1858,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/72957
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/99917
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Numberblocks" tvg-logo="http://tv.streamid.tv:8080/images/cc664cb84d6b9c4db76db6bd5a730c8a.png" group-title="BABY PLAY ", 24/7 Numberblocks
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/181935
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Paw Patrol" tvg-logo="http://tv.streamid.tv:8080/images/c11ef9af011861d6b12b8120b9badfb2.png" group-title="BABY PLAY ", 24/7 Paw Patrol
+#EXTINF:-1 tvg-id="paw.patrol.247" tvg-name="24/7 Paw Patrol" tvg-logo="http://tv.streamid.tv:8080/images/c11ef9af011861d6b12b8120b9badfb2.png" group-title="BABY PLAY ", 24/7 Paw Patrol
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/99984
 #EXTINF:-1 tvg-id="" tvg-name="24/7 PEPPA PIG" tvg-logo="http://tv.streamid.tv:8080/images/6e9a4d130a9b316e9201238844dd5124.png" group-title="BABY PLAY ", 24/7 PEPPA PIG
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/59624
@@ -2288,7 +2288,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/117802
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/117825
 #EXTINF:-1 tvg-id="" tvg-name="Doug" tvg-logo="http://tv.streamid.tv:8080/images/94ea3ba47e12b13803d4e197283472de.png" group-title="CANALES 24 HRS", Doug
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/117826
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="http://tv.streamid.tv:8080/images/d77d5e503ad1439f585ac494268b351b.png" group-title="CANALES 24 HRS", Dragon Ball
+#EXTINF:-1 tvg-id="Dragon.Ball" tvg-name="Dragon Ball" tvg-logo="http://tv.streamid.tv:8080/images/d77d5e503ad1439f585ac494268b351b.png" group-title="CANALES 24 HRS", Dragon Ball
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/117827
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball 2" tvg-logo="http://tv.streamid.tv:8080/images/ea95a7d80f83fc61f9f153f2638ea853.png" group-title="CANALES 24 HRS", Dragon Ball 2
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/117828
