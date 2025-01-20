@@ -1,12 +1,16 @@
 import csv
 from datetime import datetime, timezone, timedelta
 from dataclasses import dataclass, field, fields
+import os
 from typing import List, Optional, Type, TypeVar
 import requests
 import asyncio
 import aiohttp
 import xmltodict
-
+folder_path = "downloads"
+if not os.path.exists(folder_path):
+    os.makedirs(folder_path)
+    print(f"Carpeta '{folder_path}' creada.")
 # paw.patrol.247, 57532, S02E03, 20250119141500 -03:00
 TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwYTcxNWQ3MzdlZThkNWQxOTFjMWMxYjljMzYyN2IyYyIsIm5iZiI6MTQ1NDM4NjgxOS4yMjgsInN1YiI6IjU2YjAyZTgyOTI1MTQxNTZiZTAwMDM4OCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.l133MspoFtkD7W6Xj7_XGSQLXKFOcbJtrP6zflS05iY"
 
@@ -175,5 +179,5 @@ epg = {
         'programme': programas
     }
 }
-EPG_FILE_OUTPUT = "downloads/dragon_ball_epg.xml"
+EPG_FILE_OUTPUT = f"{folder_path}/dragon_ball_epg.xml"
 xmltodict.unparse(epg, output=open(EPG_FILE_OUTPUT, 'w', encoding="utf-8"), pretty=True)

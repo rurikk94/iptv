@@ -1,21 +1,13 @@
-urls = [
-    ("epg_ripper_MX1.xml.gz", "https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"),
-    ("epg_ripper_CO1.xml.gz", "https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz"),
-    ("epg_ripper_CL1.xml.gz", "https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz"),
-    ("epg_ripper_UY1.xml.gz", "https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz"),
-    ("epg_ripper_US1.xml.gz", "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"),
-    ("epg_ripper_SV1.xml.gz", "https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz"),
-    ("epg_ripper_AR1.xml.gz", "https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"),
-    ("epg_ripper_ES1.xml.gz", "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"),
-    # ("jmQcr6fwJB.xml", "https://www.open-epg.com/generate/jmQcr6fwJB.xml"),
-    ("mexico2.xml", "https://www.open-epg.com/files/mexico2.xml"),
-    ("argentina1.xml", "https://www.open-epg.com/files/argentina1.xml"),
-    ("argentina2.xml", "https://www.open-epg.com/files/argentina2.xml"),
-    ("chile1.xml", "https://www.open-epg.com/files/chile1.xml"),
-    ("chile2.xml", "https://www.open-epg.com/files/chile2.xml"),
-    ("colombia2.xml", "https://www.open-epg.com/files/colombia2.xml"),
-    ("spain1.xml", "https://www.open-epg.com/files/spain1.xml"),
-    ("uk1.xml", "https://www.open-epg.com/files/unitedkingdom1.xml"),
-    ("usa4.xml", "https://www.open-epg.com/files/unitedstates4.xml"),
-    ("uruguay2.xml", "https://www.open-epg.com/files/uruguaypremium2.xml"),
-]
+import csv
+
+def leer_epgs_csv(filepath):
+    epgs_dict = []
+    with open(filepath, mode='r', encoding='utf-8') as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            epgs_dict.append((row['filename'], row['url']))
+    return epgs_dict
+
+# Ejemplo de uso
+urls = leer_epgs_csv('epgs.csv')
+# print(urls)
