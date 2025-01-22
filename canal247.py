@@ -3,7 +3,6 @@ from datetime import datetime, timezone, timedelta
 from dataclasses import dataclass, field, fields
 import os
 from typing import List, Optional, Type, TypeVar
-import requests
 import asyncio
 import aiohttp
 import xmltodict
@@ -64,7 +63,7 @@ def obtener_canales247():
     with open(file, mode='r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for row in reader:
-            canales.append((row['name'].strip(), row['tmdb-id'].strip(), row['episode'].strip(), row['time'].strip()))
+            canales.append((row['name'].strip(), row['tmdb-id'].strip(), row['episode'].strip(), row['time'].strip(), row['from'].strip(), row['until'].strip()))
     return canales
 
 async def obtener_show_info_tmdb_async(tvshow, session):
@@ -86,7 +85,7 @@ async def obtener_info_canales(canales):
         shows = []
         for canal in canales:
             tasks = []
-            name, tmdb_id, episode, time = canal
+            name, tmdb_id, episode, time, desde, hasta = canal
             time = datetime.strptime(time, "%Y%m%d%H%M%S %z")
             episode = episode.strip("S")
             season, episode = episode.split("E")
@@ -97,6 +96,8 @@ async def obtener_info_canales(canales):
             show, episode = results[1], results[0]
             show["episode"] = episode
             show["start_at"] = time
+            show["desde"] = desde
+            show["hasta"] = hasta
             shows.append(show)
         return shows
 
@@ -115,7 +116,9 @@ for r in results:
         "episodes": show_info["number_of_episodes"],
         "episode": (season, episode),
         "start_at": show_info["start_at"],
-        "info": show_info
+        "info": show_info,
+        "desde": show_info["desde"],
+        "hasta": show_info["hasta"],
     }
 
 hasta = datetime.now(tz=timezone.utc) + timedelta(days=2)
@@ -129,9 +132,26 @@ async def obtener_lista_episodes(shows: dict):
             for season, count in episodes:
                 for i in range(1, count + 1):
                     tasks.append(obtener_episode_info_tmdb_async(tmdb_id, season, i, session))
-
+            tasks = tasks[int(v["desde"])-1:int(v["hasta"])-1]
             results = await asyncio.gather(*tasks)
-            v["episodes"] = results
+            tiempo_pasado: timedelta = datetime.now(tz=timezone.utc) + timedelta(days=3) - v["start_at"]
+            minutos = tiempo_pasado.total_seconds() / 60
+            capitulos_dados = 0
+            i = 0
+            hasta = len(results)
+            while True:
+                episode = results[i]
+                if minutos >= episode["runtime"]:
+                    minutos -= episode["runtime"]
+                    capitulos_dados += 1
+                    i += 1
+                    if i == hasta:
+                        i = 0
+                else:
+                    break
+            multiplicador = capitulos_dados//len(results) + 1
+            episodes = results * multiplicador
+            v["episodes"] = episodes
     return shows
 
 list_episodes = asyncio.run(obtener_lista_episodes(shows))
