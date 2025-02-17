@@ -75,51 +75,54 @@ canales = []
 programas = []
 
 def revisar_archivo(filename):
-    print("Revisando archivo", filename)
+    try:
+        print("Revisando archivo", filename)
+        with open(filename, 'r', encoding='utf-8') as file:
+            data = file.read()
 
-    with open(filename, 'r', encoding='utf-8') as file:
-        data = file.read()
+            xml_dict = xmltodict.parse(data)
+            xml_canales = xml_dict["tv"]["channel"]
+            xml_programas = xml_dict["tv"]["programme"]
 
-        xml_dict = xmltodict.parse(data)
-        xml_canales = xml_dict["tv"]["channel"]
-        xml_programas = xml_dict["tv"]["programme"]
+            xml_canales_filtrados = [canal for canal in xml_canales if canal["@id"] in incluir]
+            canales_encontrados = [canal["@id"] for canal in xml_canales_filtrados]
+            xml_programas_filtrados = [p for p in xml_programas if p["@channel"] in canales_encontrados]
 
-        xml_canales_filtrados = [canal for canal in xml_canales if canal["@id"] in incluir]
-        canales_encontrados = [canal["@id"] for canal in xml_canales_filtrados]
-        xml_programas_filtrados = [p for p in xml_programas if p["@channel"] in canales_encontrados]
+            if len(xml_canales_filtrados) == 0:
+                return [], []
 
-        if len(xml_canales_filtrados) == 0:
-            return [], []
+            if len(xml_programas_filtrados) == 0:
+                print("No se han encontrado programas para los canales encontrados")
+                print(canales_encontrados)
+                return [], []
 
-        if len(xml_programas_filtrados) == 0:
-            print("No se han encontrado programas para los canales encontrados")
-            print(canales_encontrados)
-            return [], []
+            for c in xml_canales_filtrados:
+                flag = False
+                for p in xml_programas_filtrados:
+                    if p["@channel"] == c["@id"]:
+                        flag = True
+                        break
+                if not flag:
+                    print(f"No se han encontrado programas para el canal {c['@id']}")
 
-        for c in xml_canales_filtrados:
-            flag = False
-            for p in xml_programas_filtrados:
-                if p["@channel"] == c["@id"]:
-                    flag = True
-                    break
-            if not flag:
-                print(f"No se han encontrado programas para el canal {c['@id']}")
+            ids_en_xml_canales = {canal["@id"] for canal in xml_canales}
+            incluir[:] = [id_str for id_str in incluir if id_str not in ids_en_xml_canales]
 
-        ids_en_xml_canales = {canal["@id"] for canal in xml_canales}
-        incluir[:] = [id_str for id_str in incluir if id_str not in ids_en_xml_canales]
+            for programa in xml_programas_filtrados:
+                start_time_str = programa["@start"]
+                start_time = datetime.strptime(start_time_str, "%Y%m%d%H%M%S %z")
+                start_time_utc = start_time.astimezone(timezone.utc)
+                programa["@start"] = start_time_utc.strftime("%Y%m%d%H%M%S %z")
 
-        for programa in xml_programas_filtrados:
-            start_time_str = programa["@start"]
-            start_time = datetime.strptime(start_time_str, "%Y%m%d%H%M%S %z")
-            start_time_utc = start_time.astimezone(timezone.utc)
-            programa["@start"] = start_time_utc.strftime("%Y%m%d%H%M%S %z")
+                stop_time_str = programa["@stop"]
+                stop_time = datetime.strptime(stop_time_str, "%Y%m%d%H%M%S %z")
+                stop_time_utc = stop_time.astimezone(timezone.utc)
+                programa["@stop"] = stop_time_utc.strftime("%Y%m%d%H%M%S %z")
 
-            stop_time_str = programa["@stop"]
-            stop_time = datetime.strptime(stop_time_str, "%Y%m%d%H%M%S %z")
-            stop_time_utc = stop_time.astimezone(timezone.utc)
-            programa["@stop"] = stop_time_utc.strftime("%Y%m%d%H%M%S %z")
-
-        return xml_canales_filtrados, xml_programas_filtrados
+            return xml_canales_filtrados, xml_programas_filtrados
+    except Exception as e:
+        print(f"Error al procesar archivo {filename}: {e}")
+        return [], []
 
 print("\nRevisando archivos...")
 with concurrent.futures.ThreadPoolExecutor() as executor:
