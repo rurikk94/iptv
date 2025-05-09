@@ -2,19 +2,17 @@
 
 #EXTINF:-1 tvg-id="13 C HD.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="Chile Adaptativo",13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="http://tv.streamid.tv:8080/images/9853b1db0a21d9bd7c27cbcf20e47c52.png" group-title="Chile Adaptativo",TVN
-https://raw.githubusercontent.com/rurikk94/iptv/refs/heads/main/tvn.m3u8
 #EXTINF:-1 tvg-id="AandE HD.cl" tvg-name="A&E HD" tvg-logo="" group-title="TEST CANALES", A&E HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228213
 #EXTINF:-1 tvg-id="AandE HD.cl" tvg-name="A&E HD" tvg-logo="" group-title="TEST CANALES", A&E HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228214
-#EXTINF:-1 tvg-id="[CL] AMC.cl" tvg-name="AMC HD" tvg-logo="" group-title="TEST CANALES", AMC HD
+#EXTINF:-1 tvg-id="AMC.cl" tvg-name="AMC HD" tvg-logo="" group-title="TEST CANALES", AMC HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228215
 #EXTINF:-1 tvg-id="" tvg-name="ATRES SERIES HD" tvg-logo="" group-title="TEST CANALES", ATRES SERIES HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228216
-#EXTINF:-1 tvg-id="[CL] AXN.cl" tvg-name="AXN HD" tvg-logo="" group-title="TEST CANALES", AXN HD
+#EXTINF:-1 tvg-id="AXN.cl" tvg-name="AXN HD" tvg-logo="" group-title="TEST CANALES", AXN HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228217
-#EXTINF:-1 tvg-id="[CL] AXN.cl" tvg-name="AXN HD" tvg-logo="" group-title="TEST CANALES", AXN HD
+#EXTINF:-1 tvg-id="AXN.cl" tvg-name="AXN HD" tvg-logo="" group-title="TEST CANALES", AXN HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228218
 #EXTINF:-1 tvg-id="" tvg-name="Adult Swim HD" tvg-logo="" group-title="TEST CANALES", Adult Swim HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228219
@@ -122,15 +120,15 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228269
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228270
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama HD" tvg-logo="" group-title="TEST CANALES", Kanal D Drama HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228271
-#EXTINF:-1 tvg-id="" tvg-name="La Red HD" tvg-logo="" group-title="TEST CANALES", La Red HD
+#EXTINF:-1 tvg-id="La Red.cl" tvg-name="La Red HD" tvg-logo="" group-title="TEST CANALES", La Red HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228272
-#EXTINF:-1 tvg-id="" tvg-name="La Red HD" tvg-logo="" group-title="TEST CANALES", La Red HD
+#EXTINF:-1 tvg-id="La Red.cl" tvg-name="La Red HD" tvg-logo="" group-title="TEST CANALES", La Red HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228273
 #EXTINF:-1 tvg-id="" tvg-name="Las Estrellas HD" tvg-logo="" group-title="TEST CANALES", Las Estrellas HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228274
 #EXTINF:-1 tvg-id="Love.Nature.co" tvg-name="Love Nature HD" tvg-logo="" group-title="TEST CANALES", Love Nature HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228275
-#EXTINF:-1 tvg-id="[CL] Mega.cl" tvg-name="MEGA HD" tvg-logo="" group-title="TEST CANALES", MEGA HD
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="MEGA HD" tvg-logo="" group-title="TEST CANALES", MEGA HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228276
 #EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="" group-title="TEST CANALES", MTV 00s
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/228277
@@ -374,7 +372,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/47732
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/101210
 #EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN PREMIUM | FHD (LT)" tvg-logo="http://tv.streamid.tv:8080/images/2c0da48d13ac24148b43c496143fb4ab.png" group-title="DEPORTES", DEP| ESPN PREMIUM | FHD (LT)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/58428
-#EXTINF:-1 tvg-id="[CL] FOX Sports.cl" tvg-name="DEP| FOX SPORTS | FHD" tvg-logo="http://tv.streamid.ga:8080/images/824e9433f1419e229c073fbc8063985b.png" group-title="DEPORTES", DEP| FOX SPORTS | FHD
+#EXTINF:-1 tvg-id="FOX Sports.cl" tvg-name="DEP| FOX SPORTS | FHD" tvg-logo="http://tv.streamid.ga:8080/images/824e9433f1419e229c073fbc8063985b.png" group-title="DEPORTES", DEP| FOX SPORTS | FHD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/66269
 #EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx" tvg-name="DEP | FOX SPORTS PREMIUM MX " tvg-logo="http://tv.streamid.tv:8080/images/65a9e03c8d073b256861480f2746ef3f.png" group-title="DEPORTES", DEP | FOX SPORTS PREMIUM MX
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/211012
@@ -448,7 +446,7 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/66293
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/66292
 #EXTINF:-1 tvg-id="" tvg-name="DEP| TUDN | FHD" tvg-logo="http://tv.streamid.tv:8080/images/e6df90ef112b672b846db7b5e708ee7a.png" group-title="DEPORTES", DEP| TUDN | FHD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/66291
-#EXTINF:-1 tvg-id="[CL] TyC Sports.cl" tvg-name="DEP| TYC SPORTS INTERNACIONAL" tvg-logo="" group-title="DEPORTES", DEP| TYC SPORTS INTERNACIONAL
+#EXTINF:-1 tvg-id="TyC Sports.cl" tvg-name="DEP| TYC SPORTS INTERNACIONAL" tvg-logo="" group-title="DEPORTES", DEP| TYC SPORTS INTERNACIONAL
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/177692
 #EXTINF:-1 tvg-id="" tvg-name="DEP| UFC LIVE HD" tvg-logo="http://tv.streamid.tv:8080/images/f4ee9be72dac14cae8d8d2b5e5807430.jpg" group-title="DEPORTES", DEP| UFC LIVE HD
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/595
@@ -838,21 +836,21 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/307
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/1443
 #EXTINF:-1 tvg-id="" tvg-name="CHI | HAGALO USTED MISMO" tvg-logo="http://tv.streamid.tv:8080/images/ca969528c923b7c79b792a146039a3d1.jpg" group-title="CHILE", CHI | HAGALO USTED MISMO
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/35842
-#EXTINF:-1 tvg-id="[CL] La Red.cl" tvg-name="CHI | LA RED | FHD (ENC)" tvg-logo="http://tv.streamid.tv:8080/images/2fc0ff9a4414c577c8e5030d1269a297.png" group-title="CHILE", CHI | LA RED | FHD (ENC)
+#EXTINF:-1 tvg-id="La Red.cl" tvg-name="CHI | LA RED | FHD (ENC)" tvg-logo="http://tv.streamid.tv:8080/images/2fc0ff9a4414c577c8e5030d1269a297.png" group-title="CHILE", CHI | LA RED | FHD (ENC)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/754
-#EXTINF:-1 tvg-id="[CL] La Red.cl" tvg-name="CHI | LA RED | (LT)" tvg-logo="http://tv.streamid.tv:8080/images/2fc0ff9a4414c577c8e5030d1269a297.png" group-title="CHILE", CHI | LA RED | (LT)
+#EXTINF:-1 tvg-id="La Red.cl" tvg-name="CHI | LA RED | (LT)" tvg-logo="http://tv.streamid.tv:8080/images/2fc0ff9a4414c577c8e5030d1269a297.png" group-title="CHILE", CHI | LA RED | (LT)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/55755
-#EXTINF:-1 tvg-id="[CL] La Red.cl" tvg-name="CHI | LA RED HD | 2mb" tvg-logo="http://tv.streamid.tv:8080/images/2fc0ff9a4414c577c8e5030d1269a297.png" group-title="CHILE", CHI | LA RED HD | 2mb
+#EXTINF:-1 tvg-id="La Red.cl" tvg-name="CHI | LA RED HD | 2mb" tvg-logo="http://tv.streamid.tv:8080/images/2fc0ff9a4414c577c8e5030d1269a297.png" group-title="CHILE", CHI | LA RED HD | 2mb
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/60112
-#EXTINF:-1 tvg-id="[CL] Mega.cl" tvg-name="CHI | MEGA |   FHD | (E) " tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA |   FHD | (E)
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CHI | MEGA |   FHD | (E) " tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA |   FHD | (E)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/734
-#EXTINF:-1 tvg-id="[CL] Mega.cl" tvg-name="CHI | MEGA |   HQ (E)" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA |   HQ (E)
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CHI | MEGA |   HQ (E)" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA |   HQ (E)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/733
-#EXTINF:-1 tvg-id="[CL] Mega.cl" tvg-name="CHI | MEGA |  2mb" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA |  2mb
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CHI | MEGA |  2mb" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA |  2mb
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/60113
-#EXTINF:-1 tvg-id="[CL] Mega.cl" tvg-name="CHI | MEGA | (LT)" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA | (LT)
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CHI | MEGA | (LT)" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA | (LT)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/305
-#EXTINF:-1 tvg-id="[CL] Mega.cl" tvg-name="CHI | MEGA | (P)" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA | (P)
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CHI | MEGA | (P)" tvg-logo="http://tv.streamid.tv:8080/images/f96169140f2cb7433caf9e5113e594a3.png" group-title="CHILE", CHI | MEGA | (P)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/27294
 #EXTINF:-1 tvg-id="" tvg-name="CHI | MEGA 2" tvg-logo="http://tv.streamid.tv:8080/images/147d9dad79d1c00e7383e907d1e2dc46.png" group-title="CHILE", CHI | MEGA 2
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198155
@@ -1632,11 +1630,11 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199771
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198348
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD.mx" tvg-name="CUL• DISCOVERY CHANNEL (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/c4458ea2745d9567050efb601b5dcba0.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199789
-#EXTINF:-1 tvg-id="[CL] Discovery Channel.cl" tvg-name="CUL• DISCOVERY CHANNEL (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/c4458ea2745d9567050efb601b5dcba0.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL (HD) »2«
+#EXTINF:-1 tvg-id="Discovery Channel.cl" tvg-name="CUL• DISCOVERY CHANNEL (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/c4458ea2745d9567050efb601b5dcba0.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199790
-#EXTINF:-1 tvg-id="[CL] Discovery Channel.cl" tvg-name="CUL• DISCOVERY CHANNEL (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/c4458ea2745d9567050efb601b5dcba0.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL (HD) »3«
+#EXTINF:-1 tvg-id="Discovery Channel.cl" tvg-name="CUL• DISCOVERY CHANNEL (HD) »3«" tvg-logo="http://tv.streamid.tv:8080/images/c4458ea2745d9567050efb601b5dcba0.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL (HD) »3«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199791
-#EXTINF:-1 tvg-id="[CL] Discovery Channel.cl" tvg-name="CUL• DISCOVERY CHANNEL ᴴᴰ (UP)" tvg-logo="http://tv.streamid.tv:8080/images/b0944b48d477f11a1b2427a431137ecb.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL ᴴᴰ (UP)
+#EXTINF:-1 tvg-id="Discovery Channel.cl" tvg-name="CUL• DISCOVERY CHANNEL ᴴᴰ (UP)" tvg-logo="http://tv.streamid.tv:8080/images/b0944b48d477f11a1b2427a431137ecb.png" group-title="CULTURA", CUL• DISCOVERY CHANNEL ᴴᴰ (UP)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/198349
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY CIVILIZATION (HD)" tvg-logo="http://tv.streamid.tv:8080/images/e76b2d4b1a7471a4382aac6ef4ed7a81.png" group-title="CULTURA", CUL• DISCOVERY CIVILIZATION (HD)
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199786
@@ -1670,9 +1668,9 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199806
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199807
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE.ar" tvg-name="CUL• DISCOVERY SCIENCE (HD) »4«" tvg-logo="http://tv.streamid.tv:8080/images/6f8aec527f2c16d4c0e55a951a9559f4.png" group-title="CULTURA", CUL• DISCOVERY SCIENCE (HD) »4«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199808
-#EXTINF:-1 tvg-id="[CL] Discovery Theater.cl" tvg-name="CUL• DISCOVERY THEATER (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/c9792312c79d86e472089df952b79cab.png" group-title="CULTURA", CUL• DISCOVERY THEATER (HD) »1«
+#EXTINF:-1 tvg-id="Discovery Theater.cl" tvg-name="CUL• DISCOVERY THEATER (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/c9792312c79d86e472089df952b79cab.png" group-title="CULTURA", CUL• DISCOVERY THEATER (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199787
-#EXTINF:-1 tvg-id="[CL] Discovery Theater.cl" tvg-name="CUL• DISCOVERY THEATER (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/c9792312c79d86e472089df952b79cab.png" group-title="CULTURA", CUL• DISCOVERY THEATER (HD) »2«
+#EXTINF:-1 tvg-id="Discovery Theater.cl" tvg-name="CUL• DISCOVERY THEATER (HD) »2«" tvg-logo="http://tv.streamid.tv:8080/images/c9792312c79d86e472089df952b79cab.png" group-title="CULTURA", CUL• DISCOVERY THEATER (HD) »2«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199788
 #EXTINF:-1 tvg-id="DISCOVERY TURBO.cl" tvg-name="CUL• DISCOVERY TURBO (HD) »1«" tvg-logo="http://tv.streamid.tv:8080/images/30936f1f19310f547c8311ef00c7a9b6.png" group-title="CULTURA", CUL• DISCOVERY TURBO (HD) »1«
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/199792
